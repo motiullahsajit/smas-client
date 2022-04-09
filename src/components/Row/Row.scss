@@ -1,0 +1,31 @@
+.row {
+  color: white;
+  margin-left: 20px;
+}
+
+.row__posters {
+  display: flex;
+  overflow-y: hidden;
+  overflow-x: scroll;
+  padding: 20px;
+}
+
+.row__posters::-webkit-scrollbar {
+  background: #4d4949;
+  height: 0.2rem;
+}
+
+.row__posters::-webkit-scrollbar-thumb {
+  background: rgb(204, 8, 8);
+}
+
+.row__posters::-webkit-scrollbar-thumb:hover {
+  scroll-behavior: auto;
+  background: rgb(255, 2, 2);
+}
+
+@media screen and (max-width: 740px) {
+  .row__posters::-webkit-scrollbar {
+    display: none;
+  }
+}

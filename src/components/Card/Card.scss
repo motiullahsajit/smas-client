@@ -1,0 +1,16 @@
+.row__poster {
+  height: 250px;
+  object-fit: content;
+  margin: 0px 6px;
+  transition: transform 450ms;
+}
+
+.row__poster img {
+  max-width: 200px;
+  height: 100%;
+}
+
+.row__poster:hover {
+  transform: scale(1.08);
+  opacity: 1;
+}
