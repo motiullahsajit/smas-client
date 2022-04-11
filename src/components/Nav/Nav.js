@@ -1,10 +1,13 @@
 import React, { useEffect, useState } from 'react';
+import { useNavigate } from "react-router-dom";
 
 import Row from '../Row/Row';
 import allData from '../Data/allData.json'
 import './Nav.scss';
+import AccountMenu from './Menu';
 
 function Nav() {
+  const navigate = useNavigate();
   const [show, handleShow] = useState(false);
   const [results, setResults] = useState({});
   const [showBox, setShowBox] = useState(false);
@@ -39,13 +42,17 @@ function Nav() {
     }
   }
 
-
   const handleClear = () => {
     setShowBox(false)
     setShowResults(false)
     setShowNoResults(false)
     setResults({})
   }
+
+  const navigateTo = () => {
+    navigate(`/`)
+  }
+
 
   useEffect(() => {
     window.addEventListener("scroll", transitionNavBar);
@@ -56,16 +63,24 @@ function Nav() {
   return (
     <nav className={`nav ${show && 'nav__black'}`}>
       <div className="nav__contents">
-        <h2>SMAS</h2>
+        <h2 onClick={navigateTo}>SMAS</h2>
         <div className='searchbox'>
-          <input onClick={() => setShowBox(true)} onChange={(e) => onChangeHandler(e)} type="text" placeholder="Search ...." />
-          <img className='nav__avatar' src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Netflix-avatar.png" alt="" />
+          <input onClick={() => {
+            setShowBox(true)
+            setLodder(true)
+          }} onChange={(e) => onChangeHandler(e)} type="text" placeholder="Search ...." />
+          <AccountMenu />
+
+
         </div>
       </div>
       {
-        showBox && <div className='searchresults'>
-          <button onClick={handleClear}>x</button>
-          {lodder && <p>Loading</p>}
+        showBox &&
+        <div className='searchresults'>
+          <div className='search_cross'>
+            <button onClick={handleClear}>x</button>
+          </div>
+          {lodder && <p>Search...</p>}
           {showNoResults && <p>No Results Found</p>}
           {showResults && <Row title='Results Found' data={results} type={"search"} />}
         </div>

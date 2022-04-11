@@ -14,27 +14,31 @@
   display: flex;
   justify-content: center;
   color: #fff;
+  p {
+    font-size: 0.85rem;
+  }
   .form {
-    width: 19rem;
-    height: 35rem;
+    width: 21.5rem;
+    height: 40rem;
     background-color: rgba(0, 0, 0, 0.9);
     padding: 2.7rem 3.5rem 0rem 3.5rem;
     border-radius: 0.4rem;
     @media screen and (max-width: 740px) {
       width: 85%;
       padding: 1.3rem;
-      height: 28rem;
+      height: 35rem;
     }
   }
-  .form_heading {
+
+  .sub_form_heading {
     color: #fff;
-    font-size: 2.3rem;
+    font-size: 2rem;
     color: #e50914;
     font-weight: 700;
-    margin-bottom: 1.8rem;
+    margin-bottom: 1.4rem;
     margin-top: 0;
     @media screen and (max-width: 740px) {
-      font-size: 1.8rem;
+      font-size: 1.7rem;
     }
   }
 
@@ -64,13 +68,6 @@
   }
 }
 
-.text_brand {
+.highlight {
   color: #e50914;
-  font-weight: 700;
-  cursor: pointer;
-}
-
-.text_error {
-  color: #e50914;
-  font-size: 12px;
 }

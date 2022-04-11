@@ -8,6 +8,7 @@ const Card = ({ data }) => {
   const viewDetails = (type, name) => {
     navigate(`/series/${type}/${name}`)
   }
+
   return (
     <>
       {

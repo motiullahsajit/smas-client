@@ -15,7 +15,8 @@
   align-items: center;
   h2 {
     color: rgb(255, 2, 2);
-    padding-left: 20px;
+    padding: 0px 20px;
+    cursor: pointer;
   }
 }
 
@@ -33,6 +34,7 @@
   width: 25rem;
   display: flex;
   justify-content: space-evenly;
+  align-items: center;
   input {
     width: 60%;
     background: rgba(51, 51, 51, 0.87);
@@ -48,4 +50,21 @@
 .searchresults {
   height: 448px;
   background: rgba(51, 51, 51, 0.87);
+  p {
+    text-align: center;
+    color: rgb(255, 2, 2);
+    font-size: 1.8rem;
+  }
+}
+
+.search_cross {
+  display: flex;
+  justify-content: end;
+  button {
+    margin: 1rem;
+    background-color: rgb(255, 2, 2);
+    border: 0px;
+    font-size: 1rem;
+    color: #111;
+  }
 }

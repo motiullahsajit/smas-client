@@ -1,17 +1,14 @@
 import React, { useState } from 'react';
 import { useNavigate } from "react-router-dom";
 
-import './Auth.scss';
+import './Subscription.scss';
 
-const Auth = () => {
-  document.title = 'Login';
+const Subscription = () => {
   const navigate = useNavigate();
-  const [option, setOption] = useState('signUp');
   const [error, setError] = useState('');
   const [formData, setFormData] = useState({});
 
   const [password, setPassword] = useState('')
-  const [confirmPassword, setConfrimPassword] = useState('')
 
   const onChangeHandler = (e) => {
     let isFieldValid = true;
@@ -23,12 +20,6 @@ const Auth = () => {
       const passwordHasNumber = /\d{1}/.test(e.target.value);
       isFieldValid = isPasswordValid && passwordHasNumber
       setPassword(e.target.value)
-    }
-    if (e.target.name === 'confirmPassword') {
-      const isPasswordValid = e.target.value.length >= 6;
-      const passwordHasNumber = /\d{1}/.test(e.target.value);
-      isFieldValid = isPasswordValid && passwordHasNumber
-      setConfrimPassword(e.target.value)
     }
     if (isFieldValid) {
       const key = e.target.name
@@ -66,7 +57,6 @@ const Auth = () => {
     // redirect && history.replace(from);
   }
 
-
   const navigateTo = (route) => {
     navigate(`/${route}`)
   }
@@ -77,37 +67,20 @@ const Auth = () => {
       <h2 onClick={() => navigateTo('')} style={{ color: 'red', fontSize: "2rem", paddingLeft: '2rem', cursor: "pointer" }}>SMAS</h2>
       <section className='form_section'>
         <form onSubmit={handleSubmit} className="form">
-          {
-            option === 'signUp' ? <h1 className='form_heading'>Sign Up</h1> : <h1 className='form_heading'>Sign In</h1>
-          }
-          {
-            option === 'signUp' &&
-            <input name="name" type="text" onChange={(e) => onChangeHandler(e)} placeholder="Name" className="form_input" required />
-          }
+          <h1 className='sub_form_heading'>Subscription</h1>
+          <p>Our monthly subscription price is now only <span className='highlight'>50 BDT</span>. In the celebration of our new website we are giving <span className='highlight'>50% off</span></p>
+          <p>To confirm your subscription first send money to our Bkash No <span className='highlight'>017XXXXXXXX</span> and then fill-up the form.</p>
+          <p>Thank You</p>
+          <input name="name" type="text" onChange={(e) => onChangeHandler(e)} placeholder="Name" className="form_input" required />
           <input name="email" onChange={(e) => onChangeHandler(e)} type="email" placeholder="Email" className="form_input" required />
-          <input name="password" onChange={(e) => onChangeHandler(e)} type="password" placeholder="Password" className="form_input" required />
-          {
-            option === 'signUp' &&
-            <input name="confirmPassword" onChange={(e) => onChangeHandler(e)} type="password" placeholder="Confirm Password" className="form_input" required />
-          }
-
+          <input value="25 (BDT)" name="payableamount" onChange={(e) => onChangeHandler(e)} placeholder="Payable Amount" className="form_input" disabled />
+          <input name="bkashno" onChange={(e) => onChangeHandler(e)} placeholder="Your Bkash No" className="form_input" required />
           <p className='text_error'>{error}</p>
-
-          {
-            option === 'signUp' ?
-              <button type="submit" className="primary_button">Sign Up</button>
-              :
-              <button type="submit" className="primary_button">Sign In</button>
-          }
-
-          {
-            option === 'signUp' ? <> <p>Already have an account? <span className='text_brand' onClick={() => setOption('login')}>Sign In</span></p></> :
-              <> <p>New to SMAS? <span className='text_brand' onClick={() => setOption('signUp')}>Sign Up</span></p></>
-          }
+          <button type="submit" className="primary_button">Subscribe</button>
         </form>
       </section>
     </main>
   );
 };
 
-export default Auth;
+export default Subscription;
