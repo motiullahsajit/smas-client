@@ -14,6 +14,7 @@ import Logout from '@mui/icons-material/Logout';
 
 export default function AccountMenu() {
   const navigate = useNavigate();
+  const smasimageUrl = localStorage.getItem('smasimageUrl');
   const [anchorEl, setAnchorEl] = React.useState(null);
   const open = Boolean(anchorEl);
 
@@ -28,6 +29,13 @@ export default function AccountMenu() {
     navigate(`/${route}`)
   }
 
+  const handleLogout = () => {
+    localStorage.removeItem('smasuserId')
+    localStorage.removeItem('smasemail')
+    localStorage.removeItem('smasimageUrl')
+    navigate(`/login`)
+  }
+
   return (
     <React.Fragment>
       <Box sx={{ display: 'flex', alignItems: 'center', textAlign: 'center' }}>
@@ -40,7 +48,7 @@ export default function AccountMenu() {
             aria-haspopup="true"
             aria-expanded={open ? 'true' : undefined}
           >
-            <img className='nav__avatar' src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Netflix-avatar.png" alt="" />
+            <img className='nav__avatar' src={smasimageUrl} alt="profile picture" />
           </IconButton>
         </Tooltip>
       </Box>
@@ -93,7 +101,7 @@ export default function AccountMenu() {
           Subscription
         </MenuItem>
         <Divider />
-        <MenuItem>
+        <MenuItem onClick={handleLogout}>
           <ListItemIcon>
             <Logout fontSize="small" />
           </ListItemIcon>

@@ -70,8 +70,6 @@ function Nav() {
             setLodder(true)
           }} onChange={(e) => onChangeHandler(e)} type="text" placeholder="Search ...." />
           <AccountMenu />
-
-
         </div>
       </div>
       {

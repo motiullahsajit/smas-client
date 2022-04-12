@@ -20,6 +20,11 @@
     background-color: rgba(0, 0, 0, 0.9);
     padding: 2.7rem 3.5rem 0rem 3.5rem;
     border-radius: 0.4rem;
+    label {
+      font-size: 13px;
+      margin: 0.5rem 0rem;
+      display: block;
+    }
     @media screen and (max-width: 740px) {
       width: 85%;
       padding: 1.3rem;

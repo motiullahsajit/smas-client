@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useNavigate } from "react-router-dom";
-
+import axios from 'axios';
 import './Auth.scss';
 
 const Auth = () => {
@@ -9,9 +9,27 @@ const Auth = () => {
   const [option, setOption] = useState('signUp');
   const [error, setError] = useState('');
   const [formData, setFormData] = useState({});
-
+  const [profileImgURl, setProfileImgURl] = useState(null);
   const [password, setPassword] = useState('')
   const [confirmPassword, setConfrimPassword] = useState('')
+
+  const navigateTo = (route) => {
+    navigate(`/${route}`)
+  }
+
+  const handleImageUpload = event => {
+    const imageData = new FormData();
+    imageData.set('key', 'ea5f66854b1d86a62785b81c38b625d0');
+    imageData.append('image', event.target.files[0]);
+
+    axios.post('https://api.imgbb.com/1/upload', imageData)
+      .then(function (response) {
+        setProfileImgURl(response.data.data.display_url);
+      })
+      .catch(function (error) {
+        console.log(error);
+      });
+  }
 
   const onChangeHandler = (e) => {
     let isFieldValid = true;
@@ -42,33 +60,47 @@ const Auth = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    console.log(formData.name, formData.email, formData.password)
-    // if (option === 'signUp') {
-    //   if (password === confirmPassword) {
-    //     createUserWithEmailAndPassword(formData.name, formData.email, formData.password).then(res => {
-    //       handleResponse(res, true)
-    //     }).catch(error => { setError(error) })
-    //     setError('')
-    //   }
-    //   else {
-    //     setError('Your passwords didnot matched')
-    //   }
-    // }
-    // if (option === 'login') {
-    //   signInWithEmailAndPassword(formData.email, formData.password).then(res => {
-    //     handleResponse(res, true)
-    //   }).catch(error => { setError(error) })
-    // }
-  }
+    if (option === 'signUp') {
+      if (password === confirmPassword && profileImgURl) {
+        const variables = {
+          name: formData.name,
+          email: formData.email,
+          password: formData.password,
+          imageUrl: profileImgURl
+        }
+        axios.post(`${process.env.REACT_APP_API_URL}user/register`, variables)
+          .then(response => {
+            if (response.data.success === true) {
+              localStorage.setItem('smasuserId', response.data.user._id)
+              localStorage.setItem('smasemail', response.data.user.email)
+              localStorage.setItem('smasimageUrl', response.data.user.imageUrl)
+              navigate(`/home`)
+            }
 
-  const handleResponse = (res, redirect) => {
-    // setLoggedInUser(res)
-    // redirect && history.replace(from);
-  }
+          }).catch(error => { setError(error) })
+        setError('')
+      }
+      else {
+        setError('Your passwords didnot matched')
+      }
+    }
+    if (option === 'login') {
+      const variables = {
+        email: formData.email,
+        password: formData.password,
+      }
+      axios.post(`${process.env.REACT_APP_API_URL}user/login`, variables)
+        .then(response => {
+          if (response.data.success === true) {
 
+            localStorage.setItem('smasuserId', response.data.user._id)
+            localStorage.setItem('smasemail', response.data.user.email)
+            localStorage.setItem('smasimageUrl', response.data.user.imageUrl)
+            navigate(`/home`)
+          }
 
-  const navigateTo = (route) => {
-    navigate(`/${route}`)
+        }).catch(error => { setError(error) })
+    }
   }
 
 
@@ -88,10 +120,13 @@ const Auth = () => {
           <input name="password" onChange={(e) => onChangeHandler(e)} type="password" placeholder="Password" className="form_input" required />
           {
             option === 'signUp' &&
-            <input name="confirmPassword" onChange={(e) => onChangeHandler(e)} type="password" placeholder="Confirm Password" className="form_input" required />
+            <>
+              <input name="confirmPassword" onChange={(e) => onChangeHandler(e)} type="password" placeholder="Confirm Password" className="form_input" required />
+              <label>Upload Profile Picture</label>
+              <input name="profileImgURl" type="file" onChange={handleImageUpload} placeholder="Profile Picture" className="form_input" required />
+              <p className='text_error'>{error}</p>
+            </>
           }
-
-          <p className='text_error'>{error}</p>
 
           {
             option === 'signUp' ?
