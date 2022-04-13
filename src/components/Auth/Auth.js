@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { useNavigate } from "react-router-dom";
 import axios from 'axios';
+import moment from 'moment';
 import './Auth.scss';
 
 const Auth = () => {
@@ -17,12 +18,12 @@ const Auth = () => {
     navigate(`/${route}`)
   }
 
-  const handleImageUpload = event => {
+  const handleImageUpload = async (event) => {
     const imageData = new FormData();
     imageData.set('key', 'ea5f66854b1d86a62785b81c38b625d0');
     imageData.append('image', event.target.files[0]);
 
-    axios.post('https://api.imgbb.com/1/upload', imageData)
+    await axios.post('https://api.imgbb.com/1/upload', imageData)
       .then(function (response) {
         setProfileImgURl(response.data.data.display_url);
       })
@@ -58,7 +59,7 @@ const Auth = () => {
     }
   }
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
     if (option === 'signUp') {
       if (password === confirmPassword && profileImgURl) {
@@ -66,9 +67,10 @@ const Auth = () => {
           name: formData.name,
           email: formData.email,
           password: formData.password,
+          subExpirationDate: moment(new Date(), "DD-MM-YYYY").add(3, 'days'),
           imageUrl: profileImgURl
         }
-        axios.post(`${process.env.REACT_APP_API_URL}user/register`, variables)
+        await axios.post(`${process.env.REACT_APP_API_URL}user/register`, variables)
           .then(response => {
             if (response.data.success === true) {
               localStorage.setItem('smasuserId', response.data.user._id)
@@ -89,16 +91,17 @@ const Auth = () => {
         email: formData.email,
         password: formData.password,
       }
-      axios.post(`${process.env.REACT_APP_API_URL}user/login`, variables)
+      await axios.post(`${process.env.REACT_APP_API_URL}user/login`, variables)
         .then(response => {
           if (response.data.success === true) {
-
             localStorage.setItem('smasuserId', response.data.user._id)
             localStorage.setItem('smasemail', response.data.user.email)
             localStorage.setItem('smasimageUrl', response.data.user.imageUrl)
             navigate(`/home`)
           }
-
+          else {
+            setError(response.data.message)
+          }
         }).catch(error => { setError(error) })
     }
   }
@@ -124,9 +127,9 @@ const Auth = () => {
               <input name="confirmPassword" onChange={(e) => onChangeHandler(e)} type="password" placeholder="Confirm Password" className="form_input" required />
               <label>Upload Profile Picture</label>
               <input name="profileImgURl" type="file" onChange={handleImageUpload} placeholder="Profile Picture" className="form_input" required />
-              <p className='text_error'>{error}</p>
             </>
           }
+          <p className='text_error'>{error}</p>
 
           {
             option === 'signUp' ?

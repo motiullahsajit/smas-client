@@ -10,6 +10,13 @@
   width: 100%;
 }
 
+.sub_nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
 .form_section {
   display: flex;
   justify-content: center;
@@ -68,5 +75,10 @@
 }
 
 .highlight {
+  color: #e50914;
+}
+
+.confirmation_text {
+  font-size: 1.4rem !important;
   color: #e50914;
 }
