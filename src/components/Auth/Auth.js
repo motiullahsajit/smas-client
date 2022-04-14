@@ -67,7 +67,7 @@ const Auth = () => {
           name: formData.name,
           email: formData.email,
           password: formData.password,
-          subExpirationDate: moment(new Date(), "DD-MM-YYYY").add(3, 'days'),
+          subExpirationDate: moment(new Date(), "DD-MM-YYYY").add(7, 'days'),
           imageUrl: profileImgURl
         }
         await axios.post(`${process.env.REACT_APP_API_URL}user/register`, variables)

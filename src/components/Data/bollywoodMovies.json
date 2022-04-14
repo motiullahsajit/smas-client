@@ -1,68 +1,592 @@
 [
   {
-    "name": "Maaran",
+    "name": "KGF Chapter 2",
     "type": "movie",
-    "posterUrl": "https://i.ibb.co/HCM0fzj/maaran.jpg",
-    "movieUrl": "https://drive.google.com/file/d/1lfIQfS59tn4HD6AqXSwFww3Vi4gmP83f/view?fbclid=IwAR315kwgZqCWGwmco3LjFJYpIyifsewrhsPTfPUIlDe9JIHRp7aWsnwr9l0"
+    "posterUrl": "https://i.ibb.co/0DPBj5Z/MV5-BMj-Mw-MDgy-OGQt-MWZj-NC00-MDUw-LTll-ZDYt-ZWM3-NDBm-N2-Yz-NGZm-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQz-Njkz-M.jpg",
+    "movieUrl": ""
+  },
+
+  {
+    "name": "Beast",
+    "type": "movie",
+    "posterUrl": "https://i.ibb.co/d6rHZx3/MV5-BNDNj-NWYz-ZDIt-Mz-E3-NS00-YTU4-LThj-Nz-Ut-MDc0-ZWU3-Yjk3-N2-Jl-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEz-Nzg0.jpg",
+    "movieUrl": "https://drive.google.com/file/d/1lyLqbfXTABQxG6KJNnPCfaT3q47xVViO/view?usp=sharing"
+  },
+
+  {
+    "name": "   KGF Chapter 1 2018                      ",
+    "type": "movie",
+    "posterUrl": "  https://i.ibb.co/mtgfc2g/MV5-BYz-Jm-Yz-Ex-ZGEt-MTUw-Yy00-Yz-Iy-LWJm-OTEt-ZWFk-NTU0-YThl-Yzdm-Xk-Ey-Xk-Fqc-Gde-QXVy-ODIw-MDI1.jpg                 ",
+    "movieUrl": "          https://drive.google.com/file/d/1DMZdOICjHSvsvHGjO1n8H3P22hMam-hr/view?usp=sharing"
+  },
+
+  {
+    "name": "Hey Sinamika",
+    "type": "movie",
+    "posterUrl": "https://i.ibb.co/NWQ5BbY/MV5-BNWEw-Yj-E0-Yz-Qt-Zm-Zi-Yi00-Nz-Y3-LWJk-Nzkt-MTA5-Nm-E2-NGNk-OTA5-Xk-Ey-Xk-Fqc-Gde-QXVy-MTM1-Mz.jpg",
+    "movieUrl": "https://drive.google.com/file/d/1WxfHzU2X3dhmHYIzHFEr6woXSEnJjaZC/view?usp=sharing"
+  },
+
+  {
+    "name": "Marjaavaan",
+    "type": "movie",
+    "posterUrl": "https://i.ibb.co/5R71kSY/MV5-BY2-Zi-M2-Qz-Mj-At-OTA1-ZC00-NDFh-LWJk-MTct-M2-U2-Yj-Yx-Y2-E5-NThk-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz.jpg",
+    "movieUrl": "https://drive.google.com/file/d/1RVUrXbugInjQNVwQd3ROPNaCAqg-OxfB/view?usp=sharing"
+  },
+
+  {
+    "name": "Heropanti 2014",
+    "type": "movie",
+    "posterUrl": "       https://i.ibb.co/9gnpTy9/MV5-BNGY4-NDQx-MDMt-Ym-E0-OS00-ZDhi-LTgy-MTUt-MGU4-Nz-E3-OGNm-NGVm-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Q2-Mj-Q5.jpg               ",
+    "movieUrl": "   https://drive.google.com/file/d/18Qp0I6xD2A-Dd9uxegIBFDFB3q5qHQmF/view?usp=sharing "
+  },
+
+  {
+    "name": "Wanted 2009",
+    "type": "movie",
+    "posterUrl": "https://i.ibb.co/TkyhwZZ/MV5-BYj-I4-ZTNm-ZTYt-NTFh-ZC00-Y2-Rk-LTgy-M2-Yt-Ym-Zk-ODZj-NWNh-MTQy-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E.jpg",
+    "movieUrl": "https://drive.google.com/file/d/1PzZsUwo1aPim7ZrqVcmMv5EZUcZi6B6A/view?usp=sharing"
+  },
+
+  {
+    "name": "Bang Bang 2014 ",
+    "type": "movie",
+    "posterUrl": "https://i.ibb.co/7bfDfdm/MV5-BNDk0-Mz-E4-NTI5-Nl5-BMl5-Ban-Bn-Xk-Ft-ZTgw-Nz-E1-OTcy-Mj-E-V1.jpg",
+    "movieUrl": "https://drive.google.com/file/d/1Z8--G51ApFC4Jvmu-wVO51hBtDRV55Ln/view?usp=sharing"
+  },
+
+  {
+    "name": "Kick 2014 Hindi",
+    "type": "movie",
+    "posterUrl": "       https://i.ibb.co/FYKMGmy/MV5-BMTUy-MTg0-MTA1-OF5-BMl5-Ban-Bn-Xk-Ft-ZTgw-MDg2-Mj-Mw-Mj-E-V1-FMjpg-UX1000.jpg ",
+    "movieUrl": "      https://drive.google.com/file/d/1bElKnJ_DhgPisE7tE7_rsnSfIMy3QnJN/view?usp=sharing    "
+  },
+
+  {
+    "name": "Radhe 2021 Hindi",
+    "type": "movie",
+    "posterUrl": "   https://i.ibb.co/x2JTnhM/MV5-BZjk3-ZTAy-Mzgt-Nz-U5-Yi00-MGI0-LWJi-Zjgt-YWNj-Nj-I3-ODcx-YTk5-Xk-Ey-Xk-Fqc-Gde-QXVy-MTIz-Mzg0-M.jpg                 ",
+    "movieUrl": "   https://drive.google.com/file/d/1DX-7aCpmhd9e6Nltf4eq2rb2ylDsW-jp/view?usp=sharing       "
+  },
+
+  {
+    "name": "Student Of The Year 2012",
+    "type": "movie",
+    "posterUrl": " https://i.ibb.co/vqfMNht/MV5-BNj-I1-Nzk1-ODEt-MGZk-Yi00-Zj-Zl-LTg2-ZTQt-MDE5-Mj-Vh-OGEx-Yz-Rj-Xk-Ey-Xk-Fqc-Gde-QXVy-NDUz-OTQ5.jpg                     ",
+    "movieUrl": "   https://drive.google.com/file/d/1fswL1jlMzhssGf0zWJF_ByajouwJzb_S/view?usp=sharing       "
+  },
+
+  {
+    "name": "Student Of The Year 2",
+    "type": "movie",
+    "posterUrl": "        https://i.ibb.co/7vzx85q/MV5-BNm-Fi-Nj-Rl-ODUt-Nj-Ri-Zi00-ZDQ0-LTk3-ZDIt-ZDhj-Nm-U5-N2-Rk-NGNj-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz.jpg              ",
+    "movieUrl": " https://drive.google.com/file/d/1reA-dWLZFDWv2dT1UdSZB5NceOMMYDQg/view?usp=sharing         "
+  },
+
+  {
+    "name": "RRR",
+    "type": "movie",
+    "posterUrl": "https://i.ibb.co/M9cMrqb/MV5-BOGQ3-Zj-Mw-ZDct-ZTFk-Mi00-Zj-Uw-LTlm-MDUt-NDZl-Yz-Jj-Nz-Zi-NTg5-Xk-Ey-Xk-Fqc-Gde-QXVy-MTMz-ODk3.jpg",
+    "movieUrl": "https://drive.google.com/file/d/1B3lkjRFXjMbHpQ4Nd6OgKPhD5QJVBvI7/view?usp=sharing"
   },
   {
-    "name": "Maaran",
+    "name": "Dasvi 2022",
     "type": "movie",
-    "posterUrl": "https://i.ibb.co/HCM0fzj/maaran.jpg",
-    "movieUrl": "https://drive.google.com/file/d/1lfIQfS59tn4HD6AqXSwFww3Vi4gmP83f/view?fbclid=IwAR315kwgZqCWGwmco3LjFJYpIyifsewrhsPTfPUIlDe9JIHRp7aWsnwr9l0"
+    "posterUrl": "https://i.ibb.co/sw2VnW0/MV5-BZWE3-OTg5-ZTAt-OThi-YS00-ODM5-LWIy-Zm-Ut-MWRi-OTRl-MGZh-MTk0-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E3-O.jpg",
+    "movieUrl": "https://drive.google.com/file/d/1P4DDgWpzkEkWBBt3Z0SvlC86QI1zvxz1/view?usp=sharing"
   },
   {
-    "name": "Maaran",
+    "name": "Sharmaji Namkeen 2022",
     "type": "movie",
-    "posterUrl": "https://i.ibb.co/HCM0fzj/maaran.jpg",
-    "movieUrl": "https://drive.google.com/file/d/1lfIQfS59tn4HD6AqXSwFww3Vi4gmP83f/view?fbclid=IwAR315kwgZqCWGwmco3LjFJYpIyifsewrhsPTfPUIlDe9JIHRp7aWsnwr9l0"
+    "posterUrl": "https://i.ibb.co/ZWj1gW2/MV5-BY2-Mx-Nj-Vl-Nj-Mt-OGEx-Mi00-NWRj-LThh-Yz-Qt-NDY4-OWZk-Mzcw-Njhi-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI1-NDEy.jpg",
+    "movieUrl": "https://drive.google.com/file/d/1IEb8jv50q4Jy0a5hcECAMuDJt3MV-2X-/view?usp=sharing"
   },
   {
-    "name": "Maaran",
+    "name": "Bulbbul",
     "type": "movie",
-    "posterUrl": "https://i.ibb.co/HCM0fzj/maaran.jpg",
-    "movieUrl": "https://drive.google.com/file/d/1lfIQfS59tn4HD6AqXSwFww3Vi4gmP83f/view?fbclid=IwAR315kwgZqCWGwmco3LjFJYpIyifsewrhsPTfPUIlDe9JIHRp7aWsnwr9l0"
+    "posterUrl": "https://i.ibb.co/Snz48Gf/MV5-BMGQz-Yz-Fk-MDYt-YTNm-Zi00-MDQ0-LWFj-Zj-It-Zj-E3-NGJj-Njll-Y2-Ux-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-Ux-MTY.jpg",
+    "movieUrl": "https://drive.google.com/file/d/1yF122Pe5V7qvGod6tyWdxXN2v_OKv0u9/view?usp=sharings"
   },
   {
-    "name": "Maaran",
+    "name": "Shiddat 2021",
     "type": "movie",
-    "posterUrl": "https://i.ibb.co/HCM0fzj/maaran.jpg",
-    "movieUrl": "https://drive.google.com/file/d/1lfIQfS59tn4HD6AqXSwFww3Vi4gmP83f/view?fbclid=IwAR315kwgZqCWGwmco3LjFJYpIyifsewrhsPTfPUIlDe9JIHRp7aWsnwr9l0"
+    "posterUrl": "https://i.ibb.co/JHbFm2Z/MV5-BN2-U2-Nzcy-YWQt-YWRk-Ni00-NWE2-LWFl-N2-Ut-Mj-Y0-Mz-Jk-MWQz-ZDI2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI1-NDEy.jpg",
+    "movieUrl": "https://drive.google.com/file/d/1I0b47ZapCeq5f3yivKmnS28uiHdMXaGG/view?usp=sharing"
   },
   {
-    "name": "Maaran",
+    "name": "Mararan",
     "type": "movie",
-    "posterUrl": "https://i.ibb.co/HCM0fzj/maaran.jpg",
-    "movieUrl": "https://drive.google.com/file/d/1lfIQfS59tn4HD6AqXSwFww3Vi4gmP83f/view?fbclid=IwAR315kwgZqCWGwmco3LjFJYpIyifsewrhsPTfPUIlDe9JIHRp7aWsnwr9l0"
+    "posterUrl": "https://i.ibb.co/6F6jtH8/MV5-BMzlk-Zjlj-OTMt-NTQz-MC00-MTU3-LTlh-NTkt-MTM3-Yjlj-OTk1-Zj-Jm-Xk-Ey-Xk-Fqc-Gde-QXVy-MTUw-MDg3-OT.jpg",
+    "movieUrl": "https://drive.google.com/file/d/1lfIQfS59tn4HD6AqXSwFww3Vi4gmP83f/view?usp=sharing"
   },
   {
-    "name": "Maaran",
+    "name": "The kashmir Files",
     "type": "movie",
-    "posterUrl": "https://i.ibb.co/HCM0fzj/maaran.jpg",
-    "movieUrl": "https://drive.google.com/file/d/1lfIQfS59tn4HD6AqXSwFww3Vi4gmP83f/view?fbclid=IwAR315kwgZqCWGwmco3LjFJYpIyifsewrhsPTfPUIlDe9JIHRp7aWsnwr9l0"
+    "posterUrl": "https://i.ibb.co/p4MdNmZ/MV5-BZj-I0-Ym-Mz-NDct-ZGFk-Zi00-Nm-Iy-LTk5-NWEt-MTU1-MGRm-MDQw-NWU2-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E3.jpg",
+    "movieUrl": "https://drive.google.com/file/d/1tfZVyXKFt8H-3WSOmde0QSwo6E9ndmkN/view?usp=sharing"
   },
   {
-    "name": "Maaran",
+    "name": "Radhe Shyam 2022",
     "type": "movie",
-    "posterUrl": "https://i.ibb.co/HCM0fzj/maaran.jpg",
-    "movieUrl": "https://drive.google.com/file/d/1lfIQfS59tn4HD6AqXSwFww3Vi4gmP83f/view?fbclid=IwAR315kwgZqCWGwmco3LjFJYpIyifsewrhsPTfPUIlDe9JIHRp7aWsnwr9l0"
+    "posterUrl": "https://i.ibb.co/ncSXY4M/MV5-BZDQ5-Yj-Ax-Mm-Yt-OGM3-Zi00-MWU2-LWJm-OTMt-Zjhh-Yjky-NGQ1-Nj-E3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA3-MDk2.jpg",
+    "movieUrl": "https://drive.google.com/file/d/1ciOHr18RzNmdQDM1PvfCj82K1br7rMRS/view?usp=sharing"
   },
   {
-    "name": "Maaran",
+    "name": "Sanak 2021",
     "type": "movie",
-    "posterUrl": "https://i.ibb.co/HCM0fzj/maaran.jpg",
-    "movieUrl": "https://drive.google.com/file/d/1lfIQfS59tn4HD6AqXSwFww3Vi4gmP83f/view?fbclid=IwAR315kwgZqCWGwmco3LjFJYpIyifsewrhsPTfPUIlDe9JIHRp7aWsnwr9l0"
+    "posterUrl": "https://i.ibb.co/Df1ZtSS/MV5-BODg3-Nzhl-Mjkt-ODA2-MS00-YTJk-LWEy-YWMt-NGYx-Mz-Yw-YTVi-MWQw-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI1-NDEy-NT.jpg",
+    "movieUrl": "https://drive.google.com/file/d/1CInLEXviPzbl2nkMhCeIDl2fRJEMrP3w/view?usp=sharing"
   },
   {
-    "name": "Maaran",
+    "name": "    War 2019",
     "type": "movie",
-    "posterUrl": "https://i.ibb.co/HCM0fzj/maaran.jpg",
-    "movieUrl": "https://drive.google.com/file/d/1lfIQfS59tn4HD6AqXSwFww3Vi4gmP83f/view?fbclid=IwAR315kwgZqCWGwmco3LjFJYpIyifsewrhsPTfPUIlDe9JIHRp7aWsnwr9l0"
+    "posterUrl": "https://i.ibb.co/wyYG79m/MV5-BNTlm-NDMz-OWQt-Yzg4-Ny00-OWQ0-LWFh-N2-Mt-Nm-Q2-MDcz-ZGZh-NTU5-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E3.jpg",
+    "movieUrl": "https://drive.google.com/file/d/1U-wJ-L9D8HSKHE4Ly-OQ_zTBH3N_1hJh/view?usp=sharing"
   },
   {
-    "name": "Maaran",
+    "name": "       Raat Akeli Hain 2020                  ",
     "type": "movie",
-    "posterUrl": "https://i.ibb.co/HCM0fzj/maaran.jpg",
-    "movieUrl": "https://drive.google.com/file/d/1lfIQfS59tn4HD6AqXSwFww3Vi4gmP83f/view?fbclid=IwAR315kwgZqCWGwmco3LjFJYpIyifsewrhsPTfPUIlDe9JIHRp7aWsnwr9l0"
+    "posterUrl": "    https://i.ibb.co/tCMC70w/MV5-BYTAy-Yjk3-ZGIt-Yj-Az-MC00-Mj-Yy-LTgy-Mzgt-MDE4-MTBh-ZTIw-YTBj-Xk-Ey-Xk-Fqc-Gde-QXVy-MTE4-Mz-Ix.jpg                  ",
+    "movieUrl": "         https://drive.google.com/file/d/1bngHj7_47UdwpLVc6k_RkzoQQPXg7zcC/view?usp=sharing "
+  },
+  {
+    "name": "       Raat Baaki Hai  2021                ",
+    "type": "movie",
+    "posterUrl": "       https://i.ibb.co/wdGyPQW/MV5-BZGQ5-Mjk4-MDgt-Nj-Ax-Mi00-NGY3-LTkw-NWIt-Nz-U5-N2-E0-ZTll-ZGUz-Xk-Ey-Xk-Fqc-Gde-QXVy-MTIz-Mzg0.jpg  ",
+    "movieUrl": "                https://drive.google.com/file/d/1E6oJ98yapQY9aFZfgdmvMAh2u6QUQvEZ/view?usp=sharing              "
+  },
+  {
+    "name": "      Ajeeb Dastaans 2021                  ",
+    "type": "movie",
+    "posterUrl": "      https://i.ibb.co/7jY9MHJ/MV5-BM2-Rj-YWI2-NGUt-Nm-Fk-NC00-ODM2-LWFj-YTIt-OTg2-OTE2-Mz-Qx-Nj-Jm-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E.jpg                ",
+    "movieUrl": "                      https://drive.google.com/file/d/1IZOnMkR0bja0EP1NEyEJN0lDhcY8jb4z/view?usp=sharing           "
+  },
+  {
+    "name": "   Bachchhan Pandey 2022                      ",
+    "type": "movie",
+    "posterUrl": "             https://i.ibb.co/3h5DFRX/MV5-BOWE5-Zjlj-ZDEt-YTZm-Ny00-MGVl-LWJj-Nj-Et-MWUw-Mz-Uy-MDc5-NTA3-Xk-Ey-Xk-Fqc-Gde-QXVy-ODgz-MDMw-O.jpg ",
+    "movieUrl": "            https://drive.google.com/file/d/1xQAppAnZdx5M02B_isyG5ehr6qa1bQAH/view?usp=sharing                     "
+  },
+  {
+    "name": "      Gehraiyaan 2022                   ",
+    "type": "movie",
+    "posterUrl": "     https://i.ibb.co/k1ypF96/MV5-BOGRh-Zm-Vh-Mz-Qt-YWRh-ZC00-MDYw-LTlm-MTMt-ZGNh-Yzgz-OTZl-Zm-My-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI1-NDEy.jpg                      ",
+    "movieUrl": "      https://drive.google.com/file/d/1IaMKukTazehCl7Twq-yzdYee8_uRwPos/view?usp=sharing    "
+  },
+
+  {
+    "name": "    Jai Bhim 2021 Hindi Dubbed                     ",
+    "type": "movie",
+    "posterUrl": "      https://i.ibb.co/YPSZz2W/MV5-BMGEz-N2-Vk-Mm-Ut-MGM1-Zi00-Y2-U1-LTlk-MDkt-MTlh-MTdm-Yz-Zm-ZDlh-Xk-Ey-Xk-Fqc-Gde-QXVy-ODEy-Nj-E.jpg                ",
+    "movieUrl": "       https://drive.google.com/file/d/18ZvZXL2UpILXPvAmvSQVV3RWvfGXDVGJ/view?usp=sharing   "
+  },
+
+  {
+    "name": "        Kapil Sharma I'm Not Done Yet   2022               ",
+    "type": "movie",
+    "posterUrl": "           https://i.ibb.co/HxDYZf5/MV5-BOGQz-OTRk-MWMt-ZDcw-Ny00-Zm-Fj-LTlk-YWEt-NDMz-Zm-Y5-NDMx-ZDQy-Xk-Ey-Xk-Fqc-Gde-QXVy-NDQ3-OTI3-M.jpg           ",
+    "movieUrl": "     https://drive.google.com/file/d/14x8zBXCgw_vSkoOVIc1E_2RIqYUPzb8H/view?usp=sharing     "
+  },
+
+  {
+    "name": "       Ladies Vs Ricky Bahi 2011                   ",
+    "type": "movie",
+    "posterUrl": "   https://i.ibb.co/zhw5pVY/Ladies-Vs-Ricky-Bahl2.jpg                   ",
+    "movieUrl": "           https://drive.google.com/file/d/1nTa1G7ZMjXz78WO1T0FmYONwYwnKS1lT/view?usp=sharing                      "
+  },
+
+  {
+    "name": "   Kannum Kannum Kollaiyadithaal  2021               ",
+    "type": "movie",
+    "posterUrl": "      https://i.ibb.co/chDWr3z/MV5-BZGZi-ZTNk-Ym-Et-ZDZi-MC00-MDNh-LTky-Nm-Qt-Mz-Qy-NTBj-OTc3-Zm-E2-Xk-Ey-Xk-Fqc-Gde-QXVy-ODIw-MDI1.jpg               ",
+    "movieUrl": "    https://drive.google.com/file/d/1LaXEL9EDpSDGG_yWbJp-J4BYxnkZ7jw7/view?usp=sharing      "
+  },
+
+  {
+    "name": "   Love Hostel 2022                      ",
+    "type": "movie",
+    "posterUrl": "    https://i.ibb.co/2KMRCbc/MV5-BZTg2-Mm-U4-Nz-At-ZWRk-YS00-Mzhl-LWJm-Yj-It-MDE2-NGQ4-Nm-Rm-YWU2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTIz-Mzg0.jpg                  ",
+    "movieUrl": "   https://drive.google.com/file/d/1YroCU4VBu99dJ-bp9zLQWTFzrPIPuH6X/view?usp=sharing       "
+  },
+
+  {
+    "name": "     Ratsasan 2018 hindi Dubbed                    ",
+    "type": "movie",
+    "posterUrl": "         https://i.ibb.co/b5WRhvR/MV5-BNj-Mw-Mjg2-Yz-It-NWRi-OC00-YTkz-LWI5-Mj-At-Zj-U5-YTE2-Mm-U1-Nzll-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-Yx-OT.jpg             ",
+    "movieUrl": "      https://drive.google.com/file/d/17rNDUuxmEwbkm1FiDV3hmbFfvcfaKtOd/view?usp=sharing    "
+  },
+
+  {
+    "name": "     Silence 2021 Can You Hear It Bollywood                    ",
+    "type": "movie",
+    "posterUrl": " https://i.ibb.co/tm4jS8K/stv0-Kw5-Ska-POu-W6-Hr-UGVp8-Fe-NPM.jpg                     ",
+    "movieUrl": "     https://drive.google.com/file/d/1AeFhLvAP8b3XztSkm8I2SENpVTZzr5tu/view?usp=sharing     "
+  },
+
+  {
+    "name": "      Shyam Singh Roy 2021 Hindi Dubbed                 ",
+    "type": "movie",
+    "posterUrl": "      https://i.ibb.co/Kz27FBN/Shyam.jpg                ",
+    "movieUrl": "             https://drive.google.com/file/d/1PU1FoHFQT6gWhssxs0AVXn4cGzN5o388/view?usp=sharing                    "
+  },
+
+  {
+    "name": "Tadap 2021",
+    "type": "movie",
+    "posterUrl": "    https://i.ibb.co/t2VCS1g/MV5-BMWUy-Nz-Bj-Nm-Et-OGM2-NS00-NDg3-LTkz-Yj-Et-M2-Zk-Njc0-NTRl-ODBl-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E.jpg                  ",
+    "movieUrl": "     https://drive.google.com/file/d/1SU_LQ6spkQH2NlM7o1AJlQqkPFI1nGc4/view?usp=sharing     "
+  },
+
+  {
+    "name": "The Wife 2021",
+    "type": "movie",
+    "posterUrl": "              https://i.ibb.co/mvXWQ2T/16161662056054bd3d0d33e.webp        ",
+    "movieUrl": "    https://drive.google.com/file/d/1AJi_fVKoJsrqw3cMO9tcofOSjx5mrxZu/view?usp=sharing "
+  },
+
+  {
+    "name": "83",
+    "type": "movie",
+    "posterUrl": "     https://i.ibb.co/GxLmf9C/MV5-BNTc0-MWIz-Mj-Yt-MDg4-Mi00-Ym-M3-LWIx-NGUt-Yj-Q5-Nz-Bl-ZTM3-YWI2-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E.jpg                 ",
+    "movieUrl": "       https://drive.google.com/file/d/1u5OLSx1iQ5IBhzmS8s-K4lB7i-muOEp9/view?usp=sharing   "
+  },
+  {
+    "name": "Dial 100",
+    "type": "movie",
+    "posterUrl": "     https://i.ibb.co/K7RBjqh/Dial-100-poster-1.jpg                 ",
+    "movieUrl": "     https://drive.google.com/file/d/10sqsPTroL27Ho1oYAtc8QyGjwXWZaD2q/view?usp=sharing     "
+  },
+  {
+    "name": "Ala Vaikunthapurramuloo",
+    "type": "movie",
+    "posterUrl": "   https://i.ibb.co/CskXPmc/MV5-BZm-E3-Zjc5-MDct-ZWU2-OS00-Mm-I0-LWI3-Ym-It-ZDgw-ZGQ4-NGFj-NTNm-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA4-Nj-E0.jpg                   ",
+    "movieUrl": "     https://drive.google.com/file/d/13Xv3MFEsYncuT5lkkb4nsS-J3zA8z-VH/view?usp=sharing     "
+  },
+  {
+    "name": "Andhadhun",
+    "type": "movie",
+    "posterUrl": "      https://i.ibb.co/ft87xt2/MV5-BZWZh-Mjhh-Zm-Yt-OTIz-OC00-MGYz-LWI1-OGYt-M2-Zk-N2-Ix-NTI4-ZWI3-Xk-Ey-Xk-Fqc-Gde-QXVy-NDAz-NDk0.jpg                ",
+    "movieUrl": "          https://drive.google.com/file/d/1LujLBcDQcFmJ0R78ekhWn0SyyLtcFNyR/view?usp=sharing"
+  },
+  {
+    "name": "Antim",
+    "type": "movie",
+    "posterUrl": "    https://i.ibb.co/pnnkmDr/Antim-The-Final-Truth.jpg                  ",
+    "movieUrl": "    https://drive.google.com/file/d/1Fa8dVoI3RHunbBgnMe0t2wVKhTIegLwd/view?usp=sharing      "
+  },
+  {
+    "name": "Akhanda",
+    "type": "movie",
+    "posterUrl": "  https://i.ibb.co/hVptHNt/MV5-BY2-Y0-YTlk-Zm-Mt-ZDMw-Zi00-MDQw-LThm-Ym-Ut-Zj-Qz-Mj-Rl-Mm-Qz-MTNi-Xk-Ey-Xk-Fqc-Gde-QXVy-NTgx-OD.jpg                    ",
+    "movieUrl": "   https://drive.google.com/file/d/1xko89m3IIXV84tJ1KD746g0JUslqXoxZ/view?usp=sharing       "
+  },
+  {
+    "name": "Attack Part 1",
+    "type": "movie",
+    "posterUrl": "       https://i.ibb.co/tMtPWnc/2022-3-largeimg-1165240906.jpg               ",
+    "movieUrl": "       https://drive.google.com/file/d/1OOxzCpbGAs1FG8706vNgo2a2zQoPWKkv/view?usp=sharing   "
+  },
+  {
+    "name": "Baaghi",
+    "type": "movie",
+    "posterUrl": "    https://i.ibb.co/bFLQDrS/MV5-BMDlh-Yz-Bm-Yjgt-Yzky-MC00-MDUw-LTkw-Nzgt-Yzk4-Yjc5-ZTU1-ODI3-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E3-O.jpg                  ",
+    "movieUrl": "    https://drive.google.com/file/d/1GCT-qR6mfo20zDmzKIcTfZN5JP8PZOL9/view?usp=sharing      "
+  },
+
+  {
+    "name": "Baaghi 2",
+    "type": "movie",
+    "posterUrl": "     https://i.ibb.co/CV9TL75/download.jpg                 ",
+    "movieUrl": "           https://drive.google.com/file/d/1Ebeu-HSmN8wpSERlX8kN0xC0OWghNbWX/view?usp=sharing                      "
+  },
+  {
+    "name": "Baaghi 3 2020",
+    "type": "movie",
+    "posterUrl": "    https://i.ibb.co/Czg4F5W/MV5-BZTAx-NWE2-MDIt-ZWFl-NS00-MWM1-LWI1-Zj-Qt-N2-I5-NDBh-NWYz-Zj-Nh-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E3.jpg                  ",
+    "movieUrl": "  https://drive.google.com/file/d/1y-m8yfGEF4xzEUMYmLh6YLLOudRzOJdn/view?usp=sharing        "
+  },
+  {
+    "name": "Bajrangi Bhaijaan 2015",
+    "type": "movie",
+    "posterUrl": " https://i.ibb.co/xJCwJKr/MV5-BMGE3-Yjg3-Nz-It-Njlm-OS00-Yj-Y2-LThi-MDct-Mz-M0-NDA2-Nm-Ex-YTg4-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQ3-ODQ3.jpg            ",
+    "movieUrl": "    https://drive.google.com/file/d/10nm6BcI0RFY_7D0tzQFIF9p8tS0PP6oP/view?usp=sharing      "
+  },
+
+  {
+    "name": "Bekhudi 2021",
+    "type": "movie",
+    "posterUrl": "      https://i.ibb.co/z557thB/MV5-BY2-Yx-OTFi-Zm-Mt-Ym-Q3-OC00-MDA1-LTg0-NTUt-NTEx-NTUw-Nz-Vh-NGMz-Xk-Ey-Xk-Fqc-Gde-QXVy-MTMy-Mj-Q.jpg                ",
+    "movieUrl": "          https://drive.google.com/file/d/1i2ZqbVcGD2BLsI2ZTiCJpLfMYRsDZ2TH/view?usp=sharing"
+  },
+  {
+    "name": "Bell Bottom",
+    "type": "movie",
+    "posterUrl": "          https://i.ibb.co/v3dRfdf/MV5-BZGYw-YTQx-ZWEt-Yz-Aw-Ny00-Nm-M4-LWE4-MDUt-YTU5-ZTVm-Yj-Y4-ZTAw-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA3-MDk2.jpgs            ",
+    "movieUrl": "             https://drive.google.com/file/d/1T5i7qmEtDBF_AqVn4phrX8fxeveuuTAO/view?usp=sharing                    "
+  },
+  {
+    "name": "Bheeshma",
+    "type": "movie",
+    "posterUrl": "       https://i.ibb.co/M7L2LxL/MV5-BOTdh-ODUx-Yz-Yt-Nzc1-Zi00-YTMz-LThh-Yz-At-MTk3-Yz-Iw-Mj-Qw-Yz-Mw-Xk-Ey-Xk-Fqc-Gde-QXVy-NTgx-ODY.jpg               ",
+    "movieUrl": "         https://drive.google.com/file/d/12Tzo52ItEe3u4_AvphY0p0Ju_XQ25SQv/view?usp=sharing "
+  },
+  {
+    "name": "Bhuj The Pride Of India 2021",
+    "type": "movie",
+    "posterUrl": "       https://i.ibb.co/cDjYMbn/MV5-BOWY0-Mz-Zk-N2-Qt-ODI1-MC00-Nzg0-LWE3-Ym-Ut-NTNh-MWU4-YTFj-OTA4-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E3.jpg               ",
+    "movieUrl": "       https://drive.google.com/file/d/1ISnFO6CpI8PGlXrE2w6ADUvwYmOI-wsn/view?usp=sharing   "
+  },
+  {
+    "name": "Bigil Tamil",
+    "type": "movie",
+    "posterUrl": "       https://i.ibb.co/jbbrp28/MV5-BMGYx-Ym-Vm-YTct-ZGMw-NS00-Mm-Vk-LWI2-Mz-Ut-ZTEz-Y2-Ux-OTJi-ZTVl-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA4-Nj-E.jpg               ",
+    "movieUrl": "          https://drive.google.com/file/d/16YCCBiALlCRy7ysrQXquegQChYTdULYB/view?usp=sharing"
+  },
+  {
+    "name": "Inspector Vikram",
+    "type": "movie",
+    "posterUrl": "    https://i.ibb.co/K7X5y2H/MV5-BMTIw-OWUz-ODAt-NTIz-Zi00-MTUy-LWFl-Nz-At-Nz-U0-Mz-U3-ZGNi-Mm-Q1-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-Qz-MDc.jpg                  ",
+    "movieUrl": "           https://drive.google.com/file/d/1NpnM7MN1up8vd82-SNWD8HSZ20-VNSY1/view?usp=sharing                      "
+  },
+  {
+    "name": "Chandigarh Kare Ashiqui",
+    "type": "movie",
+    "posterUrl": " https://i.ibb.co/2FbBTkQ/MV5-BZDQx-Zm-Fl-MWIt-NGU4-ZS00-Yjcw-LWJl-Mm-Mt-Zm-Qy-ZTFh-OWNk-Yzg5-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI1-NDEy.jpg                     ",
+    "movieUrl": "  https://drive.google.com/file/d/1oHkCYsdFUg0aN9b4v0tUCIaqskOPff5M/view?usp=sharing        "
+  },
+  {
+    "name": "Code Name abdul",
+    "type": "movie",
+    "posterUrl": "    https://i.ibb.co/kSffkCH/MV5-BODc0-Nj-Q2-NTUt-Nz-Rk-ZC00-MDQ3-LWJl-ZDQt-Nz-Jh-YTky-Nm-Yw-MDZk-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-E4-Nj.jpg                  ",
+    "movieUrl": "     https://drive.google.com/file/d/1rBjBNkhSOQqF7aldErv6kOh-_zR4UyGz/view?usp=sharing     "
+  },
+  {
+    "name": "Dhamaka",
+    "type": "movie",
+    "posterUrl": "    https://i.ibb.co/thLgnSB/MV5-BNz-Uy-OWU2-M2-Mt-MDU1-Yy00-M2-E1-LTg3-OTkt-MGRj-YTE2-Mjkz-Yz-Uw-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E.jpg                  ",
+    "movieUrl": "      https://drive.google.com/file/d/1dLiv7mLPkUlfkrxXSLFV4dHRxtQqjW4k/view?usp=sharing    "
+  },
+  {
+    "name": "Satyameva Jayate",
+    "type": "movie",
+    "posterUrl": "   https://i.ibb.co/3RD7xXS/MV5-BODVi-ODU5-NDEt-ZGQw-OS00-OTAz-LWIy-Nj-Qt-NGU5-Zm-Mx-Zj-M5-NTQ5-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA3-MDk2.jpg                   ",
+    "movieUrl": "      https://drive.google.com/file/d/1civgCZm-6X09gAgl8kHY_GIc4AAxL-nK/view?usp=sharing    "
+  },
+  {
+    "name": "Dil Bechara",
+    "type": "movie",
+    "posterUrl": "       https://i.ibb.co/w0Jj638/MV5-BNm-I0-MTli-MTAt-Mm-Jh-NC00-NTJm-LTll-Mz-Qt-MDI3-Nz-A1-ODMy-ZWI1-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E.jpg               ",
+    "movieUrl": "      https://drive.google.com/file/d/11HeRLXpWhXAyUkX5ogOlfnPFBRM9WOQ2/view?usp=sharing    "
+  },
+  {
+    "name": "Enemy",
+    "type": "movie",
+    "posterUrl": "    https://i.ibb.co/qnY6jJK/MV5-BM2-Jl-Nz-M1-NDEt-OWFm-YS00-NWJm-LThk-Nm-Mt-Nj-Yz-N2-Yw-Ym-Fi-N2-E3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEz-N.jpg                  ",
+    "movieUrl": "      https://drive.google.com/file/d/1NITFBWfNlDtXp6d4IqXoH2Ks3jdZRqTi/view?usp=sharing    "
+  },
+
+  {
+    "name": "Forensic",
+    "type": "movie",
+    "posterUrl": " https://i.ibb.co/CVzr63f/MV5-BM2-Zk-OTZm-NTYt-MWFm-Zi00-Mm-Y1-LTkx-Zjgt-NWVi-Nj-E3-Zm-U0-YWJh-Xk-Ey-Xk-Fqc-Gde-QXVy-Mjkx-Nz-Q.jpg                   ",
+    "movieUrl": "   https://drive.google.com/file/d/10xRpemsSKYiq1IULDv15E0cc1vwpm6Bs/view?usp=sharing       "
+  },
+
+  {
+    "name": "Genius",
+    "type": "movie",
+    "posterUrl": "   https://i.ibb.co/Mh0BSfj/MV5-BMTQ5-NDA4-Y2-Et-Nj-Yy-NC00-MDEx-LWIx-YWMt-MDgx-Mj-Fl-ODIy-MTU1-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E3.jpg                   ",
+    "movieUrl": "   https://drive.google.com/file/d/1OVL7WRYVgcNWwhBMstv_bk9tHdpSHLRk/view?usp=sharing       "
+  },
+
+  {
+    "name": "Pushpa",
+    "type": "movie",
+    "posterUrl": "   https://i.ibb.co/hd78rhW/MV5-BMm-Q4-Ym-M3-Njgt-NTEx-NC00-ZTZh-LWEw-ZTct-Yjdh-OWI4-ZWFl-MDk2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI1-NDEy-N.jpg                   ",
+    "movieUrl": "       https://drive.google.com/file/d/1ylUjoWR3Od0q1fjOA0vCASuybPBf7UIJ/view?usp=sharing  "
+  },
+
+  {
+    "name": "Gangubai Kathiawadi  202",
+    "type": "movie",
+    "posterUrl": "      https://i.ibb.co/C2nqTff/MV5-BN2-M4-NDM2-NDIt-Mzgz-Ny00-OWRi-LThh-Nj-Et-ZDA2-OWMy-NTcw-Yz-Rj-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI1-NDEy.jpg                ",
+    "movieUrl": "           https://drive.google.com/file/d/1WNPxFXflXzX4GG6VHCA2gkl-PlP6pYBg/view?usp=sharing                      "
+  },
+
+  {
+    "name": "   Hridiyam 2022 Malaylam",
+    "type": "movie",
+    "posterUrl": "   https://i.ibb.co/LxTTrzJ/MV5-BN2-E5-ZGVm-Zj-Ut-Zj-Yz-MS00-NDFl-LTk2-M2-Mt-ODAz-ZDU4-Zj-M2-NWY3-Xk-Ey-Xk-Fqc-Gde-QXVy-Mjkx-Nz.jpg                   ",
+    "movieUrl": "https://drive.google.com/file/d/12-svv9ac25d9PkjuZ4BUU0RvsSBvzPCB/view?usp=sharing"
+  },
+
+  {
+    "name": "Jalsa 2022 Hindi",
+    "type": "movie",
+    "posterUrl": "     https://i.ibb.co/ZGvp0wc/MV5-BYm-I4-Mjgw-M2-Qt-MWJj-NC00-Yj-Ix-LWJk-ZTIt-MWJh-Mz-Fm-ZGVm-MTlk-Xk-Ey-Xk-Fqc-Gde-QXVy-MTE0-MTY2.jpg                 ",
+    "movieUrl": "         https://drive.google.com/file/d/1h1rCHykSdMSBgpMUfMMT6GUrOkkQOBTI/view?usp=sharing "
+  },
+  {
+    "name": "Jallikattu 2019",
+    "type": "movie",
+    "posterUrl": "       https://i.ibb.co/Zg4Qpy9/MV5-BNz-Ni-MTk0-Zm-Et-Mm-Jj-ZS00-ODZh-LTkw-MDkt-MDU3-NTgx-ZTg2-Zjg5-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-I0-MTA1.jpg               ",
+    "movieUrl": "     https://drive.google.com/file/d/1FE-HMsbSVVYcdX8UineQbOEx5rii_M9h/view?usp=sharing     "
+  },
+  {
+    "name": "James",
+    "type": "movie",
+    "posterUrl": "       https://i.ibb.co/FDy198W/MV5-BNDA3-ZGM2-ODkt-MGFh-Zi00-Nj-Y4-LTg3-MDAt-NGQz-Mzg3-Zm-Ix-NWJk-Xk-Ey-Xk-Fqc-Gde-QXVy-Mzc4-ODk0-N.jpg         ",
+    "movieUrl": "       https://drive.google.com/file/d/1A8Ez9KbLZ0KH-6RSXYvz9ZUZ_ZSr5JGF/view?usp=sharing   "
+  },
+  {
+    "name": "khiladi",
+    "type": "movie",
+    "posterUrl": "           https://i.ibb.co/wYCYqNF/MV5-BM2-E0-OWY1-NDMt-Zm-I3-NS00-YWYz-LTk2-Njgt-Yjdk-MWM4-Yz-Nm-MWJl-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQ0-Nzg1.jpg           ",
+    "movieUrl": "    https://drive.google.com/file/d/1undTakfZn92Eg6JeR5Tu4P_DFhLn5tZm/view?usp=sharing      "
+  },
+  {
+    "name": "Krack",
+    "type": "movie",
+    "posterUrl": "     https://i.ibb.co/bdG3V7W/MV5-BYz-Ex-ZTk0-Zjct-OGY2-Yy00-Ym-Vh-LWJi-NWYt-NDcy-Yj-Ez-MTJh-OWU3-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-Ux-MTY3.jpg                 ",
+    "movieUrl": "    https://drive.google.com/file/d/1DDfiEf1h_KfdYqlSYWy4Kvj63fiXEqOi/view?usp=sharing      "
+  },
+  {
+    "name": "Master",
+    "type": "movie",
+    "posterUrl": "       https://i.ibb.co/wCjqM0s/MV5-BNm-U1-OTYz-Yz-At-MDcy-OS00-MDI0-LTg2-Zm-Qt-YTEy-MDdm-Mm-Q0-Mj-Y5-Xk-Ey-Xk-Fqc-Gde-QXVy-OTk3-NTc.jpg               ",
+    "movieUrl": "            https://drive.google.com/file/d/1OldUZY6A0-un8tvdvjZr6DEGq-Vj7Rzs/view?usp=sharing                     "
+  },
+  {
+    "name": "Mersal",
+    "type": "movie",
+    "posterUrl": "      https://i.ibb.co/3mY0TPT/MV5-BNGI4-NTM2-OTAt-Ym-Y2-Ny00-MTAz-LTk4-ZWMt-Zm-Q4-Y2-Rh-NWJm-NDQ1-Xk-Ey-Xk-Fqc-Gde-QXVy-OTA0-NTIz.jpg                ",
+    "movieUrl": "         https://drive.google.com/file/d/10iBy31zX-NC0IyE1XwiThtvsUu8W3Zv4/view?usp=sharing "
+  },
+  {
+    "name": "Mimi 2021",
+    "type": "movie",
+    "posterUrl": "            https://i.ibb.co/Kx3f94c/MV5-BZTkw-MDQ4-Zm-Et-NTdh-Ni00-Mm-Mz-LTgw-NTQt-MDI1-NDJj-Zj-Q5-Zjg5-Xk-Ey-Xk-Fqc-Gde-QXVy-NDAz-NDk0.jpg          ",
+    "movieUrl": "       https://drive.google.com/file/d/1vqi3-jD1_U6zjq02Tt-4OoaP6OMXlc4I/view?usp=sharing                  "
+  },
+  {
+    "name": "   Mr X 2015",
+    "type": "movie",
+    "posterUrl": "     https://i.ibb.co/nMn2qKd/MV5-BY2-U3-NDEw-MTgt-MGVm-OC00-MTY0-LTgz-ODMt-YWZk-Mz-Ey-Nm-Jk-MWZl-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E3.jpg                 ",
+    "movieUrl": "        https://drive.google.com/file/d/1BF2__VbhPmypcuAwsc2sXHy_AJbYvId1/view?usp=sharing  "
+  },
+  {
+    "name": "     No Parking 2021 Hindi Dubbed                    ",
+    "type": "movie",
+    "posterUrl": "      https://i.ibb.co/mBSPhBf/MV5-BMGFi-ODAx-Mz-At-ODVk-ZC00-ODk5-LWI2-Nj-At-YTA1-NGRm-OTMx-N2-I1-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI1-NDEy.jpg                     ",
+    "movieUrl": "  https://drive.google.com/file/d/1AcoeX_UvHjvOWwx81z2PwvQh3jV327bS/view?usp=sharing   "
+  },
+  {
+    "name": "     Oru  Adaar Love 2019                    ",
+    "type": "movie",
+    "posterUrl": "   https://i.ibb.co/PwMnQCb/MV5-BZDc1-Yj-M5-Nj-Mt-ZDVj-OS00-YTJh-LTg0-NGEt-NTdj-Zj-I0-ZTRm-MDdh-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA4-Nj-E0.jpg                   ",
+    "movieUrl": "            https://drive.google.com/file/d/1GM35KRQlwdJYdMGhkC8VVDb_m1-1wo_T/view?usp=sharing                     "
+  },
+  {
+    "name": "    Parwaaz Hai Junoon 2018                     ",
+    "type": "movie",
+    "posterUrl": "   https://i.ibb.co/z8gpsks/MV5-BYz-I5-Nz-Vm-Nm-Yt-ZGQz-Ni00-Zm-Jm-LTlj-NWEt-Mz-U0-Nzgw-Yj-I3-ODcy-Xk-Ey-Xk-Fqc-Gde-QXVy-NTM3-Mz.jpg                   ",
+    "movieUrl": "  https://drive.google.com/file/d/10ooYbpztYPj_Rk8FF8-aednqZFkx057D/view?usp=sharing        "
+  },
+
+  {
+    "name": "  Red 2021 Hindi Dubbed",
+    "type": "movie",
+    "posterUrl": "  https://i.ibb.co/9YXPSxM/MV5-BNm-Zh-OGE2-OTMt-YTVi-OS00-Nz-Bj-LThj-Ym-Mt-ZWEw-YTdj-ZTE5-NTJk-Xk-Ey-Xk-Fqc-Gde-QXVy-NTgx-ODY5.jpg",
+    "movieUrl": "   https://drive.google.com/file/d/16ermiAbmdTR1vjVZKMSLGAZBpL7xoMzi/view?usp=sharing           "
+  },
+  {
+    "name": "       Saheb Biwi Aur Gangstar 3 2018                  ",
+    "type": "movie",
+    "posterUrl": "              https://i.ibb.co/f9ZzxG2/MV5-BZj-A1-Njc1-ZTYt-MWIy-My00-MDQ5-LTkw-Yj-It-Zm-Zj-MTE3-Mj-Vm-MDFj-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E.jpg        ",
+    "movieUrl": "            https://drive.google.com/file/d/15dyPT3IYe0zJFhFiGp-COzh3LYTA1IzP/view?usp=sharing                     "
+  },
+  {
+    "name": "     Saheb Biwi Aur Gangstar 1 2011                    ",
+    "type": "movie",
+    "posterUrl": "   https://i.ibb.co/RB50QN9/MV5-BZDU3-ZWEw-Zj-Ut-Yj-A3-Yi00-YWU4-LTg5-OTUt-Nj-Fi-ZTIy-ZTVi-Zjhj-Xk-Ey-Xk-Fqc-Gde-QXVy-NDUz-OTQ5.jpg                   ",
+    "movieUrl": "  https://drive.google.com/file/d/15s26H2f0qZHkcWpaX1PkC9T4MTxMpJ0N/view?usp=sharing        "
+  },
+  {
+    "name": "    Saheb Biwi Aur Gangstar 2 2013                    ",
+    "type": "movie",
+    "posterUrl": "   https://i.ibb.co/7Wd8y86/MV5-BMTgw-Nj-Ey-MDQy-OV5-BMl5-Ban-Bn-Xk-Ft-ZTcw-NTU5-OTcw-OQ-V1-FMjpg-UX1000.jpg                   ",
+    "movieUrl": " https://drive.google.com/file/d/15dGLrUJOtS-Ndw_IIiEYnFQqzlIO4Mph/view?usp=sharing         "
+  },
+  {
+    "name": "   Saina  2021                      ",
+    "type": "movie",
+    "posterUrl": "      https://i.ibb.co/Q8HbW5K/MV5-BODFj-N2-M4-MDkt-Mjk5-Ni00-Nz-A0-LWE2-Mz-At-Nzhi-NDMw-YWJm-NDcz-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI1-NDAz.jpg                ",
+    "movieUrl": "   https://drive.google.com/file/d/1YIrEAvfTDd_v-G4bGBI8htY5WPdqsQ2y/view?usp=sharing       "
+  },
+  {
+    "name": "    Salute 2022 Hindi Dubbed                     ",
+    "type": "movie",
+    "posterUrl": "   https://i.ibb.co/bRLjC4s/MV5-BYj-U4-Nm-I5-Zm-Ut-ODZm-Mi00-YTRi-LWJj-YTEt-Yj-Fm-NTNk-Yjk3-Zj-My-Xk-Ey-Xk-Fqc-Gde-QXVy-Mjkx-Nz.jpg            ",
+    "movieUrl": "   https://drive.google.com/file/d/1PEf1D3bns8UqH5bobTe5bjCzS1oi93Sk/view?usp=sharing       "
+  },
+  {
+    "name": "    Sardar Ka Grandson 2021                     ",
+    "type": "movie",
+    "posterUrl": "    https://i.ibb.co/s5byPDb/MV5-BZm-Fm-Nz-A0-MTQt-YWRl-MC00-Njg0-LTg0-ZTYt-Njlm-MTVk-Mj-Mz-Zm-I1-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI1-NDAz.jpg                  ",
+    "movieUrl": "   https://drive.google.com/file/d/10Jg3cHdCxKdfgvPRYs-B2ZldUJc8JyH6/view?usp=sharing       "
+  },
+  {
+    "name": "Shershah 2021     ",
+    "type": "movie",
+    "posterUrl": "    https://i.ibb.co/bv96691/MV5-BMjk1-Nzcw-MDUt-NDU4-ZC00-Mzlh-LTkz-Zj-At-M2-Mx-MTRj-ZGE0-ODdh-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E3.jpg          ",
+    "movieUrl": "   https://drive.google.com/file/d/10930jHBk-4nWmWPrPMciosxJjkCtymei/view?usp=sharing       "
+  },
+  {
+    "name": "  Superstar 2021 Pakstani Movie",
+    "type": "movie",
+    "posterUrl": "      https://i.ibb.co/D9GyrJ7/MV5-BYjdh-N2-Zk-YTkt-Ym-U5-NC00-Mz-Rl-LTk1-Yzct-Mj-Zi-OTI4-Mm-Y5-NWVj-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA4-Nj.jpg                ",
+    "movieUrl": "     https://drive.google.com/file/d/1Atszu3YeU6CuCVwGTbJQJImphTh65fhf/view?usp=sharing     "
+  },
+  {
+    "name": "   Surya The Soldier 2018 Hindi                      ",
+    "type": "movie",
+    "posterUrl": "    https://i.ibb.co/W3ZYh2X/surya-the-soldier-43156jpg.webp             ",
+    "movieUrl": "         https://drive.google.com/file/d/1Jsc0WQSdtz42YqweRr9n_36iF2rDFt0Y/view?usp=sharing "
+  },
+  {
+    "name": "     Taish 2020 Hindi                     ",
+    "type": "movie",
+    "posterUrl": "   https://i.ibb.co/mSyYc54/MV5-BYz-Q2-Njcy-Mm-It-Yz-Bj-My00-ZGRh-LTli-Ym-Yt-MGYy-Yj-Ez-NWIy-NTI4-Xk-Ey-Xk-Fqc-Gde-QXVy-MTIz-Mzg.jpg                   ",
+    "movieUrl": "  https://drive.google.com/file/d/1QiZ2WE3C64HwnxqFFzwJpg5Ux3GdhL5O/view?usp=sharing        "
+  },
+  {
+    "name": "  Tera Surroor 2016",
+    "type": "movie",
+    "posterUrl": "      https://i.ibb.co/ZXMV1L2/MV5-BMzk0-MTE3-Zm-Qt-MDAw-Yy00-M2-Q5-LWFm-ODAt-Yjdi-NTYx-Mj-Ez-ZDUx-Xk-Ey-Xk-Fqc-Gde-QXVy-NTIw-ODMz.jpg                ",
+    "movieUrl": "    https://drive.google.com/file/d/1NLHpIRriCTsC6OxH8ygkOqLbmobLQFUc/view?usp=sharing      "
+  },
+  {
+    "name": "   Tere Naal Love Ho Gaya 2012                     ",
+    "type": "movie",
+    "posterUrl": "     https://i.ibb.co/f0YzwRN/MV5-BMj-E2-Njcx-MTcy-MV5-BMl5-Ban-Bn-Xk-Ft-ZTcw-Mzcz-Njcy-Nw-V1.jpg                 ",
+    "movieUrl": "  https://drive.google.com/file/d/1XO57jZdsZQRVF39w1xfuPlD8Q2FHO26h/view?usp=sharing        "
+  },
+  {
+    "name": " Yeh Jawaani Hai Deewani 2013 ",
+    "type": "movie",
+    "posterUrl": "  https://i.ibb.co/dbqwX66/MV5-BODA4-Mj-M2-ODk4-OF5-BMl5-Ban-Bn-Xk-Ft-ZTcw-NDgz-ODk1-OQ-V1-FMjpg-UX1000.jpg                    ",
+    "movieUrl": "    https://drive.google.com/file/d/14dCWZ0AY3VEFudkgWd2cmVPDfmgTarRi/view?usp=sharing      "
+  },
+  {
+    "name": "    Zindegi Na Milegi Dobara 2011                     ",
+    "type": "movie",
+    "posterUrl": " https://i.ibb.co/sw0DNNj/MV5-BZGFm-Mj-M5-OWMt-ZTRi-NC00-ODhl-LThl-YTIt-YTcy-ZDMy-Ym-My-Yj-Fj-Xk-Ey-Xk-Fqc-Gde-QXVy-NDUz-OTQ5.jpg                     ",
+    "movieUrl": "  https://drive.google.com/file/d/1-MZwEKFXX3Vhd4OLjJeW0YStjO1E9pBN/view?usp=sharing        "
+  },
+  {
+    "name": "      Coolie No 1 2020       ",
+    "type": "movie",
+    "posterUrl": "             https://i.ibb.co/k0L8ymy/MV5-BNTk2-Mm-Qx-Yz-Mt-Yz-Vh-ZS00-Nzdh-LTg3-Ym-Ut-Mz-Iy-MDY3-MTFm-Ym-Fh-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz.jpg            ",
+    "movieUrl": "      https://drive.google.com/file/d/1mAwFYfVd4INOpZ0TkF9ZpVQDkqaY-2BJ/view?usp=sharing      "
   }
 ]

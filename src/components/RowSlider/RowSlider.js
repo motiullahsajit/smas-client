@@ -16,6 +16,14 @@ const RowSlider = ({ title, data }) => {
     initialSlide: 0,
     responsive: [
       {
+        breakpoint: 1440,
+        settings: {
+          slidesToShow: 6,
+          slidesToScroll: 3,
+          infinite: true,
+        }
+      },
+      {
         breakpoint: 1024,
         settings: {
           slidesToShow: 4,

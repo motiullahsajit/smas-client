@@ -1,881 +1,723 @@
 [
   {
-    "name": "DARK",
-    "type": "german",
-    "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo consequatur inventore repudiandae iusto a harum numquam dolores nisi quaerat commodi?",
-    "posterUrl": "https://i.ibb.co/M848Sx5/dark.jpg",
-    "coverUrl": "https://i.ibb.co/FDVC7Ps/darkcover.jpg",
+    "name": "Parallels",
+    "type": "tvshows",
+    "overview": "A family saga with a supernatural twist, set in a German town where the disappearance of two young children exposes the relationships among four families.",
+
+    "posterUrl": "https://i.ibb.co/QFdyJf2/MV5-BNTc0-Mm-U0-Mj-Qt-Yz-I3-ZC00-MDU4-LWIy-Yzkt-Mz-Ix-Mz-U1-YTJk-Nm-U2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTM1-MT.jpghttps://i.ibb.co/QFdyJf2/MV5-BNTc0-Mm-U0-Mj-Qt-Yz-I3-ZC00-MDU4-LWIy-Yzkt-Mz-Ix-Mz-U1-YTJk-Nm-U2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTM1-MT.jpg",
+    "coverUrl": "https://i.ibb.co/MfpV483/MV5-BMj-Rl-MGI2-Nj-Et-ZDY1-OS00-Nj-U4-LWJm-Yj-Et-ZWY0-MGJk-Nz-E2-Yj-Mx-Xk-Ey-Xk-Fqc-Gde-QWxia-WFtb25.jpg",
     "seasons": [
       {
-        "name": "Dark Season 1",
+        "name": "Season 1",
         "episodes": [
           {
-            "name": "episode name S1 E1",
-            "link": "https://drive.google.com/file/d/112Us3IrUfGK0bDDBpRUCk9qbFcuZgoEd/view"
+            "name": "Episode 01",
+            "link": ""
           },
           {
-            "name": "episode name S1 E2",
-            "link": "https://drive.google.com/file/d/115bom0RptrEEVREkPZqFJ3w7AmddpKIE/view"
+            "name": "Episode 02",
+            "link": ""
           },
           {
-            "name": "episode name S1 E3",
-            "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
+            "name": "Episode 03",
+            "link": ""
           },
           {
-            "name": "episode name S1 E4",
-            "link": "https://drive.google.com/file/d/11C6HMUUD4igLJCxA7jyMj1YWHuFnjJEr/view"
+            "name": "Episode 04",
+            "link": ""
           },
           {
-            "name": "episode name S1 E5",
-            "link": "https://drive.google.com/file/d/11GbZRqY0PcAQTRRkG-kdvzehnm6dInFy/view"
+            "name": "Episode 05",
+            "link": ""
           },
           {
-            "name": "episode name S1 E6",
-            "link": "https://drive.google.com/file/d/11LxQ-FGv5YJXAsNPlrwluFoAroIoAKNu/view"
+            "name": "Episode 06",
+            "link": ""
           },
           {
-            "name": "episode name S1 E7",
-            "link": "https://drive.google.com/file/d/11MN4NpTEZhwu-DLbDKY2W2T9LsO67J5A/view"
+            "name": "Episode 07",
+            "link": ""
           },
           {
-            "name": "episode name S1 E8",
-            "link": "https://drive.google.com/file/d/11OCnr8OqnONKofYCIzRnQOvCD5pssnHi/view"
-          },
-          {
-            "name": "episode name S1 E9",
-            "link": "https://drive.google.com/file/d/11X76YAPwiqa6tZDROMVrpnrRM0bgbgK8/view"
-          },
-          {
-            "name": "episode name S1 E10",
-            "link": "https://drive.google.com/file/d/11YWFa7lK8Zuqb2q-Sidr8OUaNq0B5Hxv/view"
-          },
-          {
-            "name": "episode name S1 E11",
-            "link": "https://drive.google.com/file/d/11Zqlxw-VuFo95H03RCKei4KdDUSBJRyR/view"
-          },
-          {
-            "name": "episode name S1 E12",
-            "link": "https://drive.google.com/file/d/11abyBaVDxQO61nXbnWKBATJN0GDC632P/view"
-          },
-          {
-            "name": "episode name S1 E13",
-            "link": "https://drive.google.com/file/d/11dyRa6UC4AaVptK6VI8XowdDR-U9AEU2/view"
-          }
-        ]
-      },
-      {
-        "name": "Dark Season 2",
-        "episodes": [
-          {
-            "name": "episode name S2 E1",
-            "link": "https://drive.google.com/file/d/112Us3IrUfGK0bDDBpRUCk9qbFcuZgoEd/view"
-          },
-          {
-            "name": "episode name S2 E2",
-            "link": "https://drive.google.com/file/d/115bom0RptrEEVREkPZqFJ3w7AmddpKIE/view"
-          },
-          {
-            "name": "episode name S2 E3",
-            "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
-          },
-          {
-            "name": "episode name S2 E4",
-            "link": "https://drive.google.com/file/d/11C6HMUUD4igLJCxA7jyMj1YWHuFnjJEr/view"
-          },
-          {
-            "name": "episode name S2 E5",
-            "link": "https://drive.google.com/file/d/11GbZRqY0PcAQTRRkG-kdvzehnm6dInFy/view"
-          },
-          {
-            "name": "episode name S2 E6",
-            "link": "https://drive.google.com/file/d/11LxQ-FGv5YJXAsNPlrwluFoAroIoAKNu/view"
-          },
-          {
-            "name": "episode name S2 E7",
-            "link": "https://drive.google.com/file/d/11MN4NpTEZhwu-DLbDKY2W2T9LsO67J5A/view"
-          },
-          {
-            "name": "episode name S2 E8",
-            "link": "https://drive.google.com/file/d/11OCnr8OqnONKofYCIzRnQOvCD5pssnHi/view"
-          },
-          {
-            "name": "episode name S2 E9",
-            "link": "https://drive.google.com/file/d/11X76YAPwiqa6tZDROMVrpnrRM0bgbgK8/view"
-          },
-          {
-            "name": "episode name S2 E10",
-            "link": "https://drive.google.com/file/d/11YWFa7lK8Zuqb2q-Sidr8OUaNq0B5Hxv/view"
-          },
-          {
-            "name": "episode name S2 E11",
-            "link": "https://drive.google.com/file/d/11Zqlxw-VuFo95H03RCKei4KdDUSBJRyR/view"
-          },
-          {
-            "name": "episode name S2 E12",
-            "link": "https://drive.google.com/file/d/11abyBaVDxQO61nXbnWKBATJN0GDC632P/view"
-          },
-          {
-            "name": "episode name S2 E13",
-            "link": "https://drive.google.com/file/d/11dyRa6UC4AaVptK6VI8XowdDR-U9AEU2/view"
-          }
-        ]
-      },
-      {
-        "name": "Dark Season 3",
-        "episodes": [
-          {
-            "name": "episode name S3 E1",
-            "link": "https://drive.google.com/file/d/112Us3IrUfGK0bDDBpRUCk9qbFcuZgoEd/view"
-          },
-          {
-            "name": "episode name S3 E2",
-            "link": "https://drive.google.com/file/d/115bom0RptrEEVREkPZqFJ3w7AmddpKIE/view"
-          },
-          {
-            "name": "episode name S3 E3",
-            "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
-          },
-          {
-            "name": "episode name S3 E4",
-            "link": "https://drive.google.com/file/d/11C6HMUUD4igLJCxA7jyMj1YWHuFnjJEr/view"
-          },
-          {
-            "name": "episode name S3 E5",
-            "link": "https://drive.google.com/file/d/11GbZRqY0PcAQTRRkG-kdvzehnm6dInFy/view"
-          },
-          {
-            "name": "episode name S3 E6",
-            "link": "https://drive.google.com/file/d/11LxQ-FGv5YJXAsNPlrwluFoAroIoAKNu/view"
-          },
-          {
-            "name": "episode name S3 E7",
-            "link": "https://drive.google.com/file/d/11MN4NpTEZhwu-DLbDKY2W2T9LsO67J5A/view"
-          },
-          {
-            "name": "episode name S3 E8",
-            "link": "https://drive.google.com/file/d/11OCnr8OqnONKofYCIzRnQOvCD5pssnHi/view"
-          },
-          {
-            "name": "episode name S1 E9",
-            "link": "https://drive.google.com/file/d/11X76YAPwiqa6tZDROMVrpnrRM0bgbgK8/view"
-          },
-          {
-            "name": "episode name S3 E10",
-            "link": "https://drive.google.com/file/d/11YWFa7lK8Zuqb2q-Sidr8OUaNq0B5Hxv/view"
-          },
-          {
-            "name": "episode name S3 E11",
-            "link": "https://drive.google.com/file/d/11Zqlxw-VuFo95H03RCKei4KdDUSBJRyR/view"
-          },
-          {
-            "name": "episode name S3 E12",
-            "link": "https://drive.google.com/file/d/11abyBaVDxQO61nXbnWKBATJN0GDC632P/view"
-          },
-          {
-            "name": "episode name S3 E13",
-            "link": "https://drive.google.com/file/d/11dyRa6UC4AaVptK6VI8XowdDR-U9AEU2/view"
-          }
-        ]
-      },
-      {
-        "name": "Dark Season 4",
-        "episodes": [
-          {
-            "name": "episode name S4 E1",
-            "link": "https://drive.google.com/file/d/112Us3IrUfGK0bDDBpRUCk9qbFcuZgoEd/view"
-          },
-          {
-            "name": "episode name S4 E2",
-            "link": "https://drive.google.com/file/d/115bom0RptrEEVREkPZqFJ3w7AmddpKIE/view"
-          },
-          {
-            "name": "episode name S4 E3",
-            "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
-          },
-          {
-            "name": "episode name S4 E4",
-            "link": "https://drive.google.com/file/d/11C6HMUUD4igLJCxA7jyMj1YWHuFnjJEr/view"
-          },
-          {
-            "name": "episode name S4 E5",
-            "link": "https://drive.google.com/file/d/11GbZRqY0PcAQTRRkG-kdvzehnm6dInFy/view"
-          },
-          {
-            "name": "episode name S4 E6",
-            "link": "https://drive.google.com/file/d/11LxQ-FGv5YJXAsNPlrwluFoAroIoAKNu/view"
-          },
-          {
-            "name": "episode name S4 E7",
-            "link": "https://drive.google.com/file/d/11MN4NpTEZhwu-DLbDKY2W2T9LsO67J5A/view"
-          },
-          {
-            "name": "episode name S1 E8",
-            "link": "https://drive.google.com/file/d/11OCnr8OqnONKofYCIzRnQOvCD5pssnHi/view"
-          },
-          {
-            "name": "episode name S4 E9",
-            "link": "https://drive.google.com/file/d/11X76YAPwiqa6tZDROMVrpnrRM0bgbgK8/view"
-          },
-          {
-            "name": "episode name S4 E10",
-            "link": "https://drive.google.com/file/d/11YWFa7lK8Zuqb2q-Sidr8OUaNq0B5Hxv/view"
-          },
-          {
-            "name": "episode name S4 E11",
-            "link": "https://drive.google.com/file/d/11Zqlxw-VuFo95H03RCKei4KdDUSBJRyR/view"
-          },
-          {
-            "name": "episode name S4 E12",
-            "link": "https://drive.google.com/file/d/11abyBaVDxQO61nXbnWKBATJN0GDC632P/view"
-          },
-          {
-            "name": "episode name S4 E13",
-            "link": "https://drive.google.com/file/d/11dyRa6UC4AaVptK6VI8XowdDR-U9AEU2/view"
-          }
-        ]
-      },
-      {
-        "name": "Dark Season 5",
-        "episodes": [
-          {
-            "name": "episode name S5 E1",
-            "link": "https://drive.google.com/file/d/112Us3IrUfGK0bDDBpRUCk9qbFcuZgoEd/view"
-          },
-          {
-            "name": "episode name S5 E2",
-            "link": "https://drive.google.com/file/d/115bom0RptrEEVREkPZqFJ3w7AmddpKIE/view"
-          },
-          {
-            "name": "episode name S5 E3",
-            "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
-          },
-          {
-            "name": "episode name S5 E4",
-            "link": "https://drive.google.com/file/d/11C6HMUUD4igLJCxA7jyMj1YWHuFnjJEr/view"
-          },
-          {
-            "name": "episode name S5 E5",
-            "link": "https://drive.google.com/file/d/11GbZRqY0PcAQTRRkG-kdvzehnm6dInFy/view"
-          },
-          {
-            "name": "episode name S5 E6",
-            "link": "https://drive.google.com/file/d/11LxQ-FGv5YJXAsNPlrwluFoAroIoAKNu/view"
-          },
-          {
-            "name": "episode name S5 E7",
-            "link": "https://drive.google.com/file/d/11MN4NpTEZhwu-DLbDKY2W2T9LsO67J5A/view"
-          },
-          {
-            "name": "episode name S5 E8",
-            "link": "https://drive.google.com/file/d/11OCnr8OqnONKofYCIzRnQOvCD5pssnHi/view"
-          },
-          {
-            "name": "episode name S5 E9",
-            "link": "https://drive.google.com/file/d/11X76YAPwiqa6tZDROMVrpnrRM0bgbgK8/view"
-          },
-          {
-            "name": "episode name S5 E10",
-            "link": "https://drive.google.com/file/d/11YWFa7lK8Zuqb2q-Sidr8OUaNq0B5Hxv/view"
-          },
-          {
-            "name": "episode name S5 E11",
-            "link": "https://drive.google.com/file/d/11Zqlxw-VuFo95H03RCKei4KdDUSBJRyR/view"
-          },
-          {
-            "name": "episode name S5 E12",
-            "link": "https://drive.google.com/file/d/11abyBaVDxQO61nXbnWKBATJN0GDC632P/view"
-          },
-          {
-            "name": "episode name S5 E13",
-            "link": "https://drive.google.com/file/d/11dyRa6UC4AaVptK6VI8XowdDR-U9AEU2/view"
+            "name": "Episode 08",
+            "link": ""
           }
         ]
       }
     ]
   },
   {
-    "name": "Dark 2",
-    "type": "german",
-    "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo consequatur inventore repudiandae iusto a harum numquam dolores nisi quaerat commodi?",
-    "posterUrl": "https://i.ibb.co/bNqVPxd/moneyheist.jpg",
-    "coverUrl": "https://i.ibb.co/S3k2CSj/monyheistcover.jpg",
+    "name": "Manifest",
+    "type": "tvshows",
+    "overview": "When a plane mysteriously lands years after takeoff, the people onboard return to a world that has moved on without them and face strange, new realities.",
+
+    "posterUrl": "https://i.ibb.co/cyt22BJ/p17602726-b-v13-ab.jpg",
+    "coverUrl": "https://i.ibb.co/Vj4HGZ8/manifest-2020-0z.jpg",
     "seasons": [
       {
-        "name": "Dark Season 1",
+        "name": "Season 1",
         "episodes": [
           {
-            "name": "episode name S1 E1",
-            "link": "https://drive.google.com/file/d/112Us3IrUfGK0bDDBpRUCk9qbFcuZgoEd/view"
+            "name": "Episode 01",
+            "link": ""
           },
           {
-            "name": "episode name S1 E2",
-            "link": "https://drive.google.com/file/d/115bom0RptrEEVREkPZqFJ3w7AmddpKIE/view"
+            "name": "Episode 02",
+            "link": ""
           },
           {
-            "name": "episode name S1 E3",
-            "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
+            "name": "Episode 03",
+            "link": ""
           },
           {
-            "name": "episode name S1 E4",
-            "link": "https://drive.google.com/file/d/11C6HMUUD4igLJCxA7jyMj1YWHuFnjJEr/view"
+            "name": "Episode 04",
+            "link": ""
           },
           {
-            "name": "episode name S1 E5",
-            "link": "https://drive.google.com/file/d/11GbZRqY0PcAQTRRkG-kdvzehnm6dInFy/view"
+            "name": "Episode 05",
+            "link": ""
           },
           {
-            "name": "episode name S1 E6",
-            "link": "https://drive.google.com/file/d/11LxQ-FGv5YJXAsNPlrwluFoAroIoAKNu/view"
+            "name": "Episode 06",
+            "link": ""
           },
           {
-            "name": "episode name S1 E7",
-            "link": "https://drive.google.com/file/d/11MN4NpTEZhwu-DLbDKY2W2T9LsO67J5A/view"
+            "name": "Episode 07",
+            "link": ""
           },
           {
-            "name": "episode name S1 E8",
-            "link": "https://drive.google.com/file/d/11OCnr8OqnONKofYCIzRnQOvCD5pssnHi/view"
-          },
-          {
-            "name": "episode name S1 E9",
-            "link": "https://drive.google.com/file/d/11X76YAPwiqa6tZDROMVrpnrRM0bgbgK8/view"
-          },
-          {
-            "name": "episode name S1 E10",
-            "link": "https://drive.google.com/file/d/11YWFa7lK8Zuqb2q-Sidr8OUaNq0B5Hxv/view"
-          },
-          {
-            "name": "episode name S1 E11",
-            "link": "https://drive.google.com/file/d/11Zqlxw-VuFo95H03RCKei4KdDUSBJRyR/view"
-          },
-          {
-            "name": "episode name S1 E12",
-            "link": "https://drive.google.com/file/d/11abyBaVDxQO61nXbnWKBATJN0GDC632P/view"
-          },
-          {
-            "name": "episode name S1 E13",
-            "link": "https://drive.google.com/file/d/11dyRa6UC4AaVptK6VI8XowdDR-U9AEU2/view"
+            "name": "Episode 08",
+            "link": ""
           }
         ]
       },
       {
-        "name": "Dark Season 2",
+        "name": "Season 2",
         "episodes": [
           {
-            "name": "episode name S2 E1",
-            "link": "https://drive.google.com/file/d/112Us3IrUfGK0bDDBpRUCk9qbFcuZgoEd/view"
+            "name": "Episode 01",
+            "link": ""
           },
           {
-            "name": "episode name S2 E2",
-            "link": "https://drive.google.com/file/d/115bom0RptrEEVREkPZqFJ3w7AmddpKIE/view"
+            "name": "Episode 02",
+            "link": ""
           },
           {
-            "name": "episode name S2 E3",
-            "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
+            "name": "Episode 03",
+            "link": ""
           },
           {
-            "name": "episode name S2 E4",
-            "link": "https://drive.google.com/file/d/11C6HMUUD4igLJCxA7jyMj1YWHuFnjJEr/view"
+            "name": "Episode 04",
+            "link": ""
           },
           {
-            "name": "episode name S2 E5",
-            "link": "https://drive.google.com/file/d/11GbZRqY0PcAQTRRkG-kdvzehnm6dInFy/view"
+            "name": "Episode 05",
+            "link": ""
           },
           {
-            "name": "episode name S2 E6",
-            "link": "https://drive.google.com/file/d/11LxQ-FGv5YJXAsNPlrwluFoAroIoAKNu/view"
+            "name": "Episode 06",
+            "link": ""
           },
           {
-            "name": "episode name S2 E7",
-            "link": "https://drive.google.com/file/d/11MN4NpTEZhwu-DLbDKY2W2T9LsO67J5A/view"
+            "name": "Episode 07",
+            "link": ""
           },
           {
-            "name": "episode name S2 E8",
-            "link": "https://drive.google.com/file/d/11OCnr8OqnONKofYCIzRnQOvCD5pssnHi/view"
-          },
-          {
-            "name": "episode name S2 E9",
-            "link": "https://drive.google.com/file/d/11X76YAPwiqa6tZDROMVrpnrRM0bgbgK8/view"
-          },
-          {
-            "name": "episode name S2 E10",
-            "link": "https://drive.google.com/file/d/11YWFa7lK8Zuqb2q-Sidr8OUaNq0B5Hxv/view"
-          },
-          {
-            "name": "episode name S2 E11",
-            "link": "https://drive.google.com/file/d/11Zqlxw-VuFo95H03RCKei4KdDUSBJRyR/view"
-          },
-          {
-            "name": "episode name S2 E12",
-            "link": "https://drive.google.com/file/d/11abyBaVDxQO61nXbnWKBATJN0GDC632P/view"
-          },
-          {
-            "name": "episode name S2 E13",
-            "link": "https://drive.google.com/file/d/11dyRa6UC4AaVptK6VI8XowdDR-U9AEU2/view"
+            "name": "Episode 08",
+            "link": ""
           }
         ]
       },
       {
-        "name": "Dark Season 3",
+        "name": "Season 3",
         "episodes": [
           {
-            "name": "episode name S3 E1",
-            "link": "https://drive.google.com/file/d/112Us3IrUfGK0bDDBpRUCk9qbFcuZgoEd/view"
+            "name": "Episode 01",
+            "link": ""
           },
           {
-            "name": "episode name S3 E2",
-            "link": "https://drive.google.com/file/d/115bom0RptrEEVREkPZqFJ3w7AmddpKIE/view"
+            "name": "Episode 02",
+            "link": ""
           },
           {
-            "name": "episode name S3 E3",
-            "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
+            "name": "Episode 03",
+            "link": ""
           },
           {
-            "name": "episode name S3 E4",
-            "link": "https://drive.google.com/file/d/11C6HMUUD4igLJCxA7jyMj1YWHuFnjJEr/view"
+            "name": "Episode 04",
+            "link": ""
           },
           {
-            "name": "episode name S3 E5",
-            "link": "https://drive.google.com/file/d/11GbZRqY0PcAQTRRkG-kdvzehnm6dInFy/view"
+            "name": "Episode 05",
+            "link": ""
           },
           {
-            "name": "episode name S3 E6",
-            "link": "https://drive.google.com/file/d/11LxQ-FGv5YJXAsNPlrwluFoAroIoAKNu/view"
+            "name": "Episode 06",
+            "link": ""
           },
           {
-            "name": "episode name S3 E7",
-            "link": "https://drive.google.com/file/d/11MN4NpTEZhwu-DLbDKY2W2T9LsO67J5A/view"
+            "name": "Episode 07",
+            "link": ""
           },
           {
-            "name": "episode name S3 E8",
-            "link": "https://drive.google.com/file/d/11OCnr8OqnONKofYCIzRnQOvCD5pssnHi/view"
-          },
-          {
-            "name": "episode name S1 E9",
-            "link": "https://drive.google.com/file/d/11X76YAPwiqa6tZDROMVrpnrRM0bgbgK8/view"
-          },
-          {
-            "name": "episode name S3 E10",
-            "link": "https://drive.google.com/file/d/11YWFa7lK8Zuqb2q-Sidr8OUaNq0B5Hxv/view"
-          },
-          {
-            "name": "episode name S3 E11",
-            "link": "https://drive.google.com/file/d/11Zqlxw-VuFo95H03RCKei4KdDUSBJRyR/view"
-          },
-          {
-            "name": "episode name S3 E12",
-            "link": "https://drive.google.com/file/d/11abyBaVDxQO61nXbnWKBATJN0GDC632P/view"
-          },
-          {
-            "name": "episode name S3 E13",
-            "link": "https://drive.google.com/file/d/11dyRa6UC4AaVptK6VI8XowdDR-U9AEU2/view"
-          }
-        ]
-      },
-      {
-        "name": "Dark Season 4",
-        "episodes": [
-          {
-            "name": "episode name S4 E1",
-            "link": "https://drive.google.com/file/d/112Us3IrUfGK0bDDBpRUCk9qbFcuZgoEd/view"
-          },
-          {
-            "name": "episode name S4 E2",
-            "link": "https://drive.google.com/file/d/115bom0RptrEEVREkPZqFJ3w7AmddpKIE/view"
-          },
-          {
-            "name": "episode name S4 E3",
-            "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
-          },
-          {
-            "name": "episode name S4 E4",
-            "link": "https://drive.google.com/file/d/11C6HMUUD4igLJCxA7jyMj1YWHuFnjJEr/view"
-          },
-          {
-            "name": "episode name S4 E5",
-            "link": "https://drive.google.com/file/d/11GbZRqY0PcAQTRRkG-kdvzehnm6dInFy/view"
-          },
-          {
-            "name": "episode name S4 E6",
-            "link": "https://drive.google.com/file/d/11LxQ-FGv5YJXAsNPlrwluFoAroIoAKNu/view"
-          },
-          {
-            "name": "episode name S4 E7",
-            "link": "https://drive.google.com/file/d/11MN4NpTEZhwu-DLbDKY2W2T9LsO67J5A/view"
-          },
-          {
-            "name": "episode name S1 E8",
-            "link": "https://drive.google.com/file/d/11OCnr8OqnONKofYCIzRnQOvCD5pssnHi/view"
-          },
-          {
-            "name": "episode name S4 E9",
-            "link": "https://drive.google.com/file/d/11X76YAPwiqa6tZDROMVrpnrRM0bgbgK8/view"
-          },
-          {
-            "name": "episode name S4 E10",
-            "link": "https://drive.google.com/file/d/11YWFa7lK8Zuqb2q-Sidr8OUaNq0B5Hxv/view"
-          },
-          {
-            "name": "episode name S4 E11",
-            "link": "https://drive.google.com/file/d/11Zqlxw-VuFo95H03RCKei4KdDUSBJRyR/view"
-          },
-          {
-            "name": "episode name S4 E12",
-            "link": "https://drive.google.com/file/d/11abyBaVDxQO61nXbnWKBATJN0GDC632P/view"
-          },
-          {
-            "name": "episode name S4 E13",
-            "link": "https://drive.google.com/file/d/11dyRa6UC4AaVptK6VI8XowdDR-U9AEU2/view"
-          }
-        ]
-      },
-      {
-        "name": "Dark Season 5",
-        "episodes": [
-          {
-            "name": "episode name S5 E1",
-            "link": "https://drive.google.com/file/d/112Us3IrUfGK0bDDBpRUCk9qbFcuZgoEd/view"
-          },
-          {
-            "name": "episode name S5 E2",
-            "link": "https://drive.google.com/file/d/115bom0RptrEEVREkPZqFJ3w7AmddpKIE/view"
-          },
-          {
-            "name": "episode name S5 E3",
-            "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
-          },
-          {
-            "name": "episode name S5 E4",
-            "link": "https://drive.google.com/file/d/11C6HMUUD4igLJCxA7jyMj1YWHuFnjJEr/view"
-          },
-          {
-            "name": "episode name S5 E5",
-            "link": "https://drive.google.com/file/d/11GbZRqY0PcAQTRRkG-kdvzehnm6dInFy/view"
-          },
-          {
-            "name": "episode name S5 E6",
-            "link": "https://drive.google.com/file/d/11LxQ-FGv5YJXAsNPlrwluFoAroIoAKNu/view"
-          },
-          {
-            "name": "episode name S5 E7",
-            "link": "https://drive.google.com/file/d/11MN4NpTEZhwu-DLbDKY2W2T9LsO67J5A/view"
-          },
-          {
-            "name": "episode name S5 E8",
-            "link": "https://drive.google.com/file/d/11OCnr8OqnONKofYCIzRnQOvCD5pssnHi/view"
-          },
-          {
-            "name": "episode name S5 E9",
-            "link": "https://drive.google.com/file/d/11X76YAPwiqa6tZDROMVrpnrRM0bgbgK8/view"
-          },
-          {
-            "name": "episode name S5 E10",
-            "link": "https://drive.google.com/file/d/11YWFa7lK8Zuqb2q-Sidr8OUaNq0B5Hxv/view"
-          },
-          {
-            "name": "episode name S5 E11",
-            "link": "https://drive.google.com/file/d/11Zqlxw-VuFo95H03RCKei4KdDUSBJRyR/view"
-          },
-          {
-            "name": "episode name S5 E12",
-            "link": "https://drive.google.com/file/d/11abyBaVDxQO61nXbnWKBATJN0GDC632P/view"
-          },
-          {
-            "name": "episode name S5 E13",
-            "link": "https://drive.google.com/file/d/11dyRa6UC4AaVptK6VI8XowdDR-U9AEU2/view"
+            "name": "Episode 08",
+            "link": ""
           }
         ]
       }
     ]
   },
   {
-    "name": "Dark 3",
-    "type": "german",
-    "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo consequatur inventore repudiandae iusto a harum numquam dolores nisi quaerat commodi?",
-    "posterUrl": "https://i.ibb.co/bNqVPxd/moneyheist.jpg",
-    "coverUrl": "https://i.ibb.co/S3k2CSj/monyheistcover.jpg",
+    "name": "Hellbound",
+    "type": "tvshows",
+    "overview": "Unearthly beings deliver bloody condemnations, sending individuals to hell and giving rise to a religious group founded on the idea of divine justice.",
+
+    "posterUrl": "https://i.ibb.co/WDStpxW/MV5-BNz-U1-ODk0-ZWUt-Mzdk-YS00-Ym-I2-LWI1-Nj-It-OTg0-Nj-Qx-NGY5-Mm-Nl-Xk-Ey-Xk-Fqc-Gde-QXVy-ODk4-OTc.jpg",
+    "coverUrl": "https://i.ibb.co/8rst7sq/thumb-1920-1193111.jpg",
     "seasons": [
       {
-        "name": "Dark Season 1",
+        "name": "Season 1",
         "episodes": [
           {
-            "name": "episode name S1 E1",
-            "link": "https://drive.google.com/file/d/112Us3IrUfGK0bDDBpRUCk9qbFcuZgoEd/view"
+            "name": "Episode 01",
+            "link": ""
           },
           {
-            "name": "episode name S1 E2",
-            "link": "https://drive.google.com/file/d/115bom0RptrEEVREkPZqFJ3w7AmddpKIE/view"
+            "name": "Episode 02",
+            "link": ""
           },
           {
-            "name": "episode name S1 E3",
-            "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
+            "name": "Episode 03",
+            "link": ""
           },
           {
-            "name": "episode name S1 E4",
-            "link": "https://drive.google.com/file/d/11C6HMUUD4igLJCxA7jyMj1YWHuFnjJEr/view"
+            "name": "Episode 04",
+            "link": ""
           },
           {
-            "name": "episode name S1 E5",
-            "link": "https://drive.google.com/file/d/11GbZRqY0PcAQTRRkG-kdvzehnm6dInFy/view"
+            "name": "Episode 05",
+            "link": ""
           },
           {
-            "name": "episode name S1 E6",
-            "link": "https://drive.google.com/file/d/11LxQ-FGv5YJXAsNPlrwluFoAroIoAKNu/view"
+            "name": "Episode 06",
+            "link": ""
           },
           {
-            "name": "episode name S1 E7",
-            "link": "https://drive.google.com/file/d/11MN4NpTEZhwu-DLbDKY2W2T9LsO67J5A/view"
+            "name": "Episode 07",
+            "link": ""
           },
           {
-            "name": "episode name S1 E8",
-            "link": "https://drive.google.com/file/d/11OCnr8OqnONKofYCIzRnQOvCD5pssnHi/view"
+            "name": "Episode 08",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The Silent Sea",
+    "type": "tvshows",
+    "overview": "During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.",
+
+    "posterUrl": "https://i.ibb.co/fkVdmmc/MV5-BMj-Fk-NDNj-YTkt-Zj-Ji-Ni00-Y2-U3-LWE2-NDgt-ZDM3-Yj-Iz-MWUz-NGM2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEz-MTI1.jpg",
+    "coverUrl": "https://i.ibb.co/hVm2PXq/wallpapersden-com-netflix-the-silent-sea-3840x2160.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": ""
           },
           {
-            "name": "episode name S1 E9",
-            "link": "https://drive.google.com/file/d/11X76YAPwiqa6tZDROMVrpnrRM0bgbgK8/view"
+            "name": "Episode 02",
+            "link": ""
           },
           {
-            "name": "episode name S1 E10",
-            "link": "https://drive.google.com/file/d/11YWFa7lK8Zuqb2q-Sidr8OUaNq0B5Hxv/view"
+            "name": "Episode 03",
+            "link": ""
           },
           {
-            "name": "episode name S1 E11",
-            "link": "https://drive.google.com/file/d/11Zqlxw-VuFo95H03RCKei4KdDUSBJRyR/view"
+            "name": "Episode 04",
+            "link": ""
           },
           {
-            "name": "episode name S1 E12",
-            "link": "https://drive.google.com/file/d/11abyBaVDxQO61nXbnWKBATJN0GDC632P/view"
+            "name": "Episode 05",
+            "link": ""
           },
           {
-            "name": "episode name S1 E13",
-            "link": "https://drive.google.com/file/d/11dyRa6UC4AaVptK6VI8XowdDR-U9AEU2/view"
+            "name": "Episode 06",
+            "link": ""
+          },
+          {
+            "name": "Episode 07",
+            "link": ""
+          },
+          {
+            "name": "Episode 08",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dark",
+    "type": "tvshows",
+    "overview": "A family saga with a supernatural twist, set in a German town where the disappearance of two young children exposes the relationships among four families.",
+
+    "posterUrl": "https://i.ibb.co/s6hr7Mq/MV5-BYTZm-NTg3-ZWYt-ZTQ1-ZC00-OTli-LWFl-Nj-Qt-ODk1-Yz-Q4-NGI5-Zm-Nl-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEy-Mj-M2.jpg",
+    "coverUrl": "https://i.ibb.co/dQdZcBm/1605477.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": ""
+          },
+          {
+            "name": "Episode 02",
+            "link": ""
+          },
+          {
+            "name": "Episode 03",
+            "link": ""
+          },
+          {
+            "name": "Episode 04",
+            "link": ""
+          },
+          {
+            "name": "Episode 05",
+            "link": ""
+          },
+          {
+            "name": "Episode 06",
+            "link": ""
+          },
+          {
+            "name": "Episode 07",
+            "link": ""
+          },
+          {
+            "name": "Episode 08",
+            "link": ""
           }
         ]
       },
       {
-        "name": "Dark Season 2",
+        "name": "Season 2",
         "episodes": [
           {
-            "name": "episode name S2 E1",
-            "link": "https://drive.google.com/file/d/112Us3IrUfGK0bDDBpRUCk9qbFcuZgoEd/view"
+            "name": "Episode 01",
+            "link": ""
           },
           {
-            "name": "episode name S2 E2",
-            "link": "https://drive.google.com/file/d/115bom0RptrEEVREkPZqFJ3w7AmddpKIE/view"
+            "name": "Episode 02",
+            "link": ""
           },
           {
-            "name": "episode name S2 E3",
-            "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
+            "name": "Episode 03",
+            "link": ""
           },
           {
-            "name": "episode name S2 E4",
-            "link": "https://drive.google.com/file/d/11C6HMUUD4igLJCxA7jyMj1YWHuFnjJEr/view"
+            "name": "Episode 04",
+            "link": ""
           },
           {
-            "name": "episode name S2 E5",
-            "link": "https://drive.google.com/file/d/11GbZRqY0PcAQTRRkG-kdvzehnm6dInFy/view"
+            "name": "Episode 05",
+            "link": ""
           },
           {
-            "name": "episode name S2 E6",
-            "link": "https://drive.google.com/file/d/11LxQ-FGv5YJXAsNPlrwluFoAroIoAKNu/view"
+            "name": "Episode 06",
+            "link": ""
           },
           {
-            "name": "episode name S2 E7",
-            "link": "https://drive.google.com/file/d/11MN4NpTEZhwu-DLbDKY2W2T9LsO67J5A/view"
+            "name": "Episode 07",
+            "link": ""
           },
           {
-            "name": "episode name S2 E8",
-            "link": "https://drive.google.com/file/d/11OCnr8OqnONKofYCIzRnQOvCD5pssnHi/view"
-          },
-          {
-            "name": "episode name S2 E9",
-            "link": "https://drive.google.com/file/d/11X76YAPwiqa6tZDROMVrpnrRM0bgbgK8/view"
-          },
-          {
-            "name": "episode name S2 E10",
-            "link": "https://drive.google.com/file/d/11YWFa7lK8Zuqb2q-Sidr8OUaNq0B5Hxv/view"
-          },
-          {
-            "name": "episode name S2 E11",
-            "link": "https://drive.google.com/file/d/11Zqlxw-VuFo95H03RCKei4KdDUSBJRyR/view"
-          },
-          {
-            "name": "episode name S2 E12",
-            "link": "https://drive.google.com/file/d/11abyBaVDxQO61nXbnWKBATJN0GDC632P/view"
-          },
-          {
-            "name": "episode name S2 E13",
-            "link": "https://drive.google.com/file/d/11dyRa6UC4AaVptK6VI8XowdDR-U9AEU2/view"
+            "name": "Episode 08",
+            "link": ""
           }
         ]
       },
       {
-        "name": "Dark Season 3",
+        "name": "Season 3",
         "episodes": [
           {
-            "name": "episode name S3 E1",
-            "link": "https://drive.google.com/file/d/112Us3IrUfGK0bDDBpRUCk9qbFcuZgoEd/view"
+            "name": "Episode 01",
+            "link": ""
           },
           {
-            "name": "episode name S3 E2",
-            "link": "https://drive.google.com/file/d/115bom0RptrEEVREkPZqFJ3w7AmddpKIE/view"
+            "name": "Episode 02",
+            "link": ""
           },
           {
-            "name": "episode name S3 E3",
+            "name": "Episode 03",
+            "link": ""
+          },
+          {
+            "name": "Episode 04",
+            "link": ""
+          },
+          {
+            "name": "Episode 05",
+            "link": ""
+          },
+          {
+            "name": "Episode 06",
+            "link": ""
+          },
+          {
+            "name": "Episode 07",
+            "link": ""
+          },
+          {
+            "name": "Episode 08",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "name": "BUSINESS  PROPOSAL",
+    "type": "tvshows",
+    "overview": "In disguise as her friend, Ha-ri shows up to a blind date to scare him away. But plans go awry when he turns out to be her CEO - and makes a proposal.",
+
+    "posterUrl": "https://i.ibb.co/KLrPPSB/MV5-BNjlh-MDc5-NDMt-ZGY2-Mi00-ZTMx-LTk0-Y2-It-N2-Vj-ZDQ1-Zm-Ri-ZGQ2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTMz-ODk3.jpg",
+    "coverUrl": "https://i.ibb.co/tqGtYW5/drama-korea-business-proposal-2022-1-169.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": ""
+          },
+          {
+            "name": "Episode 02",
+            "link": ""
+          },
+          {
+            "name": "Episode 03",
+            "link": ""
+          },
+          {
+            "name": "Episode 04",
+            "link": ""
+          },
+          {
+            "name": "Episode 05",
+            "link": ""
+          },
+          {
+            "name": "Episode 06",
+            "link": ""
+          },
+          {
+            "name": "Episode 07",
+            "link": ""
+          },
+          {
+            "name": "Episode 08",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ALL OF US ARE DEAD",
+    "type": "tvshows",
+    "overview": "A high school becomes ground zero for a zombie virus outbreak. Trapped students must fight their way out — or turn into one of the rabid infected.",
+
+    "posterUrl": "https://i.ibb.co/TRwQ2Vs/ze4lhw0o-LBHYml-M2-Ku-Zj-Bg0-Sq6-H.jpg",
+    "coverUrl": "https://i.ibb.co/f01MChb/1208938.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1b6CdOloxADJCYlbamIDx3-pILTJvSokX/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1k5l0QvYF-nfIpgzv_0Dgzve2NecDiP6f/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
             "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
           },
           {
-            "name": "episode name S3 E4",
-            "link": "https://drive.google.com/file/d/11C6HMUUD4igLJCxA7jyMj1YWHuFnjJEr/view"
+            "name": "Episode 4 Next Week",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "name": "Moon Knight",
+    "type": "tvshows",
+    "overview": "Steven Grant discovers he's been granted the powers of an Egyptian moon god. But he soon finds out that these newfound powers can be both a blessing and a curse to his troubled life.",
+
+    "posterUrl": "https://i.ibb.co/QfSzySY/MV5-BNGM2-Zj-Jm-ZDQt-NTI5-MS00-ZTI0-LTky-Njkt-M2-Rl-YWY0-YTY5-MTYz-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEy-Mj-M2.jpg",
+    "coverUrl": "https://i.ibb.co/xfHqKLs/HD-wallpaper-comics-moon-knight-marvel-comics.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1b6CdOloxADJCYlbamIDx3-pILTJvSokX/view?usp=sharing"
           },
           {
-            "name": "episode name S3 E5",
-            "link": "https://drive.google.com/file/d/11GbZRqY0PcAQTRRkG-kdvzehnm6dInFy/view"
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1k5l0QvYF-nfIpgzv_0Dgzve2NecDiP6f/view?usp=sharing"
           },
           {
-            "name": "episode name S3 E6",
-            "link": "https://drive.google.com/file/d/11LxQ-FGv5YJXAsNPlrwluFoAroIoAKNu/view"
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
           },
           {
-            "name": "episode name S3 E7",
-            "link": "https://drive.google.com/file/d/11MN4NpTEZhwu-DLbDKY2W2T9LsO67J5A/view"
+            "name": "Episode 4 Next Week",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "GAME OF THRONES",
+    "type": "tvshows",
+    "overview": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+
+    "posterUrl": "https://i.ibb.co/DwfZM0R/MV5-BYTRi-NDQw-Yz-At-Mz-Vl-ZS00-NTI5-LWJj-Yj-Ut-Mzkw-NTUz-MWMx-ZTll-Xk-Ey-Xk-Fqc-Gde-QXVy-NDIz-Mzcw.jpg",
+    "coverUrl": "https://i.ibb.co/0cM68mp/game-of-thrones-season-8-4k-x7.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1b6CdOloxADJCYlbamIDx3-pILTJvSokX/view?usp=sharing"
           },
           {
-            "name": "episode name S3 E8",
-            "link": "https://drive.google.com/file/d/11OCnr8OqnONKofYCIzRnQOvCD5pssnHi/view"
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1k5l0QvYF-nfIpgzv_0Dgzve2NecDiP6f/view?usp=sharing"
           },
           {
-            "name": "episode name S1 E9",
-            "link": "https://drive.google.com/file/d/11X76YAPwiqa6tZDROMVrpnrRM0bgbgK8/view"
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
           },
           {
-            "name": "episode name S3 E10",
-            "link": "https://drive.google.com/file/d/11YWFa7lK8Zuqb2q-Sidr8OUaNq0B5Hxv/view"
-          },
-          {
-            "name": "episode name S3 E11",
-            "link": "https://drive.google.com/file/d/11Zqlxw-VuFo95H03RCKei4KdDUSBJRyR/view"
-          },
-          {
-            "name": "episode name S3 E12",
-            "link": "https://drive.google.com/file/d/11abyBaVDxQO61nXbnWKBATJN0GDC632P/view"
-          },
-          {
-            "name": "episode name S3 E13",
-            "link": "https://drive.google.com/file/d/11dyRa6UC4AaVptK6VI8XowdDR-U9AEU2/view"
+            "name": "Episode 4 Next Week",
+            "link": ""
           }
         ]
       },
       {
-        "name": "Dark Season 4",
+        "name": "Season 2",
         "episodes": [
           {
-            "name": "episode name S4 E1",
-            "link": "https://drive.google.com/file/d/112Us3IrUfGK0bDDBpRUCk9qbFcuZgoEd/view"
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1b6CdOloxADJCYlbamIDx3-pILTJvSokX/view?usp=sharing"
           },
           {
-            "name": "episode name S4 E2",
-            "link": "https://drive.google.com/file/d/115bom0RptrEEVREkPZqFJ3w7AmddpKIE/view"
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1k5l0QvYF-nfIpgzv_0Dgzve2NecDiP6f/view?usp=sharing"
           },
           {
-            "name": "episode name S4 E3",
+            "name": "Episode 03",
             "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
           },
           {
-            "name": "episode name S4 E4",
-            "link": "https://drive.google.com/file/d/11C6HMUUD4igLJCxA7jyMj1YWHuFnjJEr/view"
-          },
-          {
-            "name": "episode name S4 E5",
-            "link": "https://drive.google.com/file/d/11GbZRqY0PcAQTRRkG-kdvzehnm6dInFy/view"
-          },
-          {
-            "name": "episode name S4 E6",
-            "link": "https://drive.google.com/file/d/11LxQ-FGv5YJXAsNPlrwluFoAroIoAKNu/view"
-          },
-          {
-            "name": "episode name S4 E7",
-            "link": "https://drive.google.com/file/d/11MN4NpTEZhwu-DLbDKY2W2T9LsO67J5A/view"
-          },
-          {
-            "name": "episode name S1 E8",
-            "link": "https://drive.google.com/file/d/11OCnr8OqnONKofYCIzRnQOvCD5pssnHi/view"
-          },
-          {
-            "name": "episode name S4 E9",
-            "link": "https://drive.google.com/file/d/11X76YAPwiqa6tZDROMVrpnrRM0bgbgK8/view"
-          },
-          {
-            "name": "episode name S4 E10",
-            "link": "https://drive.google.com/file/d/11YWFa7lK8Zuqb2q-Sidr8OUaNq0B5Hxv/view"
-          },
-          {
-            "name": "episode name S4 E11",
-            "link": "https://drive.google.com/file/d/11Zqlxw-VuFo95H03RCKei4KdDUSBJRyR/view"
-          },
-          {
-            "name": "episode name S4 E12",
-            "link": "https://drive.google.com/file/d/11abyBaVDxQO61nXbnWKBATJN0GDC632P/view"
-          },
-          {
-            "name": "episode name S4 E13",
-            "link": "https://drive.google.com/file/d/11dyRa6UC4AaVptK6VI8XowdDR-U9AEU2/view"
+            "name": "Episode 4 Next Week",
+            "link": ""
           }
         ]
       },
       {
-        "name": "Dark Season 5",
+        "name": "Season 3",
         "episodes": [
           {
-            "name": "episode name S5 E1",
-            "link": "https://drive.google.com/file/d/112Us3IrUfGK0bDDBpRUCk9qbFcuZgoEd/view"
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1b6CdOloxADJCYlbamIDx3-pILTJvSokX/view?usp=sharing"
           },
           {
-            "name": "episode name S5 E2",
-            "link": "https://drive.google.com/file/d/115bom0RptrEEVREkPZqFJ3w7AmddpKIE/view"
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1k5l0QvYF-nfIpgzv_0Dgzve2NecDiP6f/view?usp=sharing"
           },
           {
-            "name": "episode name S5 E3",
+            "name": "Episode 03",
             "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
           },
           {
-            "name": "episode name S5 E4",
-            "link": "https://drive.google.com/file/d/11C6HMUUD4igLJCxA7jyMj1YWHuFnjJEr/view"
+            "name": "Episode 4 Next Week",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "name": "Season 4",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1b6CdOloxADJCYlbamIDx3-pILTJvSokX/view?usp=sharing"
           },
           {
-            "name": "episode name S5 E5",
-            "link": "https://drive.google.com/file/d/11GbZRqY0PcAQTRRkG-kdvzehnm6dInFy/view"
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1k5l0QvYF-nfIpgzv_0Dgzve2NecDiP6f/view?usp=sharing"
           },
           {
-            "name": "episode name S5 E6",
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
+          },
+          {
+            "name": "Episode 4 Next Week",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "name": "Season 5",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1b6CdOloxADJCYlbamIDx3-pILTJvSokX/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1k5l0QvYF-nfIpgzv_0Dgzve2NecDiP6f/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
+          },
+          {
+            "name": "Episode 4 Next Week",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "name": "Season 6",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1b6CdOloxADJCYlbamIDx3-pILTJvSokX/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1k5l0QvYF-nfIpgzv_0Dgzve2NecDiP6f/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
+          },
+          {
+            "name": "Episode 4 Next Week",
+            "link": ""
+          }
+        ]
+      },
+
+      {
+        "name": "Season 7",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1b6CdOloxADJCYlbamIDx3-pILTJvSokX/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1k5l0QvYF-nfIpgzv_0Dgzve2NecDiP6f/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
+          },
+          {
+            "name": "Episode 4 Next Week",
+            "link": ""
+          }
+        ]
+      },
+
+      {
+        "name": "Season 8",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1b6CdOloxADJCYlbamIDx3-pILTJvSokX/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1k5l0QvYF-nfIpgzv_0Dgzve2NecDiP6f/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
+          },
+          {
+            "name": "Episode 4 Next Week",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Squid Game",
+    "type": "popularonsmas",
+    "overview": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes.",
+    "posterUrl": "https://i.ibb.co/Jd2Vzdd/MV5-BYWE3-MDVk-N2-Et-Nj-Q5-MS00-ZDQ4-LTli-Nz-Yt-Mjc2-YWMz-MDEw-MTA3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEz-MTI1.jpg",
+    "coverUrl": "https://i.ibb.co/gdQpcry/thumb-1920-1191374.jpg",
+    "seasons": [
+      {
+        "name": "Squid Game Season 1",
+        "episodes": [
+          {
+            "name": "Episode 1",
+            "link": "https://drive.google.com/file/d/14cI6Nmb22Oy8mu-lAgKEBzZiLQOI009t/view?usp=sharing"
+          },
+          {
+            "name": "Episode 2",
+            "link": "https://drive.google.com/file/d/1DMwedzruDJ-4DO3_1-qHvmWKlCQComBF/view?usp=sharing"
+          },
+          {
+            "name": "Episode 3",
+            "link": "https://drive.google.com/file/d/1tnzuXm9_3KkgmT-Bo0ScRQGr1SiAoOE7/view?usp=sharing"
+          },
+          {
+            "name": "Episode 4",
+            "link": "https://drive.google.com/file/d/1IJWkzVu1R5T_FogN6X-YjzhhEkyDQWrF/view?usp=sharing"
+          },
+          {
+            "name": "Episode 5",
+            "link": "https://drive.google.com/file/d/1Ah9lohb12xFwPwk8w8HHG4-wYzik_1b7/view?usp=sharing"
+          },
+          {
+            "name": "Episode 6",
             "link": "https://drive.google.com/file/d/11LxQ-FGv5YJXAsNPlrwluFoAroIoAKNu/view"
           },
           {
-            "name": "episode name S5 E7",
+            "name": "Episode 7",
             "link": "https://drive.google.com/file/d/11MN4NpTEZhwu-DLbDKY2W2T9LsO67J5A/view"
           },
           {
-            "name": "episode name S5 E8",
+            "name": "Episode 8",
             "link": "https://drive.google.com/file/d/11OCnr8OqnONKofYCIzRnQOvCD5pssnHi/view"
           },
           {
-            "name": "episode name S5 E9",
+            "name": "Episode 9",
             "link": "https://drive.google.com/file/d/11X76YAPwiqa6tZDROMVrpnrRM0bgbgK8/view"
-          },
-          {
-            "name": "episode name S5 E10",
-            "link": "https://drive.google.com/file/d/11YWFa7lK8Zuqb2q-Sidr8OUaNq0B5Hxv/view"
-          },
-          {
-            "name": "episode name S5 E11",
-            "link": "https://drive.google.com/file/d/11Zqlxw-VuFo95H03RCKei4KdDUSBJRyR/view"
-          },
-          {
-            "name": "episode name S5 E12",
-            "link": "https://drive.google.com/file/d/11abyBaVDxQO61nXbnWKBATJN0GDC632P/view"
-          },
-          {
-            "name": "episode name S5 E13",
-            "link": "https://drive.google.com/file/d/11dyRa6UC4AaVptK6VI8XowdDR-U9AEU2/view"
           }
         ]
       }
@@ -883,293 +725,30 @@
   },
   {
     "name": "Money Heist",
-    "type": "spanish",
-    "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo consequatur inventore repudiandae iusto a harum numquam dolores nisi quaerat commodi?",
-    "posterUrl": "https://i.ibb.co/bNqVPxd/moneyheist.jpg",
-    "coverUrl": "https://i.ibb.co/S3k2CSj/monyheistcover.jpg",
+    "type": "tvshows",
+    "overview": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
+
+    "posterUrl": "https://i.ibb.co/9gM7zH1/61bo-Fr6-SYZL-SL1000.jpg",
+    "coverUrl": "https://i.ibb.co/dckZxdF/4NQ8oO.webp",
     "seasons": [
       {
-        "name": "Money Heist Season 1",
+        "name": "Season 1",
         "episodes": [
           {
-            "name": "episode name S1 E1",
-            "link": "https://drive.google.com/file/d/112Us3IrUfGK0bDDBpRUCk9qbFcuZgoEd/view"
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1b6CdOloxADJCYlbamIDx3-pILTJvSokX/view?usp=sharing"
           },
           {
-            "name": "episode name S1 E2",
-            "link": "https://drive.google.com/file/d/115bom0RptrEEVREkPZqFJ3w7AmddpKIE/view"
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1k5l0QvYF-nfIpgzv_0Dgzve2NecDiP6f/view?usp=sharing"
           },
           {
-            "name": "episode name S1 E3",
+            "name": "Episode 03",
             "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
           },
           {
-            "name": "episode name S1 E4",
-            "link": "https://drive.google.com/file/d/11C6HMUUD4igLJCxA7jyMj1YWHuFnjJEr/view"
-          },
-          {
-            "name": "episode name S1 E5",
-            "link": "https://drive.google.com/file/d/11GbZRqY0PcAQTRRkG-kdvzehnm6dInFy/view"
-          },
-          {
-            "name": "episode name S1 E6",
-            "link": "https://drive.google.com/file/d/11LxQ-FGv5YJXAsNPlrwluFoAroIoAKNu/view"
-          },
-          {
-            "name": "episode name S1 E7",
-            "link": "https://drive.google.com/file/d/11MN4NpTEZhwu-DLbDKY2W2T9LsO67J5A/view"
-          },
-          {
-            "name": "episode name S1 E8",
-            "link": "https://drive.google.com/file/d/11OCnr8OqnONKofYCIzRnQOvCD5pssnHi/view"
-          },
-          {
-            "name": "episode name S1 E9",
-            "link": "https://drive.google.com/file/d/11X76YAPwiqa6tZDROMVrpnrRM0bgbgK8/view"
-          },
-          {
-            "name": "episode name S1 E10",
-            "link": "https://drive.google.com/file/d/11YWFa7lK8Zuqb2q-Sidr8OUaNq0B5Hxv/view"
-          },
-          {
-            "name": "episode name S1 E11",
-            "link": "https://drive.google.com/file/d/11Zqlxw-VuFo95H03RCKei4KdDUSBJRyR/view"
-          },
-          {
-            "name": "episode name S1 E12",
-            "link": "https://drive.google.com/file/d/11abyBaVDxQO61nXbnWKBATJN0GDC632P/view"
-          },
-          {
-            "name": "episode name S1 E13",
-            "link": "https://drive.google.com/file/d/11dyRa6UC4AaVptK6VI8XowdDR-U9AEU2/view"
-          }
-        ]
-      },
-      {
-        "name": "Money Heist Season 2",
-        "episodes": [
-          {
-            "name": "episode name S2 E1",
-            "link": "https://drive.google.com/file/d/112Us3IrUfGK0bDDBpRUCk9qbFcuZgoEd/view"
-          },
-          {
-            "name": "episode name S2 E2",
-            "link": "https://drive.google.com/file/d/115bom0RptrEEVREkPZqFJ3w7AmddpKIE/view"
-          },
-          {
-            "name": "episode name S2 E3",
-            "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
-          },
-          {
-            "name": "episode name S2 E4",
-            "link": "https://drive.google.com/file/d/11C6HMUUD4igLJCxA7jyMj1YWHuFnjJEr/view"
-          },
-          {
-            "name": "episode name S2 E5",
-            "link": "https://drive.google.com/file/d/11GbZRqY0PcAQTRRkG-kdvzehnm6dInFy/view"
-          },
-          {
-            "name": "episode name S2 E6",
-            "link": "https://drive.google.com/file/d/11LxQ-FGv5YJXAsNPlrwluFoAroIoAKNu/view"
-          },
-          {
-            "name": "episode name S2 E7",
-            "link": "https://drive.google.com/file/d/11MN4NpTEZhwu-DLbDKY2W2T9LsO67J5A/view"
-          },
-          {
-            "name": "episode name S2 E8",
-            "link": "https://drive.google.com/file/d/11OCnr8OqnONKofYCIzRnQOvCD5pssnHi/view"
-          },
-          {
-            "name": "episode name S2 E9",
-            "link": "https://drive.google.com/file/d/11X76YAPwiqa6tZDROMVrpnrRM0bgbgK8/view"
-          },
-          {
-            "name": "episode name S2 E10",
-            "link": "https://drive.google.com/file/d/11YWFa7lK8Zuqb2q-Sidr8OUaNq0B5Hxv/view"
-          },
-          {
-            "name": "episode name S2 E11",
-            "link": "https://drive.google.com/file/d/11Zqlxw-VuFo95H03RCKei4KdDUSBJRyR/view"
-          },
-          {
-            "name": "episode name S2 E12",
-            "link": "https://drive.google.com/file/d/11abyBaVDxQO61nXbnWKBATJN0GDC632P/view"
-          },
-          {
-            "name": "episode name S2 E13",
-            "link": "https://drive.google.com/file/d/11dyRa6UC4AaVptK6VI8XowdDR-U9AEU2/view"
-          }
-        ]
-      },
-      {
-        "name": "Money Heist Season 3",
-        "episodes": [
-          {
-            "name": "episode name S3 E1",
-            "link": "https://drive.google.com/file/d/112Us3IrUfGK0bDDBpRUCk9qbFcuZgoEd/view"
-          },
-          {
-            "name": "episode name S3 E2",
-            "link": "https://drive.google.com/file/d/115bom0RptrEEVREkPZqFJ3w7AmddpKIE/view"
-          },
-          {
-            "name": "episode name S3 E3",
-            "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
-          },
-          {
-            "name": "episode name S3 E4",
-            "link": "https://drive.google.com/file/d/11C6HMUUD4igLJCxA7jyMj1YWHuFnjJEr/view"
-          },
-          {
-            "name": "episode name S3 E5",
-            "link": "https://drive.google.com/file/d/11GbZRqY0PcAQTRRkG-kdvzehnm6dInFy/view"
-          },
-          {
-            "name": "episode name S3 E6",
-            "link": "https://drive.google.com/file/d/11LxQ-FGv5YJXAsNPlrwluFoAroIoAKNu/view"
-          },
-          {
-            "name": "episode name S3 E7",
-            "link": "https://drive.google.com/file/d/11MN4NpTEZhwu-DLbDKY2W2T9LsO67J5A/view"
-          },
-          {
-            "name": "episode name S3 E8",
-            "link": "https://drive.google.com/file/d/11OCnr8OqnONKofYCIzRnQOvCD5pssnHi/view"
-          },
-          {
-            "name": "episode name S1 E9",
-            "link": "https://drive.google.com/file/d/11X76YAPwiqa6tZDROMVrpnrRM0bgbgK8/view"
-          },
-          {
-            "name": "episode name S3 E10",
-            "link": "https://drive.google.com/file/d/11YWFa7lK8Zuqb2q-Sidr8OUaNq0B5Hxv/view"
-          },
-          {
-            "name": "episode name S3 E11",
-            "link": "https://drive.google.com/file/d/11Zqlxw-VuFo95H03RCKei4KdDUSBJRyR/view"
-          },
-          {
-            "name": "episode name S3 E12",
-            "link": "https://drive.google.com/file/d/11abyBaVDxQO61nXbnWKBATJN0GDC632P/view"
-          },
-          {
-            "name": "episode name S3 E13",
-            "link": "https://drive.google.com/file/d/11dyRa6UC4AaVptK6VI8XowdDR-U9AEU2/view"
-          }
-        ]
-      },
-      {
-        "name": "Money Heist Season 4",
-        "episodes": [
-          {
-            "name": "episode name S4 E1",
-            "link": "https://drive.google.com/file/d/112Us3IrUfGK0bDDBpRUCk9qbFcuZgoEd/view"
-          },
-          {
-            "name": "episode name S4 E2",
-            "link": "https://drive.google.com/file/d/115bom0RptrEEVREkPZqFJ3w7AmddpKIE/view"
-          },
-          {
-            "name": "episode name S4 E3",
-            "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
-          },
-          {
-            "name": "episode name S4 E4",
-            "link": "https://drive.google.com/file/d/11C6HMUUD4igLJCxA7jyMj1YWHuFnjJEr/view"
-          },
-          {
-            "name": "episode name S4 E5",
-            "link": "https://drive.google.com/file/d/11GbZRqY0PcAQTRRkG-kdvzehnm6dInFy/view"
-          },
-          {
-            "name": "episode name S4 E6",
-            "link": "https://drive.google.com/file/d/11LxQ-FGv5YJXAsNPlrwluFoAroIoAKNu/view"
-          },
-          {
-            "name": "episode name S4 E7",
-            "link": "https://drive.google.com/file/d/11MN4NpTEZhwu-DLbDKY2W2T9LsO67J5A/view"
-          },
-          {
-            "name": "episode name S1 E8",
-            "link": "https://drive.google.com/file/d/11OCnr8OqnONKofYCIzRnQOvCD5pssnHi/view"
-          },
-          {
-            "name": "episode name S4 E9",
-            "link": "https://drive.google.com/file/d/11X76YAPwiqa6tZDROMVrpnrRM0bgbgK8/view"
-          },
-          {
-            "name": "episode name S4 E10",
-            "link": "https://drive.google.com/file/d/11YWFa7lK8Zuqb2q-Sidr8OUaNq0B5Hxv/view"
-          },
-          {
-            "name": "episode name S4 E11",
-            "link": "https://drive.google.com/file/d/11Zqlxw-VuFo95H03RCKei4KdDUSBJRyR/view"
-          },
-          {
-            "name": "episode name S4 E12",
-            "link": "https://drive.google.com/file/d/11abyBaVDxQO61nXbnWKBATJN0GDC632P/view"
-          },
-          {
-            "name": "episode name S4 E13",
-            "link": "https://drive.google.com/file/d/11dyRa6UC4AaVptK6VI8XowdDR-U9AEU2/view"
-          }
-        ]
-      },
-      {
-        "name": "Money Heist Season 5",
-        "episodes": [
-          {
-            "name": "episode name S5 E1",
-            "link": "https://drive.google.com/file/d/112Us3IrUfGK0bDDBpRUCk9qbFcuZgoEd/view"
-          },
-          {
-            "name": "episode name S5 E2",
-            "link": "https://drive.google.com/file/d/115bom0RptrEEVREkPZqFJ3w7AmddpKIE/view"
-          },
-          {
-            "name": "episode name S5 E3",
-            "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
-          },
-          {
-            "name": "episode name S5 E4",
-            "link": "https://drive.google.com/file/d/11C6HMUUD4igLJCxA7jyMj1YWHuFnjJEr/view"
-          },
-          {
-            "name": "episode name S5 E5",
-            "link": "https://drive.google.com/file/d/11GbZRqY0PcAQTRRkG-kdvzehnm6dInFy/view"
-          },
-          {
-            "name": "episode name S5 E6",
-            "link": "https://drive.google.com/file/d/11LxQ-FGv5YJXAsNPlrwluFoAroIoAKNu/view"
-          },
-          {
-            "name": "episode name S5 E7",
-            "link": "https://drive.google.com/file/d/11MN4NpTEZhwu-DLbDKY2W2T9LsO67J5A/view"
-          },
-          {
-            "name": "episode name S5 E8",
-            "link": "https://drive.google.com/file/d/11OCnr8OqnONKofYCIzRnQOvCD5pssnHi/view"
-          },
-          {
-            "name": "episode name S5 E9",
-            "link": "https://drive.google.com/file/d/11X76YAPwiqa6tZDROMVrpnrRM0bgbgK8/view"
-          },
-          {
-            "name": "episode name S5 E10",
-            "link": "https://drive.google.com/file/d/11YWFa7lK8Zuqb2q-Sidr8OUaNq0B5Hxv/view"
-          },
-          {
-            "name": "episode name S5 E11",
-            "link": "https://drive.google.com/file/d/11Zqlxw-VuFo95H03RCKei4KdDUSBJRyR/view"
-          },
-          {
-            "name": "episode name S5 E12",
-            "link": "https://drive.google.com/file/d/11abyBaVDxQO61nXbnWKBATJN0GDC632P/view"
-          },
-          {
-            "name": "episode name S5 E13",
-            "link": "https://drive.google.com/file/d/11dyRa6UC4AaVptK6VI8XowdDR-U9AEU2/view"
+            "name": "Episode 4 Next Week",
+            "link": ""
           }
         ]
       }

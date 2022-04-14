@@ -3,10 +3,10 @@ import axios from 'axios';
 import moment from 'moment'
 
 import newReleases from '../Data/newReleases.json';
-import popularOnSmas from '../Data/hollywoodMovies.json';
-import tvShows from '../Data/hollywoodMovies.json';
+import popularOnSmas from '../Data/popularOnSmas.json';
+import tvShows from '../Data/tvShows.json';
 import hollywoodMovies from '../Data/hollywoodMovies.json';
-import bollywoodMovies from '../Data/hollywoodMovies.json';
+import bollywoodMovies from '../Data/bollywoodMovies.json';
 
 import Nav from '../Nav/Nav';
 import SubExp from './SubExp';
