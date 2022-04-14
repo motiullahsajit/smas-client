@@ -9,6 +9,7 @@ const Auth = () => {
   const navigate = useNavigate();
   const [option, setOption] = useState('signUp');
   const [error, setError] = useState('');
+  const [emailError, setEmailErro] = useState('')
   const [formData, setFormData] = useState({});
   const [profileImgURl, setProfileImgURl] = useState(null);
   const [password, setPassword] = useState('')
@@ -78,6 +79,9 @@ const Auth = () => {
               localStorage.setItem('smasimageUrl', response.data.user.imageUrl)
               navigate(`/home`)
             }
+            if (response.data.success === false) {
+              setEmailErro(`${response.data.message}`)
+            }
 
           }).catch(error => { setError(error) })
         setError('')
@@ -130,6 +134,7 @@ const Auth = () => {
             </>
           }
           <p className='text_error'>{error}</p>
+          <p className='text_error'>{emailError}</p>
 
           {
             option === 'signUp' ?

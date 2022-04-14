@@ -9,6 +9,11 @@
   margin-left: 30px;
   padding-top: 140px;
   height: 190px;
+  @media screen and (max-width: 375px) {
+    h1 {
+      max-width: 250px;
+    }
+  }
 }
 
 .banner__title {

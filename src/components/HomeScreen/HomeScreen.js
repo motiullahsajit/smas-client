@@ -17,6 +17,7 @@ import RowSlider from '../RowSlider/RowSlider';
 import './HomeScreen.scss';
 
 const HomeScreen = () => {
+  document.title = 'Home';
   const [subExp, setSubExp] = useState(true);
 
   const smasuserId = localStorage.getItem('smasuserId');

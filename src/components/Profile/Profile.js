@@ -8,7 +8,7 @@ import './Profile.scss';
 import AccountMenu from '../Nav/Menu';
 
 const Profile = () => {
-
+  document.title = 'Profile';
   const navigate = useNavigate();
   const [user, setUser] = useState({})
 

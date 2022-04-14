@@ -3,10 +3,16 @@
   object-fit: content;
   margin: 0px 6px;
   transition: transform 450ms;
+  @media screen and (max-width: 400px) {
+    a {
+      display: flex;
+      justify-content: center;
+    }
+  }
 }
 
 .row__poster img {
-  max-width: 200px;
+  max-width: 180px;
   height: 100%;
 }
 

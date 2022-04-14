@@ -6,6 +6,7 @@ import AccountMenu from '../Nav/Menu';
 import './Subscription.scss';
 
 const Subscription = () => {
+  document.title = 'Subscription';
   const navigate = useNavigate();
   const [error, setError] = useState('');
   const [formData, setFormData] = useState({});
@@ -61,7 +62,7 @@ const Subscription = () => {
           {confirmation === false ? <>
             <h1 className='sub_form_heading'>Subscription</h1>
             <p>Our monthly subscription price is now only <span className='highlight'>50 BDT</span>. In the celebration of our new website we are giving <span className='highlight'>50% off</span></p>
-            <p>To confirm your subscription first send money to our Bkash No <span className='highlight'>017XXXXXXXX</span> and then fill-up the form.</p>
+            <p>To confirm your subscription first send money to our Bkash No <span className='highlight'>01537210819</span> and then fill-up the form.</p>
             <p>Thank You</p>
             <input name="name" type="text" onChange={(e) => onChangeHandler(e)} placeholder="Name" className="form_input" required />
             <input name="email" onChange={(e) => onChangeHandler(e)} type="email" placeholder="Email" className="form_input" required />
@@ -71,7 +72,7 @@ const Subscription = () => {
             <button type="submit" className="primary_button">Subscribe</button>
           </> :
             <p className='confirmation_text'>
-              Thank You for your request to upgrade your subscription, You will be notified about the activation within a very short time by your email.
+              Thank You for your request to upgrade your subscription, You will be notified about the activation within a very short time by your email, please also check your spam folder.
             </p>
           }
         </form>

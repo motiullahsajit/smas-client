@@ -10,6 +10,21 @@ main {
   object-fit: content;
 }
 
+.banner__contents_series {
+  margin-left: 30px;
+  height: 190px;
+  padding-top: 140px;
+  @media screen and (max-width: 375px) {
+    max-width: 250px;
+    h1 {
+      font-size: 2.2rem;
+    }
+    p {
+      max-width: 250px;
+    }
+  }
+}
+
 .banner__title {
   font-size: 3rem;
   font-weight: 800;
@@ -38,7 +53,7 @@ main {
 .seasons_container {
   display: flex;
   justify-content: center;
-  padding: 0 2rem;
+  padding: 0 2rem 2rem 2rem;
 }
 
 .seasons {

@@ -12,30 +12,6 @@ const SeriesPage = () => {
   const [lodder, setLodder] = useState(true)
 
   useEffect(() => {
-    // if (type === 'spanish') {
-    //   spanishSeries.find((s) => {
-    //     if (s.name === name) {
-    //       setSeries(s)
-    //       setLodder(false)
-    //     }
-    //   })
-    // }
-    // if (type === 'german') {
-    //   germanSeries.find((s) => {
-    //     if (s.name === name) {
-    //       setSeries(s)
-    //       setLodder(false)
-    //     }
-    //   })
-    // }
-    // if (type === 'korean') {
-    //   koreanSeries.find((s) => {
-    //     if (s.name === name) {
-    //       setSeries(s)
-    //       setLodder(false)
-    //     }
-    //   })
-    // }
     allData.find((s) => {
       if (s.name === name) {
         setSeries(s)
@@ -51,13 +27,13 @@ const SeriesPage = () => {
           <>
             <Nav />
             <header style={{ backgroundImage: `url('${series?.coverUrl}')`, backgroundRepeat: 'no-repeat', backgroundSize: 'cover', backgroundPosition: 'center center' }} className='banner'>
-              <div className="banner__contents">
+              <div className="banner__contents_series">
                 <h1 className="banner__title">
                   {series?.name}
                 </h1>
-                <h1 className="banner__description">
+                <p className="banner__description">
                   {series?.overview}
-                </h1>
+                </p>
               </div>
               <div className="banner--fadeBottom" />
             </header>
