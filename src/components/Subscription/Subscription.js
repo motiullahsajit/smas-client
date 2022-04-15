@@ -71,9 +71,12 @@ const Subscription = () => {
             <p className='text_error'>{error}</p>
             <button type="submit" className="primary_button">Subscribe</button>
           </> :
-            <p className='confirmation_text'>
-              Thank You for your request to upgrade your subscription, You will be notified about the activation within a very short time by your email, please also check your spam folder.
-            </p>
+            <>
+              <p className='confirmation_text'>
+                Thank You for your request to upgrade your subscription, You will be notified about the activation within a very short time by your email, please also check your spam folder.
+              </p>
+              <button className='primary_button_sub'>Back To Home</button>
+            </>
           }
         </form>
       </section>
