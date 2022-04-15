@@ -63,7 +63,7 @@ const Auth = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     if (option === 'signUp') {
-      if (password === confirmPassword && profileImgURl) {
+      if (password === confirmPassword) {
         const variables = {
           name: formData.name,
           email: formData.email,

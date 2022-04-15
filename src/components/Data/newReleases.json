@@ -1,8 +1,48 @@
 [
   {
+    "name": "KGF Chapter 2",
+    "type": "movie",
+    "posterUrl": "https://i.ibb.co/0DPBj5Z/MV5-BMj-Mw-MDgy-OGQt-MWZj-NC00-MDUw-LTll-ZDYt-ZWM3-NDBm-N2-Yz-NGZm-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQz-Njkz-M.jpg",
+    "movieUrl": "https://drive.google.com/file/d/1mYBV6GQ9jMD5zEodWu19cmqOaJW-4f9L/view?usp=sharing"
+  },
+
+  {
+    "name": "Beast",
+    "type": "movie",
+    "posterUrl": "https://i.ibb.co/d6rHZx3/MV5-BNDNj-NWYz-ZDIt-Mz-E3-NS00-YTU4-LThj-Nz-Ut-MDc0-ZWU3-Yjk3-N2-Jl-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEz-Nzg0.jpg",
+    "movieUrl": "https://drive.google.com/file/d/1lyLqbfXTABQxG6KJNnPCfaT3q47xVViO/view?usp=sharing"
+  },
+  {
+    "name": "Captain Nova",
+    "type": "movie",
+    "posterUrl": "https://i.ibb.co/McLywYG/MV5-BN2-Nm-M2-Qx-Yz-Mt-OWJj-Ni00-Zj-Ux-LWIz-MGMt-OWNi-MGU1-Yz-Vl-Yjdk-Xk-Ey-Xk-Fqc-Gde-QXVy-ODIy-Mj.jpg",
+    "movieUrl": "https://drive.google.com/file/d/16zk-RtnG4ciNmnRAKTPTUWkmwWfzGc4k/view?usp=sharing"
+  },
+
+  {
+    "name": "Rescued By Ruby",
+    "type": "movie",
+    "posterUrl": "https://i.ibb.co/JsBN2dM/download.jpg",
+    "movieUrl": "https://drive.google.com/file/d/1aaONgszRrXz8skoLoVV6W1gxnFJktO5q/view?usp=sharing"
+  },
+
+  {
+    "name": "Morbius",
+    "type": "movie",
+    "posterUrl": "https://i.ibb.co/HhSj5gY/MV5-BYjlh-NTA3-Y2-It-Yjhi-Yi00-NTBi-LTg5-MDMt-ZDJj-MDZj-Nz-Vj-Nj-Jm-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEy-Mj-M2.jpg",
+    "movieUrl": "https://drive.google.com/file/d/1YDKuTnWk__b-3U2lkCuPvPyPlkxFjSbx/view?usp=sharing"
+  },
+
+  {
+    "name": "Graves",
+    "type": "movie",
+    "posterUrl": "https://i.ibb.co/RyY98Mp/MV5-BNWI3-Yzk2-NWUt-MDlm-Zi00-Nj-Q5-LTlm-MTEt-ZWYz-NTdk-Y2-M3-NTcz-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI3-OTM2-M.jpg",
+    "movieUrl": "https://drive.google.com/file/d/1_RDKlEv4jZrmdiPD2onkpA9DaGa2tKDW/view?usp=sharing"
+  },
+  {
     "name": "Squid Game",
     "type": "popularonsmas",
-    "overview": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes.",
+    "overview": "2021 | 18+ | 1 Season | TV Thrillers",
     "posterUrl": "https://i.ibb.co/Jd2Vzdd/MV5-BYWE3-MDVk-N2-Et-Nj-Q5-MS00-ZDQ4-LTli-Nz-Yt-Mjc2-YWMz-MDEw-MTA3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEz-MTI1.jpg",
     "coverUrl": "https://i.ibb.co/gdQpcry/thumb-1920-1191374.jpg",
     "seasons": [
@@ -62,9 +102,15 @@
     ]
   },
   {
+    "name": "Ghostbusters Afterlife",
+    "type": "movie",
+    "posterUrl": "https://i.ibb.co/qpHZ3J1/MV5-BMm-Zi-Mjdl-N2-Ut-Yzdi-ZS00-Yjgx-LTgy-ZGMt-Yz-E4-ZGU5-NTlk-Njhh-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEy-Mj-M2.jpg",
+    "movieUrl": "https://drive.google.com/file/d/1g9budYR-r2W4qPPKV5Gv4x11zXjqJced/view?usp=sharing"
+  },
+  {
     "name": "Moon Knight",
     "type": "popularonsmas",
-    "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo consequatur inventore repudiandae iusto a harum numquam dolores nisi quaerat commodi?",
+    "overview": "2022 | 16+ | 1 Season | Disney+ ",
     "posterUrl": "https://i.ibb.co/QfSzySY/MV5-BNGM2-Zj-Jm-ZDQt-NTI5-MS00-ZTI0-LTky-Njkt-M2-Rl-YWY0-YTY5-MTYz-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEy-Mj-M2.jpg",
     "coverUrl": "https://i.ibb.co/xfHqKLs/HD-wallpaper-comics-moon-knight-marvel-comics.jpg",
     "seasons": [
@@ -96,5 +142,11 @@
     "type": "movie",
     "posterUrl": "https://i.ibb.co/SNSWLrq/MV5-BOWY3-ZWFk-Zm-It-NDE3-Ny00-ZTBh-LTg0-Nj-Qt-Y2-E2-ZGEy-Nm-Ew-ODA3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTkx-Nj-U.jpg",
     "movieUrl": "https://drive.google.com/file/d/133udxdG4CYO3x9iG0XtIcgF6bhaE9dAh/view?usp=sharing"
+  },
+  {
+    "name": "Bachchhan Paandey",
+    "type": "movie",
+    "posterUrl": "https://drive.google.com/uc?id=1o1QfU4jUOjhosO3j7uy6CuRf02pghfhf",
+    "movieUrl": "https://drive.google.com/file/d/18dbIwDR4lQaZgXrUyLplOL0K80KQrEVX/view?usp=sharing"
   }
 ]

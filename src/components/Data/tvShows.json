@@ -1,8 +1,363 @@
 [
   {
+    "name": "Moon Knight",
+    "type": "american",
+    "overview": "2022 | 16+ | 1 Season | Disney+ ",
+
+    "posterUrl": "https://i.ibb.co/QfSzySY/MV5-BNGM2-Zj-Jm-ZDQt-NTI5-MS00-ZTI0-LTky-Njkt-M2-Rl-YWY0-YTY5-MTYz-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEy-Mj-M2.jpg",
+    "coverUrl": "https://i.ibb.co/xfHqKLs/HD-wallpaper-comics-moon-knight-marvel-comics.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1b6CdOloxADJCYlbamIDx3-pILTJvSokX/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1k5l0QvYF-nfIpgzv_0Dgzve2NecDiP6f/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/16VnZWw0Fm3AqOFc7dP6_2JtXWJubXz59/view?usp=sharing"
+          },
+          {
+            "name": "Episode 4 Next Week",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Peaky Blinders",
+    "type": "british",
+    "overview": "2013 | 18+ | 5 Seasons | Period Pieces",
+    "posterUrl": "https://drive.google.com/uc?id=1-Zd5kZjUxo4NFFcjpssYmJ0Tyaa4v5OR",
+    "coverUrl": "https://drive.google.com/uc?id=1tOWoslrsaIKHqh7-rLQ6GOYhlWrbsUvD",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1w_tLWeSIdphfCgWsErx_4KUHMGVIu05y/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1ckpXPe5hesU6AFnvIcCoBcYCW-fkhKwI/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1OQ22TQ5aK7EQuBABASy7jxCqHP1Tv_v0/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1d7lvjhjH30H-CigQ81vKtB1jVLjY3qha/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1VYJvm3XPFC7lkda-2rPo2hLkeH9ebiZt/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1vGA9KXkNlGycD-8HZ93g6X6aO4_IQ536/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 2",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1BItnu4NM-BNKPgEnGnEXRpkoiQOygrQD/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1AZ7CPJERyc_m0fxAjuOGaGauipUwkQoe/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1YNjhsm1FPi0-KOCcLNa4fh2tItXWELDi/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/109IFDojGUpcKhWQwcZoQNDeuqbXmKP4Z/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1QwYwqbqZAYpTaVshB-2y-yHJe716mbYv/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1qfOVKTjOwaH_cx74GK0i31P6sQIIAhMi/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 3",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1pGd1r0KovP7gWKifPUB1WK8DtzxMzx9o/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1z9m5l5-ow-YjV70fc3hHGf3OrcOUS_wf/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1BDYpy6YraoYAvYV6nKT2IRo2kzWuhjUi/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/19JkUmWGYgV9oVKub66cC9KEv8j6F2MSt/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1OLL9MjPXQw3Y0Unkmgrr5WKT3bpv-EEV/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1M6MWRA-FSA_ENWfUlpsaV_pS9d0cdqva/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 4",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1Gqsk64vD4GnbtZRN1ZRxTtSJfoLCJT2P/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1NxHuAmvaDf7s_HU0yaNTrGDYDxJ6u7zJ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1ViLsbHGZi3WbrBw27hGXdwcd8F5cC3Df/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1dikIDGZCNNFaDTVeids8TcyRMIY6-nGY/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1n-IkoZHautW_7y1rxxujfINx6CrHW3WI/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1SH8jZKawarefrEkhoBmA9nDbKoYkOHnk/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 5",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1L50J_8SZ09sU-yvMt__0JFrbFZrb9Ou3/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1Xtj5iqf-L3ULxmGUhJaf8T8uILk4tsWv/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1Prmg6cwjf0SkSckx_mxzJLRqBxf_PHbW/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/18fkLWZ_HHbVUHIquCdkyCl0lDLJqilTM/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1eG4gHH4zqQZgAo11sSLLX1wz-mjzLc3i/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1fvrvsuwygJj3iTfXjqZZgqKv6UoO4swS/view?usp=sharing"
+          }
+        ]
+      },
+
+      {
+        "name": "Season 6",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1Zwrcf9p7xeY93hwwOn97J4Vi9tq9vMV6/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1HbpmVoFAbiojqVnbpXFXU-0QWexDMZL8/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/17_BffpTY54qng8mHYiE4tvNOFhwd8IxJ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1n0nZTCh2DTmJUaD6TQRVWD7xj2wH7RbW/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1XT8BiKGEiY6Qvyza_3oY69mrVBDssuB6/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1mPTVPYfBq80IcKY1D3xKCh8NqxAvQNMZ/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "name": "Hawkeye",
+    "type": "american",
+    "overview": "18+ | 2021 | 1 Season | Disney+",
+    "posterUrl": "https://i.ibb.co/zfQVX1d/MV5-BMDUz-Zj-U5-YTQt-ZTUy-Zi00-NGIy-LWE3-YWEt-ZGRl-OTlh-Mzhi-Nz-Ji-Xk-Ey-Xk-Fqc-Gde-QXVy-NDg4-Nj-Y5.jpg",
+    "coverUrl": "https://i.ibb.co/9g3Xq4t/hawkeye-revenge-4k-0m.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1copzH4X05HAQJLK8iairN5B4Ik3QjFLe/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1VClOvnO9m_faCuEKHRUTpRe-9v4ln6MB/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1UOUgwnOWLHL0CwV2qhvbPxRSXv0R6XtO/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1bxkku7MrqQe9bGbKvGN3xeccx8GhonHF/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1sJLTCrRmG8ia2bq4zNrxFvHa_A3nSLYb/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1FY3ZGJpE37C1ojxS7LopQ0aLWivr7oRd/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fame Game",
+    "type": "indian",
+    "overview": "2022 | 16+ | 1 Season | TV Mysteries",
+    "posterUrl": "https://drive.google.com/uc?id=1HJH9T_I_QGhc3zTq6ai2dp7FF62cTZyT",
+    "coverUrl": "https://drive.google.com/uc?id=1RcuGZ8I3cEqlm0yYph39QCBdo2mVsD4L",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1vgq1eM6dJ3cDcRJPkEk9chEoeVIKwFF9/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1zHnOypF4lkBKBB-eFwuCws-mI04A4VHH/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1lrqnuDr0CwDO8Djm1F-UqMGotVNYetl9/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1kSrCo2B-KIGl16Qcy_UtnP77NFGDsLtb/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1hY_W2pawI9Ng9j7Xr4d08oK2hl8-G5et/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1ayGVXt7jZTuNXPTuyRg0RtZOjoSiXMkZ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/1F5L2BWqiKiv0jCIQkikjik7YLibW8f9x/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/1w5UHpkBTIepAee2d6cxZSznCM-vQBMqD/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The Last Bus",
+    "type": "american",
+    "overview": "2022 | 7+ | 1 Season | Kids' TV",
+
+    "posterUrl": "https://i.ibb.co/L9rrggv/AAAABWv-DQYj4i7sb-WHCC5q-Z8-S04-NB-b-Pv-VTYHh6-Pk4g-2-KTCL19-NSMQzdfv-JXr-YGIq-ANDi-U1i-D8-DNMt-Mz-X.jpg",
+    "coverUrl": "https://i.ibb.co/Ctb9wrf/the-last-bus-poster-1646758121.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1dnw6_riRqVSSyciJ5rXpQlza0-_EdcDE/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1YQ-Yoqbxw1bUQWvcEnxhav7_b90XkoKD/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1tjCaB43c34Fiw4ljIBVxc9ig4gPlr79d/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1EGlHCoqsv_54qyYnY0C3Fyb9RtJ3aBEx/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1XW6E7NbHpBM1brR1K6Bl2jeitHELS7W0/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1npE5AqILJDav7diKRpRZrqiqdibKWgvm/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/1Uhh0nGtUlzNXyTal0_0k6Jp4PUJ5YrMM/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/1n-VhNyTSwWVHZV3-ELMFd6QBCU1lu_dI/view?usp=sharing"
+          },
+          {
+            "name": "Episode 09",
+            "link": "https://drive.google.com/file/d/163y4nFdlk67tWKRX8V0vFajP-418zpqm/view?usp=sharing"
+          },
+          {
+            "name": "Episode 10",
+            "link": "https://drive.google.com/file/d/1wMFi9zshufm3q-ktnfNwDxWIv6whB7aP/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Parallels",
-    "type": "tvshows",
-    "overview": "A family saga with a supernatural twist, set in a German town where the disappearance of two young children exposes the relationships among four families.",
+    "type": "american",
+    "overview": "2022 | 16+ | 1 Season | Adventure",
 
     "posterUrl": "https://i.ibb.co/QFdyJf2/MV5-BNTc0-Mm-U0-Mj-Qt-Yz-I3-ZC00-MDU4-LWIy-Yzkt-Mz-Ix-Mz-U1-YTJk-Nm-U2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTM1-MT.jpghttps://i.ibb.co/QFdyJf2/MV5-BNTc0-Mm-U0-Mj-Qt-Yz-I3-ZC00-MDU4-LWIy-Yzkt-Mz-Ix-Mz-U1-YTJk-Nm-U2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTM1-MT.jpg",
     "coverUrl": "https://i.ibb.co/MfpV483/MV5-BMj-Rl-MGI2-Nj-Et-ZDY1-OS00-Nj-U4-LWJm-Yj-Et-ZWY0-MGJk-Nz-E2-Yj-Mx-Xk-Ey-Xk-Fqc-Gde-QWxia-WFtb25.jpg",
@@ -12,35 +367,27 @@
         "episodes": [
           {
             "name": "Episode 01",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1eT9ZKinsYLxtrK8BO67A1LhbPV6_NAsO/view?usp=sharing"
           },
           {
             "name": "Episode 02",
-            "link": ""
+            "link": "https://drive.google.com/file/d/119TwUDv5KYb6x_q4mWTjmoaWihcqoRQp/view?usp=sharing"
           },
           {
             "name": "Episode 03",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1QCpx8AIjxgTIqdUVTyhEX-Bep71YAX1H/view?usp=sharing"
           },
           {
             "name": "Episode 04",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1kS2rLSp9h0nR0wbExGjVVE1Xjr67MnrM/view?usp=sharing"
           },
           {
             "name": "Episode 05",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1hcIsTHydUd2Sfik5MmP3Rv1bfMfYDGwD/view?usp=sharing"
           },
           {
             "name": "Episode 06",
-            "link": ""
-          },
-          {
-            "name": "Episode 07",
-            "link": ""
-          },
-          {
-            "name": "Episode 08",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1x0Y-Ir2VeraGm3hHbOFBcfYQea-JwP2E/view?usp=sharing"
           }
         ]
       }
@@ -48,8 +395,8 @@
   },
   {
     "name": "Manifest",
-    "type": "tvshows",
-    "overview": "When a plane mysteriously lands years after takeoff, the people onboard return to a world that has moved on without them and face strange, new realities.",
+    "type": "american",
+    "overview": "2018 | 16+ | 3 Seasons | TV Mysteries",
 
     "posterUrl": "https://i.ibb.co/cyt22BJ/p17602726-b-v13-ab.jpg",
     "coverUrl": "https://i.ibb.co/Vj4HGZ8/manifest-2020-0z.jpg",
@@ -59,35 +406,67 @@
         "episodes": [
           {
             "name": "Episode 01",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1zcr-Lg8jRHMF5MTT2tlcfLSQJOzyRFNs/view?usp=sharing"
           },
           {
             "name": "Episode 02",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1K8RTLn_bG2BWna-Gkd1NQQLr64ioU8dY/view?usp=sharing"
           },
           {
             "name": "Episode 03",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1E6NzY8iC4ZqptuW2o4hl59UrtmOu4DKH/view?usp=sharing"
           },
           {
             "name": "Episode 04",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1IydATFKCefGD8QpPS_ECh3OL2CUEe5MV/view?usp=sharing"
           },
           {
             "name": "Episode 05",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1fgSPlCuqjryye4-kr0UznGkNDSdFbUuk/view?usp=sharing"
           },
           {
             "name": "Episode 06",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1pw0TvWvvP4ZnVm0vKXO0yjjSL1xYna1b/view?usp=sharing"
           },
           {
             "name": "Episode 07",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1bkZb5F8XkgOUYOg2JIZZR0mH42bhnI7V/view?usp=sharing"
           },
           {
             "name": "Episode 08",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1agwQTxJTSXEDmYE53pxbXei0tj34Nk9f/view?usp=sharing"
+          },
+          {
+            "name": "Episode 09",
+            "link": "https://drive.google.com/file/d/1Me2lNp6MvxGDKqn9qEpPbmtg5OmhQM8O/view?usp=sharing"
+          },
+          {
+            "name": "Episode 10",
+            "link": "https://drive.google.com/file/d/1aMHFkNjIXKzJIMWE4g7GXlUlUgRaYQSb/view?usp=sharing"
+          },
+          {
+            "name": "Episode 11",
+            "link": "https://drive.google.com/file/d/1yB8vcHwqFUl4OC06N10n_hq_vs71Atfb/view?usp=sharing"
+          },
+          {
+            "name": "Episode 12",
+            "link": "https://drive.google.com/file/d/1BkiHjN3i6SXBSnf4MDM09vqYsvE2SXtA/view?usp=sharing"
+          },
+          {
+            "name": "Episode 13",
+            "link": "https://drive.google.com/file/d/1clYvFY_Kao_CzepSDUM6Rksl2kkP2wqe/view?usp=sharing"
+          },
+          {
+            "name": "Episode 14",
+            "link": "https://drive.google.com/file/d/1CP5mhr4yLOpku3RrZy8XsjeLy78OS4ox/view?usp=sharing"
+          },
+          {
+            "name": "Episode 15",
+            "link": "https://drive.google.com/file/d/1S3IH273jHGE0DzzmTewTOeBb1ODZKGm2/view?usp=sharing"
+          },
+          {
+            "name": "Episode 16",
+            "link": "https://drive.google.com/file/d/1nlB-W-Aovi9Ws1sIl-JAjaF5gDjWebTE/view?usp=sharing"
           }
         ]
       },
@@ -96,35 +475,55 @@
         "episodes": [
           {
             "name": "Episode 01",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1YNcbH9hholathMsu4TN4nd2xmEe91UQn/view?usp=sharing"
           },
           {
             "name": "Episode 02",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1DRLwTcBpq4cDv2BEC3WhQ4SLLRn2Ydju/view?usp=sharing"
           },
           {
             "name": "Episode 03",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1zFdOX1TxTvFx5TXc8ziPxQUK8vPFupM_/view?usp=sharing"
           },
           {
             "name": "Episode 04",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1eEKsafDYctHxBZVklTeJWyG7JURMOHcg/view?usp=sharing"
           },
           {
             "name": "Episode 05",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1fOgb8Q9yuYiiE0gXL8hdDcYWOrIsDq3N/view?usp=sharing"
           },
           {
             "name": "Episode 06",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1la12mRNL37NfR7ens2wTZa2Rd5d1ja_Z/view?usp=sharing"
           },
           {
             "name": "Episode 07",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1_KEbDU1RDpHLPMIxARVk6yiWbVex8UQ9/view?usp=sharing"
           },
           {
             "name": "Episode 08",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1MShlqgPJslUtdsNVNowmaM8eR7n8liey/view?usp=sharing"
+          },
+          {
+            "name": "Episode 09",
+            "link": "https://drive.google.com/file/d/19x9dwM-Ty_ZlcF_NLHfc5lBY6kn2DNtx/view?usp=sharing"
+          },
+          {
+            "name": "Episode 10",
+            "link": "https://drive.google.com/file/d/1H0mm8DILVZDxZkUstfXAmLOBUOxlkAgD/view?usp=sharing"
+          },
+          {
+            "name": "Episode 11",
+            "link": "https://drive.google.com/file/d/1NMB6YfPCLKaHq6wKoMmoILWPECATlg4F/view?usp=sharing"
+          },
+          {
+            "name": "Episode 12",
+            "link": "https://drive.google.com/file/d/1MSD6sGokwEh8fLBsVlhZt47PzjF9g0aA/view?usp=sharing"
+          },
+          {
+            "name": "Episode 13",
+            "link": "https://drive.google.com/file/d/1u_wYhg3AcU0JjepWXmGBFrvIGA7IBmpQ/view?usp=sharing"
           }
         ]
       },
@@ -133,35 +532,55 @@
         "episodes": [
           {
             "name": "Episode 01",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1WdQ2qR5LuyI2dlB9z3nGdXg0I8vaOdJp/view?usp=sharing"
           },
           {
             "name": "Episode 02",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1jvbof5WB2hpF-40IoRZz7D6JjcPSAVjg/view?usp=sharing"
           },
           {
             "name": "Episode 03",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1Opd_nF13lTHrBisI3UK__Ol_aEWsOBha/view?usp=sharing"
           },
           {
             "name": "Episode 04",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1zSt7klimgvGdpKWqs2dLjBoJfn90sTr7/view?usp=sharing"
           },
           {
             "name": "Episode 05",
-            "link": ""
+            "link": "https://drive.google.com/file/d/13k3QAYHBpgS0H0zS4HmA099vwLlTb9ca/view?usp=sharing"
           },
           {
             "name": "Episode 06",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1szXFEcl3Bwnq9X09xfOzT5gONW55AX8V/view?usp=sharing"
           },
           {
             "name": "Episode 07",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1ubaFnIsLMDZ6BRlHVT-xgUJ_7FO8ts3z/view?usp=sharing"
           },
           {
             "name": "Episode 08",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1aLEaCtK9Qsbs-D4VrhfJrNrtN3Lkc-Mq/view?usp=sharing"
+          },
+          {
+            "name": "Episode 09",
+            "link": "https://drive.google.com/file/d/1Qmjj0dlTjU88Y8lakxHuBILFDsD4MNQ-/view?usp=sharing"
+          },
+          {
+            "name": "Episode 10",
+            "link": "https://drive.google.com/file/d/1JiKuttZZro5DRkRhfX8P59V9q1EDwQs9/view?usp=sharing"
+          },
+          {
+            "name": "Episode 11",
+            "link": "https://drive.google.com/file/d/1FT-py06jwYf3jOZsk5ZpH-cWsW4SoZIi/view?usp=sharing"
+          },
+          {
+            "name": "Episode 12",
+            "link": "https://drive.google.com/file/d/1NvTfi8kQGANxYi4NE_QNWJKWySCbgqkK/view?usp=sharing"
+          },
+          {
+            "name": "Episode 13",
+            "link": "https://drive.google.com/file/d/1iz8Vs9A0OFLCq_CatHfz_2VqktnMPpbC/view?usp=sharing"
           }
         ]
       }
@@ -169,7 +588,7 @@
   },
   {
     "name": "Hellbound",
-    "type": "tvshows",
+    "type": "american",
     "overview": "Unearthly beings deliver bloody condemnations, sending individuals to hell and giving rise to a religious group founded on the idea of divine justice.",
 
     "posterUrl": "https://i.ibb.co/WDStpxW/MV5-BNz-U1-ODk0-ZWUt-Mzdk-YS00-Ym-I2-LWI1-Nj-It-OTg0-Nj-Qx-NGY5-Mm-Nl-Xk-Ey-Xk-Fqc-Gde-QXVy-ODk4-OTc.jpg",
@@ -216,8 +635,8 @@
   },
   {
     "name": "The Silent Sea",
-    "type": "tvshows",
-    "overview": "During a perilous 24-hour mission on the moon, space explorers try to retrieve samples from an abandoned research facility steeped in classified secrets.",
+    "type": "korean",
+    "overview": "2021 | 16+ | 1 Season | TV Thrillers",
 
     "posterUrl": "https://i.ibb.co/fkVdmmc/MV5-BMj-Fk-NDNj-YTkt-Zj-Ji-Ni00-Y2-U3-LWE2-NDgt-ZDM3-Yj-Iz-MWUz-NGM2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEz-MTI1.jpg",
     "coverUrl": "https://i.ibb.co/hVm2PXq/wallpapersden-com-netflix-the-silent-sea-3840x2160.jpg",
@@ -227,35 +646,35 @@
         "episodes": [
           {
             "name": "Episode 01",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1tTnB5y2_Ose0OsKkYb1KKGto50k0k72h/view?usp=sharing"
           },
           {
             "name": "Episode 02",
-            "link": ""
+            "link": "https://drive.google.com/file/d/15QIoCDIGD6cx-uBTcrpqiiymSJ1lGZgz/view?usp=sharing"
           },
           {
             "name": "Episode 03",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1yq-A5bko4CvRuiIMZcoZPgzm43hC146d/view?usp=sharing"
           },
           {
             "name": "Episode 04",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1hikKfZMw3_fu8okI1nRsq__6lnFrf7uq/view?usp=sharing"
           },
           {
             "name": "Episode 05",
-            "link": ""
+            "link": "https://drive.google.com/file/d/11IUlzzDZNgDikXVlIxnk3rIogYBKhuk8/view?usp=sharing"
           },
           {
             "name": "Episode 06",
-            "link": ""
+            "link": "https://drive.google.com/file/d/11_Z1XjVYZomH8IlG0JHxakPu6cYiNg_Q/view?usp=sharing"
           },
           {
             "name": "Episode 07",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1i7jMXD4wufwrWjHnvH-wJm0U-AJyzPUN/view?usp=sharing"
           },
           {
             "name": "Episode 08",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1ptf9MRR-hsNmOyDBirbx8d-pC8jF1Y1E/view?usp=sharing"
           }
         ]
       }
@@ -263,8 +682,8 @@
   },
   {
     "name": "Dark",
-    "type": "tvshows",
-    "overview": "A family saga with a supernatural twist, set in a German town where the disappearance of two young children exposes the relationships among four families.",
+    "type": "german",
+    "overview": "2017 | 18+ | 3 Seasons | TV Drama.",
 
     "posterUrl": "https://i.ibb.co/s6hr7Mq/MV5-BYTZm-NTg3-ZWYt-ZTQ1-ZC00-OTli-LWFl-Nj-Qt-ODk1-Yz-Q4-NGI5-Zm-Nl-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEy-Mj-M2.jpg",
     "coverUrl": "https://i.ibb.co/dQdZcBm/1605477.jpg",
@@ -274,35 +693,43 @@
         "episodes": [
           {
             "name": "Episode 01",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1ZO6HPUgmngEBwkrKGAF29ucxOli4qf_C/view?usp=sharing"
           },
           {
             "name": "Episode 02",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1oKXOMbHwZ-cP5Naz38SBd2uKA7c7Hnss/view?usp=sharing"
           },
           {
             "name": "Episode 03",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1ho23M38RwiTTeSm7kKxIOWz7uMphLlcV/view?usp=sharing"
           },
           {
             "name": "Episode 04",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1TFj7mY-0SSPnk1LZfAVI_a40_bAkkwSe/view?usp=sharing"
           },
           {
             "name": "Episode 05",
-            "link": ""
+            "link": "https://drive.google.com/file/d/12o0Q4OA7H4OGi_BwP3VKsPRZT6S5lwuR/view?usp=sharing"
           },
           {
             "name": "Episode 06",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1jzp5a6JSvoyanljMhc0Z_k1eoY8s2WTC/view?usp=sharing"
           },
           {
             "name": "Episode 07",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1WFx7LUY2uD6kw2-rzH6B7qsG2H1gk1YX/view?usp=sharing"
           },
           {
             "name": "Episode 08",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1npMCS5fFObbRyLHA-IqbygzK9TRlDYCj/view?usp=sharing"
+          },
+          {
+            "name": "Episode 09",
+            "link": "https://drive.google.com/file/d/1QTgm64XtHLdneB88V1gBjG_aeOJIRhZZ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 10",
+            "link": "https://drive.google.com/file/d/1iJteOT2YTujjJ7szvZM3jic1znz6_StF/view?usp=sharing"
           }
         ]
       },
@@ -311,35 +738,35 @@
         "episodes": [
           {
             "name": "Episode 01",
-            "link": ""
+            "link": "https://drive.google.com/file/d/199hdpRTG4zc9IlzBLZ6Cvi_9-iFPwcXK/view?usp=sharing"
           },
           {
             "name": "Episode 02",
-            "link": ""
+            "link": "https://drive.google.com/file/d/19Sx76c45YVOZi_L22wCoa9ajQ6kKAbXB/view?usp=sharing"
           },
           {
             "name": "Episode 03",
-            "link": ""
+            "link": "https://drive.google.com/file/d/19IfvCvK9kY6_0KzyqDGRJlS8jiaBw9fo/view?usp=sharing"
           },
           {
             "name": "Episode 04",
-            "link": ""
+            "link": "https://drive.google.com/file/d/19E9UYrPPxIlB4wcEkSOGpVeu33nFPr2L/view?usp=sharing"
           },
           {
             "name": "Episode 05",
-            "link": ""
+            "link": "https://drive.google.com/file/d/18udERCQ6iobd0POO8DeZp5NCpNWcga_V/view?usp=sharing"
           },
           {
             "name": "Episode 06",
-            "link": ""
+            "link": "https://drive.google.com/file/d/19eTtQ_wvDV_UKZVt6pOZv27Nwt328a4r/view?usp=sharing"
           },
           {
             "name": "Episode 07",
-            "link": ""
+            "link": "https://drive.google.com/file/d/19e9DJ_e6saaciOHAKlhRyVW059qGBvVJ/view?usp=sharing"
           },
           {
             "name": "Episode 08",
-            "link": ""
+            "link": "https://drive.google.com/file/d/19kG-yAEzHIY8FtrXJEdIcSRKScbFmpi0/view?usp=sharing"
           }
         ]
       },
@@ -348,35 +775,35 @@
         "episodes": [
           {
             "name": "Episode 01",
-            "link": ""
+            "link": "https://drive.google.com/file/d/12Tm24vh_a4gYKYZimvakev8IJM0Re5y0/view?usp=sharing"
           },
           {
             "name": "Episode 02",
-            "link": ""
+            "link": "https://drive.google.com/file/d/12kHedbh04PD8sMnHv0faU2dLWBCJAh5e/view?usp=sharing"
           },
           {
             "name": "Episode 03",
-            "link": ""
+            "link": "https://drive.google.com/file/d/12xyNN0R7I8j7_vLEOspBQiqs_N-rV3bB/view?usp=sharing"
           },
           {
             "name": "Episode 04",
-            "link": ""
+            "link": "https://drive.google.com/file/d/138vDTiFBC5Q2GvRp34zLIAS-j3mO-5fA/view?usp=sharing"
           },
           {
             "name": "Episode 05",
-            "link": ""
+            "link": "https://drive.google.com/file/d/13ptme2v5vNbDgoLWrLQ2_OvtZCauX-_2/view?usp=sharing"
           },
           {
             "name": "Episode 06",
-            "link": ""
+            "link": "https://drive.google.com/file/d/13sRZLFNEdUpbbb0RhaPqfCST_BIvjyFt/view?usp=sharing"
           },
           {
             "name": "Episode 07",
-            "link": ""
+            "link": "https://drive.google.com/file/d/13yWU5kv51yPy_wuNf0sLVLSy-3hQd5sc/view?usp=sharing"
           },
           {
             "name": "Episode 08",
-            "link": ""
+            "link": "https://drive.google.com/file/d/14RrTZtbELmzPr2fclh3DihXkHmuZ1uD1/view?usp=sharing"
           }
         ]
       }
@@ -384,9 +811,9 @@
   },
 
   {
-    "name": "BUSINESS  PROPOSAL",
-    "type": "tvshows",
-    "overview": "In disguise as her friend, Ha-ri shows up to a blind date to scare him away. But plans go awry when he turns out to be her CEO - and makes a proposal.",
+    "name": "Business Proposal",
+    "type": "korean",
+    "overview": "2022 | 13+ | 1 Season | K-Dramas based on Webtoon",
 
     "posterUrl": "https://i.ibb.co/KLrPPSB/MV5-BNjlh-MDc5-NDMt-ZGY2-Mi00-ZTMx-LTk0-Y2-It-N2-Vj-ZDQ1-Zm-Ri-ZGQ2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTMz-ODk3.jpg",
     "coverUrl": "https://i.ibb.co/tqGtYW5/drama-korea-business-proposal-2022-1-169.jpg",
@@ -396,6 +823,207 @@
         "episodes": [
           {
             "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1du3skS0tN6n-rYZe_UG_0GW9eWkzQqXa/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1gq4X36T4zp7w_LIV1UujauCZ7SZpUJd6/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/153PTqI-edXX3KC57QJW74cyMjXJT8kSH/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1Ueuyby9h6Da2LbTmZVTmr-QShn6RcOg3/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1g-n8UuFbbk0yqTGjj4oumllNIEKaBiu5/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1Q_kx5o--y19CEpnSXMmeeA8FDOym5629/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/18VaKUZYssGGcSnkGwOjkT_ttOtB21wed/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/1hDluJSCOTVTSQF3MRbzu_-8D-wt65VQr/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "All Of Us Are Dead",
+    "type": "korean",
+    "overview": "2022 | 18+ | 1 Season | K-Dramas based on Webtoon",
+
+    "posterUrl": "https://i.ibb.co/TRwQ2Vs/ze4lhw0o-LBHYml-M2-Ku-Zj-Bg0-Sq6-H.jpg",
+    "coverUrl": "https://i.ibb.co/f01MChb/1208938.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1Faq0W9SMGfZZ4mEUv3jVcilvuRhbkKfX/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1islOJKpO3PVr2LlDEundFZUEr-bP4_3U/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1DuQp-GZiWjky0m-kKEYf2zuEauWrg407/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1SkUGYH-fbk3c2WEi1OH-1gHYNx5p_nGj/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1HDwzEaq4IAfD8m8b4NH1ZT3nWmCLCjhy/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1i96iQAX48PEPUxh7U_erMYAriArAxE_f/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/1pPoOh5pscoesQUhYjAjd_tiVwBWnYmCn/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/1VMX7n5dvlg75GwK7RD2ZVUh3sbH2A0vu/view?usp=sharing"
+          },
+          {
+            "name": "Episode 09",
+            "link": "https://drive.google.com/file/d/1TKUDm-fvNhqY30bEavJHFf5Mnxv6pXYS/view?usp=sharing"
+          },
+          {
+            "name": "Episode 10",
+            "link": "https://drive.google.com/file/d/15kGMs9XSxULeQdg9yyDJBwWGfUyXRNhk/view?usp=sharing"
+          },
+          {
+            "name": "Episode 11",
+            "link": "https://drive.google.com/file/d/170rTACgfgdQ9NWSndnRp-WfJiLnkruVm/view?usp=sharing"
+          },
+          {
+            "name": "Episode 12",
+            "link": "https://drive.google.com/file/d/1Yni0D1wmbN_C7jJuNy2YaO61hnN0zx2E/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "name": "Game Of Thrones",
+    "type": "American",
+    "overview": "2019 | 18+ | 8 Season | Mysterious",
+
+    "posterUrl": "https://i.ibb.co/DwfZM0R/MV5-BYTRi-NDQw-Yz-At-Mz-Vl-ZS00-NTI5-LWJj-Yj-Ut-Mzkw-NTUz-MWMx-ZTll-Xk-Ey-Xk-Fqc-Gde-QXVy-NDIz-Mzcw.jpg",
+    "coverUrl": "https://i.ibb.co/0cM68mp/game-of-thrones-season-8-4k-x7.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1Azg5l6zdv9z8HATeH-lns9pNbRJNz4VS/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1xgZSrtWq94YqKBaBKPeNjMlVYqpPG248/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1IYJl0KpfFrHo_d1O0YlUOCOPHfy7pRnw/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1TTGu_19LH79bVzQR-TOx9LQRHbX1u0gg/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/12sFhzJHia9zYM7pa4rmXojj-1eVO6lP-/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1Lyca2p4IFH1YqDUBhzR2MarRGrdpLmHs/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/1VSbDLMLhdD-Gbd7A9Hp4W6_avy4wBGkX/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/11ijDvx-gJpxn53H7Vo8skiWlLXgxSFj4/view?usp=sharing"
+          },
+          {
+            "name": "Episode 09",
+            "link": "https://drive.google.com/file/d/1mnBd3jAg_o3sZVB-FEj54HuPG92AsyAo/view?usp=sharing"
+          },
+          {
+            "name": "Episode 10",
+            "link": "https://drive.google.com/file/d/1UbNYM0v80CZs9EbMb6G7Cn1PFQN3cYDA/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 2",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1i1DwadXVU5f2kW1kYMIjz4VZWJkRV4VV/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1fXYVpUTWsMZCzu5vE4mrGZN1NmrCeiFx/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1bzXAUelYtKwJz8opZ6egBusEtaOJ7TBG/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1GTTUrF5xRRy2S3D8S1PXQVtT65Wl7k4x/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1XUvvhhOot_71QywERXI_eNDtMmiAHX__/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1mrXRx5ct58FI-n5xI6mKdewrocHNYrC-/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/1BuA3vqBQNpEhTQXTNPy95XHEi3pLnnNs/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/1FGp2R0U-BYmjhPrYmCAgLAMyNI0vta-C/view?usp=sharing"
+          },
+          {
+            "name": "Episode 09",
+            "link": "https://drive.google.com/file/d/1VRj2d8DEh-DtCBxDNBAy11jkh6AbawO4/view?usp=sharing"
+          },
+          {
+            "name": "Episode 10",
+            "link": "https://drive.google.com/file/d/16-CdX1Aj-a1W_UV4iq4SJ_zE2c4jFhRc/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "All Season Adding soon",
+        "episodes": [
+          {
+            "name": "Episode 01",
             "link": ""
           },
           {
@@ -417,257 +1045,6 @@
           {
             "name": "Episode 06",
             "link": ""
-          },
-          {
-            "name": "Episode 07",
-            "link": ""
-          },
-          {
-            "name": "Episode 08",
-            "link": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "ALL OF US ARE DEAD",
-    "type": "tvshows",
-    "overview": "A high school becomes ground zero for a zombie virus outbreak. Trapped students must fight their way out — or turn into one of the rabid infected.",
-
-    "posterUrl": "https://i.ibb.co/TRwQ2Vs/ze4lhw0o-LBHYml-M2-Ku-Zj-Bg0-Sq6-H.jpg",
-    "coverUrl": "https://i.ibb.co/f01MChb/1208938.jpg",
-    "seasons": [
-      {
-        "name": "Season 1",
-        "episodes": [
-          {
-            "name": "Episode 01",
-            "link": "https://drive.google.com/file/d/1b6CdOloxADJCYlbamIDx3-pILTJvSokX/view?usp=sharing"
-          },
-          {
-            "name": "Episode 02",
-            "link": "https://drive.google.com/file/d/1k5l0QvYF-nfIpgzv_0Dgzve2NecDiP6f/view?usp=sharing"
-          },
-          {
-            "name": "Episode 03",
-            "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
-          },
-          {
-            "name": "Episode 4 Next Week",
-            "link": ""
-          }
-        ]
-      }
-    ]
-  },
-
-  {
-    "name": "Moon Knight",
-    "type": "tvshows",
-    "overview": "Steven Grant discovers he's been granted the powers of an Egyptian moon god. But he soon finds out that these newfound powers can be both a blessing and a curse to his troubled life.",
-
-    "posterUrl": "https://i.ibb.co/QfSzySY/MV5-BNGM2-Zj-Jm-ZDQt-NTI5-MS00-ZTI0-LTky-Njkt-M2-Rl-YWY0-YTY5-MTYz-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEy-Mj-M2.jpg",
-    "coverUrl": "https://i.ibb.co/xfHqKLs/HD-wallpaper-comics-moon-knight-marvel-comics.jpg",
-    "seasons": [
-      {
-        "name": "Season 1",
-        "episodes": [
-          {
-            "name": "Episode 01",
-            "link": "https://drive.google.com/file/d/1b6CdOloxADJCYlbamIDx3-pILTJvSokX/view?usp=sharing"
-          },
-          {
-            "name": "Episode 02",
-            "link": "https://drive.google.com/file/d/1k5l0QvYF-nfIpgzv_0Dgzve2NecDiP6f/view?usp=sharing"
-          },
-          {
-            "name": "Episode 03",
-            "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
-          },
-          {
-            "name": "Episode 4 Next Week",
-            "link": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "GAME OF THRONES",
-    "type": "tvshows",
-    "overview": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
-
-    "posterUrl": "https://i.ibb.co/DwfZM0R/MV5-BYTRi-NDQw-Yz-At-Mz-Vl-ZS00-NTI5-LWJj-Yj-Ut-Mzkw-NTUz-MWMx-ZTll-Xk-Ey-Xk-Fqc-Gde-QXVy-NDIz-Mzcw.jpg",
-    "coverUrl": "https://i.ibb.co/0cM68mp/game-of-thrones-season-8-4k-x7.jpg",
-    "seasons": [
-      {
-        "name": "Season 1",
-        "episodes": [
-          {
-            "name": "Episode 01",
-            "link": "https://drive.google.com/file/d/1b6CdOloxADJCYlbamIDx3-pILTJvSokX/view?usp=sharing"
-          },
-          {
-            "name": "Episode 02",
-            "link": "https://drive.google.com/file/d/1k5l0QvYF-nfIpgzv_0Dgzve2NecDiP6f/view?usp=sharing"
-          },
-          {
-            "name": "Episode 03",
-            "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
-          },
-          {
-            "name": "Episode 4 Next Week",
-            "link": ""
-          }
-        ]
-      },
-      {
-        "name": "Season 2",
-        "episodes": [
-          {
-            "name": "Episode 01",
-            "link": "https://drive.google.com/file/d/1b6CdOloxADJCYlbamIDx3-pILTJvSokX/view?usp=sharing"
-          },
-          {
-            "name": "Episode 02",
-            "link": "https://drive.google.com/file/d/1k5l0QvYF-nfIpgzv_0Dgzve2NecDiP6f/view?usp=sharing"
-          },
-          {
-            "name": "Episode 03",
-            "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
-          },
-          {
-            "name": "Episode 4 Next Week",
-            "link": ""
-          }
-        ]
-      },
-      {
-        "name": "Season 3",
-        "episodes": [
-          {
-            "name": "Episode 01",
-            "link": "https://drive.google.com/file/d/1b6CdOloxADJCYlbamIDx3-pILTJvSokX/view?usp=sharing"
-          },
-          {
-            "name": "Episode 02",
-            "link": "https://drive.google.com/file/d/1k5l0QvYF-nfIpgzv_0Dgzve2NecDiP6f/view?usp=sharing"
-          },
-          {
-            "name": "Episode 03",
-            "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
-          },
-          {
-            "name": "Episode 4 Next Week",
-            "link": ""
-          }
-        ]
-      },
-      {
-        "name": "Season 4",
-        "episodes": [
-          {
-            "name": "Episode 01",
-            "link": "https://drive.google.com/file/d/1b6CdOloxADJCYlbamIDx3-pILTJvSokX/view?usp=sharing"
-          },
-          {
-            "name": "Episode 02",
-            "link": "https://drive.google.com/file/d/1k5l0QvYF-nfIpgzv_0Dgzve2NecDiP6f/view?usp=sharing"
-          },
-          {
-            "name": "Episode 03",
-            "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
-          },
-          {
-            "name": "Episode 4 Next Week",
-            "link": ""
-          }
-        ]
-      },
-      {
-        "name": "Season 5",
-        "episodes": [
-          {
-            "name": "Episode 01",
-            "link": "https://drive.google.com/file/d/1b6CdOloxADJCYlbamIDx3-pILTJvSokX/view?usp=sharing"
-          },
-          {
-            "name": "Episode 02",
-            "link": "https://drive.google.com/file/d/1k5l0QvYF-nfIpgzv_0Dgzve2NecDiP6f/view?usp=sharing"
-          },
-          {
-            "name": "Episode 03",
-            "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
-          },
-          {
-            "name": "Episode 4 Next Week",
-            "link": ""
-          }
-        ]
-      },
-      {
-        "name": "Season 6",
-        "episodes": [
-          {
-            "name": "Episode 01",
-            "link": "https://drive.google.com/file/d/1b6CdOloxADJCYlbamIDx3-pILTJvSokX/view?usp=sharing"
-          },
-          {
-            "name": "Episode 02",
-            "link": "https://drive.google.com/file/d/1k5l0QvYF-nfIpgzv_0Dgzve2NecDiP6f/view?usp=sharing"
-          },
-          {
-            "name": "Episode 03",
-            "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
-          },
-          {
-            "name": "Episode 4 Next Week",
-            "link": ""
-          }
-        ]
-      },
-
-      {
-        "name": "Season 7",
-        "episodes": [
-          {
-            "name": "Episode 01",
-            "link": "https://drive.google.com/file/d/1b6CdOloxADJCYlbamIDx3-pILTJvSokX/view?usp=sharing"
-          },
-          {
-            "name": "Episode 02",
-            "link": "https://drive.google.com/file/d/1k5l0QvYF-nfIpgzv_0Dgzve2NecDiP6f/view?usp=sharing"
-          },
-          {
-            "name": "Episode 03",
-            "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
-          },
-          {
-            "name": "Episode 4 Next Week",
-            "link": ""
-          }
-        ]
-      },
-
-      {
-        "name": "Season 8",
-        "episodes": [
-          {
-            "name": "Episode 01",
-            "link": "https://drive.google.com/file/d/1b6CdOloxADJCYlbamIDx3-pILTJvSokX/view?usp=sharing"
-          },
-          {
-            "name": "Episode 02",
-            "link": "https://drive.google.com/file/d/1k5l0QvYF-nfIpgzv_0Dgzve2NecDiP6f/view?usp=sharing"
-          },
-          {
-            "name": "Episode 03",
-            "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
-          },
-          {
-            "name": "Episode 4 Next Week",
-            "link": ""
           }
         ]
       }
@@ -675,8 +1052,8 @@
   },
   {
     "name": "Squid Game",
-    "type": "popularonsmas",
-    "overview": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes.",
+    "type": "korean",
+    "overview": "2021 | 18+ | 1 Season | TV Thrillers",
     "posterUrl": "https://i.ibb.co/Jd2Vzdd/MV5-BYWE3-MDVk-N2-Et-Nj-Q5-MS00-ZDQ4-LTli-Nz-Yt-Mjc2-YWMz-MDEw-MTA3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEz-MTI1.jpg",
     "coverUrl": "https://i.ibb.co/gdQpcry/thumb-1920-1191374.jpg",
     "seasons": [
@@ -705,19 +1082,19 @@
           },
           {
             "name": "Episode 6",
-            "link": "https://drive.google.com/file/d/11LxQ-FGv5YJXAsNPlrwluFoAroIoAKNu/view"
+            "link": "https://drive.google.com/file/d/1fBFNfPqC1HHvHeheWwkAa1xynv5pnmYk/view?usp=sharing"
           },
           {
             "name": "Episode 7",
-            "link": "https://drive.google.com/file/d/11MN4NpTEZhwu-DLbDKY2W2T9LsO67J5A/view"
+            "link": "https://drive.google.com/file/d/1AxNrUD1Djkh6t9ackGmFXqgHnyoca3pQ/view?usp=sharing"
           },
           {
             "name": "Episode 8",
-            "link": "https://drive.google.com/file/d/11OCnr8OqnONKofYCIzRnQOvCD5pssnHi/view"
+            "link": "https://drive.google.com/file/d/1SnI2HI-qN0zv-EpoY_ekbRM3g3U3-9MA/view?usp=sharing"
           },
           {
             "name": "Episode 9",
-            "link": "https://drive.google.com/file/d/11X76YAPwiqa6tZDROMVrpnrRM0bgbgK8/view"
+            "link": "https://drive.google.com/file/d/1NM5XlBCwAv2UOzHtFiK2R7U9ju5RTlVU/view?usp=sharing"
           }
         ]
       }
@@ -725,8 +1102,8 @@
   },
   {
     "name": "Money Heist",
-    "type": "tvshows",
-    "overview": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
+    "type": "spanish",
+    "overview": "2017 | 18+ | 5 Seasons | TV Thrillers",
 
     "posterUrl": "https://i.ibb.co/9gM7zH1/61bo-Fr6-SYZL-SL1000.jpg",
     "coverUrl": "https://i.ibb.co/dckZxdF/4NQ8oO.webp",
@@ -736,18 +1113,1154 @@
         "episodes": [
           {
             "name": "Episode 01",
-            "link": "https://drive.google.com/file/d/1b6CdOloxADJCYlbamIDx3-pILTJvSokX/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/112Us3IrUfGK0bDDBpRUCk9qbFcuZgoEd/view?usp=sharing"
           },
           {
             "name": "Episode 02",
-            "link": "https://drive.google.com/file/d/1k5l0QvYF-nfIpgzv_0Dgzve2NecDiP6f/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/115bom0RptrEEVREkPZqFJ3w7AmddpKIE/view?usp=sharing"
           },
           {
             "name": "Episode 03",
-            "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
+            "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view?usp=sharing"
           },
           {
-            "name": "Episode 4 Next Week",
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/11C6HMUUD4igLJCxA7jyMj1YWHuFnjJEr/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/11GbZRqY0PcAQTRRkG-kdvzehnm6dInFy/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/11LxQ-FGv5YJXAsNPlrwluFoAroIoAKNu/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/11MN4NpTEZhwu-DLbDKY2W2T9LsO67J5A/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/11OCnr8OqnONKofYCIzRnQOvCD5pssnHi/view?usp=sharing"
+          },
+          {
+            "name": "Episode 09",
+            "link": "https://drive.google.com/file/d/11X76YAPwiqa6tZDROMVrpnrRM0bgbgK8/view?usp=sharing"
+          },
+          {
+            "name": "Episode 10",
+            "link": "https://drive.google.com/file/d/11YWFa7lK8Zuqb2q-Sidr8OUaNq0B5Hxv/view?usp=sharing"
+          },
+          {
+            "name": "Episode 11",
+            "link": "https://drive.google.com/file/d/11Zqlxw-VuFo95H03RCKei4KdDUSBJRyR/view?usp=sharing"
+          },
+          {
+            "name": "Episode 12",
+            "link": "https://drive.google.com/file/d/11abyBaVDxQO61nXbnWKBATJN0GDC632P/view?usp=sharing"
+          },
+          {
+            "name": "Episode 13",
+            "link": "https://drive.google.com/file/d/11dyRa6UC4AaVptK6VI8XowdDR-U9AEU2/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 2",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/120z7vNmcCwEvproVriHzNhefY9Elysor/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/122630M22_et90l3CjMj1yqDW4aiAtQoM/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/12BHPkh12J4x9EbvPnSm4v2NDzm81yjgW/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/12DVmRL75Y3oDPHCCnDNkKpNFqbYsC5J3/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/12F3auzdmM_rPiFCaUDg-9SfZgOZHES0T/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/12FJHRjMEFNEIJdgwmb0gNjAiaEUbMd0M/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/12GyTqyd0YJcYXI3b7bigc4G9Cz5EWHzF/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/12JBvuflBTvjj43aTyztWeCL5DywXq6DT/view?usp=sharing"
+          },
+          {
+            "name": "Episode 09",
+            "link": "https://drive.google.com/file/d/12Q-FQaUmG-376dqiwxw763tRcG_o5JuI/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 3",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/13a3URnOzpnTrD5emy5y2tO1aMYZPd6v2/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/13kvHKEs4lVQmOdgUXKqb_0DohYj6mVLX/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/13vXRwh36QLS3aDjZPhMyohj0yOKvfYj0/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/13wINc1IKMCNPdAHZyeUawDSwpLbt5RdX/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/13wSFQ8yDHb4d9ftyBS37b85LUnDrj-gR/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/142lerHviAsvsb2hAppYuowYNZuIGgteQ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/143Z_V93IeVPObVF5KSHk3VPFVBLKYL8x/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/144e8xW9i98av16mU4WdUnHivaZPUuVTX/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 4",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/15DS9aIeUhkqwiPcCRcItl-AQJpEMj3uL/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/15EAoACxrV_6ycjoyII9FpLpRQjClEg-H/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/15EM0f96troc8WxksddXWNWw7uNQziMwY/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/15LTIO1TvckkoE-EfOsDMFvPHkthMZbE_/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/15Oa7iWcOvEd1BpRky-PeH99nS9Msaswo/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/15VWFiPYrlJ-49biHiYccMsBtUjBn1_4B/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/15hSq2xS-BCJEeOBZ2CFU2JJGufLIWsuq/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/15m5U9Zh_FnlTZ8ginBZs-6SD5f6KtIzy/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 5",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1_lGWnL5qNPCqUzzXJq_GWqEcbAjk_iSG/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1Onc01b1FsfJMAcgtzsjkjjzlAVjWGa0c/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1yfgmRBGWxCygRvzC_p7_LI5GytyVdWjw/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1MFp4E2qnhIjvSIJTXXa_adgsHH0jIM17/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1Uz9CZhVI5Cvg98ba5rKTGoti6s-vRv6H/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/14afqL5d47983-EL38y944isTTrie0Nzh/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/1TNFcCMB1Ntz2j9fHvtNQP67wegb40aqA/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/1HENJfGZ9a9m5IreYL5TuoiwwhCnNBC3f/view?usp=sharing"
+          },
+          {
+            "name": "Episode 09",
+            "link": "https://drive.google.com/file/d/1f3kfnTBgjk1ejhteVxi-LWG62Pw4dlQu/view?usp=sharing"
+          },
+          {
+            "name": "Episode 10",
+            "link": "https://drive.google.com/file/d/1tJWMPVMBkkxPi71VzELbwC3hc92G-pQm/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "name": "Little Things",
+    "type": "indian",
+    "overview": "2016 | 16+ | 4 Seasons | Romantic TV Dramas",
+    "posterUrl": "https://drive.google.com/uc?id=1-HIFwIOQlvHtBkfADRXXhWwkeN79w1c-",
+    "coverUrl": "https://drive.google.com/uc?id=1OlrSjCu2t4587z84rJhJoSLZvKcMycJi",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1N_WX1jUwPgRN5rKkSK2JK9PgO25LL1P4/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1H6Ncgf-0Xfx0O8rT-DmJFn_NOtYf19LM/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1-YN-P2NLo-d6ULMBqkzl9Fd3WToJdQaF/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1E-jUEtke9gsYUuX4AZQ4wYva627deDlH/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/19TtfFUSmx0CYj5PGzZe1FTSbVs2cb5qE/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 2",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1hVdACgRU8XKpNhpuvaY_e0goeysnaKzu/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1X9wEctDDO-rEWnwhGD7Fl9X5nBUoOrQn/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1KhQRQ-dHM3pRED3ro48q46tqbyWRqORM/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1NofR8OI3PJDvOxhjjQSLbJGcaZmywerF/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1OSevmWT8e_7Xz8Obxxm2BXKhpM6G6h3q/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1MDco5YfvLK4AW5Vv2Yn0opj4NdnnZBPh/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/1nd2trfZp6PCAV8yut1GAeP-9HdUuVEYy/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/1PdI-7pYRE5kh01YL0Bpf1W1hcjC_URPR/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 3",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/18E34snvUUahxB0qncf2p4Fkq59FjTBqM/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1yfy0ud3PFR_CVpGkdNQV8ov9Y9Mh8MlS/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1SnWmRW-rAm1rKrP_6yizbuIHq01j6z2Y/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1lAbdHAcWRd9wnAFX6VkbFTWVCkxdhagf/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/11qKWIYFi04JLOUJrVFVNZyuTAGB6xFaE/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1GCO8ERDKEDKFG4dg2JLHyysUFeuLnRM8/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/1KJ9p_uQ87NU1Or3XOXwreIyeTlgqrJKq/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/1XR0XLPFbgAxdwkbefPUF0BgrC9mih5sk/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 4",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1hMS4KKcXSa-fyzePdHh99aBpRcptyoF8/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1r2gjq8FRxFrJ_Dn7_lTkmpR_kfprFmIk/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1q9stATVjRgcXd7bKnnwaK-F1MqGvlEB9/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1eC2uebPcgwxsB_ZB_t6CHOG0EVI4AXVA/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1isUY1aYbwRuhyZ3kkxo1Xer_9XZvu_uQ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/13wVbX1FZXyG-kfKsbTRkUBZENQLImLmr/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/1-FRCF9L0lHcM1S2gp0FER6M1izyBpbZX/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/1_wZeV4ezI2ZIq1sJ7tX6ke8I8G41vM2t/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cursed",
+    "type": "american",
+    "overview": "2020 | 18+ | 1 Season | Fantasy TV Shows",
+    "posterUrl": "https://drive.google.com/uc?id=154kwBnzoN1h2P82a_KiKd0hwAGAmT09y",
+    "coverUrl": "https://drive.google.com/uc?id=1NJA7cPRJ3X4jcjKOOdHuFa18Kt--BySd",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1_X9F2ktek_FEROArAPzHG0NQEPdrlJfh/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1AamTTnHlhvWTWrVAAMbi7GRdTSvS6que/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1R4XSYnblrQ9S3DNW1_CfMwhBqC7LoDSh/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1jZzmSZvVcr5oXAJootgq7L3aXtkb_MJR/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/18ZDJQ1vCIMXMMVpHftkgXq04pL9j7GTj/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1ldMRdVTppuQbI_rTtfFEyzgmcyyiXCJs/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/1CgA00euIid1RbbwhwFIrEzL6REDqQuBd/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/1euPH3BtG9MU5wNrjd9BbVwcUwAdrYpT-/view?usp=sharing"
+          },
+          {
+            "name": "Episode 09",
+            "link": "https://drive.google.com/file/d/1rwzKm-4_hiflwkhAqqKuBbTMLUNeJqHx/view?usp=sharing"
+          },
+          {
+            "name": "Episode 10",
+            "link": "https://drive.google.com/file/d/1rCzRh_EXP9hnys0Rq6jQ_NiGHhP4O1Ii/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lost In Space",
+    "type": "american",
+    "overview": "2018 | 7+ | 3 Seasons | Family Watch Together TV",
+    "posterUrl": "https://drive.google.com/uc?id=1FBXHmUt6f-VIlo_aFgY76z1jZs0EFEm-",
+    "coverUrl": "https://drive.google.com/uc?id=1Xks8u5q3DiIy-bITVFlkklkKdnCUa_tH",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1OeT27iiDMlG8IPKOxZXvzPCT-f7mE9fT/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1G6UJo_qxRyiqqUwm3apUXlKppwdS_R5h/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1ZZBAkFU_5na3vdvmrY20S2MsyT9ubFtV/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1iXbY4W9pcnpz39fdTcOmDuEjGF630QMf/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1VNjngMCGwExQSv9mRidjm_b3alc6EuEH/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1uCl1kqgxU_azix0L3M1QHPBIxSHeFnut/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/1-M15aUL1XLTqwMY8c9zbschOhvGJGwnc/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/1qBLjH-Ow4PdUOl_G8JSnUsDqUurG86Hu/view?usp=sharing"
+          },
+          {
+            "name": "Episode 09",
+            "link": "https://drive.google.com/file/d/1oifVN37lHCTQ0kNAp1wYsALxfCDyquPt/view?usp=sharing"
+          },
+          {
+            "name": "Episode 10",
+            "link": "https://drive.google.com/file/d/1yz-0h16E78pFS47A6NQuNgF1ZtubZHgQ/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 2",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1uN8u3ZjzBTstDErT65EL2HFEOKnjrVyH/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1WT8Vkhk7iNAUMSp4NspvA6UTvNYo8z5h/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1UynR7YFfgsX8DBy09hrtFcL_Jad9hxsV/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1dmmjqG5sRMkAFme15yLkFaeUfojSOCVb/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1_KgzIhphN0X-WG9RxeZHae0-fNTqXRfL/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1t6K20gUOpn2JPbMFcA1hnvJPSt_gtLpW/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/1p0H6x78D_Xl5PxYLzLoWWz2ce_PbdNVX/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/1JrCcPwo17sH6k5Fk2KX5DXf_5c-yfjVJ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 09",
+            "link": "https://drive.google.com/file/d/1RqVghU6FLIiNtDoPWBNxceP12P1Xza5l/view?usp=sharing"
+          },
+          {
+            "name": "Episode 10",
+            "link": "https://drive.google.com/file/d/1OpABuzVHmNoLCK-uHghESRgEL7odVSJe/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 3",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1QpQEBOmHhnMbUM4PBFT62Q1INFoBfHtJ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1oRlwqn2KjEt4khFCbhiz7TZP716CsilF/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1EC3RYXT85PDJ0AbY4OaaUf5ncHhzA3Y0/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/199VRLp6XqdExDP-nepo2BIea_nj2yZNd/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1PWs_x1WXniAf9jpXm6Tct9cOPW-EFk2r/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1AKb15M7n5gQ1L2-RP7QnJ2ggUAo5p5F1/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/1Y_EuNU_0sExJZleR1cR6rMzLicXdd1gr/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/17vaqxTkbBwybqn0gCzDdGJICgSlOQc9U/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bridgerton",
+    "type": "american",
+    "overview": "2020 | 18+ | 2 Seasons | Romantic TV Dramas",
+    "posterUrl": "https://drive.google.com/uc?id=18lJxXSTgaXc1C21CqhNVNZ8m105IMvlu",
+    "coverUrl": "https://drive.google.com/uc?id=1i7lGEw11eZXyQb7UTb2ndSLUAZlXJ0Sr",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1VR545hNAE087TIAq1N6GVBBIlSMdrDLN/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1CmHF9sV1T0EVvA83gZdobTmfc-ukM-vL/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1tIbaX2bokomcIVLKUgp178ZpIrEgtnma/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1HQa2ALKOECcm4wWv--yNUwuggphWpqH1/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1MPioXbq3wLmBTy5s6sotjPXI46wNWZLA/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/14ELsH4vMw6LzCjWb2nMqXsBJyABL1sgS/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/1L4vKh3wmTAVVDxTYU14514jIf_NCTSrd/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/1uuGSjgmNJtnOI-Wht3SMz8waIMe-oHri/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 2",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1nWql6kAZLmBt5KvloIpG0FE1Bz6zb3qe/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1t7Z0Qj_QgTlNVxbJr_oLYTXYlEX9NEx4/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1FeWQb72SnNtFrzH12dH0OS0FLEDsicHd/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1F47XODyCdo7yQ8Avk9LmxqCmrK7HG1b8/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/12fABPgy07cFomYnW0-7jlRrAaboCKVUV/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1_dlzS8kdjmgQyEPHHr9EG6uYjua4IbrU/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/1hxEfZ-Sqjw6Icwm--LzhJuZpPpN-XDIZ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/1nEkSPLEprJVQbTTX-uDY2bdr4ypSGNl5/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "name": "Ozark",
+    "type": "american",
+    "overview": "2017 | 18+ | 4 Seasons | TV Thrillers",
+    "posterUrl": "https://drive.google.com/uc?id=19Wq3GURNrr-KvkaPXAgsRaMekCkG5Z6q",
+    "coverUrl": "https://drive.google.com/uc?id=1b0O-sDBhsCY_-ZxJAUpGx5JAFtF2Y2l1",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/14mINXmQZKk5_UDA8tJeN7GJYFYH8m1nh/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1lItklszlBgEyI6box2YmQHo9_7NFKcsq/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1CdDuQ698DawuSYr0v4JTgQvER59Szai2/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1c08-BLVmbrl2F_gYviatJUjNlBHuIzTu/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1poKxxADrgBey0ya-HSrFcjymB2K4uYmi/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1DXCC_ErGbJNP3mYwq2DGmpTKF6_H6lhG/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/1kxSyl0ivVxp8n8LKb-K4qokmwm-Ohpbj/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/1nUg29zSq5NhipHRg73_hojTP_Ko_COHP/view?usp=sharing"
+          },
+          {
+            "name": "Episode 09",
+            "link": "https://drive.google.com/file/d/1ghch8D3zM2vFIPTcJ8dFPKdfTkdNwyew/view?usp=sharing"
+          },
+          {
+            "name": "Episode 10",
+            "link": "https://drive.google.com/file/d/1MXuwbv-sb9ulEkVoSV61212JVFGcQEhq/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 2",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1AtlWUBokdaMMG6ebzL5_WjF2yQL4r7vD/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/167xR5c1hOx7Y-evNRIXwfhro34tZOOoa/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1TyGzCxRQOUtdwHsXr6iuDwXf6Ae_65M0/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1OabPG4o-7NxkM6HfF8uRROr46rGMKih6/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1gjLDRHAXwiBhaedJjBo9pYdnINC_QMoY/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/14f2NI36oKdWaaQYHmOHB_8gi_UMjXySX/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/1kYMim9JVQbYGdTt8Rt7z6D9tsCzV9hwk/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/10hc_ENaSbY21dCpKhBaVhN-eKhFb-PO-/view?usp=sharing"
+          },
+          {
+            "name": "Episode 09",
+            "link": "https://drive.google.com/file/d/14qNsEE9mzT0yZ7V7O2elXbjwOvudEwUx/view?usp=sharing"
+          },
+          {
+            "name": "Episode 10",
+            "link": "https://drive.google.com/file/d/1PBTx5x04S-SJ6jmvwvPyO59tlsiYeLB7/view?usp=sharing`"
+          }
+        ]
+      },
+      {
+        "name": "Season 3",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1dyr7ifbO7nLuicsX15qD8qXp7GN67RfM/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1Ot7MrCHSNcsbIcNzRoNF5qumitK7V0jf/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/161utcVt2cUsfBYoNPi0zSV7AVH_OlyvI/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1yVYjrNfTwNMlKS1dHIJNQ4E3LRwJNXfR/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/13gbG3GkWPgakBHqcXn0GtuOSZeMXJ9fA/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1Xj8jaH8Xrn2lrWBm0nHhDdr-uboH2PVk/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/1DOYybQQf-LiNgIGvabLCogQPaSyqK7Hc/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/1tX9V6n0nJ4WetfineWaUqPu8vlSvoFRo/view?usp=sharing"
+          },
+          {
+            "name": "Episode 09",
+            "link": "https://drive.google.com/file/d/1Y113ZOGfMa--xTnVlx4JxXeJX_n5aD28/view?usp=sharing"
+          },
+          {
+            "name": "Episode 10",
+            "link": "https://drive.google.com/file/d/1-e00xjpDATU42RqwyOKZvuapKO3t3BT5/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 4",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1UOWR-BOZqY-9B9F6rFDqzgPEyeC2ITwN/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1W0A7YBquXChuuddlIwIdTe4c79VHEN_D/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1JVX1nwXTkMpYlBLYzUd31SGQlTyZZjFi/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1aYraKJIBgfU48vHcRWQVfeu1QhBZJ0F4/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1GGrvMpXfHM4cA85nYymesGXc2lBTWou-/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1OuCX1xT0CmIzygbA6-KuzxISxDKOTPXz/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/1jsbIuJw-iAPxTeUor0GCTAcFEsSqdWfK/view?usp=sharing"
+          },
+          {
+            "name": "coming soon",
+            "link": ""
+          },
+          {
+            "name": "coming soon",
+            "link": ""
+          },
+          {
+            "name": "coming soon",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dark Desire",
+    "type": "american",
+    "overview": "2020 | 18+ | 2 Seasons | TV Thrillers",
+    "posterUrl": "https://drive.google.com/uc?id=1_hGKtgTx8QM7rnqzRJbBjTEMuD-S03HT",
+    "coverUrl": "https://drive.google.com/uc?id=1w58beL_YmwovpJzNN6Do7AsGkc0ibffo",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1MEiFDVpWAI4NkPWtgdJQZcCVT6Ahu4Df/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1esqrAhLpsW7Q6Eq8kkK5YX7hr-Rk_0FE/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1Gg2MQm7qJD1HIFZR7eklJbMY3JsGA8yk/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1UYK41aiLgECmX34myr4A8oQOh0OvFIld/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1MNGhkv-RoJDO-3p-EvAy1hhXcemDNmRX/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1iCQ2kRDE7gfVVQeeE2CU9IHCcSbBuZYM/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/1WoVgnpEiylbz71RFwkVEb6FRE8OmRZgy/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/1fcAVknt8M8XPg0hj_0z2wPG7GX5XlOKq/view?usp=sharing"
+          },
+          {
+            "name": "Episode 09",
+            "link": "https://drive.google.com/file/d/1-JRXNrS--56-u1Zpzd-o0YaMMbiUOdqQ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 10",
+            "link": "https://drive.google.com/file/d/1ULtxxbEkNwIEzhnrzoy6UISWLbn1GuJA/view?usp=sharing"
+          },
+          {
+            "name": "Episode 11",
+            "link": "https://drive.google.com/file/d/1wN38cUNG6JzZIXw3Lz3w3jnpmWLoxhxD/view?usp=sharing"
+          },
+          {
+            "name": "Episode 12",
+            "link": "https://drive.google.com/file/d/1WxJywG-MdvnizJSheVCpb7S0PG-fEXvM/view?usp=sharing"
+          },
+          {
+            "name": "Episode 13",
+            "link": "https://drive.google.com/file/d/14UkQDSz4hLCF2oagD8nOAyLo2v7_ngdO/view?usp=sharing"
+          },
+          {
+            "name": "Episode 14",
+            "link": "https://drive.google.com/file/d/1X-MyOVNYeE1RBcAG7-STxizQHrRP8IYK/view?usp=sharing"
+          },
+          {
+            "name": "Episode 15",
+            "link": "https://drive.google.com/file/d/1XJ5_sZYBePnqSg6eeje54bV9aqdUd9so/view?usp=sharing"
+          },
+          {
+            "name": "Episode 16",
+            "link": "https://drive.google.com/file/d/1P_lGjJr12e0a8z86Sp_2odl5oTQdPfO7/view?usp=sharing"
+          },
+          {
+            "name": "Episode 17",
+            "link": "https://drive.google.com/file/d/1a4q2lPvrF_Lzb8mzE-yX-9ElMZ_Vj7YE/view?usp=sharing"
+          },
+          {
+            "name": "Episode 18",
+            "link": "https://drive.google.com/file/d/1mcO0eD7ANZzhfWpUkc6d_vbuzbD7kzTM/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 2",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1YJ3TsuBhJUvrnglGxZR8w9xIzKeiJekX/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1gllsw9SGOUTbvBTbJDJ_FOE5mVL7SpAM/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1vWO63Rwaj0UntxYNCBizcDpiu5i6opbF/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1W-Qh87BXF4a0rX2dhuGZJB-KVeeW0-aZ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/18xkYy1mcYCi680AehVSqfpWifhhOguup/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1JSeBSxvN7-Pdd6fVhQBZ7CiWog2uVGVU/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/1h6eLdKbGP0wQmqjD9DUMylVaC-aLcEzB/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/10l9t39TD56_edaTBN3XrzdvqtDwmuF2R/view?usp=sharing"
+          },
+          {
+            "name": "Episode 09",
+            "link": "https://drive.google.com/file/d/19U3Wpbp37HaQlmwADTCbyNHMZ-RQxSh8/view?usp=sharing"
+          },
+          {
+            "name": "Episode 10",
+            "link": "https://drive.google.com/file/d/129cuBehPyxzomDwFYEeVXhszYsO2gzRE/view?usp=sharing"
+          },
+          {
+            "name": "Episode 11",
+            "link": "https://drive.google.com/file/d/18ch5P1guwKwLmRHHFOJIi-vNWczS5XLr/view?usp=sharing"
+          },
+          {
+            "name": "Episode 12",
+            "link": "https://drive.google.com/file/d/13s4hnSyDrdOzWcmLGYqBZQyPWlT-aYNW/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Emily In Paris",
+    "type": "americann",
+    "overview": "2020 | 16+ | 2 Seasons | Romantic TV Dramas",
+    "posterUrl": "https://drive.google.com/uc?id=10SsmSppRn8qKBK15aoNKJRXe5fHb6X4t",
+    "coverUrl": "https://drive.google.com/uc?id=1B0JA9oO5ZJxvWnOaJUNBVUR9ynX81zBf",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/11gEuv3_jsZFErnpYugTMH_pJ72aowlNZ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/16YNTZ9htl3eOhLat95ykQ8IQ7PnUDflN/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1-6wgJEabmtZcjEaz5fZafXjCRzXCpJlI/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1FcnwTkVtkGMtWKImeCMPpzlkAUKDYUGh/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1G98S6unFTHJNxfMz2se5f2A-0wBFaWE6/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1KFL2Gc53Vl9WYMzUpdJzRKuPNM1tMe-w/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/1PiRs-5ffugmzORLUG5T2wsQxJJLPoyCb/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/132HWhD2NnNH2_Z21MDb6vd2DO4LjhULo/view?usp=sharing"
+          },
+          {
+            "name": "Episode 09",
+            "link": "https://drive.google.com/file/d/17gec4kCQw_gHaNL0EdlwaFE109V0Dguu/view?usp=sharing"
+          },
+          {
+            "name": "Episode 10",
+            "link": "https://drive.google.com/file/d/1VAWUuG9IQUrZ_7RYMJfyj1QGJMxhfJgI/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 2",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1Y_pwj6mEleJHi2uq8_q-Juu2K8Z6LWF4/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1DGxuBJfu4Hbd_fqr_BQZ9EBCwF5Js-vL/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/180ErO0Io_3PkZVdvUdARM4-2GmjGrsff/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1Njdn02DcoP3Prkr0jUK6Bjuuo8qn-9oT/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1amRuQdQRz9pjO79jlLS_soI3S0do3g1N/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1y5QIAx1euCVzlxfTKPuav8Y1WCrLnMVk/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/1Q6000mWAqHWYdz2IiuXCGDYNU2eT8kpl/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/1AibjsE_4qxuKfxK4t680JQfrV-5I-OUr/view?usp=sharing"
+          },
+          {
+            "name": "Episode 09",
+            "link": "https://drive.google.com/file/d/1nZdQPzGu25GiyehWu6Du9B6ukKy-7gP4/view?usp=sharing"
+          },
+          {
+            "name": "Episode 10",
+            "link": "https://drive.google.com/file/d/1702Eo_eonZuUk92C2G7zsdRKJ4856YCC/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Loki",
+    "type": "american",
+    "overview": "2021 | 16+ | 1 Season | Disney+",
+    "posterUrl": "https://drive.google.com/uc?id=1_QanQA7L7_otsKn--s8BUxeDzObof3Hn",
+    "coverUrl": "https://drive.google.com/uc?id=1tdrtueQW25XsS_OIJSeFrgHHVtkbYraX",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1YgJLGnv-o_LGo1qy6jgDVi79HeXNtt_g/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/19mlSHBItX8b_TLvJrDJA0UtHjd9-ACj8/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1jpxe2bLvnLuRzoWAJcVQUAZq3mL5DF-I/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1vyL7VNZJ24seleRnf0gTJdpXZGv78zE7/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1NCNBNGqReTleNUbEah0k2ZByTxAmCZku/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1_6o2jYRYx-w8kftZ9mZgH-pz8MrYkEgY/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "name": "",
+    "type": "",
+    "overview": "",
+    "posterUrl": "",
+    "coverUrl": "s",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": ""
+          },
+          {
+            "name": "Episode 02",
+            "link": ""
+          },
+          {
+            "name": "Episode 03",
+            "link": ""
+          },
+          {
+            "name": "Episode 04",
+            "link": ""
+          },
+          {
+            "name": "Episode 05",
+            "link": ""
+          },
+          {
+            "name": "Episode 06",
+            "link": ""
+          },
+          {
+            "name": "Episode 07",
+            "link": ""
+          },
+          {
+            "name": "Episode 08",
+            "link": ""
+          },
+          {
+            "name": "Episode 09",
+            "link": ""
+          },
+          {
+            "name": "Episode 10",
             "link": ""
           }
         ]
