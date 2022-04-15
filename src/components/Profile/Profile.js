@@ -3,9 +3,8 @@ import axios from 'axios';
 import moment from 'moment'
 import { useNavigate } from "react-router-dom";
 
-
-import './Profile.scss';
 import AccountMenu from '../Nav/Menu';
+import './Profile.scss';
 
 const Profile = () => {
   document.title = 'Profile';

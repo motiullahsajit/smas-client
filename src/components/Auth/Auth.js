@@ -124,13 +124,18 @@ const Auth = () => {
             <input name="name" type="text" onChange={(e) => onChangeHandler(e)} placeholder="Name" className="form_input" required />
           }
           <input name="email" onChange={(e) => onChangeHandler(e)} type="email" placeholder="Email" className="form_input" required />
+          {
+            option === 'signUp' &&
+            <>
+              <label>Upload Profile Picture</label>
+              <input name="profileImgURl" type="file" onChange={handleImageUpload} placeholder="Profile Picture" className="form_input" required />
+            </>
+          }
           <input name="password" onChange={(e) => onChangeHandler(e)} type="password" placeholder="Password" className="form_input" required />
           {
             option === 'signUp' &&
             <>
               <input name="confirmPassword" onChange={(e) => onChangeHandler(e)} type="password" placeholder="Confirm Password" className="form_input" required />
-              <label>Upload Profile Picture</label>
-              <input name="profileImgURl" type="file" onChange={handleImageUpload} placeholder="Profile Picture" className="form_input" required />
             </>
           }
           <p className='text_error'>{error}</p>

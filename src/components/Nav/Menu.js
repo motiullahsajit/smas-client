@@ -1,5 +1,6 @@
 import * as React from 'react';
 import { useNavigate } from "react-router-dom";
+import backupProfile from '../images/profile.jpg'
 import Box from '@mui/material/Box';
 import Menu from '@mui/material/Menu';
 import MenuItem from '@mui/material/MenuItem';
@@ -48,7 +49,7 @@ export default function AccountMenu() {
             aria-haspopup="true"
             aria-expanded={open ? 'true' : undefined}
           >
-            <img className='nav__avatar' src={smasimageUrl} alt="profile picture" />
+            <img className='nav__avatar' src={smasimageUrl.length < 5 ? backupProfile : smasimageUrl} alt="profile picture" />
           </IconButton>
         </Tooltip>
       </Box>
