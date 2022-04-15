@@ -48,7 +48,7 @@ const RowSlider = ({ title, data }) => {
         }
       },
       {
-        breakpoint: 480,
+        breakpoint: 598,
         settings: {
           slidesToShow: 2,
           slidesToScroll: 1

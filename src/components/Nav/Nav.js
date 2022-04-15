@@ -78,7 +78,7 @@ function Nav() {
           <div className='search_cross'>
             <button onClick={handleClear}>x</button>
           </div>
-          {lodder && <p>Search...</p>}
+          {lodder && <p>Search the exact name...</p>}
           {showNoResults && <p>No Results Found</p>}
           {showResults && <Row title='Results Found' data={results} type={"search"} />}
         </div>
