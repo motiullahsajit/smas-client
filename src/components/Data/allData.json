@@ -1116,6 +1116,12 @@
     "posterUrl": "https://i.ibb.co/PggbzJd/MV5-BZj-A0-Mm-Zl-NTct-Mz-Qy-NS00-MDQy-LWFk-NGIt-ZDRi-MGMx-Yzg2-MDIy-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Ew-NTM2.jpg          ",
     "movieUrl": "https://drive.google.com/file/d/1LrdPPirA5GVdwqMiyBneXB2cT-G9ny1M/view?usp=sharing"
   },
+  {
+    "name": "Room 203",
+    "type": "movie",
+    "posterUrl": "https://i.ibb.co/PFNrw4z/MV5-BMz-Fh-Nj-M1-Zjgt-Nj-E3-MC00-MTIy-LWE4-M2-Ut-Ym-Ri-NDIy-YWE4-NTVi-Xk-Ey-Xk-Fqc-Gde-QXVy-NTg0-MTg.jpg",
+    "movieUrl": "https://drive.google.com/file/d/1tmR9_ISl6zqXYorF5kZQ9dA1XZQwAjwy/view?usp=sharing"
+  },
 
   {
     "name": "Space Sweepers",
@@ -4516,6 +4522,176 @@
       }
 
     ]   
+  },
+  {
+    "name": "Stranger Things",
+    "type": "american",
+    "overview": "2016 | 16+ | 3 Seasons | US TV Shows",
+    "posterUrl": "https://i.ibb.co/t2VSFXt/MV5-BN2-Zm-Yjg1-Ym-It-NWQ4-OC00-YWM0-LWE0-ZDkt-YThj-OTZi-Zjhh-N2-Q2-Xk-Ey-Xk-Fqc-Gde-QXVy-Njgx-NTQ3.jpg",
+    "coverUrl": "https://i.ibb.co/Gnt30Kz/wp4428130.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1z5ocoBof3PMoC6wS4d8CUxfUCeJOjDrG/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/11D7p-8l5xDdfzQtncRUIFY00qrLIeNBB/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/11hfugdNjLyVjKTw3_6pLUam7aMNq8vUn/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1kdLc3bZcQwfxpZbSOPtLUGwU41bu7pf1/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1sdbhMUhyg2wEANNIjP9vPTDYYaicbHpG/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1CzWnHvWH7wzydVSVYL0fj60fyynU7Hrj/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/1v9heni52wXInht1QmRzffAQKswyZG7mZ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/1MBB1P8E6_JxllLQRWoDZTPgO4uVTWPbu/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 2",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1oFQxXVn_WTsHBZ_SY2NGP47FH2Mjy3yR/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1WN4SwSi-bDE5CoorlfoalN2QFWKs0xr1/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1I3j5Q-2XRIlL9ZU28pK5nm8PWRPrGaXu/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1LnlTBVcHOdXn3CLM9Zu-PGCderDQcTz-/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/124FZfdY5aU1T4oC-Xy_4SZTVzYpfI9Ib/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1zOub0cj8F5SD7WWCVejvvWx1h1Xaqzsj/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/1TFBP36dAw3AFm5_OSMFcz7HCYGMBCTHU/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/1aaJw7PoFAvosssJbSrB9qDQM-brg5oHJ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 09",
+            "link": "https://drive.google.com/file/d/15cmDTdUorPlcdZ2wlgAkSwAeq6xYOzuG/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 3",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/12krmIL5I6nIi7Yqx8y1CU_cVuy6D_R1W/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1Y00lQqIY38E-W69TRE_xRQRfhxNBH0E4/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/11xJardtLsR6aJe328TC3cDzrBZwLHPA-/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1I35LiMqBx8_OprCCvvGsOv_aBqHv39f8/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1VWpkeGPN4LWnxCuHM1_43dMAp6Ht8M_I/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1Xn4l3NrHKhnUmL_dcDAI5Ttoqg0WC0sP/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/1rPvI2t4W3OmoidnU5YP5Tu65aR-Vf-2L/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/17z7K2Zxv_eUch2bQ40st9G0CjewEa-Zi/view?usp=sharing"
+          }
+         ]
+       }
+     ]
+  },
+  {
+    "name": "Alice In Borderland",
+    "type": "korean",
+    "overview": "2020 | 18+ | 1 Season | TV Thrillers",
+    "posterUrl": "https://i.ibb.co/z8LV1MQ/Alice-in-Borderland.webp",
+    "coverUrl": "https://i.ibb.co/zbtT7K5/thumb-1920-1123652.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1OdomNJNX77DkCB5TGWNgREQelVwSfCyd/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1farFCkcuC1cNKHd2DilNmeiGWUuzr68z/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1iKRdaVnx6q0gSolvfvhHscsNS1CY-mKQ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1sxqSUQ1XDbmeHecDOtZG0qdmSG54PFFF/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1WCwKidMt6OuXKqjp2Qx0gzL2eZ5vTiL0/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1ZZ0n-Py3aBgwLN02MTbyEh8bb76-oY_d/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/1OXOgE_1pfVSvxKkXs6rG0y684Toqv-r-/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/1t9I471plZ9QIYUOPM5oWLBVYwygwPs-_/view?usp=sharing"
+          }
+        ]
+      }
+    ]
   }
 
 ]
