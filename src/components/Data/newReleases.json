@@ -1,9 +1,47 @@
 [
   {
+    "name": "Mai:A Mother Rage",
+    "type": "indian",
+    "overview": "2022 | 18+ | 1 Season | TV Thrillers",
+    "posterUrl": "https://drive.google.com/uc?id=1BjqfDnlFo6VBhofRQDmyf_t_MHe6tHGA",
+    "coverUrl": "https://drive.google.com/uc?id=1tw33XpdAcpq4F3x-aC_zBuNUNtTbsW6t",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1Ck2SBz6xOsMdwuauw6_wEzNE-NL7-vcM/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1NaIoM_Hggss1qOl0FhntZTh2ZuW6yPjG/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1EYJgUq8NR2SVvU1-GiOoZsxUEv2OTjZ5/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1PkZhxFNxNlp9zn2RjT4QxEIhTKsGV8Aj/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1VKZ2GjQvuJklSB2SQZQbSLfo3P0p0-fb/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1YZkIsQ1rUlkp50-sxE9AoilbXMSrwPLi/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "KGF Chapter 2",
     "type": "movie",
     "posterUrl": "https://i.ibb.co/0DPBj5Z/MV5-BMj-Mw-MDgy-OGQt-MWZj-NC00-MDUw-LTll-ZDYt-ZWM3-NDBm-N2-Yz-NGZm-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQz-Njkz-M.jpg",
-    "movieUrl": "https://drive.google.com/file/d/1mYBV6GQ9jMD5zEodWu19cmqOaJW-4f9L/view?usp=sharing"
+    "movieUrl": "https://drive.google.com/file/d/1cTvMPhZu_tr9znTpDDDA6wi9osUc0g0z/view?usp=sharing"
   },
 
   {
