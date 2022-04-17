@@ -21,21 +21,21 @@ const SeriesPage = () => {
   }, [series]);
 
   return (
-    <main>
+    <main className='series_main'>
       {
         lodder ? <p>Loading</p> :
           <>
             <Nav />
-            <header style={{ backgroundImage: `url('${series?.coverUrl}')`, backgroundRepeat: 'no-repeat', backgroundSize: 'cover', backgroundPosition: 'center center' }} className='banner'>
+            <header style={{ backgroundImage: `url('${series?.coverUrl}')`, backgroundRepeat: 'no-repeat', backgroundSize: 'cover', backgroundPosition: 'center center' }} className='series_banner'>
               <div className="banner__contents_series">
-                <h1 className="banner__title">
+                <h1 className="banner__title_series">
                   {series?.name}
                 </h1>
-                <p className="banner__description">
+                <p className="banner__description_series">
                   {series?.overview}
                 </p>
               </div>
-              <div className="banner--fadeBottom" />
+              <div className="banner--fadeBottom_series" />
             </header>
             <div className='seasons_container'>
               <section className='seasons'>

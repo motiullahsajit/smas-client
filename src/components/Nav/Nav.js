@@ -28,9 +28,9 @@ function Nav() {
     setLodder(true)
     const value = e.target.value;
 
-    const result = allData.filter((s) => s.name.toLowerCase() === value.toLowerCase())
-    if (result.length > 0) {
-      setResults(result[0])
+    const resultsData = allData.filter((s) => s.name.toLowerCase() === value.toLowerCase())
+    if (resultsData.length > 0) {
+      setResults(resultsData)
       setShowResults(true)
       setLodder(false)
       setShowNoResults(false)
@@ -80,7 +80,7 @@ function Nav() {
           </div>
           {lodder && <p>Search the exact name...</p>}
           {showNoResults && <p>No Results Found</p>}
-          {showResults && <Row title='Results Found' data={results} type={"search"} />}
+          {showResults && <Row title='Results Found' data={results} />}
         </div>
       }
     </nav>

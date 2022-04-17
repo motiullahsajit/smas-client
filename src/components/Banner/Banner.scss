@@ -20,6 +20,9 @@
   font-size: 3rem;
   font-weight: 800;
   padding-bottom: 0.3rem;
+  @media screen and (max-width: 375px) {
+    font-size: 2rem;
+  }
 }
 
 .banner__description {
