@@ -3,7 +3,7 @@
     "name": "KGF Chapter 2",
     "type": "movie",
     "posterUrl": "https://i.ibb.co/0DPBj5Z/MV5-BMj-Mw-MDgy-OGQt-MWZj-NC00-MDUw-LTll-ZDYt-ZWM3-NDBm-N2-Yz-NGZm-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQz-Njkz-M.jpg",
-    "movieUrl": "https://drive.google.com/file/d/1mYBV6GQ9jMD5zEodWu19cmqOaJW-4f9L/view?usp=sharing"
+    "movieUrl": "https://drive.google.com/file/d/1LmFxAqpOqLLOV_m41sm5DKVPl7Y2cKUl/view?usp=sharing"
   },
 
   {
@@ -70,7 +70,7 @@
   },
 
   {
-    "name": "Radhe 2021",
+    "name": "Radhe",
     "type": "movie",
     "posterUrl": "https://i.ibb.co/x2JTnhM/MV5-BZjk3-ZTAy-Mzgt-Nz-U5-Yi00-MGI0-LWJi-Zjgt-YWNj-Nj-I3-ODcx-YTk5-Xk-Ey-Xk-Fqc-Gde-QXVy-MTIz-Mzg0-M.jpg",
     "movieUrl": "https://drive.google.com/file/d/1DX-7aCpmhd9e6Nltf4eq2rb2ylDsW-jp/view?usp=sharing"
@@ -97,13 +97,13 @@
     "movieUrl": "https://drive.google.com/file/d/1B3lkjRFXjMbHpQ4Nd6OgKPhD5QJVBvI7/view?usp=sharing"
   },
   {
-    "name": "Dasvi 2022",
+    "name": "Dasvi",
     "type": "movie",
     "posterUrl": "https://i.ibb.co/sw2VnW0/MV5-BZWE3-OTg5-ZTAt-OThi-YS00-ODM5-LWIy-Zm-Ut-MWRi-OTRl-MGZh-MTk0-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E3-O.jpg",
     "movieUrl": "https://drive.google.com/file/d/1P4DDgWpzkEkWBBt3Z0SvlC86QI1zvxz1/view?usp=sharing"
   },
   {
-    "name": "Sharmaji Namkeen 2022",
+    "name": "Sharmaji Namkeen",
     "type": "movie",
     "posterUrl": "https://i.ibb.co/ZWj1gW2/MV5-BY2-Mx-Nj-Vl-Nj-Mt-OGEx-Mi00-NWRj-LThh-Yz-Qt-NDY4-OWZk-Mzcw-Njhi-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI1-NDEy.jpg",
     "movieUrl": "https://drive.google.com/file/d/1IEb8jv50q4Jy0a5hcECAMuDJt3MV-2X-/view?usp=sharing"
@@ -115,7 +115,7 @@
     "movieUrl": "https://drive.google.com/file/d/1yF122Pe5V7qvGod6tyWdxXN2v_OKv0u9/view?usp=sharings"
   },
   {
-    "name": "Shiddat 2021",
+    "name": "Shiddat",
     "type": "movie",
     "posterUrl": "https://i.ibb.co/JHbFm2Z/MV5-BN2-U2-Nzcy-YWQt-YWRk-Ni00-NWE2-LWFl-N2-Ut-Mj-Y0-Mz-Jk-MWQz-ZDI2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI1-NDEy.jpg",
     "movieUrl": "https://drive.google.com/file/d/1I0b47ZapCeq5f3yivKmnS28uiHdMXaGG/view?usp=sharing"
@@ -595,5 +595,15 @@
     "type": "movie",
     "posterUrl": "https://i.ibb.co/k0L8ymy/MV5-BNTk2-Mm-Qx-Yz-Mt-Yz-Vh-ZS00-Nzdh-LTg3-Ym-Ut-Mz-Iy-MDY3-MTFm-Ym-Fh-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz.jpg",
     "movieUrl": "https://drive.google.com/file/d/1mAwFYfVd4INOpZ0TkF9ZpVQDkqaY-2BJ/view?usp=sharing"
+  },
+  {
+    "name": "Indoo Ki Jawani",
+    "type": "movie",
+    "posterUrl": "https://i.ibb.co/NtbFYkp/MV5-BZTFm-Nj-Iy-NTYt-Ym-Q2-Ny00-ZTBh-LWEw-Zm-Ut-Yjhm-NDM3-Nzc0-Mjk5-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI2-NDg2.jpg",
+    "movieUrl": " https://drive.google.com/file/d/1kQErFTTnZ6mEQG-Ap4DmWz_r5bzPuHC1/view?usp=sharing"
   }
+
+
+
+ 
 ]

@@ -1,9 +1,83 @@
 [
   {
+    "name": "Room 203",
+    "type": "movie",
+    "posterUrl": "https://i.ibb.co/PFNrw4z/MV5-BMz-Fh-Nj-M1-Zjgt-Nj-E3-MC00-MTIy-LWE4-M2-Ut-Ym-Ri-NDIy-YWE4-NTVi-Xk-Ey-Xk-Fqc-Gde-QXVy-NTg0-MTg.jpg",
+    "movieUrl": "https://drive.google.com/file/d/1tmR9_ISl6zqXYorF5kZQ9dA1XZQwAjwy/view?usp=sharing"
+  },
+  {
+    "name": "Mai:A Mother Rage",
+    "type": "indian",
+    "overview": "2022 | 18+ | 1 Season | TV Thrillers",
+    "posterUrl": "https://drive.google.com/uc?id=1BjqfDnlFo6VBhofRQDmyf_t_MHe6tHGA",
+    "coverUrl": "https://drive.google.com/uc?id=1tw33XpdAcpq4F3x-aC_zBuNUNtTbsW6t",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1Ck2SBz6xOsMdwuauw6_wEzNE-NL7-vcM/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1NaIoM_Hggss1qOl0FhntZTh2ZuW6yPjG/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1EYJgUq8NR2SVvU1-GiOoZsxUEv2OTjZ5/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1PkZhxFNxNlp9zn2RjT4QxEIhTKsGV8Aj/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1VKZ2GjQvuJklSB2SQZQbSLfo3P0p0-fb/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1YZkIsQ1rUlkp50-sxE9AoilbXMSrwPLi/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "KGF Chapter 2",
     "type": "movie",
     "posterUrl": "https://i.ibb.co/0DPBj5Z/MV5-BMj-Mw-MDgy-OGQt-MWZj-NC00-MDUw-LTll-ZDYt-ZWM3-NDBm-N2-Yz-NGZm-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQz-Njkz-M.jpg",
-    "movieUrl": "https://drive.google.com/file/d/1mYBV6GQ9jMD5zEodWu19cmqOaJW-4f9L/view?usp=sharing"
+    "movieUrl": "https://drive.google.com/file/d/1cTvMPhZu_tr9znTpDDDA6wi9osUc0g0z/view?usp=sharing"
+  },
+  {
+    "name": "Halo",
+    "type": "american",
+    "overview": "2022 | 17+ | 1 Season | Sci-Fi",
+    "posterUrl": "https://i.ibb.co/C7kpHTq/download.jpg",
+    "coverUrl": "https://i.ibb.co/wJBYkkL/FKDxr4.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1M1MWBGHJy6RI4h9MZInZNx1mFl72RIAe/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/12fRaOSMKSKSAQjWKhDX9NtUlMwNPQZ0k/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": ""
+          },
+          {
+            "name": "Episode 04",
+            "link": ""
+          }
+        ]
+      }
+    ]
   },
 
   {
@@ -17,6 +91,12 @@
     "type": "movie",
     "posterUrl": "https://i.ibb.co/McLywYG/MV5-BN2-Nm-M2-Qx-Yz-Mt-OWJj-Ni00-Zj-Ux-LWIz-MGMt-OWNi-MGU1-Yz-Vl-Yjdk-Xk-Ey-Xk-Fqc-Gde-QXVy-ODIy-Mj.jpg",
     "movieUrl": "https://drive.google.com/file/d/16zk-RtnG4ciNmnRAKTPTUWkmwWfzGc4k/view?usp=sharing"
+  },
+  {
+    "name": "Choose Or Die",
+    "type": "movie",
+    "posterUrl": "https://i.ibb.co/JRBvKLX/Choose-or-Die-film-poster-png.webp",
+    "movieUrl": "https://drive.google.com/file/d/16p1A8YukMAAw8dFB_Ul09dcaiwCl11lr/view?usp=sharing"
   },
 
   {
