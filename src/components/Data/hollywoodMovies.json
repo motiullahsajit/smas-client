@@ -1,4 +1,5 @@
 [
+
   {
     "name": "Room 203",
     "type": "movie",
@@ -10,6 +11,12 @@
     "type": "movie",
     "posterUrl": "https://i.ibb.co/TLbfnNC/MV5-BZWMy-Yz-Fj-YTYt-NTRj-Yi00-OGEx-LWE2-Yzgt-OGRm-Yj-Ax-ZTU3-Nz-Bi-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-Q0-Mz-A.jpg",
     "movieUrl": "https://drive.google.com/file/d/1gzA-NBP03YoaxjKoB9T5SATxEjj37YC6/view?usp=sharing"
+  },
+  {
+    "name": "Choose Or Die",
+    "type": "movie",
+    "posterUrl": "https://i.ibb.co/JRBvKLX/Choose-or-Die-film-poster-png.webp",
+    "movieUrl": "https://drive.google.com/file/d/16p1A8YukMAAw8dFB_Ul09dcaiwCl11lr/view?usp=sharing"
   },
   {
     "name": "The Batman",
@@ -141,6 +148,7 @@
     "posterUrl": "https://i.ibb.co/SNSWLrq/MV5-BOWY3-ZWFk-Zm-It-NDE3-Ny00-ZTBh-LTg0-Nj-Qt-Y2-E2-ZGEy-Nm-Ew-ODA3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTkx-Nj-U.jpg",
     "movieUrl": "https://drive.google.com/file/d/133udxdG4CYO3x9iG0XtIcgF6bhaE9dAh/view?usp=sharing"
   },
+ 
   {
     "name": "Better Nate Than Ever",
     "type": "movie",
@@ -995,14 +1003,14 @@
   },
 
   {
-    "name": "Spider-Man 2",
+    "name": "Spiderman 2",
     "type": "movie",
     "posterUrl": "https://i.ibb.co/xgC1wfn/MV5-BMz-Y2-ODk4-Nm-Ut-OTVm-Ni00-ZTdk-LTlm-OWYt-Mm-E2-OWVh-NTU2-OTVk-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQx-Nz-Mz.jpg",
     "movieUrl": "https://drive.google.com/file/d/1vhThFZU_G8cPBPk4u8L14YDJXE6_NY9H/view?usp=sharing"
   },
 
   {
-    "name": "Spider-Man 3",
+    "name": "Spiderman 3",
     "type": "movie",
     "posterUrl": "https://i.ibb.co/B3p1hNn/MV5-BYTk3-MDlj-OWQt-NGI2-My00-OTEz-LTlh-Yj-Qt-OTQ4-ODM2-Mz-Uw-Y2-Iw-Xk-Ey-Xk-Fqc-Gde-QXVy-NTIz-OTk5.jpg",
     "movieUrl": ""

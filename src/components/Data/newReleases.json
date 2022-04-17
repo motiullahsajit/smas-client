@@ -49,6 +49,36 @@
     "posterUrl": "https://i.ibb.co/0DPBj5Z/MV5-BMj-Mw-MDgy-OGQt-MWZj-NC00-MDUw-LTll-ZDYt-ZWM3-NDBm-N2-Yz-NGZm-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQz-Njkz-M.jpg",
     "movieUrl": "https://drive.google.com/file/d/1cTvMPhZu_tr9znTpDDDA6wi9osUc0g0z/view?usp=sharing"
   },
+  {
+    "name": "Halo",
+    "type": "american",
+    "overview": "2022 | 17+ | 1 Season | Sci-Fi",
+    "posterUrl": "https://i.ibb.co/C7kpHTq/download.jpg",
+    "coverUrl": "https://i.ibb.co/wJBYkkL/FKDxr4.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1M1MWBGHJy6RI4h9MZInZNx1mFl72RIAe/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/12fRaOSMKSKSAQjWKhDX9NtUlMwNPQZ0k/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": ""
+          },
+          {
+            "name": "Episode 04",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
 
   {
     "name": "Beast",
@@ -61,6 +91,12 @@
     "type": "movie",
     "posterUrl": "https://i.ibb.co/McLywYG/MV5-BN2-Nm-M2-Qx-Yz-Mt-OWJj-Ni00-Zj-Ux-LWIz-MGMt-OWNi-MGU1-Yz-Vl-Yjdk-Xk-Ey-Xk-Fqc-Gde-QXVy-ODIy-Mj.jpg",
     "movieUrl": "https://drive.google.com/file/d/16zk-RtnG4ciNmnRAKTPTUWkmwWfzGc4k/view?usp=sharing"
+  },
+  {
+    "name": "Choose Or Die",
+    "type": "movie",
+    "posterUrl": "https://i.ibb.co/JRBvKLX/Choose-or-Die-film-poster-png.webp",
+    "movieUrl": "https://drive.google.com/file/d/16p1A8YukMAAw8dFB_Ul09dcaiwCl11lr/view?usp=sharing"
   },
 
   {
