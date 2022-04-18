@@ -889,47 +889,95 @@
     ]
   },
   {
-    "name": "Hellbound",
-    "type": "american",
-    "overview": "Unearthly beings deliver bloody condemnations, sending individuals to hell and giving rise to a religious group founded on the idea of divine justice.",
-
-    "posterUrl": "https://i.ibb.co/WDStpxW/MV5-BNz-U1-ODk0-ZWUt-Mzdk-YS00-Ym-I2-LWI1-Nj-It-OTg0-Nj-Qx-NGY5-Mm-Nl-Xk-Ey-Xk-Fqc-Gde-QXVy-ODk4-OTc.jpg",
-    "coverUrl": "https://i.ibb.co/8rst7sq/thumb-1920-1193111.jpg",
+    "name": "Mirzapur",
+    "type": "indian",
+    "overview": "2018 | 18+ | 2 Season | Action",
+    "posterUrl": "https://i.ibb.co/cNTyLkz/MV5-BMj-Ez-Nz-Mw-Nj-Az-Ml5-BMl5-Ban-Bn-Xk-Ft-ZTgw-MTI4-Mz-Y3-Nj-M-V1.jpg",
+    "coverUrl": "https://i.ibb.co/S0cxqLM/wallpapersden-com-amazon-mirzapur-1920x1080.jpg",
     "seasons": [
       {
         "name": "Season 1",
         "episodes": [
           {
             "name": "Episode 01",
-            "link": ""
+            "link": "https://drive.google.com/file/d/13FvLsyizoW6HPN9y7wSN--PfMzBnKpDp/view?usp=sharing"
           },
           {
             "name": "Episode 02",
-            "link": ""
+            "link": "https://drive.google.com/file/d/13KG4YbKzNZrWDxECIfYv6ieALR6icBLZ/view?usp=sharing"
           },
           {
             "name": "Episode 03",
-            "link": ""
+            "link": "https://drive.google.com/file/d/13WDDuyNmnPC6rw0mbrv4D1c-cWD95nK3/view?usp=sharing"
           },
           {
             "name": "Episode 04",
-            "link": ""
+            "link": "https://drive.google.com/file/d/13lSfGgP048m0_UdqRX60usj7ZLw8Kh7t/view?usp=sharing"
           },
           {
             "name": "Episode 05",
-            "link": ""
+            "link": "https://drive.google.com/file/d/14-lJGz_tnH5Lno5YxtHXKbR1sgz4AEDV/view?usp=sharing"
           },
           {
             "name": "Episode 06",
-            "link": ""
+            "link": "https://drive.google.com/file/d/14DodiIlcCybG9R3RVxi3famAQ21qgo9c/view?usp=sharing"
           },
           {
             "name": "Episode 07",
-            "link": ""
+            "link": "https://drive.google.com/file/d/14NxhAodm6d161D9m7g899BWZMnILQ9Ok/view?usp=sharing"
           },
           {
             "name": "Episode 08",
-            "link": ""
+            "link": "https://drive.google.com/file/d/14O0pU72S878Nx5vdh4RzW-uiF7CylhTf/view?usp=sharing"
+          },
+          {
+            "name": "Episode 09",
+            "link": "https://drive.google.com/file/d/14Y7v4TSRNem8tqPP3cJ19MrPH0sWuLSB/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 2",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/10QUD7QROW6GgEJXYbtDd7GN0WQxDt-mg/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/11-StexI351jBM-EAxVvvpVlSVGpILjTR/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/111F8P-oXE62X298HYT7OSJOAUUTvAZDN/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/11A1InN_F-Poh2KoJKmoo9GCswOfmQsg2/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/11HCib12qnWlq3LSnrQf_gRScn8C_7jUr/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/11ZpBK9pfT_PW1lt2Kp-umjRuPB84M2ac/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/11t6gDJ_0iSbooHPFCx5XlZkDNFoFkaEb/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/11vWyZH_jnXNlVogmWpYtYOFtQ45laX8M/view?usp=sharing"
+          },
+          {
+            "name": "Episode 09",
+            "link": "https://drive.google.com/file/d/125xs9I0qudNGAM_RFAbeIkDYagHFEipy/view?usp=sharing"
+          },
+          {
+            "name": "Episode 10",
+            "link": "https://drive.google.com/file/d/12DArXG5fH4kI0tWKlJ0-HiT89V16Cmqj/view?usp=sharing"
           }
         ]
       }
@@ -1165,7 +1213,7 @@
     "overview": "2022 | 18+ | 1 Season | K-Dramas based on Webtoon",
 
     "posterUrl": "https://i.ibb.co/TRwQ2Vs/ze4lhw0o-LBHYml-M2-Ku-Zj-Bg0-Sq6-H.jpg",
-    "coverUrl": "https://i.ibb.co/f01MChb/1208938.jpg",
+    "coverUrl": "https://i.ibb.co/BBw74h7/rhdj-MN-1.jpg",
     "seasons": [
       {
         "name": "Season 1",
@@ -3224,6 +3272,79 @@
       }
     ]
   },
+  {
+    "name": "Eternally Confused And Eager For Love",
+    "type": "indian",
+    "overview": "2022 | 18+ | 1 Season | Romantic TV Comedies",
+    "posterUrl": "https://i.ibb.co/w7Lwng4/MV5-BYjc4-M2-Ez-OTQt-Yj-Az-NC00-NDg3-LWE3-YTkt-ZWYy-ZDRj-YTFl-NWM2-Xk-Ey-Xk-Fqc-Gde-QXVy-NDI3-Nj-U1.jpg",
+    "coverUrl": "https://i.ibb.co/brpHnwV/top-image-02-1.webp",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/11qxvqpSAj2zicVC7y3iWDBCtmvQ_ojL6/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1ljA6V2Z_9AzKt34Kab-NUyb_rzNuCKEr/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1EiYv8EgONHVycjeG-BoNUuvlBg-nw9Pz/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1Q1nyx9YsuZqUMGppEuDu2RkOt4Q6qJgU/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1HtROhVhoNckbz3_1PBIwJok-_V9JfnbU/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1iyixxXkDn-Halaqftd6thiEHWmYcUqL5/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/1shnr9aHafnkMGHdF6mxxkGCtcUb3j7BZ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/1LEmi8d2w2C08ThumesOVh7shX2F_V_4c/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The Tringle",
+    "type": "american",
+    "overview": "2005 | 6+ | 1 Season | TV Mini Series",
+    "posterUrl": "https://i.ibb.co/gMDG1bg/MV5-BMTY3-Mj-Ay-MDk2-MF5-BMl5-Ban-Bn-Xk-Ft-ZTcw-MTIz-Mz-Iz-MQ-V1.jpg",
+    "coverUrl": "https://i.ibb.co/TKBykL6/MV5-BZDcx-Mz-Q3-Nj-Mt-Mm-M2-MS00-Zjcx-LTg3-NDMt-ZGIy-NDNl-OWM5-Y2-Vh-Xk-Ey-Xk-Fqc-Gde-QXVy-MTE5-MDI0.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1Zm8ascPOfrk3hLrT3S55fhm9Lj4MdB9p/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1cxgn9Ssz4OzBaTojLm7yzDvGpzytLCFd/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1dwNP-PspEjT0oTyTdASumqSgG9IO_YmL/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+ 
   
   {
     "name": "",
