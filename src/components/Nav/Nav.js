@@ -1,10 +1,11 @@
 import React, { useEffect, useState } from 'react';
 import { useNavigate } from "react-router-dom";
 
-import Row from '../Row/Row';
 import allData from '../Data/allData.json'
-import './Nav.scss';
 import AccountMenu from './Menu';
+import Row from '../Row/Row';
+
+import './Nav.scss';
 
 function Nav() {
   const navigate = useNavigate();
@@ -28,7 +29,8 @@ function Nav() {
     setLodder(true)
     const value = e.target.value;
 
-    const resultsData = allData.filter((s) => s.name.toLowerCase() === value.toLowerCase())
+    const resultsData = allData.filter((s) => s.name.toLowerCase().includes(value.toLowerCase()));
+
     if (resultsData.length > 0) {
       setResults(resultsData)
       setShowResults(true)
@@ -53,12 +55,10 @@ function Nav() {
     navigate(`/`)
   }
 
-
   useEffect(() => {
     window.addEventListener("scroll", transitionNavBar);
     return () => window.removeEventListener("scroll", transitionNavBar);
   }, [])
-
 
   return (
     <nav className={`nav ${show && 'nav__black'}`}>

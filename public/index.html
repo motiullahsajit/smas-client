@@ -38,29 +38,29 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
+  <script type="module">
+    // Import the functions you need from the SDKs you need
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/9.6.11/firebase-app.js";
+    import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.6.11/firebase-analytics.js";
+    // TODO: Add SDKs for Firebase products that you want to use
+    // https://firebase.google.com/docs/web/setup#available-libraries
+
+    // Your web app's Firebase configuration
+    // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+    const firebaseConfig = {
+      apiKey: "AIzaSyBRCCrYaW67-AR4rMSH2rw5psotD61zpAI",
+      authDomain: "stockmovieseries.firebaseapp.com",
+      projectId: "stockmovieseries",
+      storageBucket: "stockmovieseries.appspot.com",
+      messagingSenderId: "401291990798",
+      appId: "1:401291990798:web:5ce781a8248f721bdb295f",
+      measurementId: "G-L9GLGJKDW5"
+    };
+
+    // Initialize Firebase
+    const app = initializeApp(firebaseConfig);
+    const analytics = getAnalytics(app);
+  </script>
 </body>
-<!-- <script type="module">
-  // Import the functions you need from the SDKs you need
-  import { initializeApp } from "https://www.gstatic.com/firebasejs/9.6.11/firebase-app.js";
-  import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.6.11/firebase-analytics.js";
-  // TODO: Add SDKs for Firebase products that you want to use
-  // https://firebase.google.com/docs/web/setup#available-libraries
-
-  // Your web app's Firebase configuration
-  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-  const firebaseConfig = {
-    apiKey: "AIzaSyBRCCrYaW67-AR4rMSH2rw5psotD61zpAI",
-    authDomain: "stockmovieseries.firebaseapp.com",
-    projectId: "stockmovieseries",
-    storageBucket: "stockmovieseries.appspot.com",
-    messagingSenderId: "401291990798",
-    appId: "1:401291990798:web:5ce781a8248f721bdb295f",
-    measurementId: "G-L9GLGJKDW5"
-  };
-
-  // Initialize Firebase
-  const app = initializeApp(firebaseConfig);
-  const analytics = getAnalytics(app); -->
-</script>
 
 </html>
