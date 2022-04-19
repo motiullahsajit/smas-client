@@ -1,9 +1,15 @@
 [
   {
-    "name": "Room 203",
+    "name": "Choose Or Die",
     "type": "movie",
-    "posterUrl": "https://i.ibb.co/PFNrw4z/MV5-BMz-Fh-Nj-M1-Zjgt-Nj-E3-MC00-MTIy-LWE4-M2-Ut-Ym-Ri-NDIy-YWE4-NTVi-Xk-Ey-Xk-Fqc-Gde-QXVy-NTg0-MTg.jpg",
-    "movieUrl": "https://drive.google.com/file/d/1tmR9_ISl6zqXYorF5kZQ9dA1XZQwAjwy/view?usp=sharing"
+    "posterUrl": "https://i.ibb.co/JRBvKLX/Choose-or-Die-film-poster-png.webp",
+    "movieUrl": "https://drive.google.com/file/d/16p1A8YukMAAw8dFB_Ul09dcaiwCl11lr/view?usp=sharing"
+  },
+  {
+    "name":"Reign Of Chaos",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/bFybxDJ/MV5-BMTky-MThh-Y2-Mt-ODE3-NC00-YTNi-LWE1-ODYt-ZWYw-Mj-Iw-ZDcw-OTJj-Xk-Ey-Xk-Fqc-Gde-QXVy-MTE0-Mz-Qw.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1fEPge2YotdMCVAGVTk1PHx01zN_qdrOh/view?usp=sharing"
   },
   {
     "name": "Mai:A Mother Rage",
@@ -47,7 +53,7 @@
     "name": "KGF Chapter 2",
     "type": "movie",
     "posterUrl": "https://i.ibb.co/0DPBj5Z/MV5-BMj-Mw-MDgy-OGQt-MWZj-NC00-MDUw-LTll-ZDYt-ZWM3-NDBm-N2-Yz-NGZm-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQz-Njkz-M.jpg",
-    "movieUrl": "https://drive.google.com/file/d/1cTvMPhZu_tr9znTpDDDA6wi9osUc0g0z/view?usp=sharing"
+    "movieUrl": "https://drive.google.com/file/d/1LmFxAqpOqLLOV_m41sm5DKVPl7Y2cKUl/view?usp=sharing"
   },
   {
     "name": "Halo",
@@ -79,6 +85,52 @@
       }
     ]
   },
+  {
+    "name": "Eternally Confused And Eager For Love",
+    "type": "indian",
+    "overview": "2022 | 18+ | 1 Season | Romantic TV Comedies",
+    "posterUrl": "https://i.ibb.co/w7Lwng4/MV5-BYjc4-M2-Ez-OTQt-Yj-Az-NC00-NDg3-LWE3-YTkt-ZWYy-ZDRj-YTFl-NWM2-Xk-Ey-Xk-Fqc-Gde-QXVy-NDI3-Nj-U1.jpg",
+    "coverUrl": "https://i.ibb.co/brpHnwV/top-image-02-1.webp",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/11qxvqpSAj2zicVC7y3iWDBCtmvQ_ojL6/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1ljA6V2Z_9AzKt34Kab-NUyb_rzNuCKEr/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1EiYv8EgONHVycjeG-BoNUuvlBg-nw9Pz/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1Q1nyx9YsuZqUMGppEuDu2RkOt4Q6qJgU/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1HtROhVhoNckbz3_1PBIwJok-_V9JfnbU/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1iyixxXkDn-Halaqftd6thiEHWmYcUqL5/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/1shnr9aHafnkMGHdF6mxxkGCtcUb3j7BZ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/1LEmi8d2w2C08ThumesOVh7shX2F_V_4c/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
 
   {
     "name": "Beast",
@@ -92,12 +144,7 @@
     "posterUrl": "https://i.ibb.co/McLywYG/MV5-BN2-Nm-M2-Qx-Yz-Mt-OWJj-Ni00-Zj-Ux-LWIz-MGMt-OWNi-MGU1-Yz-Vl-Yjdk-Xk-Ey-Xk-Fqc-Gde-QXVy-ODIy-Mj.jpg",
     "movieUrl": "https://drive.google.com/file/d/16zk-RtnG4ciNmnRAKTPTUWkmwWfzGc4k/view?usp=sharing"
   },
-  {
-    "name": "Choose Or Die",
-    "type": "movie",
-    "posterUrl": "https://i.ibb.co/JRBvKLX/Choose-or-Die-film-poster-png.webp",
-    "movieUrl": "https://drive.google.com/file/d/16p1A8YukMAAw8dFB_Ul09dcaiwCl11lr/view?usp=sharing"
-  },
+  
 
   {
     "name": "Rescued By Ruby",

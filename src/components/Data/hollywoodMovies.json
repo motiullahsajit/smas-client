@@ -1,4 +1,17 @@
 [
+  {
+    "name":"Reign Of Chaos",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/bFybxDJ/MV5-BMTky-MThh-Y2-Mt-ODE3-NC00-YTNi-LWE1-ODYt-ZWYw-Mj-Iw-ZDcw-OTJj-Xk-Ey-Xk-Fqc-Gde-QXVy-MTE0-Mz-Qw.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1fEPge2YotdMCVAGVTk1PHx01zN_qdrOh/view?usp=sharing"
+  },
+
+  {
+    "name":"X",
+    "type": "movie",
+    "posterUrl":"https://i.ibb.co/H4yDcnB/MV5-BMTJi-Mm-E5-YWIt-OWZj-YS00-YTg0-LWE0-MTYt-Mzg2-ZTY4-Yj-Nk-NDEz-Xk-Ey-Xk-Fqc-Gde-QXVy-MTAz-MDg4-N.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1f1NdvyAag4_--LxUslPAaADtB4sYFl1P/view?usp=sharing"
+  },
 
   {
     "name": "Room 203",
@@ -849,10 +862,10 @@
   },
 
   {
-    "name": "Infinity Storm",
+    "name": "Infinite Storm",
     "type": "movie",
     "posterUrl": "https://i.ibb.co/fCYzh4C/MV5-BNz-Y2-OWY4-YWIt-Yz-I5-MS00-Mz-Uz-LWE2-ZTYt-ODhk-Mzdm-OTk2-M2-Vl-Xk-Ey-Xk-Fqc-Gde-QXVy-MDM2-NDM2.jpg",
-    "movieUrl": "https://drive.google.com/file/d/16xE3YTx0WAR65nV1W8TNEZNCvXCR2MQF/view?usp=sharing"
+    "movieUrl": "https://drive.google.com/file/d/1f8JuJz9Kvc1mnQOF2v-1W1efnXbXAbZx/view?usp=sharing"
   },
 
   {
