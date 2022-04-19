@@ -11,6 +11,12 @@
     "posterUrl": "https://i.ibb.co/0DPBj5Z/MV5-BMj-Mw-MDgy-OGQt-MWZj-NC00-MDUw-LTll-ZDYt-ZWM3-NDBm-N2-Yz-NGZm-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQz-Njkz-M.jpg",
     "movieUrl": "https://drive.google.com/file/d/1LmFxAqpOqLLOV_m41sm5DKVPl7Y2cKUl/view?usp=sharing"
   },
+  {
+    "name":"Sarileru Neekevvaru 2020",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/9w8cmTD/MV5-BNTkz-Nzdk-YTQt-MWY5-Ny00-NTJj-LWFi-MGEt-ZWQ1-MTM2-Nm-Jj-MDFi-Xk-Ey-Xk-Fqc-Gde-QXVy-Njkw-OTg4-MT.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1KdLv4QOmo7ABcG2EuGcM_IsP8GghzAkc/view?usp=sharing"
+  },
 
   {
     "name": "Beast",
@@ -605,19 +611,19 @@
   },
 
   {
-    "name": "Spider-man No Way Home",
+    "name": "Spider-man No Way Home 2021",
     "type": "movie",
     "posterUrl": "https://i.ibb.co/TLbfnNC/MV5-BZWMy-Yz-Fj-YTYt-NTRj-Yi00-OGEx-LWE2-Yzgt-OGRm-Yj-Ax-ZTU3-Nz-Bi-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-Q0-Mz-A.jpg",
     "movieUrl": "https://drive.google.com/file/d/1gzA-NBP03YoaxjKoB9T5SATxEjj37YC6/view?usp=sharing"
   },
   {
-    "name": "The Batman",
+    "name": "The Batman 2022",
     "type": "movie",
     "posterUrl": "https://i.ibb.co/G2fmvHH/MV5-BYj-Rh-OWE0-Nm-Ut-Yjg4-MS00-OTk1-LTg3-N2-It-OGMz-ZTgz-Mj-A0-ODMz-Xk-Ey-Xk-Fqc-Gde-QXVy-MTMz-Nz-I.jpg",
-    "movieUrl": "https://drive.google.com/file/d/1ReT4zwUUZrK6xwlnKjU6USBDiSnWgZ0o/view?usp=sharing"
+    "movieUrl": "https://drive.google.com/file/d/1czeXm9ENqty9PwMHHZTkqB_nj58TSsxx/view?usp=sharing"
   },
   {
-    "name": "Metal Lords",
+    "name": "Metal Lords 2022",
     "type": "movie",
     "posterUrl": "https://i.ibb.co/YL3jCJs/MV5-BNj-Jj-Mz-I1-ZDct-MDhm-My00-Nzk2-LTg5-Zjgt-NGIy-N2-Qy-NDQw-MDU5-Xk-Ey-Xk-Fqc-Gde-QXVy-MTMy-Nz-Mx.jpg",
     "movieUrl": "https://drive.google.com/file/d/1ZShUw2FTNn4lPksy84uev_jR8kNJJLZX/view?usp=sharing"
@@ -892,7 +898,24 @@
     "posterUrl": "https://i.ibb.co/6r5hGLL/MV5-BNTlm-Mz-Ex-MTct-Mz-Ax-MS00-Nm-Uz-LWFj-MDQt-Nz-Nj-Ym-Vl-N2-Nh-ZTBi-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-E2-M.jpg",
     "movieUrl": "https://drive.google.com/file/d/1e0HQCiSFLeulpYYsd3InIy4ibvhBqzOz/view?usp=sharing"
   },
-
+  {
+    "name":"House Of Hummingbird 2018",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/njTXQbN/MV5-BMj-M4-OTYz-ZGIt-Mj-I2-MC00-Nz-Jj-LTlm-ODUt-Yj-Qx-YTE0-MTIw-NDMy-Xk-Ey-Xk-Fqc-Gde-QXVy-NTkz-MTUw.jpg",
+    "movieUrl":"https://drive.google.com/file/d/18Bsnfy2E_kRuVvCztWIye3U98CXIAp_W/view?usp=sharing"
+  },
+  {
+    "name":"Sonic The Hedgehog 2020",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/PQtTm67/MV5-BNTdm-Nm-I4-Mz-Qt-ZTAz-NS00-Mjhj-LWEz-OGQt-Zj-I1-NDNj-Zjk4-N2-Jj-Xk-Ey-Xk-Fqc-Gde-QXVy-MTM0-NTUz.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1SzYheT1-UpBdcpiET4pgZiL8E-_-GSG6/view?usp=sharing"
+  },
+  {
+    "name":"Sonic The Hedgehog 2 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/tDF2wv5/MV5-BNTBj-ZTBl-N2-Yt-OWQz-ZC00-YTAz-LWFi-OWUt-Yz-Ri-ZWRm-Nj-A5-YWFm-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA0-NTIy.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1lTUquSeWdsyzfCU_fGRy9DYghhc59Mvg/view?usp=sharing"
+  },
   {
     "name": "A Cinderella Story",
     "type": "movie",
@@ -1151,12 +1174,7 @@
     "movieUrl": "https://drive.google.com/file/d/1To9TyOqWBGJk3e1Z9bznCGmyKHwXyU4G/view?usp=sharing"
   },
 
-  {
-    "name": "Spiderman Into The Spider Verse",
-    "type": "movie",
-    "posteUrl": "https://i.ibb.co/BVFt7Nv/MV5-BMj-Mw-NDkx-MTgz-OF5-BMl5-Ban-Bn-Xk-Ft-ZTgw-NTkw-NTQ3-Nj-M-V1-FMjpg-UX1000.jpg",
-    "movieUrl": "https://drive.google.com/file/d/1mGpkRzl5We7ukXGrB-lbt002XvS6eeC-/view?usp=sharing"
-  },
+ 
 
   {
     "name": "The Tinder Swindler",
@@ -1212,6 +1230,25 @@
     "type": "movie",
     "posterUrl": "https://i.ibb.co/qmZPf19/MV5-BOGUw-NTg1-ZDkt-NTIz-ZS00-Yj-Zi-LWI4-YTEt-Zjk2-ZTNk-MDBh-Zj-Zh-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQ0-Nj-Iw.jpg",
     "movieUrl": "https://drive.google.com/file/d/1YokfD5FgkVdjKjOtbuJrcZPSLS6fqL8I/view?usp=sharing"
+  },
+  {
+    "name": "Spider-man No Way Home",
+    "type": "movie",
+    "posterUrl": "https://i.ibb.co/TLbfnNC/MV5-BZWMy-Yz-Fj-YTYt-NTRj-Yi00-OGEx-LWE2-Yzgt-OGRm-Yj-Ax-ZTU3-Nz-Bi-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-Q0-Mz-A.jpg",
+    "movieUrl": "https://drive.google.com/file/d/1gzA-NBP03YoaxjKoB9T5SATxEjj37YC6/view?usp=sharing"
+  },
+  {
+    "name":"The Angry Birds 2 2019",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/2M4Y6Vp/MV5-BNTk0-NWZj-ZTkt-NWNl-ZC00-YTY2-LTky-Zj-It-NDRi-Zm-Fh-ZWI5-M2-Iw-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA4-Nj-E0.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1dGWXhf4LD07F8-8__MANju09syS7horv/view?usp=sharing"
+  },
+  {
+    "name":"Turning Red 2022",
+    "type":"mmovie",
+    "posterUrl":"https://i.ibb.co/BtF0VWZ/MV5-BNj-Y0-MGEz-Zm-Qt-ZWMx-Ni00-MWVh-LWI4-NWEt-Yj-Q0-MDky-YTJh-MDU0-Xk-Ey-Xk-Fqc-Gde-QXVy-ODc0-OTEy.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1nVNQsJ6VjkD-gdW9bB3yVhnIlFGmpGbN/view?usp=sharing"
+
   },
 
   {
@@ -1389,6 +1426,18 @@
     "movieUrl": "https://drive.google.com/file/d/15PO8fptweIQLcfZptrHpU3_AJtm5YcXT/view?usp=sharing"
   },
   {
+    "name":"The Secret Life Of Pets 2 2019",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/HrSzqt6/MV5-BMzdl-MWQz-Zm-It-MDA5-Ny00-MGFj-LTk0-MDAt-Yjgz-Mm-My-NTEw-Mzdh-Xk-Ey-Xk-Fqc-Gde-QXVy-ODQz-NTE3-O.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1i5TbtXR3LVln60LkEUk3Fuw-U1L5dBAE/view?usp=sharing"
+  },
+  {
+    "name":"Peter Rabbit 2 2021",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/HpfDzMs/MV5-BZTMz-OGQx-Yz-Ut-NWMy-OC00-MDUy-LThk-Y2-Yt-YWZh-ZTM3-Nj-Ez-MTcw-Xk-Ey-Xk-Fqc-Gde-QXVy-MTkx-Nj-Uy.jpg",
+    "movieUrl":"https://drive.google.com/file/d/19WXR8Y1V842T26HtUPD8q-P3Ozd3-IvE/view?usp=sharing"
+  },
+  {
     "name":"X",
     "type": "movie",
     "posterUrl":"https://i.ibb.co/H4yDcnB/MV5-BMTJi-Mm-E5-YWIt-OWZj-YS00-YTg0-LWE0-MTYt-Mzg2-ZTY4-Yj-Nk-NDEz-Xk-Ey-Xk-Fqc-Gde-QXVy-MTAz-MDg4-N.jpg",
@@ -1522,7 +1571,30 @@
     "posterUrl": "https://i.ibb.co/xXvfNbM/MV5-BNTcz-Nj-Y2-Mj-E3-NV5-BMl5-Ban-Bn-Xk-Ft-ZTgw-Nz-M4-Mj-M5-Nz-E-V1.jpg",
     "movieUrl": "https://drive.google.com/file/d/16gvF1hlLD20DFWaZw0q3vDNdB5aTlWmp/view?usp=sharing"
   },
-
+  {
+    "name":"Dunkirk 2017",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/LRm9sFM/MV5-BN2-Yy-Zj-Q0-NTEt-Nz-U5-MS00-NGZk-LTg0-MTEt-Yz-Jm-MWY3-MWRh-Zj-M2-Xk-Ey-Xk-Fqc-Gde-QXVy-MDA4-Nz.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1hwO5UhWsqHYgfheP-6i6o8mYRUUCTVXR/view?usp=sharing"
+  },
+  {
+    "name":"Agent Game 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/RgHth2N/MV5-BMjk0-Yj-Uy-Mzct-Mzc2-Yi00-Zjk0-LThl-Mm-Ut-OWIy-MDJi-MTFi-Yz-Aw-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-E2-Mz-I.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1-zZB0wYcy-gWyWJIvlF9z2m5FrERfH6V/view?usp=sharing"
+  },
+  {
+    "name":"Splinters 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/DWRgDyr/MV5-BODQ2-Njkw-ZTQt-YWIz-Zi00-N2-Fh-LWE3-ZDMt-YWQ0-ODBl-M2-M0-NDk1-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-I2-Njky.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1hKBbp3mszlpOqfRzLmGiHSoIH2RyN2EF/view?usp=sharing"
+  },
+  {
+    "name":"Rabbit Academy Mission Eggpossible 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/kG1ZhVY/MV5-BNGQ1-Mz-E0-ODUt-NDU1-OC00-ODc4-LWIz-Zm-Et-MDNk-NGE2-Y2-Iz-MGI3-Xk-Ey-Xk-Fqc-Gde-QXVy-NDI3-Nj-U1.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1l9Wp7lEKnQMjaXBEUtnztfn_sEnPmcW6/view?usp=sharing"
+  },
   {
     "name": "Snake Eyes GI Joe Origin",
     "type": "movie",
@@ -5202,11 +5274,11 @@
               },
               {
                 "name": "Episode 03",
-                "link": ""
+                "link": "https://drive.google.com/file/d/1LB22ID4Xaamw2_XChHCxWQEnyn5FGegg/view?usp=sharing"
               },
               {
                 "name": "Episode 04",
-                "link": ""
+                "link": "https://drive.google.com/file/d/1dhAIgI075DlpuIKFVijS8ysgjAE8CalK/view?usp=sharing"
               }
             ]
           }
@@ -5374,6 +5446,94 @@
               {
                 "name": "Episode 10",
                 "link": "https://drive.google.com/file/d/12DArXG5fH4kI0tWKlJ0-HiT89V16Cmqj/view?usp=sharing"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Anatomy Of A Scandal",
+        "type": "british",
+        "overview": "2022 | 18+ | 1 Season | Courtroom TV Shows",
+        "posterUrl": "https://i.ibb.co/pRWXdvX/MV5-BZGMx-Zjcz-ODgt-YWE0-NS00-Mz-Zl-LWI4-NDIt-NTc5-Ym-E5-ZDlm-Nm-U2-Xk-Ey-Xk-Fqc-Gde-QXVy-ODU4-Nz-I4.jpg",
+        "coverUrl": "https://i.ibb.co/xLJHxvJ/HD-wallpaper-tv-show-anatomy-of-a-scandal.jpg",
+        "seasons": [
+          {
+            "name": "Season 1",
+            "episodes": [
+              {
+                "name": "Episode 01",
+                "link": "https://drive.google.com/file/d/1KTi6yimoh_TVcPkvrgi9XvuPXXFkkJ6Z/view?usp=sharing"
+              },
+              {
+                "name": "Episode 02",
+                "link": "https://drive.google.com/file/d/1APewBKf1LoyoevGFCMi-KqZKef0F2XRZ/view?usp=sharing"
+              },
+              {
+                "name": "Episode 03",
+                "link": "https://drive.google.com/file/d/10-7HG-rFnjaXORz5DV_dmbwMozX0_oQV/view?usp=sharing"
+              },
+              {
+                "name": "Episode 04",
+                "link": "https://drive.google.com/file/d/1qbnZDIcNdY30Fr9JWCyc4o3NI6M05ZaM/view?usp=sharing"
+              },
+              {
+                "name": "Episode 05",
+                "link": "https://drive.google.com/file/d/1LrURTa0SRcUkWpvJKKBx9YcW9jbOavK9/view?usp=sharing"
+              },
+              {
+                "name": "Episode 06",
+                "link": "https://drive.google.com/file/d/1oV2_u-1-f-y2Vwl7W4Nxpl4_ZxrwzmTa/view?usp=sharing"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Inventing Anna",
+        "type": "american",
+        "overview": "2022 | 18+ | 1 Season | US TV Shows",
+        "posterUrl": "https://i.ibb.co/4K1Cbkk/MV5-BM2-Qz-MWM5-OTgt-ZDE1-MC00-Zm-My-LWIy-ODIt-Mm-Q4-Nj-Nl-ZGRj-YTUz-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEy-Mj-M.jpg",
+        "coverUrl": "https://i.ibb.co/0sbKN30/wp10735686.webp",
+        "seasons": [
+          {
+            "name": "Season 1 Dual Audio",
+            "episodes": [
+              {
+                "name": "Episode 01",
+                "link": "https://drive.google.com/file/d/1v6pOZDoS5VSXHraC28R1oCA7ROw0gpA_/view?usp=sharing"
+              },
+              {
+                "name": "Episode 02",
+                "link": "https://drive.google.com/file/d/1eUsq-tDlsMOJ_VwbVo0wOLVUfzZIXn4C/view?usp=sharing"
+              },
+              {
+                "name": "Episode 03",
+                "link": "https://drive.google.com/file/d/1jFDl0IP6JVJAxvVPHPJHEbfifPclxzSc/view?usp=sharing"
+              },
+              {
+                "name": "Episode 04",
+                "link": "https://drive.google.com/file/d/1GYIrUBiet4CI6J955LXdQ2ym9sxqTN0o/view?usp=sharing"
+              },
+              {
+                "name": "Episode 05",
+                "link": "https://drive.google.com/file/d/1FFVhiqp4giFHW6XgVplF7Gwz-9d6kdKh/view?usp=sharing"
+              },
+              {
+                "name": "Episode 06",
+                "link": "https://drive.google.com/file/d/1_fQ6_M7IfrsuYXJlGYpMoQGWeu7HJ4iZ/view?usp=sharing"
+              },
+              {
+                "name": "Episode 07",
+                "link": "https://drive.google.com/file/d/1BH_Fpvggf3hc825-ydayMr6opAcNwC2q/view?usp=sharing"
+              },
+              {
+                "name": "Episode 08",
+                "link": "https://drive.google.com/file/d/1YyjPJZWU5s-JRXyvw4_1f5oM6fBiDIXB/view?usp=sharing"
+              },
+              {
+                "name": "Episode 09",
+                "link": "https://drive.google.com/file/d/1iAXORjvPRmQ6507zlsMmk0K4n0e7WOOl/view?usp=sharing"
               }
             ]
           }

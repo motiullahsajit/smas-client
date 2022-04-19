@@ -601,7 +601,24 @@
     "type": "movie",
     "posterUrl": "https://i.ibb.co/NtbFYkp/MV5-BZTFm-Nj-Iy-NTYt-Ym-Q2-Ny00-ZTBh-LWEw-Zm-Ut-Yjhm-NDM3-Nzc0-Mjk5-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI2-NDg2.jpg",
     "movieUrl": " https://drive.google.com/file/d/1kQErFTTnZ6mEQG-Ap4DmWz_r5bzPuHC1/view?usp=sharing"
+  },
+
+  {
+    "name":"Sarileru Neekevvaru 2020",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/9w8cmTD/MV5-BNTkz-Nzdk-YTQt-MWY5-Ny00-NTJj-LWFi-MGEt-ZWQ1-MTM2-Nm-Jj-MDFi-Xk-Ey-Xk-Fqc-Gde-QXVy-Njkw-OTg4-MT.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1KdLv4QOmo7ABcG2EuGcM_IsP8GghzAkc/view?usp=sharing"
+  },
+
+
+  
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
   }
+
 
 
 

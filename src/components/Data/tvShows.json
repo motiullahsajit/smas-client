@@ -1,74 +1,5 @@
 [
   {
-    "name": "Mai:A Mother Rage",
-    "type": "indian",
-    "overview": "2022 | 18+ | 1 Season | TV Thrillers",
-    "posterUrl": "https://drive.google.com/uc?id=1BjqfDnlFo6VBhofRQDmyf_t_MHe6tHGA",
-    "coverUrl": "https://drive.google.com/uc?id=1tw33XpdAcpq4F3x-aC_zBuNUNtTbsW6t",
-    "seasons": [
-      {
-        "name": "Season 1",
-        "episodes": [
-          {
-            "name": "Episode 01",
-            "link": "https://drive.google.com/file/d/1Ck2SBz6xOsMdwuauw6_wEzNE-NL7-vcM/view?usp=sharing"
-          },
-          {
-            "name": "Episode 02",
-            "link": "https://drive.google.com/file/d/1NaIoM_Hggss1qOl0FhntZTh2ZuW6yPjG/view?usp=sharing"
-          },
-          {
-            "name": "Episode 03",
-            "link": "https://drive.google.com/file/d/1EYJgUq8NR2SVvU1-GiOoZsxUEv2OTjZ5/view?usp=sharing"
-          },
-          {
-            "name": "Episode 04",
-            "link": "https://drive.google.com/file/d/1PkZhxFNxNlp9zn2RjT4QxEIhTKsGV8Aj/view?usp=sharing"
-          },
-          {
-            "name": "Episode 05",
-            "link": "https://drive.google.com/file/d/1VKZ2GjQvuJklSB2SQZQbSLfo3P0p0-fb/view?usp=sharing"
-          },
-          {
-            "name": "Episode 06",
-            "link": "https://drive.google.com/file/d/1YZkIsQ1rUlkp50-sxE9AoilbXMSrwPLi/view?usp=sharing"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Moon Knight",
-    "type": "american",
-    "overview": "2022 | 16+ | 1 Season | Disney+ ",
-
-    "posterUrl": "https://i.ibb.co/QfSzySY/MV5-BNGM2-Zj-Jm-ZDQt-NTI5-MS00-ZTI0-LTky-Njkt-M2-Rl-YWY0-YTY5-MTYz-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEy-Mj-M2.jpg",
-    "coverUrl": "https://i.ibb.co/xfHqKLs/HD-wallpaper-comics-moon-knight-marvel-comics.jpg",
-    "seasons": [
-      {
-        "name": "Season 1",
-        "episodes": [
-          {
-            "name": "Episode 01",
-            "link": "https://drive.google.com/file/d/1b6CdOloxADJCYlbamIDx3-pILTJvSokX/view?usp=sharing"
-          },
-          {
-            "name": "Episode 02",
-            "link": "https://drive.google.com/file/d/1k5l0QvYF-nfIpgzv_0Dgzve2NecDiP6f/view?usp=sharing"
-          },
-          {
-            "name": "Episode 03",
-            "link": "https://drive.google.com/file/d/16VnZWw0Fm3AqOFc7dP6_2JtXWJubXz59/view?usp=sharing"
-          },
-          {
-            "name": "Episode 4 Next Week",
-            "link": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Peaky Blinders",
     "type": "british",
     "overview": "2013 | 18+ | 5 Seasons | Period Pieces",
@@ -293,6 +224,56 @@
           {
             "name": "Episode 08",
             "link": "https://drive.google.com/file/d/1oTTMBB62c92ttifEirwGPKuEoidNkEc9/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Inventing Anna",
+    "type": "american",
+    "overview": "2022 | 18+ | 1 Season | US TV Shows",
+    "posterUrl": "https://i.ibb.co/4K1Cbkk/MV5-BM2-Qz-MWM5-OTgt-ZDE1-MC00-Zm-My-LWIy-ODIt-Mm-Q4-Nj-Nl-ZGRj-YTUz-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEy-Mj-M.jpg",
+    "coverUrl": "https://i.ibb.co/0sbKN30/wp10735686.webp",
+    "seasons": [
+      {
+        "name": "Season 1 Dual Audio",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1v6pOZDoS5VSXHraC28R1oCA7ROw0gpA_/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1eUsq-tDlsMOJ_VwbVo0wOLVUfzZIXn4C/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1jFDl0IP6JVJAxvVPHPJHEbfifPclxzSc/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1GYIrUBiet4CI6J955LXdQ2ym9sxqTN0o/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1FFVhiqp4giFHW6XgVplF7Gwz-9d6kdKh/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1_fQ6_M7IfrsuYXJlGYpMoQGWeu7HJ4iZ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/1BH_Fpvggf3hc825-ydayMr6opAcNwC2q/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/1YyjPJZWU5s-JRXyvw4_1f5oM6fBiDIXB/view?usp=sharing"
+          },
+          {
+            "name": "Episode 09",
+            "link": "https://drive.google.com/file/d/1iAXORjvPRmQ6507zlsMmk0K4n0e7WOOl/view?usp=sharing"
           }
         ]
       }
@@ -555,6 +536,114 @@
       }
     ]
   },
+  {
+    "name": "Anatomy Of A Scandal",
+    "type": "british",
+    "overview": "2022 | 18+ | 1 Season | Courtroom TV Shows",
+    "posterUrl": "https://i.ibb.co/pRWXdvX/MV5-BZGMx-Zjcz-ODgt-YWE0-NS00-Mz-Zl-LWI4-NDIt-NTc5-Ym-E5-ZDlm-Nm-U2-Xk-Ey-Xk-Fqc-Gde-QXVy-ODU4-Nz-I4.jpg",
+    "coverUrl": "https://i.ibb.co/xLJHxvJ/HD-wallpaper-tv-show-anatomy-of-a-scandal.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1KTi6yimoh_TVcPkvrgi9XvuPXXFkkJ6Z/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1APewBKf1LoyoevGFCMi-KqZKef0F2XRZ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/10-7HG-rFnjaXORz5DV_dmbwMozX0_oQV/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1qbnZDIcNdY30Fr9JWCyc4o3NI6M05ZaM/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1LrURTa0SRcUkWpvJKKBx9YcW9jbOavK9/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1oV2_u-1-f-y2Vwl7W4Nxpl4_ZxrwzmTa/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mai:A Mother Rage",
+    "type": "indian",
+    "overview": "2022 | 18+ | 1 Season | TV Thrillers",
+    "posterUrl": "https://drive.google.com/uc?id=1BjqfDnlFo6VBhofRQDmyf_t_MHe6tHGA",
+    "coverUrl": "https://drive.google.com/uc?id=1tw33XpdAcpq4F3x-aC_zBuNUNtTbsW6t",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1Ck2SBz6xOsMdwuauw6_wEzNE-NL7-vcM/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1NaIoM_Hggss1qOl0FhntZTh2ZuW6yPjG/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1EYJgUq8NR2SVvU1-GiOoZsxUEv2OTjZ5/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1PkZhxFNxNlp9zn2RjT4QxEIhTKsGV8Aj/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1VKZ2GjQvuJklSB2SQZQbSLfo3P0p0-fb/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1YZkIsQ1rUlkp50-sxE9AoilbXMSrwPLi/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Moon Knight",
+    "type": "american",
+    "overview": "2022 | 16+ | 1 Season | Disney+ ",
+
+    "posterUrl": "https://i.ibb.co/QfSzySY/MV5-BNGM2-Zj-Jm-ZDQt-NTI5-MS00-ZTI0-LTky-Njkt-M2-Rl-YWY0-YTY5-MTYz-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEy-Mj-M2.jpg",
+    "coverUrl": "https://i.ibb.co/xfHqKLs/HD-wallpaper-comics-moon-knight-marvel-comics.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1b6CdOloxADJCYlbamIDx3-pILTJvSokX/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1k5l0QvYF-nfIpgzv_0Dgzve2NecDiP6f/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/16VnZWw0Fm3AqOFc7dP6_2JtXWJubXz59/view?usp=sharing"
+          },
+          {
+            "name": "Episode 4 Next Week",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+
   {
     "name": "Fame Game",
     "type": "indian",
@@ -3262,11 +3351,11 @@
           },
           {
             "name": "Episode 03",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1LB22ID4Xaamw2_XChHCxWQEnyn5FGegg/view?usp=sharing"
           },
           {
             "name": "Episode 04",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1dhAIgI075DlpuIKFVijS8ysgjAE8CalK/view?usp=sharing"
           }
         ]
       }

@@ -1,16 +1,81 @@
-[
+[ 
+  
+  
+  {
+  "name": "Anatomy Of A Scandal",
+  "type": "british",
+  "overview": "2022 | 18+ | 1 Season | Courtroom TV Shows",
+  "posterUrl": "https://i.ibb.co/pRWXdvX/MV5-BZGMx-Zjcz-ODgt-YWE0-NS00-Mz-Zl-LWI4-NDIt-NTc5-Ym-E5-ZDlm-Nm-U2-Xk-Ey-Xk-Fqc-Gde-QXVy-ODU4-Nz-I4.jpg",
+  "coverUrl": "https://i.ibb.co/xLJHxvJ/HD-wallpaper-tv-show-anatomy-of-a-scandal.jpg",
+  "seasons": [
+    {
+      "name": "Season 1",
+      "episodes": [
+        {
+          "name": "Episode 01",
+          "link": "https://drive.google.com/file/d/1KTi6yimoh_TVcPkvrgi9XvuPXXFkkJ6Z/view?usp=sharing"
+        },
+        {
+          "name": "Episode 02",
+          "link": "https://drive.google.com/file/d/1APewBKf1LoyoevGFCMi-KqZKef0F2XRZ/view?usp=sharing"
+        },
+        {
+          "name": "Episode 03",
+          "link": "https://drive.google.com/file/d/10-7HG-rFnjaXORz5DV_dmbwMozX0_oQV/view?usp=sharing"
+        },
+        {
+          "name": "Episode 04",
+          "link": "https://drive.google.com/file/d/1qbnZDIcNdY30Fr9JWCyc4o3NI6M05ZaM/view?usp=sharing"
+        },
+        {
+          "name": "Episode 05",
+          "link": "https://drive.google.com/file/d/1LrURTa0SRcUkWpvJKKBx9YcW9jbOavK9/view?usp=sharing"
+        },
+        {
+          "name": "Episode 06",
+          "link": "https://drive.google.com/file/d/1oV2_u-1-f-y2Vwl7W4Nxpl4_ZxrwzmTa/view?usp=sharing"
+        }
+      ]
+    }
+  ]
+},
+  {
+  "name": "Moon Knight",
+  "type": "popularonsmas",
+  "overview": "2022 | 16+ | 1 Season | Disney+ ",
+  "posterUrl": "https://i.ibb.co/QfSzySY/MV5-BNGM2-Zj-Jm-ZDQt-NTI5-MS00-ZTI0-LTky-Njkt-M2-Rl-YWY0-YTY5-MTYz-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEy-Mj-M2.jpg",
+  "coverUrl": "https://i.ibb.co/xfHqKLs/HD-wallpaper-comics-moon-knight-marvel-comics.jpg",
+  "seasons": [
+    {
+      "name": "Season 1",
+      "episodes": [
+        {
+          "name": "Episode 01",
+          "link": "https://drive.google.com/file/d/1b6CdOloxADJCYlbamIDx3-pILTJvSokX/view?usp=sharing"
+        },
+        {
+          "name": "Episode 02",
+          "link": "https://drive.google.com/file/d/1k5l0QvYF-nfIpgzv_0Dgzve2NecDiP6f/view?usp=sharing"
+        },
+        {
+          "name": "Episode 03",
+          "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
+        },
+        {
+          "name": "Episode 4 Next Week",
+          "link": ""
+        }
+      ]
+    }
+  ]
+},
   {
     "name": "Choose Or Die",
     "type": "movie",
     "posterUrl": "https://i.ibb.co/JRBvKLX/Choose-or-Die-film-poster-png.webp",
     "movieUrl": "https://drive.google.com/file/d/16p1A8YukMAAw8dFB_Ul09dcaiwCl11lr/view?usp=sharing"
   },
-  {
-    "name":"Reign Of Chaos",
-    "type":"movie",
-    "posterUrl":"https://i.ibb.co/bFybxDJ/MV5-BMTky-MThh-Y2-Mt-ODE3-NC00-YTNi-LWE1-ODYt-ZWYw-Mj-Iw-ZDcw-OTJj-Xk-Ey-Xk-Fqc-Gde-QXVy-MTE0-Mz-Qw.jpg",
-    "movieUrl":"https://drive.google.com/file/d/1fEPge2YotdMCVAGVTk1PHx01zN_qdrOh/view?usp=sharing"
-  },
+  
   {
     "name": "Mai:A Mother Rage",
     "type": "indian",
@@ -55,6 +120,57 @@
     "posterUrl": "https://i.ibb.co/0DPBj5Z/MV5-BMj-Mw-MDgy-OGQt-MWZj-NC00-MDUw-LTll-ZDYt-ZWM3-NDBm-N2-Yz-NGZm-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQz-Njkz-M.jpg",
     "movieUrl": "https://drive.google.com/file/d/1LmFxAqpOqLLOV_m41sm5DKVPl7Y2cKUl/view?usp=sharing"
   },
+ 
+  {
+    "name": "Inventing Anna",
+    "type": "american",
+    "overview": "2022 | 18+ | 1 Season | US TV Shows",
+    "posterUrl": "https://i.ibb.co/4K1Cbkk/MV5-BM2-Qz-MWM5-OTgt-ZDE1-MC00-Zm-My-LWIy-ODIt-Mm-Q4-Nj-Nl-ZGRj-YTUz-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEy-Mj-M.jpg",
+    "coverUrl": "https://i.ibb.co/0sbKN30/wp10735686.webp",
+    "seasons": [
+      {
+        "name": "Season 1 Dual Audio",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1v6pOZDoS5VSXHraC28R1oCA7ROw0gpA_/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1eUsq-tDlsMOJ_VwbVo0wOLVUfzZIXn4C/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1jFDl0IP6JVJAxvVPHPJHEbfifPclxzSc/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1GYIrUBiet4CI6J955LXdQ2ym9sxqTN0o/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1FFVhiqp4giFHW6XgVplF7Gwz-9d6kdKh/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1_fQ6_M7IfrsuYXJlGYpMoQGWeu7HJ4iZ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/1BH_Fpvggf3hc825-ydayMr6opAcNwC2q/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/1YyjPJZWU5s-JRXyvw4_1f5oM6fBiDIXB/view?usp=sharing"
+          },
+          {
+            "name": "Episode 09",
+            "link": "https://drive.google.com/file/d/1iAXORjvPRmQ6507zlsMmk0K4n0e7WOOl/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
   {
     "name": "Halo",
     "type": "american",
@@ -75,15 +191,44 @@
           },
           {
             "name": "Episode 03",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1LB22ID4Xaamw2_XChHCxWQEnyn5FGegg/view?usp=sharing"
           },
           {
             "name": "Episode 04",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1dhAIgI075DlpuIKFVijS8ysgjAE8CalK/view?usp=sharing"
           }
         ]
       }
     ]
+  },{
+    "name":"Dunkirk 2017",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/LRm9sFM/MV5-BN2-Yy-Zj-Q0-NTEt-Nz-U5-MS00-NGZk-LTg0-MTEt-Yz-Jm-MWY3-MWRh-Zj-M2-Xk-Ey-Xk-Fqc-Gde-QXVy-MDA4-Nz.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1hwO5UhWsqHYgfheP-6i6o8mYRUUCTVXR/view?usp=sharing"
+  },
+  {
+    "name":"Agent Game 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/RgHth2N/MV5-BMjk0-Yj-Uy-Mzct-Mzc2-Yi00-Zjk0-LThl-Mm-Ut-OWIy-MDJi-MTFi-Yz-Aw-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-E2-Mz-I.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1-zZB0wYcy-gWyWJIvlF9z2m5FrERfH6V/view?usp=sharing"
+  },
+  {
+    "name":"Splinters 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/DWRgDyr/MV5-BODQ2-Njkw-ZTQt-YWIz-Zi00-N2-Fh-LWE3-ZDMt-YWQ0-ODBl-M2-M0-NDk1-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-I2-Njky.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1hKBbp3mszlpOqfRzLmGiHSoIH2RyN2EF/view?usp=sharing"
+  },
+  {
+    "name":"Rabbit Academy Mission Eggpossible 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/kG1ZhVY/MV5-BNGQ1-Mz-E0-ODUt-NDU1-OC00-ODc4-LWIz-Zm-Et-MDNk-NGE2-Y2-Iz-MGI3-Xk-Ey-Xk-Fqc-Gde-QXVy-NDI3-Nj-U1.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1l9Wp7lEKnQMjaXBEUtnztfn_sEnPmcW6/view?usp=sharing"
+  },
+  {
+    "name":"Reign Of Chaos",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/bFybxDJ/MV5-BMTky-MThh-Y2-Mt-ODE3-NC00-YTNi-LWE1-ODYt-ZWYw-Mj-Iw-ZDcw-OTJj-Xk-Ey-Xk-Fqc-Gde-QXVy-MTE0-Mz-Qw.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1fEPge2YotdMCVAGVTk1PHx01zN_qdrOh/view?usp=sharing"
   },
   {
     "name": "Eternally Confused And Eager For Love",
@@ -130,6 +275,13 @@
         ]
       }
     ]
+  },
+  {
+    "name":"Turning Red 2022",
+    "type":"mmovie",
+    "posterUrl":"https://i.ibb.co/BtF0VWZ/MV5-BNj-Y0-MGEz-Zm-Qt-ZWMx-Ni00-MWVh-LWI4-NWEt-Yj-Q0-MDky-YTJh-MDU0-Xk-Ey-Xk-Fqc-Gde-QXVy-ODc0-OTEy.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1nVNQsJ6VjkD-gdW9bB3yVhnIlFGmpGbN/view?usp=sharing"
+
   },
 
   {
@@ -234,36 +386,7 @@
     "posterUrl": "https://i.ibb.co/qpHZ3J1/MV5-BMm-Zi-Mjdl-N2-Ut-Yzdi-ZS00-Yjgx-LTgy-ZGMt-Yz-E4-ZGU5-NTlk-Njhh-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEy-Mj-M2.jpg",
     "movieUrl": "https://drive.google.com/file/d/1g9budYR-r2W4qPPKV5Gv4x11zXjqJced/view?usp=sharing"
   },
-  {
-    "name": "Moon Knight",
-    "type": "popularonsmas",
-    "overview": "2022 | 16+ | 1 Season | Disney+ ",
-    "posterUrl": "https://i.ibb.co/QfSzySY/MV5-BNGM2-Zj-Jm-ZDQt-NTI5-MS00-ZTI0-LTky-Njkt-M2-Rl-YWY0-YTY5-MTYz-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEy-Mj-M2.jpg",
-    "coverUrl": "https://i.ibb.co/xfHqKLs/HD-wallpaper-comics-moon-knight-marvel-comics.jpg",
-    "seasons": [
-      {
-        "name": "Season 1",
-        "episodes": [
-          {
-            "name": "Episode 01",
-            "link": "https://drive.google.com/file/d/1b6CdOloxADJCYlbamIDx3-pILTJvSokX/view?usp=sharing"
-          },
-          {
-            "name": "Episode 02",
-            "link": "https://drive.google.com/file/d/1k5l0QvYF-nfIpgzv_0Dgzve2NecDiP6f/view?usp=sharing"
-          },
-          {
-            "name": "Episode 03",
-            "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
-          },
-          {
-            "name": "Episode 4 Next Week",
-            "link": ""
-          }
-        ]
-      }
-    ]
-  },
+ 
   {
     "name": "The Adam Project",
     "type": "movie",
