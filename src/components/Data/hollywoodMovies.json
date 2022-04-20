@@ -38,7 +38,7 @@
     "movieUrl": "https://drive.google.com/file/d/1czeXm9ENqty9PwMHHZTkqB_nj58TSsxx/view?usp=sharing"
   },
   {
-    "name": "Metal Lords",
+    "name": "Metal Lords 2022",
     "type": "movie",
     "posterUrl": "https://i.ibb.co/YL3jCJs/MV5-BNj-Jj-Mz-I1-ZDct-MDhm-My00-Nzk2-LTg5-Zjgt-NGIy-N2-Qy-NDQw-MDU5-Xk-Ey-Xk-Fqc-Gde-QXVy-MTMy-Nz-Mx.jpg",
     "movieUrl": "https://drive.google.com/file/d/1ZShUw2FTNn4lPksy84uev_jR8kNJJLZX/view?usp=sharing"
@@ -1340,13 +1340,32 @@
     "movieUrl":"https://drive.google.com/file/d/1l9Wp7lEKnQMjaXBEUtnztfn_sEnPmcW6/view?usp=sharing"
   },
   {
-    "name":"",
+    "name":"Turbo 2013",
     "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
+    "posterUrl":"https://i.ibb.co/1ZL2VDs/MV5-BMTA4-NTgw-Mj-M5-Mzhe-QTJe-QWpw-Z15-Bb-WU3-MDg2-ODA1-ODk-V1-FMjpg-UX1000.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1PYiEMcNuIhIWgHU6FMBZt3bHwRvOHduN/view?usp=sharing"
   },
 
 
+  {
+    "name":"Annabelle Creation 2017",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/xSRDMSj/MV5-BMj-A1-Mz-Iw-Mj-Mx-NF5-BMl5-Ban-Bn-Xk-Ft-ZTgw-MDQ3-NTc2-Mj-I-V1.jpg",
+    "movieUrl":"https://drive.google.com/file/d/13vvscYlDKXOMy37sfVhrOd7RiCVd_g6r/view?usp=sharing"
+  },
+
+  {
+    "name":"Spiderman  Far From Home 2019",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/PWRbZ3f/MV5-BM2-Vj-MWEx-Nj-Yt-N2-Mz-OC00-Yjc2-LTg3-Zm-Yt-MTIz-Mjkw-ZDU0-Mjg1-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA4-Nj-E.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1xj8NFxWLQYP3qZ_W5qLdCwsAfpMfYxtA/view?usp=sharing"
+  },
+  {
+    "name":"The Dark Knight Rises 2012",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/m8BBVdv/MV5-BMTk4-ODQz-NDY3-Ml5-BMl5-Ban-Bn-Xk-Ft-ZTcw-ODA0-NTM4-Nw-V1-FMjpg-UX1000.jpg",
+    "movieUrl":"https://drive.google.com/file/d/12MI4VSVyEq5A2EsOuNPqlN4SMsDETbqd/view?usp=sharing"
+  },
 
   
   {

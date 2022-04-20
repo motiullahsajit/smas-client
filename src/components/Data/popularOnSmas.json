@@ -63,88 +63,146 @@
     ]
   },
   {
-    "name": "Bridgerton",
-    "type": "american",
-    "overview": "2020 | 18+ | 2 Seasons | Romantic TV Dramas",
-    "posterUrl": "https://drive.google.com/uc?id=18lJxXSTgaXc1C21CqhNVNZ8m105IMvlu",
-    "coverUrl": "https://drive.google.com/uc?id=1i7lGEw11eZXyQb7UTb2ndSLUAZlXJ0Sr",
+    "name": "Squid Game",
+    "type": "popularonsmas",
+    "overview": "2021 | 18+ | 1 Season | TV Thrillers",
+    "posterUrl": "https://i.ibb.co/Jd2Vzdd/MV5-BYWE3-MDVk-N2-Et-Nj-Q5-MS00-ZDQ4-LTli-Nz-Yt-Mjc2-YWMz-MDEw-MTA3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEz-MTI1.jpg",
+    "coverUrl": "https://i.ibb.co/gdQpcry/thumb-1920-1191374.jpg",
+    "seasons": [
+      {
+        "name": "Squid Game Season 1",
+        "episodes": [
+          {
+            "name": "Episode 1",
+            "link": "https://drive.google.com/file/d/14cI6Nmb22Oy8mu-lAgKEBzZiLQOI009t/view?usp=sharing"
+          },
+          {
+            "name": "Episode 2",
+            "link": "https://drive.google.com/file/d/1DMwedzruDJ-4DO3_1-qHvmWKlCQComBF/view?usp=sharing"
+          },
+          {
+            "name": "Episode 3",
+            "link": "https://drive.google.com/file/d/1tnzuXm9_3KkgmT-Bo0ScRQGr1SiAoOE7/view?usp=sharing"
+          },
+          {
+            "name": "Episode 4",
+            "link": "https://drive.google.com/file/d/1IJWkzVu1R5T_FogN6X-YjzhhEkyDQWrF/view?usp=sharing"
+          },
+          {
+            "name": "Episode 5",
+            "link": "https://drive.google.com/file/d/1Ah9lohb12xFwPwk8w8HHG4-wYzik_1b7/view?usp=sharing"
+          },
+          {
+            "name": "Episode 6",
+            "link": "https://drive.google.com/file/d/11LxQ-FGv5YJXAsNPlrwluFoAroIoAKNu/view"
+          },
+          {
+            "name": "Episode 7",
+            "link": "https://drive.google.com/file/d/11MN4NpTEZhwu-DLbDKY2W2T9LsO67J5A/view"
+          },
+          {
+            "name": "Episode 8",
+            "link": "https://drive.google.com/file/d/11OCnr8OqnONKofYCIzRnQOvCD5pssnHi/view"
+          },
+          {
+            "name": "Episode 9",
+            "link": "https://drive.google.com/file/d/11X76YAPwiqa6tZDROMVrpnrRM0bgbgK8/view"
+          },
+          {
+            "name": "Episode 10",
+            "link": "https://drive.google.com/file/d/11YWFa7lK8Zuqb2q-Sidr8OUaNq0B5Hxv/view"
+          },
+          {
+            "name": "Episode 11",
+            "link": "https://drive.google.com/file/d/11Zqlxw-VuFo95H03RCKei4KdDUSBJRyR/view"
+          },
+          {
+            "name": "Episode 12",
+            "link": "https://drive.google.com/file/d/11abyBaVDxQO61nXbnWKBATJN0GDC632P/view"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Strong Girl Bong-soon",
+    "type": "korean",
+    "overview": "2017 | 13+ | 1 Season | Romantic TV Dramas",
+    "posterUrl": "https://i.ibb.co/DYnXtXk/download.jpg",
+    "coverUrl": "https://i.ibb.co/qkQZWwL/2514216.jpg",
     "seasons": [
       {
         "name": "Season 1",
         "episodes": [
           {
             "name": "Episode 01",
-            "link": "https://drive.google.com/file/d/1VR545hNAE087TIAq1N6GVBBIlSMdrDLN/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1dcEPDoAvG71-aPNyeK_6gSkHjzq5vFVs/view?usp=sharing"
           },
           {
             "name": "Episode 02",
-            "link": "https://drive.google.com/file/d/1CmHF9sV1T0EVvA83gZdobTmfc-ukM-vL/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1uv4O0JdCIkzsA3IBgWOpfHO1VTv9_0hH/view?usp=sharing"
           },
           {
             "name": "Episode 03",
-            "link": "https://drive.google.com/file/d/1tIbaX2bokomcIVLKUgp178ZpIrEgtnma/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/18qye1W1lc_IFwZiow2lP6hcm1r7v9cTP/view?usp=sharing"
           },
           {
             "name": "Episode 04",
-            "link": "https://drive.google.com/file/d/1HQa2ALKOECcm4wWv--yNUwuggphWpqH1/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1ha1prh2hfUB1CBONldObPsWDcFvpPdjB/view?usp=sharing"
           },
           {
             "name": "Episode 05",
-            "link": "https://drive.google.com/file/d/1MPioXbq3wLmBTy5s6sotjPXI46wNWZLA/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1346pX04KQoJ9azADuF0dhHun326ZUxP2/view?usp=sharing"
           },
           {
             "name": "Episode 06",
-            "link": "https://drive.google.com/file/d/14ELsH4vMw6LzCjWb2nMqXsBJyABL1sgS/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/14uJEkNNdy3LhEMlO7uYjyOZdLSNF5I_y/view?usp=sharing"
           },
           {
             "name": "Episode 07",
-            "link": "https://drive.google.com/file/d/1L4vKh3wmTAVVDxTYU14514jIf_NCTSrd/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/119ezTMjpnAFmoIrZvBeFYV8OrgPw7QJA/view?usp=sharing"
           },
           {
             "name": "Episode 08",
-            "link": "https://drive.google.com/file/d/1uuGSjgmNJtnOI-Wht3SMz8waIMe-oHri/view?usp=sharing"
-          }
-        ]
-      },
-      {
-        "name": "Season 2",
-        "episodes": [
-          {
-            "name": "Episode 01",
-            "link": "https://drive.google.com/file/d/1nWql6kAZLmBt5KvloIpG0FE1Bz6zb3qe/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1PechVPVDCIlB_eoOPqJp4JeDNKKVyu5-/view?usp=sharing"
           },
           {
-            "name": "Episode 02",
-            "link": "https://drive.google.com/file/d/1t7Z0Qj_QgTlNVxbJr_oLYTXYlEX9NEx4/view?usp=sharing"
+            "name": "Episode 09",
+            "link": "https://drive.google.com/file/d/1VZLKBcoayqwwjeCpxL4gPtUzzyUo9UJc/view?usp=sharing"
           },
           {
-            "name": "Episode 03",
-            "link": "https://drive.google.com/file/d/1FeWQb72SnNtFrzH12dH0OS0FLEDsicHd/view?usp=sharing"
+            "name": "Episode 10",
+            "link": "https://drive.google.com/file/d/1jw-H0O8G5gh-0c82TpwfJG4y4Q-rI5br/view?usp=sharing"
           },
           {
-            "name": "Episode 04",
-            "link": "https://drive.google.com/file/d/1F47XODyCdo7yQ8Avk9LmxqCmrK7HG1b8/view?usp=sharing"
+            "name": "Episode 11",
+            "link": "https://drive.google.com/file/d/1_DBrf8NtzB71xcTeBNGAd_yhIIJtzJQt/view?usp=sharing"
           },
           {
-            "name": "Episode 05",
-            "link": "https://drive.google.com/file/d/12fABPgy07cFomYnW0-7jlRrAaboCKVUV/view?usp=sharing"
+            "name": "Episode 12",
+            "link": "https://drive.google.com/file/d/14EuZWA4y56jrLyRFUJLJfShoe1p1TYzy/view?usp=sharing"
           },
           {
-            "name": "Episode 06",
-            "link": "https://drive.google.com/file/d/1_dlzS8kdjmgQyEPHHr9EG6uYjua4IbrU/view?usp=sharing"
+            "name": "Episode 13",
+            "link": "https://drive.google.com/file/d/1WRHQewi18JMbgAKVXehYpxie0lQLUs7V/view?usp=sharing"
           },
           {
-            "name": "Episode 07",
-            "link": "https://drive.google.com/file/d/1hxEfZ-Sqjw6Icwm--LzhJuZpPpN-XDIZ/view?usp=sharing"
+            "name": "Episode 14",
+            "link": "https://drive.google.com/file/d/1I8UZLj3-FnA0qatsSZPy6ZLcLfhTWmjR/view?usp=sharing"
           },
           {
-            "name": "Episode 08",
-            "link": "https://drive.google.com/file/d/1nEkSPLEprJVQbTTX-uDY2bdr4ypSGNl5/view?usp=sharing"
+            "name": "Episode 15",
+            "link": "https://drive.google.com/file/d/1Y45YrIiawsrYqlH4b_ro3fweBPacrBcY/view?usp=sharing"
+          },
+          {
+            "name": "Episode 16",
+            "link": "https://drive.google.com/file/d/1CjbuWErGv0dG33amOJNoT1RwJKrCirQs/view?usp=sharing"
           }
         ]
       }
     ]
   },
+  
   {
     "name": "Ozark",
     "type": "american",
@@ -571,68 +629,7 @@
     ]
   },
 
-  {
-    "name": "Squid Game",
-    "type": "popularonsmas",
-    "overview": "2021 | 18+ | 1 Season | TV Thrillers",
-    "posterUrl": "https://i.ibb.co/Jd2Vzdd/MV5-BYWE3-MDVk-N2-Et-Nj-Q5-MS00-ZDQ4-LTli-Nz-Yt-Mjc2-YWMz-MDEw-MTA3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEz-MTI1.jpg",
-    "coverUrl": "https://i.ibb.co/gdQpcry/thumb-1920-1191374.jpg",
-    "seasons": [
-      {
-        "name": "Squid Game Season 1",
-        "episodes": [
-          {
-            "name": "Episode 1",
-            "link": "https://drive.google.com/file/d/14cI6Nmb22Oy8mu-lAgKEBzZiLQOI009t/view?usp=sharing"
-          },
-          {
-            "name": "Episode 2",
-            "link": "https://drive.google.com/file/d/1DMwedzruDJ-4DO3_1-qHvmWKlCQComBF/view?usp=sharing"
-          },
-          {
-            "name": "Episode 3",
-            "link": "https://drive.google.com/file/d/1tnzuXm9_3KkgmT-Bo0ScRQGr1SiAoOE7/view?usp=sharing"
-          },
-          {
-            "name": "Episode 4",
-            "link": "https://drive.google.com/file/d/1IJWkzVu1R5T_FogN6X-YjzhhEkyDQWrF/view?usp=sharing"
-          },
-          {
-            "name": "Episode 5",
-            "link": "https://drive.google.com/file/d/1Ah9lohb12xFwPwk8w8HHG4-wYzik_1b7/view?usp=sharing"
-          },
-          {
-            "name": "Episode 6",
-            "link": "https://drive.google.com/file/d/11LxQ-FGv5YJXAsNPlrwluFoAroIoAKNu/view"
-          },
-          {
-            "name": "Episode 7",
-            "link": "https://drive.google.com/file/d/11MN4NpTEZhwu-DLbDKY2W2T9LsO67J5A/view"
-          },
-          {
-            "name": "Episode 8",
-            "link": "https://drive.google.com/file/d/11OCnr8OqnONKofYCIzRnQOvCD5pssnHi/view"
-          },
-          {
-            "name": "Episode 9",
-            "link": "https://drive.google.com/file/d/11X76YAPwiqa6tZDROMVrpnrRM0bgbgK8/view"
-          },
-          {
-            "name": "Episode 10",
-            "link": "https://drive.google.com/file/d/11YWFa7lK8Zuqb2q-Sidr8OUaNq0B5Hxv/view"
-          },
-          {
-            "name": "Episode 11",
-            "link": "https://drive.google.com/file/d/11Zqlxw-VuFo95H03RCKei4KdDUSBJRyR/view"
-          },
-          {
-            "name": "Episode 12",
-            "link": "https://drive.google.com/file/d/11abyBaVDxQO61nXbnWKBATJN0GDC632P/view"
-          }
-        ]
-      }
-    ]
-  },
+ 
   {
     "name": "Moon Knight",
     "type": "popularonsmas",
@@ -670,9 +667,49 @@
     "movieUrl": "https://drive.google.com/file/d/133udxdG4CYO3x9iG0XtIcgF6bhaE9dAh/view?usp=sharing"
   },
   {
-    "name": "Mission Impossible 6",
-    "type": "movie",
-    "posterUrl": "https://i.ibb.co/kGh2HWm/MV5-BNj-Rl-Zm-M0-ODkt-Y2-Rj-NS00-ZDdj-LWJh-ZGYt-NDlj-NWZk-MGM5-MTg0-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Aw-Mj-I.jpg",
-    "movieUrl": "https://drive.google.com/file/d/1wnoeTCSSJgIc7N3IAlI-oj2HuxhwuOHq/view?usp=sharing"
+    "name": "The Woman in the House Across the Street from the Girl in the Window",
+    "type": "american",
+    "overview": "2022 | 18+ | 1 Season | TV Comedies",
+    "posterUrl": "https://i.ibb.co/FXHgg9J/MV5-BMzhh-NWVm-Nz-It-OTFl-OC00-OTAw-LWFm-Njgt-MDBh-OWM2-YTkw-ZDcw-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEz-MTI1-Mj.jpg",
+    "coverUrl": "https://i.ibb.co/DpVwPyX/TWITH-101-Unit-00896-RC-13464e9.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1tJEmlHRZrM02PL9SdpzlThph8oqOl7iM/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1hhB0Ad-_hT0FoikUW1et3pLPVry-GXAF/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1raArd3vO6RPvJr8mOZweduX7QfZdvI9r/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1YlHbYh_btes8RXIiSM2CHUHRxRn2-Lxe/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1xA-vfHd-gq0Vns-LLt1vM1iOQxz7MxC_/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1-kbTs6DIiUlsxTEmQ9kE7QcPs6lI3j3A/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/1ljlb3YHf9EXJZH2wCTR1yIg6h6brNKGt/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/1gLING92DbL1Q7tA8pErWPCMJ1N6jhItD/view?usp=sharing"
+          }
+        ]
+      }
+    ]
   }
 ]
