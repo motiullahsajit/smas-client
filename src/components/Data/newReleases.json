@@ -1,5 +1,10 @@
 [ 
-  
+  {
+    "name":"You Won't Be Alone 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/gWP7QXX/MV5-BMm-U2-MDky-ZWMt-Yj-Jm-Ni00-Yj-E1-LWIz-ODct-Zj-Nj-Zm-Y0-OGMz-Nz-Qz-Xk-Ey-Xk-Fqc-Gde-QXVy-MDM2-ND.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1jl8YDNbH_XoVzcR8DQHPNUb2NEtmvweX/view?usp=sharing"
+  },
   
   {
   "name": "Anatomy Of A Scandal",
@@ -39,10 +44,11 @@
     }
   ]
 },
-  {
+{
   "name": "Moon Knight",
-  "type": "popularonsmas",
+  "type": "american",
   "overview": "2022 | 16+ | 1 Season | Disney+ ",
+
   "posterUrl": "https://i.ibb.co/QfSzySY/MV5-BNGM2-Zj-Jm-ZDQt-NTI5-MS00-ZTI0-LTky-Njkt-M2-Rl-YWY0-YTY5-MTYz-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEy-Mj-M2.jpg",
   "coverUrl": "https://i.ibb.co/xfHqKLs/HD-wallpaper-comics-moon-knight-marvel-comics.jpg",
   "seasons": [
@@ -59,16 +65,21 @@
         },
         {
           "name": "Episode 03",
-          "link": "https://drive.google.com/file/d/119VpF9JdvlTmmi-dueLJLnOIE0Kbgy-5/view"
+          "link": "https://drive.google.com/file/d/16VnZWw0Fm3AqOFc7dP6_2JtXWJubXz59/view?usp=sharing"
         },
         {
-          "name": "Episode 4 Next Week",
+          "name":"Episode 04",
+          "link":"https://drive.google.com/file/d/1gDjs7_clXz4WytRI1qcnq9H_-1P6dzvI/view?usp=sharing"
+        },
+        {
+          "name": "Episode 5 Next Week",
           "link": ""
         }
       ]
     }
   ]
 },
+
   {
     "name": "Choose Or Die",
     "type": "movie",
@@ -119,6 +130,84 @@
     "type": "movie",
     "posterUrl": "https://i.ibb.co/0DPBj5Z/MV5-BMj-Mw-MDgy-OGQt-MWZj-NC00-MDUw-LTll-ZDYt-ZWM3-NDBm-N2-Yz-NGZm-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQz-Njkz-M.jpg",
     "movieUrl": "https://drive.google.com/file/d/1LmFxAqpOqLLOV_m41sm5DKVPl7Y2cKUl/view?usp=sharing"
+  },
+  {
+    "name": "Forecasting Love And Weather",
+    "type": "korean",
+    "overview": "2022 | 16+ | 1 Season | Romantic TV Comedies",
+    "posterUrl": "https://i.ibb.co/ynHzVqt/Forecasting-Love-and-Weather-mp2.jpg",
+    "coverUrl": "https://i.ibb.co/prkvgRj/new-project-6.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/130XOwriKMkHJqaM68aSoTEtEpFqid6m6/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/139_yqy3cLkX-vlE9eFNTmn3ixaL9mCdF/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/13i4iE07TFwT1V898o74mScttKBxczd0C/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1d8SgO9GSe9qHbPpaAeJj0qzSUi-tJJXA/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1Yj0rwf7kByIa-IstszwsXfGKgVzFVC0K/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1lIhh5LJ3dg57EyHfO13_cwhOWehWa2b7/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/1p3z74kllTceWnXBbCe7orb46J5qM14sN/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/16sL1B-ifTtwM2yKRUYJWog7okvpLXPyJ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 09",
+            "link": "https://drive.google.com/file/d/15eK_qkGkMoL_nF8vdIRObWtSUpo4U1rK/view?usp=sharing"
+          },
+          {
+            "name": "Episode 10",
+            "link": "https://drive.google.com/file/d/1CZZIka6bEwY_GWof1XPIr8_BwRIqIwPN/view?usp=sharing"
+          },
+          {
+            "name": "Episode 11",
+            "link": "https://drive.google.com/file/d/1NFbMq8KTtlJu3TVmgk5USiQqZx8Et7C5/view?usp=sharing"
+          },
+          {
+            "name": "Episode 12",
+            "link": "https://drive.google.com/file/d/1homZ3-GnrmnDqXDb4zhTjnrpiEzFKRFf/view?usp=sharing"
+          },
+          {
+            "name": "Episode 13",
+            "link": "https://drive.google.com/file/d/17vnwwgPwca2mfydyoEw4Vn4G1vLZgUao/view?usp=sharing"
+          },
+          {
+            "name": "Episode 14",
+            "link": "https://drive.google.com/file/d/1Z5kHGAerE30nyhcVl3r3pj-r-oV5Z_DQ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 15",
+            "link": "https://drive.google.com/file/d/1id03kkGRk3f9faH7Jm6n2_aGNxdI2Lpo/view?usp=sharing"
+          },
+          {
+            "name": "Episode 16",
+            "link": "https://drive.google.com/file/d/1Wi1xUOSduA17j-hIH8N19nXMXqkIubbT/view?usp=sharing"
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "Metal Lords 2022",
