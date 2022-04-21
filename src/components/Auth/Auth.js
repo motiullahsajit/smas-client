@@ -68,7 +68,7 @@ const Auth = () => {
     if (option === 'signUp') {
       if (password === confirmPassword) {
 
-        if (formData.email && formData.name && profileImgURl) {
+        if (formData.email && formData.name) {
           const variables = {
             name: await formData.name,
             email: await formData.email,
@@ -87,13 +87,17 @@ const Auth = () => {
               }
               if (response.data.success === false) {
                 setEmailErro(`${response.data.message}`)
+                setShowLodder(false)
               }
 
-            }).catch(error => { setError(error) })
+            }).catch(error => {
+              setError(error)
+              setShowLodder(false)
+            })
           setError('')
         }
         else {
-          setError('Please check the form inputs')
+          setError('Please re-enter the form inputs')
           setShowLodder(false)
         }
       }
@@ -141,7 +145,7 @@ const Auth = () => {
             option === 'signUp' &&
             <>
               <label>Upload Profile Picture</label>
-              <input name="profileImgURl" type="file" onChange={handleImageUpload} placeholder="Profile Picture" className="form_input" required />
+              <input name="profileImgURl" type="file" onChange={handleImageUpload} placeholder="Profile Picture" className="form_input" />
             </>
           }
           <input name="password" onChange={(e) => onChangeHandler(e)} type="password" placeholder="Password" className="form_input" required />
