@@ -1,13 +1,15 @@
 import React, { useState } from 'react';
 import { useNavigate } from "react-router-dom";
 import axios from 'axios';
-import moment from 'moment';
+import moment from 'moment'
+import CircularProgress from '@mui/material/CircularProgress';
 import './Auth.scss';
 
 const Auth = () => {
   document.title = 'Login';
   const navigate = useNavigate();
   const [option, setOption] = useState('signUp');
+  const [showLodder, setShowLodder] = useState(false)
   const [error, setError] = useState('');
   const [emailError, setEmailErro] = useState('')
   const [formData, setFormData] = useState({});
@@ -62,34 +64,46 @@ const Auth = () => {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
+    setShowLodder(true)
     if (option === 'signUp') {
       if (password === confirmPassword) {
 
-        const variables = {
-          name: await formData.name,
-          email: await formData.email,
-          password: await formData.password,
-          subExpirationDate: await moment(new Date(), "DD-MM-YYYY").add(7, 'days'),
-          imageUrl: await profileImgURl
+        if (formData.email && formData.name) {
+          const variables = {
+            name: await formData.name,
+            email: await formData.email,
+            password: await formData.password,
+            subExpirationDate: await moment(new Date(), "DD-MM-YYYY").add(7, 'days'),
+            imageUrl: await profileImgURl
+          }
+
+          await axios.post(`${process.env.REACT_APP_API_URL}user/register`, variables)
+            .then(response => {
+              if (response.data.success === true) {
+                localStorage.setItem('smasuserId', response.data.user._id)
+                localStorage.setItem('smasemail', response.data.user.email)
+                localStorage.setItem('smasimageUrl', response.data.user.imageUrl)
+                navigate(`/home`)
+              }
+              if (response.data.success === false) {
+                setEmailErro(`${response.data.message}`)
+                setShowLodder(false)
+              }
+
+            }).catch(error => {
+              setError(error)
+              setShowLodder(false)
+            })
+          setError('')
         }
-
-        await axios.post(`${process.env.REACT_APP_API_URL}user/register`, variables)
-          .then(response => {
-            if (response.data.success === true) {
-              localStorage.setItem('smasuserId', response.data.user._id)
-              localStorage.setItem('smasemail', response.data.user.email)
-              localStorage.setItem('smasimageUrl', response.data.user.imageUrl)
-              navigate(`/home`)
-            }
-            if (response.data.success === false) {
-              setEmailErro(`${response.data.message}`)
-            }
-
-          }).catch(error => { setError(error) })
-        setError('')
+        else {
+          setError('Please re-enter the form inputs')
+          setShowLodder(false)
+        }
       }
       else {
         setError('Your passwords didnot matched')
+        setShowLodder(false)
       }
     }
     if (option === 'login') {
@@ -107,6 +121,7 @@ const Auth = () => {
           }
           else {
             setError(response.data.message)
+            setShowLodder(false)
           }
         }).catch(error => { setError(error) })
     }
@@ -130,7 +145,7 @@ const Auth = () => {
             option === 'signUp' &&
             <>
               <label>Upload Profile Picture</label>
-              <input name="profileImgURl" type="file" onChange={handleImageUpload} placeholder="Profile Picture" className="form_input" required />
+              <input name="profileImgURl" type="file" onChange={handleImageUpload} placeholder="Profile Picture" className="form_input" />
             </>
           }
           <input name="password" onChange={(e) => onChangeHandler(e)} type="password" placeholder="Password" className="form_input" required />
@@ -145,9 +160,9 @@ const Auth = () => {
 
           {
             option === 'signUp' ?
-              <button type="submit" className="primary_button">Sign Up</button>
+              <button type="submit" className="primary_button">{showLodder ? <CircularProgress className='lodder' /> : 'Sign Up'}</button>
               :
-              <button type="submit" className="primary_button">Sign In</button>
+              <button type="submit" className="primary_button">{showLodder ? <CircularProgress className='lodder' /> : 'Sign In'}</button>
           }
 
           {
