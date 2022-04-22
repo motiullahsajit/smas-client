@@ -1399,10 +1399,87 @@
   },
 
   {
+    "name":"Man Of Steel 2013",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/Tq5rZnp/MV5-BMTk5-ODk1-NDkx-MF5-BMl5-Ban-Bn-Xk-Ft-ZTcw-NTA5-OTY0-OQ-V1.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1doQWO04WPZxgBR5LXCH_48EOunEwN4me/view?usp=sharing"
+  },
+  {
+    "name":"Batman Begins 2005",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/585jwBB/MV5-BOTY4-Yj-I2-N2-Mt-Ym-Fl-MC00-Zjcy-LTg3-Yj-Et-MDQy-M2-Zj-Yz-Q5-YWFk-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQx-Nz.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1OsUudeF8EuhxsFl-6hRgOgaOtnf9GbPC/view?usp=sharing"
+  },
+  {
+    "name":"Joker 2019",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/chDTyKq/MV5-BMTc5-ODk4-Mz-Yt-NDNi-Ni00-Ym-E3-LThl-Yj-At-NDMw-Zm-Yy-NWVi-M2-Qx-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA3-Mz.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1-UEhP7QqGpg2_xMdB568lJcc_v2OSj7e/view?usp=sharing"
+  },
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+  {
     "name":"",
     "type":"movie",
     "posterUrl":"",
     "movieUrl":""
   }
-
 ]

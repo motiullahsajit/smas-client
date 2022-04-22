@@ -28,7 +28,7 @@
     "name":"Jersey 2022",
     "type":"movie",
     "posterUrl":"https://i.ibb.co/TgbCs9S/MV5-BM2-U2-ZDcw-MWYt-NGM4-My00-Njk3-LWEw-YTYt-Nj-I3-MDc2-Ym-Ux-NGY3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTM1-MTE1.jpg",
-    "movieUrl":"https://drive.google.com/file/d/1bDxI71lxw5mOtvux4njCsEg1vanH2w1b/view?usp=sharing"
+    "movieUrl":"https://drive.google.com/file/d/1MTLEANj3efDFY04GOlSmb2CQPPcLjVv_/view?usp=sharing"
   },
   
   {
@@ -780,7 +780,24 @@
     "posterUrl": "https://i.ibb.co/bKP7b4S/MV5-BMTkw-OTY0-MTc1-NV5-BMl5-Ban-Bn-Xk-Ft-ZTcw-MDQw-Nj-A2-NQ-V1-FMjpg-UX1000.jpg",
     "movieUrl": "https://drive.google.com/file/d/1--hMFE1W0RnZqRJkx4b00JoI4D8pYS0w/view?usp=sharing"
   },
-
+  {
+    "name":"Man Of Steel 2013",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/Tq5rZnp/MV5-BMTk5-ODk1-NDkx-MF5-BMl5-Ban-Bn-Xk-Ft-ZTcw-NTA5-OTY0-OQ-V1.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1doQWO04WPZxgBR5LXCH_48EOunEwN4me/view?usp=sharing"
+  },
+  {
+    "name":"Batman Begins 2005",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/585jwBB/MV5-BOTY4-Yj-I2-N2-Mt-Ym-Fl-MC00-Zjcy-LTg3-Yj-Et-MDQy-M2-Zj-Yz-Q5-YWFk-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQx-Nz.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1OsUudeF8EuhxsFl-6hRgOgaOtnf9GbPC/view?usp=sharing"
+  },
+  {
+    "name":"Joker 2019",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/chDTyKq/MV5-BMTc5-ODk4-Mz-Yt-NDNi-Ni00-Ym-E3-LThl-Yj-At-NDMw-Zm-Yy-NWVi-M2-Qx-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA3-Mz.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1-UEhP7QqGpg2_xMdB568lJcc_v2OSj7e/view?usp=sharing"
+  },
   {
     "name": "Transformers 4",
     "type": "movie",
@@ -6938,6 +6955,197 @@
                 "link": "https://drive.google.com/file/d/1KcdmdulrzGpz8qbIiiLaXhDZ5v1CsDu-/view?usp=sharing"
               }
               
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sex Education",
+        "type": "ammerican",
+        "overview": "2019 | 18+ | 3 Seasons | TV Dramas",
+        "posterUrl": "https://i.ibb.co/tKFC2G8/MV5-BOTE0-Mj-Q1-NDU3-OV5-BMl5-Ban-Bn-Xk-Ft-ZTgw-NTI4-MTgw-Nz-M-V1.jpg",
+        "coverUrl": "https://i.ibb.co/Mf6LpYC/wp5271972.webp",
+        "seasons": [
+          {
+            "name": "Season 1",
+            "episodes": [
+              {
+                "name": "Episode 01",
+                "link": "https://drive.google.com/file/d/1RIRdbA6G804wSNPJkFRcwTwRmE_d20Y8/view?usp=sharing"
+              },
+              {
+                "name": "Episode 02",
+                "link": "https://drive.google.com/file/d/1uEonuc6tZnb0uVIbzyWvdmytiF-gA85S/view?usp=sharing"
+              },
+              {
+                "name": "Episode 03",
+                "link": "https://drive.google.com/file/d/1eYccI9Y4oO2qaaW7a4inLpXLwmchtMxM/view?usp=sharing"
+              },
+              {
+                "name": "Episode 04",
+                "link": "https://drive.google.com/file/d/1dipo8mrWhD06BYX18Zkt6avqYvYml3Ra/view?usp=sharing"
+              },
+              {
+                "name": "Episode 05",
+                "link": "https://drive.google.com/file/d/1BcDrmeECvaoGEoqYKQnCt7UXiQ7enwZ6/view?usp=sharing"
+              },
+              {
+                "name": "Episode 06",
+                "link": "https://drive.google.com/file/d/1q4al2BP7EPpUmd8k3LYgOwJ3cv1l-Mto/view?usp=sharing"
+              },
+              {
+                "name": "Episode 07",
+                "link": "https://drive.google.com/file/d/1iKo1DWuWeEEAt9zvwWTAec8S_kBzb2sd/view?usp=sharing"
+              },
+              {
+                "name": "Episode 08",
+                "link": "https://drive.google.com/file/d/1Cspug0Kk4lfNbFlpNaOQ2K2K5mEpiVMW/view?usp=sharing"
+              }
+            ]
+          },
+          {
+            "name": "Season 2",
+            "episodes": [
+              {
+                "name": "Episode 01",
+                "link": "https://drive.google.com/file/d/1Sq0qAuj6f3glkJBlQLXiIF6b6BIM_57d/view?usp=sharing"
+              },
+              {
+                "name": "Episode 02",
+                "link": "https://drive.google.com/file/d/1wmyCEDaGLc4Lm2jF_Blu9761cCAydTS0/view?usp=sharing"
+              },
+              {
+                "name": "Episode 03",
+                "link": "https://drive.google.com/file/d/16EzVAL7rnfRSBxJ2c2En_GefbVDyBTvx/view?usp=sharing"
+              },
+              {
+                "name": "Episode 04",
+                "link": "https://drive.google.com/file/d/1rDiI58hIiBa0kLAQLOE_M84REDjzbrvF/view?usp=sharing"
+              },
+              {
+                "name": "Episode 05",
+                "link": "https://drive.google.com/file/d/1f9fST-BvIGIYKyBF3uCWNJ-7EtQ8Qjo-/view?usp=sharing"
+              },
+              {
+                "name": "Episode 06",
+                "link": "https://drive.google.com/file/d/1tz8SLUFjMd5rT6Z-SwYn6LA3X3Mh61N1/view?usp=sharing"
+              },
+              {
+                "name": "Episode 07",
+                "link": "https://drive.google.com/file/d/1FFifJAW8GMu1sgHByBroyanWXYnjBDFc/view?usp=sharing"
+              },
+              {
+                "name": "Episode 08",
+                "link": "https://drive.google.com/file/d/1WKCkB6HXqVgrmmoMP7wshybt7GRyaMRk/view?usp=sharing"
+              }
+            ]
+          },
+          {
+            "name": "Season 3",
+            "episodes": [
+              {
+                "name": "Episode 01",
+                "link": "https://drive.google.com/file/d/1vxJURljLYgxrylcJApltZGaDNIwlsM1O/view?usp=sharing"
+              },
+              {
+                "name": "Episode 02",
+                "link": "https://drive.google.com/file/d/1xQo92005NbP8iollQkF8iwi6xBrj5RDv/view?usp=sharing"
+              },
+              {
+                "name": "Episode 03",
+                "link": "https://drive.google.com/file/d/1sUSv8rT56o8tCC8SsrXoaIFKBetabFOD/view?usp=sharing"
+              },
+              {
+                "name": "Episode 04",
+                "link": "https://drive.google.com/file/d/1WWfUbhHWf7XjSs8t5e63zTNHBpN8vA_O/view?usp=sharing"
+              },
+              {
+                "name": "Episode 05",
+                "link": "https://drive.google.com/file/d/1AiTK82o-c2niPwbYddTpTpbzQumrJQ0W/view?usp=sharing"
+              },
+              {
+                "name": "Episode 06",
+                "link": "https://drive.google.com/file/d/1u_73NWJP9CeZsCR-EFaZ132TbGIKsYve/view?usp=sharing"
+              },
+              {
+                "name": "Episode 07",
+                "link": "https://drive.google.com/file/d/1aeiwpQG13L3YR4chthiXLLAMnaS4mpvc/view?usp=sharing"
+              },
+              {
+                "name": "Episode 08",
+                "link": "https://drive.google.com/file/d/1l4Q8bYQsw5Ma0p0O2y-AQeSBxGwyvBSI/view?usp=sharing"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "The Marked Heart",
+        "type": "colombian",
+        "overview": "2022 | 18+ | 1 Season | TV Thrillers",
+        "posterUrl": "https://i.ibb.co/0Kgwj9H/MV5-BMTdh-ZGMy-Nm-Yt-NWUy-MC00-Yjgy-LWE1-NGQt-ZWQ2-MGE4-ODdm-OWFk-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-Yx-MDY3-N.jpg",
+        "coverUrl": "https://i.ibb.co/R9MfCzJ/AAAABci50-Zs-Ar-Ga-LBn3hxx-IWBBjd210-Dw-M6-ASpe-W3fe29u-DMB3q-U-wtx0w-X1-ZC2-XT5-F2-VQl-FC-Cuog-WUjb.jpg",
+        "seasons": [
+          {
+            "name": "Season 1",
+            "episodes": [
+              {
+                "name": "Episode 01",
+                "link": "https://drive.google.com/file/d/1XC14UMqwz6_yTwemKGQNB7NaRnComETF/view?usp=sharing"
+              },
+              {
+                "name": "Episode 02",
+                "link": "https://drive.google.com/file/d/1F3kRcGfpzbS4m77gTyJZU8J333DxvGPS/view?usp=sharing"
+              },
+              {
+                "name": "Episode 03",
+                "link": "https://drive.google.com/file/d/1UoFqJA8Iia86zq4KbcOuv5ilOmicnEx1/view?usp=sharing"
+              },
+              {
+                "name": "Episode 04",
+                "link": "https://drive.google.com/file/d/1tepBSsIs2FnKo7tkkqhx9wf8IXwcX6Lk/view?usp=sharing"
+              },
+              {
+                "name": "Episode 05",
+                "link": "https://drive.google.com/file/d/1hQbeD3KTC679xBHhCXtQ4p3yMB0kpd91/view?usp=sharing"
+              },
+              {
+                "name": "Episode 06",
+                "link": "https://drive.google.com/file/d/18quAXoSVMWmXBOyFxITvYrHzDkSW4w_q/view?usp=sharing"
+              },
+              {
+                "name": "Episode 07",
+                "link": "https://drive.google.com/file/d/1fsweNR02hQyOYOm81QxSwxaHtGfnLOZG/view?usp=sharing"
+              },
+              {
+                "name": "Episode 08",
+                "link": "https://drive.google.com/file/d/1OQgyXltGSV9W0tEn0QR2aLp1dFF_H4Qu/view?usp=sharing"
+              },
+              {
+                "name": "Episode 09",
+                "link": "https://drive.google.com/file/d/1QrP4eQaNVYVAfDQQ5Z4YHiTO_80gIs7D/view?usp=sharing"
+              },
+              {
+                "name": "Episode 10",
+                "link": "https://drive.google.com/file/d/1ymrIXAFPpPZYRZivoBfID1NibsOHc3O9/view?usp=sharing"
+              },
+            
+              {
+                "name": "Episode 11",
+                "link": "https://drive.google.com/file/d/1RG1uAs3grv1pC6x0VfVmW6xc9MHVZ1qA/view?usp=sharing"
+              },
+              {
+                "name": "Episode 12",
+                "link": "https://drive.google.com/file/d/1qZw8XKkgv0fBHsTX8p4c3odf3R6ri-b0/view?usp=sharing"
+              },
+              {
+                "name": "Episode 13",
+                "link": "https://drive.google.com/file/d/1vtXLI39c_Tz558MbUrU6lLfV4p2LcP9m/view?usp=sharing"
+              },
+              {
+                "name": "Episode 14",
+                "link": "https://drive.google.com/file/d/10iWNQyo9RG0B7SwKM5fweaxw9CULzxLK/view?usp=sharing"
+              }
             ]
           }
         ]
