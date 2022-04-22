@@ -12,11 +12,25 @@
     "movieUrl": "https://drive.google.com/file/d/1LmFxAqpOqLLOV_m41sm5DKVPl7Y2cKUl/view?usp=sharing"
   },
   {
+    "name":"Badhaai Do 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/ymT9D6B/MV5-BZj-Ex-NGM5-MTMt-NTFl-Ny00-OThl-LTlh-Yzct-OWEz-Zj-Q4-MWY3-YTUy-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI1-NDEy-N.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1QWFIE3hQr4LHy5PW8sYFaWcMSO5QZqUi/view?usp=sharing"
+  },
+
+  {
     "name":"Saaho 2019",
     "type":"movie",
     "posterUrl":"https://i.ibb.co/9Gc6D8F/MV5-BNDEx-Zj-Fi-Yj-It-Mm-M3-OS00-OGUx-LTli-MTct-Mz-Fh-ZDkz-Mm-Fh-Mz-Y1-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA1-NT.jpg",
     "movieUrl":"https://drive.google.com/file/d/1QvCpBrIHzAhkpvGiS-XYeJDlos056Ykv/view?usp=sharing"
   },
+  {
+    "name":"Jersey 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/TgbCs9S/MV5-BM2-U2-ZDcw-MWYt-NGM4-My00-Njk3-LWEw-YTYt-Nj-I3-MDc2-Ym-Ux-NGY3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTM1-MTE1.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1bDxI71lxw5mOtvux4njCsEg1vanH2w1b/view?usp=sharing"
+  },
+  
   {
     "name":"Khuda Haafiz 2020",
     "type":"movie",
@@ -112,6 +126,14 @@
     "type": "movie",
     "posterUrl": "https://i.ibb.co/M9cMrqb/MV5-BOGQ3-Zj-Mw-ZDct-ZTFk-Mi00-Zj-Uw-LTlm-MDUt-NDZl-Yz-Jj-Nz-Zi-NTg5-Xk-Ey-Xk-Fqc-Gde-QXVy-MTMz-ODk3.jpg",
     "movieUrl": "https://drive.google.com/file/d/1B3lkjRFXjMbHpQ4Nd6OgKPhD5QJVBvI7/view?usp=sharing"
+  },
+    
+ 
+  {
+    "name":"Jhund 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/Gcq1Jng/MV5-BMzcz-Mjdi-Nj-Et-NTM0-Mi00-NWVm-LTg0-Nzct-Ym-Vh-Nz-M5-NGIy-ZDQy-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E3.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1QsTshZeuAs65hZVl0uGZzQT6RxE3bbyd/view?usp=sharing"
   },
   {
     "name": "Dasvi",
@@ -239,7 +261,24 @@
     "posterUrl": "https://i.ibb.co/b5WRhvR/MV5-BNj-Mw-Mjg2-Yz-It-NWRi-OC00-YTkz-LWI5-Mj-At-Zj-U5-YTE2-Mm-U1-Nzll-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-Yx-OT.jpg",
     "movieUrl": "https://drive.google.com/file/d/17rNDUuxmEwbkm1FiDV3hmbFfvcfaKtOd/view?usp=sharing"
   },
-
+  {
+    "name":"Drive 2019",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/PmBQpSK/MV5-BNGY5-Yj-Yx-Y2-Ut-Yz-Ix-YS00-Zj-I3-LWI0-NWUt-MDgx-Zj-A5-Zj-Bk-ZTE1-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1I4ZJuID00Wo59kspXL966vJltlmkeTIS/view?usp=sharing"
+  },
+  {
+    "name":"Aaraattu 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/5ndTNNG/MV5-BMWNm-ZDhh-Nm-Yt-M2-Fh-Yy00-MTY3-LTg5-Nj-Ut-Ym-Ex-ODJl-Mj-Rl-Mj-Rl-Xk-Ey-Xk-Fqc-Gde-QXVy-Mjkx-Nz.jpg",
+    "movieUrl":"https://drive.google.com/file/d/11FTtuenZ6rdM7d_VqSqtKlHc6regt-KE/view?usp=sharing"
+  },
+  {
+    "name":"Kabir Singh 2019",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/WtPSVhk/MV5-BZTI4-ZThi-Y2-It-Nz-Mx-Zi00-YTk1-LTg0-OTkt-Zj-Y2-MDE5-Nz-Rj-Mz-Ez-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA4-Nj.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1r8Wt9XMOlQ5-8H803hQ-2b2qg8CGkgIv/view?usp=sharing"
+  },
   {
     "name": "Silence",
     "type": "movie",
@@ -335,7 +374,7 @@
     "posterUrl": "https://i.ibb.co/xJCwJKr/MV5-BMGE3-Yjg3-Nz-It-Njlm-OS00-Yj-Y2-LThi-MDct-Mz-M0-NDA2-Nm-Ex-YTg4-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQ3-ODQ3.jpg",
     "movieUrl": "https://drive.google.com/file/d/10nm6BcI0RFY_7D0tzQFIF9p8tS0PP6oP/view?usp=sharing"
   },
-
+ 
   {
     "name": "Bekhudi",
     "type": "movie",
@@ -519,6 +558,19 @@
     "movieUrl": "https://drive.google.com/file/d/1AcoeX_UvHjvOWwx81z2PwvQh3jV327bS/view?usp=sharing                          "
   },
   {
+    "name":"Cobalt Blue 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/QM1LzPm/MV5-BMTA1-Zj-U5-Yj-Et-Nj-Q5-Mi00-Mzdl-LTli-NGEt-NWY2-Mjgw-Zj-E3-ODY4-Xk-Ey-Xk-Fqc-Gde-QXVy-NDI3-Nj-U.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1DHc7jtP06IRakzPS312mngLIJ0Z5--oI/view?usp=sharing"
+  },
+
+  {
+    "name":"Ready 2011",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/BrQJ9BS/MV5-BMTUx-NDM5-OTkw-NF5-BMl5-Ban-Bn-Xk-Ft-ZTcw-MDY2-Mj-M2-NQ-V1.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1p76xg9gTUwVpECpS748wX5LwZvXt6GVG/view?usp=sharing"
+  },
+  {
     "name": "Oru Adaar Love",
     "type": "movie",
     "posterUrl": "https://i.ibb.co/PwMnQCb/MV5-BZDc1-Yj-M5-Nj-Mt-ZDVj-OS00-YTJh-LTg0-NGEt-NTdj-Zj-I0-ZTRm-MDdh-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA4-Nj-E0.jpg",
@@ -579,6 +631,12 @@
     "type": "movie",
     "posterUrl": "https://i.ibb.co/s5byPDb/MV5-BZm-Fm-Nz-A0-MTQt-YWRl-MC00-Njg0-LTg0-ZTYt-Njlm-MTVk-Mj-Mz-Zm-I1-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI1-NDAz.jpg",
     "movieUrl": "https://drive.google.com/file/d/10Jg3cHdCxKdfgvPRYs-B2ZldUJc8JyH6/view?usp=sharing"
+  },
+  {
+    "name":"FIR 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/1KCSnN6/MV5-BMj-Q2-ZDk2-NTMt-Yzg0-ZC00-Nm-Iy-LTk2-ZTQt-OTkz-Yz-I1-Zj-M4-YTJk-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-A4-OTI.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1u62cegQ9CIS4cguXs08hcXY0wWY7tZUH/view?usp=sharing"
   },
   {
     "name": "Shershaah",
@@ -1288,6 +1346,12 @@
     "movieUrl":"https://drive.google.com/file/d/1dGWXhf4LD07F8-8__MANju09syS7horv/view?usp=sharing"
   },
   {
+    "name":"Greenland 2020",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/s6dGZPz/MV5-BMzcy-Mz-U4-MDUt-M2-Jh-OC00-ZDg2-LTg5-MGMt-Zjc2-OGMy-Mjhl-MGE2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTkx-Nj-Uy.jpg",
+    "movieUrl":"  https://drive.google.com/file/d/1NrOd_xpf0IcaLlSFO3b1H9hZj1KtyfyV/view?usp=sharing"
+  },
+  {
     "name":"Turning Red 2022",
     "type":"mmovie",
     "posterUrl":"https://i.ibb.co/BtF0VWZ/MV5-BNj-Y0-MGEz-Zm-Qt-ZWMx-Ni00-MWVh-LWI4-NWEt-Yj-Q0-MDky-YTJh-MDU0-Xk-Ey-Xk-Fqc-Gde-QXVy-ODc0-OTEy.jpg",
@@ -1432,6 +1496,12 @@
     "type": "movie",
     "posterUrl": "https://i.ibb.co/TLnWnY6/MV5-BNTli-Yjlk-NDQt-Mj-Fl-NS00-Njgz-LWFm-MWEt-Ym-M2-Mzc2-Zjg3-Zj-Ey-Xk-Ey-Xk-Fqc-Gde-QXVy-MTkx-Nj-Uy.jpg",
     "movieUrl": "https://drive.google.com/file/d/1phExMwGZ0EqM6V_LU5Wc8hAlqFksG-Yx/view?usp=sharing"
+  },
+  {
+    "name":"Ambulence 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/SR87f88/MV5-BM2-Fh-MTk3-MGYt-Yzc0-YS00-Ym-Fm-LTlk-ZDMt-MTI0-Nm-Y5-YTdl-MDA4-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA3-MDk2.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1xUmrFjzT1fkMNNl6k7V_5cNUjip86CcH/view?usp=sharing"
   },
 
   {
@@ -5752,7 +5822,11 @@
                 "link": "https://drive.google.com/file/d/1Ll_AjQBrOxlIPHg55aCNm857ej52O-Ny/view?usp=sharing"
               },
               {
-                "name": "Episode 03 Coming Soon",
+                "name": "Episode 03",
+                "link": "https://drive.google.com/file/d/1X_Ci3Ir5cly67iMjUClsC5r88ntbEdPz/view?usp=sharing"
+               },
+               {
+                "name": "Episode 04 Coming Soon",
                 "link": ""
                }
            

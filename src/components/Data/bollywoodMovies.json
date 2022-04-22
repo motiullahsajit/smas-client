@@ -1,11 +1,29 @@
 [
   {
+    "name":"Jersey 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/TgbCs9S/MV5-BM2-U2-ZDcw-MWYt-NGM4-My00-Njk3-LWEw-YTYt-Nj-I3-MDc2-Ym-Ux-NGY3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTM1-MTE1.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1bDxI71lxw5mOtvux4njCsEg1vanH2w1b/view?usp=sharing"
+  },
+  
+  {
     "name": "KGF Chapter 2",
     "type": "movie",
     "posterUrl": "https://i.ibb.co/0DPBj5Z/MV5-BMj-Mw-MDgy-OGQt-MWZj-NC00-MDUw-LTll-ZDYt-ZWM3-NDBm-N2-Yz-NGZm-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQz-Njkz-M.jpg",
     "movieUrl": "https://drive.google.com/file/d/1LmFxAqpOqLLOV_m41sm5DKVPl7Y2cKUl/view?usp=sharing"
   },
-
+  {
+    "name":"Cobalt Blue 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/QM1LzPm/MV5-BMTA1-Zj-U5-Yj-Et-Nj-Q5-Mi00-Mzdl-LTli-NGEt-NWY2-Mjgw-Zj-E3-ODY4-Xk-Ey-Xk-Fqc-Gde-QXVy-NDI3-Nj-U.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1DHc7jtP06IRakzPS312mngLIJ0Z5--oI/view?usp=sharing"
+  },
+  {
+    "name":"FIR 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/1KCSnN6/MV5-BMj-Q2-ZDk2-NTMt-Yzg0-ZC00-Nm-Iy-LTk2-ZTQt-OTkz-Yz-I1-Zj-M4-YTJk-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-A4-OTI.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1u62cegQ9CIS4cguXs08hcXY0wWY7tZUH/view?usp=sharing"
+  },
   {
     "name": "Beast",
     "type": "movie",
@@ -17,6 +35,12 @@
     "type":"movie",
     "posterUrl":"https://i.ibb.co/yNmnG34/Main-Viyah-Nahi-Karona-Tere-Naal-1080x1600.jpg",
     "movieUrl":"https://drive.google.com/file/d/185hP8Go9m3oVrID_SLxODvjO_3h4nM_E/view?usp=sharing"
+  },
+  {
+    "name":"Badhaai Do 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/ymT9D6B/MV5-BZj-Ex-NGM5-MTMt-NTFl-Ny00-OThl-LTlh-Yzct-OWEz-Zj-Q4-MWY3-YTUy-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI1-NDEy-N.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1QWFIE3hQr4LHy5PW8sYFaWcMSO5QZqUi/view?usp=sharing"
   },
 
   {
@@ -641,6 +665,51 @@
     "posterUrl":"https://i.ibb.co/YtbwDDQ/MV5-BMTZh-Yj-Vm-Yjgt-Zj-Fi-Yi00-MDIw-LTg4-MTYt-Mz-Fk-Mz-Yx-Y2-Nh-Y2-Yx-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-Ux-M.jpg",
     "movieUrl":"  https://drive.google.com/file/d/1iqaGDNbOmvoM9fQk90x1cEb_nzhqpEp0/view?usp=sharing"
   },
+  
+  {
+    "name":"Ready 2011",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/BrQJ9BS/MV5-BMTUx-NDM5-OTkw-NF5-BMl5-Ban-Bn-Xk-Ft-ZTcw-MDY2-Mj-M2-NQ-V1.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1p76xg9gTUwVpECpS748wX5LwZvXt6GVG/view?usp=sharing"
+  },
+  
+ 
+  {
+    "name":"Jhund 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/Gcq1Jng/MV5-BMzcz-Mjdi-Nj-Et-NTM0-Mi00-NWVm-LTg0-Nzct-Ym-Vh-Nz-M5-NGIy-ZDQy-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E3.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1QsTshZeuAs65hZVl0uGZzQT6RxE3bbyd/view?usp=sharing"
+  },
+  
+  {
+    "name":"Drive 2019",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/PmBQpSK/MV5-BNGY5-Yj-Yx-Y2-Ut-Yz-Ix-YS00-Zj-I3-LWI0-NWUt-MDgx-Zj-A5-Zj-Bk-ZTE1-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1I4ZJuID00Wo59kspXL966vJltlmkeTIS/view?usp=sharing"
+  },
+  
+  {
+    "name":"Kabir Singh 2019",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/WtPSVhk/MV5-BZTI4-ZThi-Y2-It-Nz-Mx-Zi00-YTk1-LTg0-OTkt-Zj-Y2-MDE5-Nz-Rj-Mz-Ez-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA4-Nj.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1r8Wt9XMOlQ5-8H803hQ-2b2qg8CGkgIv/view?usp=sharing"
+  },
+  
+  {
+    "name":"Aaraattu 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/5ndTNNG/MV5-BMWNm-ZDhh-Nm-Yt-M2-Fh-Yy00-MTY3-LTg5-Nj-Ut-Ym-Ex-ODJl-Mj-Rl-Mj-Rl-Xk-Ey-Xk-Fqc-Gde-QXVy-Mjkx-Nz.jpg",
+    "movieUrl":"https://drive.google.com/file/d/11FTtuenZ6rdM7d_VqSqtKlHc6regt-KE/view?usp=sharing"
+  },
+
+
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
 
 
   {
