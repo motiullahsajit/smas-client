@@ -175,7 +175,7 @@
     "name": "Radhe Shyam",
     "type": "movie",
     "posterUrl": "https://i.ibb.co/ncSXY4M/MV5-BZDQ5-Yj-Ax-Mm-Yt-OGM3-Zi00-MWU2-LWJm-OTMt-Zjhh-Yjky-NGQ1-Nj-E3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA3-MDk2.jpg",
-    "movieUrl": "https://drive.google.com/file/d/1ciOHr18RzNmdQDM1PvfCj82K1br7rMRS/view?usp=sharing"
+    "movieUrl": "https://drive.google.com/file/d/1Al6GX4EkLxaJOOM_xZrixpYpeinkYKVD/view?usp=sharing"
   },
   {
     "name": "Sanak",
@@ -990,6 +990,12 @@
   },
 
   {
+    "name":"Zodiac 2007",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/3BFj5v4/MV5-BN2-Uw-NDc5-Nm-Et-Nj-Vj-ZS00-OTI5-LWE5-Yjct-MWM3-Zj-Bi-ZGYw-MGI2-Xk-Ey-Xk-Fqc-Gde-QXVy-Nzkw-Mj-Q.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1bAwJngmwDQtVILqAYcq6fk2uIkGm5WgJ/view?usp=sharing"
+  },
+  {
     "name": "Morbius",
     "type": "movie",
     "posterUrl": "https://i.ibb.co/HhSj5gY/MV5-BYjlh-NTA3-Y2-It-Yjhi-Yi00-NTBi-LTg5-MDMt-ZDJj-MDZj-Nz-Vj-Nj-Jm-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEy-Mj-M2.jpg",
@@ -1058,7 +1064,30 @@
     "posterUrl": "https://i.ibb.co/8rj75vJ/MV5-BY2-Vl-Y2-Iy-NDct-YTJl-ZS00-Nz-Uy-LThk-ODUt-OWIy-NTQ0-Yz-Ux-ZGUz-Xk-Ey-Xk-Fqc-Gde-QXVy-MTY5-Nzc4.jpg",
     "movieUrl": "https://drive.google.com/file/d/1tVdUPto0wWNhVkzp4sc69ZS2tZmg6CNi/view?usp=sharing"
   },
-
+  {
+    "name":"Constantine The House of Mystery 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/ZNySSDb/MV5-BZTUw-M2-Yx-Yj-Yt-MDZm-Mi00-Nz-Rj-LWJj-Yj-Yt-OWI5-NDA2-Mjg1-Zj-Jm-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEy-Nzg.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1x_0ugf78Y4eefLOZQ2hsv79yS5Mp5GXy/view?usp=sharing"
+  },
+  {
+    "name":"Fast And Furious 2001",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/SBbDcsV/MV5-BNzlk-Nz-Vj-MDMt-OTdh-ZC00-MGE1-LTkx-ODct-Mz-Fm-Mjkw-Zm-Mx-Zj-Fh-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-U0-OTQ.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1rO9vjDCUr5oao4YBFP_x7FvdFpqFt0m2/view?usp=sharing"
+  },
+  {
+    "name":"Emma 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/kySnN0Z/download-1.jpg",
+    "movieUrl":"https://drive.google.com/file/d/13qWdUbM5ZnWUxi7I5KF3bJBnWaT78X3S/view?usp=sharing"
+  },
+  {
+    "name":"Intervation 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/Hp2cpPN/download.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1pq-lhxRgdLz1oqwnwhckPY-2QRYKVkE9/view?usp=sharing"
+  },
   {
     "name": "Godzilla Vs Kong",
     "type": "movie",
@@ -1123,6 +1152,19 @@
   },
   {
     "name": "F9",
+    "type": "movie",
+    "posterUrl": "https://i.ibb.co/cNq4SjP/MV5-BMj-I0-Nm-Fk-Yz-Et-Nz-U2-YS00-NTg5-LWIw-Ym-Mt-Nm-Q1-MTU0-OGJj-OTMx-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-Mx-O.jpg",
+    "movieUrl": "https://drive.google.com/file/d/1Hbv1bit_u00LcnN-sxiGkBZFgC2TFic_/view?usp=sharing"
+  },
+  {
+    "name":"2 fast 2 Furious 2 2003",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/T2yDLGK/MV5-BMz-Ex-Yjcy-YWMt-Y2-Jk-OC00-NDUw-LTg2-OTgt-MDI3-MGY2-OWQz-MDE2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQx-Nz-Mz.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1dp_P0a1Uby5nz4LB3Lxj2V5FZpR5jkzG/view?usp=sharing"
+  },
+
+  {
+    "name": "Fast And Furious 9",
     "type": "movie",
     "posterUrl": "https://i.ibb.co/cNq4SjP/MV5-BMj-I0-Nm-Fk-Yz-Et-Nz-U2-YS00-NTg5-LWIw-Ym-Mt-Nm-Q1-MTU0-OGJj-OTMx-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-Mx-O.jpg",
     "movieUrl": "https://drive.google.com/file/d/1Hbv1bit_u00LcnN-sxiGkBZFgC2TFic_/view?usp=sharing"
@@ -6915,6 +6957,72 @@
               {
                 "name": "Episode 08",
                 "link": "https://drive.google.com/file/d/1BxMJEt9zvWZilDQKqfn-vxvQ8XhzVu1e/view?usp=sharing"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Ultraman",
+        "type": "anime",
+        "overview": "2019 | 13+ | 2 Seasons | Sci-Fi Anime",
+        "posterUrl": "https://i.ibb.co/b7sNKwb/MV5-BZWUx-MGU0-Nm-Yt-Nm-Nm-YS00-Mzk0-LWFj-Nzct-YTc5-Nm-Mz-NGI3-YWQ5-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEz-MTI1.jpg",
+        "coverUrl": "https://i.ibb.co/Gxf18x6/tv-show-ultraman-hd-wallpaper-preview.jpg",
+        "seasons": [
+          {
+            "name": "Season 1",
+            "episodes": [
+              {
+                "name": "Episode 01",
+                "link": "https://drive.google.com/file/d/1K2RZDHsR8-5V1OZwFi89YZAZjNYAp9Mc/view?usp=sharing"
+              },
+              {
+                "name": "Episode 02",
+                "link": "https://drive.google.com/file/d/1OqZGaejyZuuzWQUceWR0cqNWBCe3zex-/view?usp=sharing"
+              },
+              {
+                "name": "Episode 03",
+                "link": "https://drive.google.com/file/d/1jr3K4H2sH7Sp5g6wWCx2cZc7Sjf5Wucr/view?usp=sharing"
+              },
+              {
+                "name": "Episode 04",
+                "link": "https://drive.google.com/file/d/1WFILcItufoC0H7Ng_lnHjZ2_jNZxcCtp/view?usp=sharing"
+              },
+              {
+                "name": "Episode 05",
+                "link": "https://drive.google.com/file/d/16RXEoi5QMiNEMmoFltYE7_MnFNsGPRIB/view?usp=sharing"
+              },
+              {
+                "name": "Episode 06",
+                "link": "https://drive.google.com/file/d/1SXl63U0hNKsON4r4Eq1t4txhwUn0JfgB/view?usp=sharing"
+              },
+              {
+                "name": "Episode 07",
+                "link": "https://drive.google.com/file/d/1eXnuominJRsT5htm1UL7OwfPxpX7IEY9/view?usp=sharing"
+              },
+              {
+                "name": "Episode 08",
+                "link": "https://drive.google.com/file/d/1Gm78gpXQkukoWtA1bu89aP0QakXaUsUH/view?usp=sharing"
+              },
+              {
+                "name": "Episode 09",
+                "link": "https://drive.google.com/file/d/1-1792PJj1uf3aq83ADOIAvP9YAsS7OQ1/view?usp=sharing"
+              },
+              {
+                "name": "Episode 10",
+                "link": "https://drive.google.com/file/d/1cNZ3vEtDm8nXDkfPgYJui-O84_1BvpLf/view?usp=sharing"
+              },
+              {
+                "name": "Episode 11",
+                "link": "https://drive.google.com/file/d/1vPOBvIbP1-kxw9MtkUpf90_twpN38Gjs/view?usp=sharing"
+              },
+              {
+                "name": "Episode 12",
+                "link": "https://drive.google.com/file/d/1amc_ip9Tix-FOpROpi70JkydWpozqNKu/view?usp=sharing"
+              },
+              {
+                "name": "Episode 13",
+                "link": "https://drive.google.com/file/d/1n5fQnDF-YwsvcIAnrDoNrEUnG_QXKu8k/view?usp=sharing"
               }
             ]
           }

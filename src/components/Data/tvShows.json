@@ -1039,6 +1039,72 @@
     ]
   },
   {
+    "name": "Ultraman",
+    "type": "anime",
+    "overview": "2019 | 13+ | 2 Seasons | Sci-Fi Anime",
+    "posterUrl": "https://i.ibb.co/b7sNKwb/MV5-BZWUx-MGU0-Nm-Yt-Nm-Nm-YS00-Mzk0-LWFj-Nzct-YTc5-Nm-Mz-NGI3-YWQ5-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEz-MTI1.jpg",
+    "coverUrl": "https://i.ibb.co/Gxf18x6/tv-show-ultraman-hd-wallpaper-preview.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1K2RZDHsR8-5V1OZwFi89YZAZjNYAp9Mc/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1OqZGaejyZuuzWQUceWR0cqNWBCe3zex-/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1jr3K4H2sH7Sp5g6wWCx2cZc7Sjf5Wucr/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1WFILcItufoC0H7Ng_lnHjZ2_jNZxcCtp/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/16RXEoi5QMiNEMmoFltYE7_MnFNsGPRIB/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1SXl63U0hNKsON4r4Eq1t4txhwUn0JfgB/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/1eXnuominJRsT5htm1UL7OwfPxpX7IEY9/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/1Gm78gpXQkukoWtA1bu89aP0QakXaUsUH/view?usp=sharing"
+          },
+          {
+            "name": "Episode 09",
+            "link": "https://drive.google.com/file/d/1-1792PJj1uf3aq83ADOIAvP9YAsS7OQ1/view?usp=sharing"
+          },
+          {
+            "name": "Episode 10",
+            "link": "https://drive.google.com/file/d/1cNZ3vEtDm8nXDkfPgYJui-O84_1BvpLf/view?usp=sharing"
+          },
+          {
+            "name": "Episode 11",
+            "link": "https://drive.google.com/file/d/1vPOBvIbP1-kxw9MtkUpf90_twpN38Gjs/view?usp=sharing"
+          },
+          {
+            "name": "Episode 12",
+            "link": "https://drive.google.com/file/d/1amc_ip9Tix-FOpROpi70JkydWpozqNKu/view?usp=sharing"
+          },
+          {
+            "name": "Episode 13",
+            "link": "https://drive.google.com/file/d/1n5fQnDF-YwsvcIAnrDoNrEUnG_QXKu8k/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Moon Knight",
     "type": "american",
     "overview": "2022 | 16+ | 1 Season | Disney+ ",
