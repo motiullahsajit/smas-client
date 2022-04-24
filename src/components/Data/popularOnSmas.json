@@ -1,5 +1,11 @@
 [
   {
+    "name": "KGF Chapter 2",
+    "type": "movie",
+    "posterUrl": "https://i.ibb.co/0DPBj5Z/MV5-BMj-Mw-MDgy-OGQt-MWZj-NC00-MDUw-LTll-ZDYt-ZWM3-NDBm-N2-Yz-NGZm-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQz-Njkz-M.jpg",
+    "movieUrl": "https://drive.google.com/file/d/1LmFxAqpOqLLOV_m41sm5DKVPl7Y2cKUl/view?usp=sharing"
+  },
+  {
     "name": "All Of Us Are Dead",
     "type": "korean",
     "overview": "2022 | 18+ | 1 Season | K-Dramas based on Webtoon",
@@ -24,7 +30,7 @@
           },
           {
             "name": "Episode 04",
-            "link": "https://drive.google.com/file/d/1SkUGYH-fbk3c2WEi1OH-1gHYNx5p_nGj/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1jT1p7bHLmm88p5MACBPVybJEFJDqu5N4/view?usp=sharing"
           },
           {
             "name": "Episode 05",
@@ -197,6 +203,41 @@
           {
             "name": "Episode 16",
             "link": "https://drive.google.com/file/d/1Wi1xUOSduA17j-hIH8N19nXMXqkIubbT/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Moon Knight",
+    "type": "american",
+    "overview": "2022 | 16+ | 1 Season | Disney+ ",
+
+    "posterUrl": "https://i.ibb.co/QfSzySY/MV5-BNGM2-Zj-Jm-ZDQt-NTI5-MS00-ZTI0-LTky-Njkt-M2-Rl-YWY0-YTY5-MTYz-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEy-Mj-M2.jpg",
+    "coverUrl": "https://i.ibb.co/xfHqKLs/HD-wallpaper-comics-moon-knight-marvel-comics.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1b6CdOloxADJCYlbamIDx3-pILTJvSokX/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1k5l0QvYF-nfIpgzv_0Dgzve2NecDiP6f/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/16VnZWw0Fm3AqOFc7dP6_2JtXWJubXz59/view?usp=sharing"
+          },
+          {
+            "name":"Episode 04",
+            "link":"https://drive.google.com/file/d/1gDjs7_clXz4WytRI1qcnq9H_-1P6dzvI/view?usp=sharing"
+          },
+          {
+            "name": "Episode 5 Next Week",
+            "link": ""
           }
         ]
       }
@@ -524,12 +565,7 @@
       }
     ]
   },
-  {
-    "name": "The Amazing Spiderman 2",
-    "type": "movie",
-    "posterUrl": "https://i.ibb.co/WyvLQJX/MV5-BOTA5-NDYx-NTg0-OV5-BMl5-Ban-Bn-Xk-Ft-ZTgw-ODE5-Nz-U1-MTE-V1.jpg",
-    "movieUrl": "https://drive.google.com/file/d/1CEBcs17F4_D9eV8YDc-nC6CBD6qZqxsH/view?usp=sharing"
-  },
+ 
   {
     "name": "Business Proposal",
     "type": "korean",
@@ -708,41 +744,7 @@
   },
 
  
-  {
-    "name": "Moon Knight",
-    "type": "american",
-    "overview": "2022 | 16+ | 1 Season | Disney+ ",
 
-    "posterUrl": "https://i.ibb.co/QfSzySY/MV5-BNGM2-Zj-Jm-ZDQt-NTI5-MS00-ZTI0-LTky-Njkt-M2-Rl-YWY0-YTY5-MTYz-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEy-Mj-M2.jpg",
-    "coverUrl": "https://i.ibb.co/xfHqKLs/HD-wallpaper-comics-moon-knight-marvel-comics.jpg",
-    "seasons": [
-      {
-        "name": "Season 1",
-        "episodes": [
-          {
-            "name": "Episode 01",
-            "link": "https://drive.google.com/file/d/1b6CdOloxADJCYlbamIDx3-pILTJvSokX/view?usp=sharing"
-          },
-          {
-            "name": "Episode 02",
-            "link": "https://drive.google.com/file/d/1k5l0QvYF-nfIpgzv_0Dgzve2NecDiP6f/view?usp=sharing"
-          },
-          {
-            "name": "Episode 03",
-            "link": "https://drive.google.com/file/d/16VnZWw0Fm3AqOFc7dP6_2JtXWJubXz59/view?usp=sharing"
-          },
-          {
-            "name":"Episode 04",
-            "link":"https://drive.google.com/file/d/1gDjs7_clXz4WytRI1qcnq9H_-1P6dzvI/view?usp=sharing"
-          },
-          {
-            "name": "Episode 5 Next Week",
-            "link": ""
-          }
-        ]
-      }
-    ]
-  },
   {
     "name": "Happiness",
     "type": "korean",
@@ -807,52 +809,46 @@
     ]
   },
   {
-    "name": "The Adam Project",
-    "type": "movie",
-    "posterUrl": "https://i.ibb.co/SNSWLrq/MV5-BOWY3-ZWFk-Zm-It-NDE3-Ny00-ZTBh-LTg0-Nj-Qt-Y2-E2-ZGEy-Nm-Ew-ODA3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTkx-Nj-U.jpg",
-    "movieUrl": "https://drive.google.com/file/d/133udxdG4CYO3x9iG0XtIcgF6bhaE9dAh/view?usp=sharing"
-  },
-  {
-    "name": "The Woman in the House Across the Street from the Girl in the Window",
-    "type": "american",
-    "overview": "2022 | 18+ | 1 Season | TV Comedies",
-    "posterUrl": "https://i.ibb.co/FXHgg9J/MV5-BMzhh-NWVm-Nz-It-OTFl-OC00-OTAw-LWFm-Njgt-MDBh-OWM2-YTkw-ZDcw-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEz-MTI1-Mj.jpg",
-    "coverUrl": "https://i.ibb.co/DpVwPyX/TWITH-101-Unit-00896-RC-13464e9.jpg",
+    "name": "Heratstopper",
+    "type": "british",
+    "overview": "2022 | 13+ | 1 Season | Teen TV Shows",
+    "posterUrl": "https://i.ibb.co/CvLXz37/MV5-BMz-Iz-OGZm-MDEt-NDJh-ZC00-YTY3-LTg5-Zj-It-ZWZh-NGI1-OTMz-NGUy-Xk-Ey-Xk-Fqc-Gde-QXVy-MTM1-MDEx-O.jpg",
+    "coverUrl": "https://i.ibb.co/NxY4TRm/AAAABd-Qr-Vgvuy-FFPLbir-j-D-RA2x-FZsq-QI7-Dm-NAO9-Gtwn-P3fx6ddeoo-PBz-Ln0nvj-FGbxhww7-KOYJO8x-Cpj-Ok.jpg",
     "seasons": [
       {
         "name": "Season 1",
         "episodes": [
           {
             "name": "Episode 01",
-            "link": "https://drive.google.com/file/d/1tJEmlHRZrM02PL9SdpzlThph8oqOl7iM/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1WS1EyBRdH_onZsbOyrOunR2dCPUFHdlJ/view?usp=sharing"
           },
           {
             "name": "Episode 02",
-            "link": "https://drive.google.com/file/d/1hhB0Ad-_hT0FoikUW1et3pLPVry-GXAF/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1aijmoJQlBAKEpvsSA0kpr8vABfStBXSg/view?usp=sharing"
           },
           {
             "name": "Episode 03",
-            "link": "https://drive.google.com/file/d/1raArd3vO6RPvJr8mOZweduX7QfZdvI9r/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1NbX6oKp8aRb9QTOG96Zqsq2OthaWYVqI/view?usp=sharing"
           },
           {
             "name": "Episode 04",
-            "link": "https://drive.google.com/file/d/1YlHbYh_btes8RXIiSM2CHUHRxRn2-Lxe/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1xuzCj6xDt-M38hVbLZvfv2-du-K6HTg8/view?usp=sharing"
           },
           {
             "name": "Episode 05",
-            "link": "https://drive.google.com/file/d/1xA-vfHd-gq0Vns-LLt1vM1iOQxz7MxC_/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1MymP66IZTpSHknOAOy-sqtTpoYP59kxR/view?usp=sharing"
           },
           {
             "name": "Episode 06",
-            "link": "https://drive.google.com/file/d/1-kbTs6DIiUlsxTEmQ9kE7QcPs6lI3j3A/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1ZJAJrnB4h-Ax0Jfyplt_NcOueZ9eAbuM/view?usp=sharing"
           },
           {
             "name": "Episode 07",
-            "link": "https://drive.google.com/file/d/1ljlb3YHf9EXJZH2wCTR1yIg6h6brNKGt/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1MArqSk3w8Hnlk4fQOAoy61Xg7Liawfdc/view?usp=sharing"
           },
           {
             "name": "Episode 08",
-            "link": "https://drive.google.com/file/d/1gLING92DbL1Q7tA8pErWPCMJ1N6jhItD/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1-oTqBgr0zWV2L5k2C8qBwYx8Qz58HJK1/view?usp=sharing"
           }
         ]
       }
