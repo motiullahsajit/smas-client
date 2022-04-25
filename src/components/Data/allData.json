@@ -99,6 +99,12 @@
     "posterUrl": "https://i.ibb.co/FYKMGmy/MV5-BMTUy-MTg0-MTA1-OF5-BMl5-Ban-Bn-Xk-Ft-ZTgw-MDg2-Mj-Mw-Mj-E-V1-FMjpg-UX1000.jpg",
     "movieUrl": "https://drive.google.com/file/d/1bElKnJ_DhgPisE7tE7_rsnSfIMy3QnJN/view?usp=sharing"
   },
+  {
+    "name":"Chhalawa 2019",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/hKndxzQ/MV5-BMDZh-OWU2-NGUt-M2-Zj-Zi00-ODhl-LWE5-Y2-Et-ZWQ1-Yz-Yx-Zm-Rl-Yj-Y1-Xk-Ey-Xk-Fqc-Gde-QXVy-ODg1-MTc.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1vJuwBcszXnj8E603JRr22HwzSzhsvFtM/view?usp=sharing"
+  },
 
   {
     "name": "Radhe",
@@ -182,6 +188,19 @@
     "type": "movie",
     "posterUrl": "https://i.ibb.co/Df1ZtSS/MV5-BODg3-Nzhl-Mjkt-ODA2-MS00-YTJk-LWEy-YWMt-NGYx-Mz-Yw-YTVi-MWQw-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI1-NDEy-NT.jpg",
     "movieUrl": "https://drive.google.com/file/d/1CInLEXviPzbl2nkMhCeIDl2fRJEMrP3w/view?usp=sharing"
+  },
+  {
+    "name":"Mom 2017",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/FmjV3cJ/MV5-BN2-Nk-Nz-Fi-OWYt-MTA4-Mi00-M2-U4-LTlj-Zm-It-N2-Vl-MTc0-Yz-Vm-ODQ2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA4-Nj.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1KVkdocs2ONJ0IacGs_u1bwJhXERqzhlh/view?usp=sharing"
+  },
+
+  {
+    "name":"Night Drive 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/10WnR4n/9428-37565-Night-Drijpg.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1POBdNV8HEz-CqvmRci06v8YTZiYmM-m0/view?usp=sharing"
   },
   {
     "name": "War",
@@ -656,6 +675,15 @@
     "posterUrl": "https://i.ibb.co/W3ZYh2X/surya-the-soldier-43156jpg.webp",
     "movieUrl": "https://drive.google.com/file/d/1Jsc0WQSdtz42YqweRr9n_36iF2rDFt0Y/view?usp=sharing"
   },
+
+
+  {
+    "name":"Madhagaja 2021",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/YyMnyPW/file7ih8sbeo6ndmr1t957s-1052590-1637392983.jpg",
+    "movieUrl":"https://drive.google.com/file/d/153V1oq6dNZ1votlpoydx_oNApbPcy4vu/view?usp=sharing"
+  },
+
   {
     "name": "Taish",
     "type": "movie",
@@ -1083,7 +1111,7 @@
     "movieUrl":"https://drive.google.com/file/d/13qWdUbM5ZnWUxi7I5KF3bJBnWaT78X3S/view?usp=sharing"
   },
   {
-    "name":"Intervation 2022",
+    "name":"Intervention 2022",
     "type":"movie",
     "posterUrl":"https://i.ibb.co/Hp2cpPN/download.jpg",
     "movieUrl":"https://drive.google.com/file/d/1pq-lhxRgdLz1oqwnwhckPY-2QRYKVkE9/view?usp=sharing"
@@ -3361,12 +3389,7 @@
       }
     ]
   },
-  {
-    "name": "Bachchhan Paandey",
-    "type": "movie",
-    "posterUrl": "https://drive.google.com/uc?id=1o1QfU4jUOjhosO3j7uy6CuRf02pghfhf",
-    "movieUrl": "https://drive.google.com/file/d/18dbIwDR4lQaZgXrUyLplOL0K80KQrEVX/view?usp=sharing"
-  },
+
   {
     "name": "Little Things",
     "type": "indian",
@@ -7526,7 +7549,33 @@
             ]
           }
         ]
-      }    
+      },
+      {
+        "name": "Conversations with a Killer: The John Wayne Gacy Tapes",
+        "type": "american",
+        "overview": "2022 | 18+ | 1 Season | US TV Shows",
+        "posterUrl": "https://i.ibb.co/RDGSDDr/MV5-BMz-Zh-MDM4-ZDkt-MTJi-Yi00-NTBm-LWJl-Yzkt-Y2-Zk-OTQz-N2-Yy-Y2-E2-Xk-Ey-Xk-Fqc-Gde-QXVy-Nz-Qw-OTQ.jpg",
+        "coverUrl": "https://i.ibb.co/NZ2g5t4/MV5-BNzlh-Zj-Y2-NDMt-NTNk-My00-NGIx-LTli-MGMt-Mz-My-MGYz-OGIx-YTI3-Xk-Ey-Xk-Fqc-Gde-QXVy-OTc5-MDI5-N.jpg",
+        "seasons": [
+          {
+            "name": "Season 1",
+            "episodes": [
+              {
+                "name": "Episode 01",
+                "link": "https://drive.google.com/file/d/1ZrCRRKqSSds0L6d6gSG1R_fRO8COBYdo/view?usp=sharing"
+              },
+              {
+                "name": "Episode 02",
+                "link": "https://drive.google.com/file/d/1V5ZckYtM8MNenVbbUxCkx-phzUowXgVJ/view?usp=sharing"
+              },
+              {
+                "name": "Episode 03",
+                "link": "https://drive.google.com/file/d/15hj6us6-DZn1Ofe4afLpTaPiHufcs_Ui/view?usp=sharing"
+              }
+            ]
+          }
+        ]
+      } 
   
     ]
      
