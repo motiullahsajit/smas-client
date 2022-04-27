@@ -1,4 +1,6 @@
 [
+  
+ 
   {
     "name":"Intervention 2022",
     "type":"movie",
@@ -18,10 +20,34 @@
     "movieUrl":"https://drive.google.com/file/d/1xUmrFjzT1fkMNNl6k7V_5cNUjip86CcH/view?usp=sharing"
   },
   {
+    "name":"Aftermath 2021",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/BwNGLbP/cbhxqe-DIge-X36x5jm-Ovl5-OP2-MCv.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1YcPllYsa8LP_JHYpRx4pnpeyfuu-H6rL/view?usp=sharing"
+  },
+  {
     "name":"Emma 2022",
     "type":"movie",
     "posterUrl":"https://i.ibb.co/kySnN0Z/download-1.jpg",
     "movieUrl":"https://drive.google.com/file/d/13qWdUbM5ZnWUxi7I5KF3bJBnWaT78X3S/view?usp=sharing"
+  },
+  {
+    "name":"Fistful Of Vengeance 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/Nt3H82h/MV5-BMm-I3-YTI2-ZWMt-Yj-E3-MC00-N2-Iw-LWEw-OTYt-MTY3-Zj-Mx-MGM5-NTFl-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEz-MTI1.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1_45hyQcQqk14NxVfUAuYWDp-aiPFVvTI/view?usp=sharing"
+  },
+  {
+    "name":"Hostile Territory 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/MVmQMkk/download-3.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1yX-PfqZKbxvDdtKU_pu7nUxo5QGXDJk6/view?usp=sharing"
+  },
+  {
+    "name":"The Devil You Know 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/GFv3Hkw/MV5-BYj-Bm-ODhi-ZTEt-Yzcw-My00-MWY3-LWE0-ODEt-MDM5-Mm-Zl-ZTc2-OTI2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTMw-MDA5-O.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1YiezkQ_5U4h9ANzpKOUIPRWE-9X5hU_y/view?usp=sharing"
   },
   {
     "name":"Constantine The House of Mystery 2022",
@@ -60,6 +86,12 @@
     "type": "movie",
     "posterUrl": "https://i.ibb.co/JRBvKLX/Choose-or-Die-film-poster-png.webp",
     "movieUrl": "https://drive.google.com/file/d/16p1A8YukMAAw8dFB_Ul09dcaiwCl11lr/view?usp=sharing"
+  },
+  {
+    "name":"7 Days 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/zZHMCTB/download-2.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1R6EUnsKYDDpgJVai3rs9VYyFg-EwtGrW/view?usp=sharing"
   },
   {
     "name": "The Batman 2022",
@@ -1479,36 +1511,10 @@
     "posterUrl":"https://i.ibb.co/T2yDLGK/MV5-BMz-Ex-Yjcy-YWMt-Y2-Jk-OC00-NDUw-LTg2-OTgt-MDI3-MGY2-OWQz-MDE2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQx-Nz-Mz.jpg",
     "movieUrl":"https://drive.google.com/file/d/1dp_P0a1Uby5nz4LB3Lxj2V5FZpR5jkzG/view?usp=sharing"
   },
-  {
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
-  {
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
-  {
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
-  {
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
-  {
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
+
+
+
+
   {
     "name":"",
     "type":"movie",
