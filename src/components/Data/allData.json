@@ -676,7 +676,19 @@
     "movieUrl": "https://drive.google.com/file/d/1Jsc0WQSdtz42YqweRr9n_36iF2rDFt0Y/view?usp=sharing"
   },
 
+  {
+    "name":"Heropanti 2",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/FDvx71b/MV5-BZTk4-Mzg5-Nz-Qt-Mjk3-Zi00-MDE4-LWEx-Mjct-Yz-Q5-MDU5-ODVm-NDI0-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E3.jpg",
+    "movieUrl":"https://drive.google.com/file/d/13eSBxWGBwC457Vhx6B4KoW9jML2K6g9M/view?usp=sharing"
+  },
 
+{
+    "name":"Runaway 2",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/cLxh9Cc/MV5-BN2-Yz-Nj-U4-MTYt-Mz-Y5-OS00-ODg0-LTkx-MTUt-Njg0-Yj-Rk-Yz-I5-ZWJj-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1RAx-BZ9wwxw2NsWxaZQq4842DkNk98GS/view?usp=sharing"
+  },
   {
     "name":"Madhagaja 2021",
     "type":"movie",
@@ -989,6 +1001,18 @@
     "type":"movie",
     "posterUrl":"https://i.ibb.co/zhbGw30/MV5-BZDA0-OGQx-NTIt-MDZk-MC00-N2-Uy-LTg3-Mz-Mt-YTJm-Njg3-Nzk5-Mz-Ri-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-Uz-OTY1.jpg",
     "movieUrl":"https://drive.google.com/file/d/18vuks6TR2hY1dYLvK75X44QpO4jE6o2O/view?usp=sharing"
+  },
+  {
+    "name":"Erida 2021",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/vmnVqwR/MV5-BMTI4-ZDUx-ZTMt-ZWU5-My00-OGEy-LTlh-NDkt-YWE0-NGY3-NTdl-YWEy-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-Az-Mzkz-NT.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1WmVyh9xyQMcPCQqLKn_Yl7y9vFGBWjGj/view?usp=sharing"
+  },
+   {
+    "name":"The Guilty 2021",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/60mBC7g/MV5-BZWI3-Nm-Ey-Yz-At-NWY4-OC00-YWY4-LTk2-Mjgt-M2-Y1-NDdl-ZWE4-ODgz-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E3.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1Ohg-wsQY9KYdMuoTULFashqBfdM715t1/view?usp=sharings"
   },
   {
     "name":"The Hunt 2020",
@@ -1712,7 +1736,12 @@
     "posterUrl": "https://i.ibb.co/XjP62Yp/MV5-BMTYx-Mz-Yw-ODE4-OV5-BMl5-Ban-Bn-Xk-Ft-ZTgw-NDE5-Mz-E2-MDE-V1-FMjpg-UX1000.jpg",
     "movieUrl": "https://drive.google.com/file/d/1IJq7e63AbR1u2TCRA0JfiSupztydbELG/view?usp=sharing"
   },
-
+  {
+    "name":"The Medium 2021",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/r75w9Fg/MV5-BMj-Vl-Yz-Jh-MGQt-Zj-Mz-NC00-ZDc1-LWFj-ZDMt-ZDk1-ZTQx-ZTdh-NDZj-Xk-Ey-Xk-Fqc-Gde-QXVy-Nz-Ey-MTA5.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1YgA0UJnzkjrLB0DOU_MhUG6UWY5AHQCq/view?usp=sharing"
+  },
   {
     "name": "Every Last Secret",
     "type": "movie",
@@ -5943,6 +5972,56 @@
               {
                 "name": "Episode 10",
                 "link": "https://drive.google.com/file/d/12DArXG5fH4kI0tWKlJ0-HiT89V16Cmqj/view?usp=sharing"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Life After Death With Tyler Henry",
+        "type": "american",
+        "overview": "2022 | 13+ | 1 Season | US TV Shows",
+        "posterUrl": "https://i.ibb.co/7G4hzFJ/MV5-BM2-Y2-MDhl-Nm-It-ZTFj-My00-YWI4-LTkw-ZGQt-NWQ3-ODU4-ZGVm-Yz-U2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTY2-Nzk0.jpg",
+        "coverUrl": "https://i.ibb.co/FbpQHvM/p21647478-b-h8-aa.jpg",
+        "seasons": [
+          {
+            "name": "Season 1",
+            "episodes": [
+              {
+                "name": "Episode 01",
+                "link": "https://drive.google.com/file/d/1YaZy6sFKe6DlnFj2RjWcUKm7uTuwcLUJ/view?usp=sharing"
+              },
+              {
+                "name": "Episode 02",
+                "link": "https://drive.google.com/file/d/1RinmbNmDsIPwHUmSMk6g9R_uI52BsMkQ/view?usp=sharing"
+              },
+              {
+                "name": "Episode 03",
+                "link": "https://drive.google.com/file/d/13mCr_m50ZAe5nDkGEGIQEztALMPTikVZ/view?usp=sharing"
+              },
+              {
+                "name": "Episode 04",
+                "link": "https://drive.google.com/file/d/1S6b077CYViLX2wXe315M8ZZy86Ce_13F/view?usp=sharing"
+              },
+              {
+                "name": "Episode 05",
+                "link": "https://drive.google.com/file/d/1WT-_2E2bKT7kYNxAryN1-iBWhDIy4FYh/view?usp=sharing"
+              },
+              {
+                "name": "Episode 06",
+                "link": "https://drive.google.com/file/d/1jG_FhsC5I59PXgEluGXOpAK5YkS44Wm1/view?usp=sharing"
+              },
+              {
+                "name": "Episode 07",
+                "link": "https://drive.google.com/file/d/17x5ou7As_-l9Jx9FqBWCNvc9zkd9af_1/view?usp=sharing"
+              },
+              {
+                "name": "Episode 08",
+                "link": "https://drive.google.com/file/d/1_QldvF7uo_9goPW5wSY-mWgIXtm9cqde/view?usp=sharing"
+              },
+              {
+                "name": "Episode 09",
+                "link": "https://drive.google.com/file/d/1m51904MCCr9saGJo2nX4YfM13VhgbT-S/view?usp=sharing"
               }
             ]
           }
