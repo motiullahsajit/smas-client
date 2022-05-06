@@ -61,12 +61,12 @@ const Subscription = () => {
         <form onSubmit={handleSubmit} className="form">
           {confirmation === false ? <>
             <h1 className='sub_form_heading'>Subscription</h1>
-            <p>Our monthly subscription price is now only <span className='highlight'>50 BDT</span>. In the celebration of our new website we are giving <span className='highlight'>50% off</span></p>
+            <p>Our monthly subscription price is now only <span className='highlight'>70 BDT</span>. Subcription details<span className='highlight'>70BDT 1 Month</span></p>
             <p>To confirm your subscription first send money to our Bkash No <span className='highlight'>01537210819</span> and then fill-up the form.</p>
             <p>Thank You</p>
             <input name="name" type="text" onChange={(e) => onChangeHandler(e)} placeholder="Name" className="form_input" required />
             <input name="email" onChange={(e) => onChangeHandler(e)} type="email" placeholder="Email" className="form_input" required />
-            <input value="25 (BDT)" name="payableamount" onChange={(e) => onChangeHandler(e)} placeholder="Payable Amount" className="form_input" disabled />
+            <input value="70 (BDT)" name="payableamount" onChange={(e) => onChangeHandler(e)} placeholder="Payable Amount" className="form_input" disabled />
             <input name="bkashNo" onChange={(e) => onChangeHandler(e)} placeholder="Your Bkash No" className="form_input" required />
             <p className='text_error'>{error}</p>
             <button type="submit" className="primary_button">Subscribe</button>
