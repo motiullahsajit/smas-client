@@ -6,6 +6,32 @@
     "movieUrl": "https://drive.google.com/file/d/16J9wqi98vFJvePfDfGbE5JWugBg47SkR/view?usp=sharing"
   },
   {
+    "name": "DS Multiverse Of Madness",
+    "type": "american",
+    "overview": "2022 | 17+ | Movie | Thriller",
+    "posterUrl": "https://i.ibb.co/C6vVG5r/MV5-BNWM0-ZGJl-Mz-Mt-Zm-Yw-Mi00-Nz-I3-LTgz-Mz-Mt-Nj-Mz-Njli-NDRm-Zm-Fl-Xk-Ey-Xk-Fqc-Gde-QXVy-MTM1-MT.jpg",
+    "coverUrl": "https://i.ibb.co/1qj4tK5/1213553.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Dual Audio Hindi",
+            "link": "https://drive.google.com/file/d/1juYeGvfXcWKgdkqUc-YmLeG7nq1Cgor_/view?usp=sharing"
+          },
+          {
+            "name":"1080p Hindi",
+            "link":"https://drive.google.com/file/d/1SK-tYUErjYZP-0WBe2QePtoB2-XtNDRS/view?usp=sharing"
+          },  
+          {
+            "name": "720p English",
+            "link": "https://drive.google.com/file/d/1j03extE-I0JaqSPAL25eywCTX5GwwM3u/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name":"Heropanti 2",
     "type":"movie",
     "posterUrl":"https://i.ibb.co/FDvx71b/MV5-BZTk4-Mzg5-Nz-Qt-Mjk3-Zi00-MDE4-LWEx-Mjct-Yz-Q5-MDU5-ODVm-NDI0-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E3.jpg",

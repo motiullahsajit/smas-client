@@ -1573,7 +1573,32 @@
     "posterUrl": "https://i.ibb.co/5rbybDx/MV5-BOTcw-Nz-Qy-OTEt-Zm-Jl-YS00-Yj-Ri-LThh-M2-Ut-N2-M1-MDZh-NDg2-MTEw-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEz-Mj.jpg",
     "movieUrl": "https://drive.google.com/file/d/1h2It6swxV81bE_dsxYPNBrdVPA1sAxz_/view?usp=sharing"
   },
-
+  {
+    "name": "DS Multiverse Of Madness",
+    "type": "american",
+    "overview": "2022 | 17+ | Movie | Thriller",
+    "posterUrl": "https://i.ibb.co/C6vVG5r/MV5-BNWM0-ZGJl-Mz-Mt-Zm-Yw-Mi00-Nz-I3-LTgz-Mz-Mt-Nj-Mz-Njli-NDRm-Zm-Fl-Xk-Ey-Xk-Fqc-Gde-QXVy-MTM1-MT.jpg",
+    "coverUrl": "https://i.ibb.co/1qj4tK5/1213553.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": "https://drive.google.com/file/d/1juYeGvfXcWKgdkqUc-YmLeG7nq1Cgor_/view?usp=sharing"
+          },
+          {
+            "name":"1080p Hindi",
+            "link":"https://drive.google.com/file/d/1SK-tYUErjYZP-0WBe2QePtoB2-XtNDRS/view?usp=sharing"
+          },  
+          {
+            "name": "720p English",
+            "link": "https://drive.google.com/file/d/1j03extE-I0JaqSPAL25eywCTX5GwwM3u/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
   {
     "name": "Mr Nobody",
     "type": "movie",
