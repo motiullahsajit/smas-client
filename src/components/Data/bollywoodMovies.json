@@ -1,5 +1,17 @@
 [
   {
+    "name":"Thar 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/C5jhx9C/MV5-BZTg0-Nz-I2-Y2-It-Zm-Yw-ZS00-NGY3-LTlj-NDAt-Zj-E0-ZDc5-Yz-Vm-Yjc4-Xk-Ey-Xk-Fqc-Gde-QXVy-OTI3-Mz.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1ZlKbnTr2fNb7WG1HH-gTv9M1hoZnqj1O/view?usp=sharing"
+  },
+  {
+    "name":"Runway 34",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/cLxh9Cc/MV5-BN2-Yz-Nj-U4-MTYt-Mz-Y5-OS00-ODg0-LTkx-MTUt-Njg0-Yj-Rk-Yz-I5-ZWJj-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1RAx-BZ9wwxw2NsWxaZQq4842DkNk98GS/view?usp=sharing"
+  },
+  {
     "name":"Chhalawa 2019",
     "type":"movie",
     "posterUrl":"https://i.ibb.co/hKndxzQ/MV5-BMDZh-OWU2-NGUt-M2-Zj-Zi00-ODhl-LWE5-Y2-Et-ZWQ1-Yz-Yx-Zm-Rl-Yj-Y1-Xk-Ey-Xk-Fqc-Gde-QXVy-ODg1-MTc.jpg",
@@ -20,12 +32,7 @@
     "movieUrl":"https://drive.google.com/file/d/1CRkwcXyPK09eYf135rCsOZuv7Z5lS2ZQ/view?usp=sharing"
   },
 
-{
-    "name":"Runway 34",
-    "type":"movie",
-    "posterUrl":"https://i.ibb.co/cLxh9Cc/MV5-BN2-Yz-Nj-U4-MTYt-Mz-Y5-OS00-ODg0-LTkx-MTUt-Njg0-Yj-Rk-Yz-I5-ZWJj-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz.jpg",
-    "movieUrl":"https://drive.google.com/file/d/1RAx-BZ9wwxw2NsWxaZQq4842DkNk98GS/view?usp=sharing"
-  },
+
   {
     "name":"Cobalt Blue 2022",
     "type":"movie",
@@ -39,10 +46,10 @@
     "movieUrl":"https://drive.google.com/file/d/1u62cegQ9CIS4cguXs08hcXY0wWY7tZUH/view?usp=sharing"
   },
   {
-    "name": "Beast",
+    "name": "Beast 2022",
     "type": "movie",
     "posterUrl": "https://i.ibb.co/d6rHZx3/MV5-BNDNj-NWYz-ZDIt-Mz-E3-NS00-YTU4-LThj-Nz-Ut-MDc0-ZWU3-Yjk3-N2-Jl-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEz-Nzg0.jpg",
-    "movieUrl": "https://drive.google.com/file/d/1lyLqbfXTABQxG6KJNnPCfaT3q47xVViO/view?usp=sharing"
+    "movieUrl": "https://drive.google.com/file/d/13k3W-1DZwVk4j4hRoZ-4kglYjQQ-fVZ9/view?usp=sharing"
   },
   {
     "name":"Main Viyah Nahi Karona Tere Naal 2022",
@@ -749,12 +756,7 @@
 
 
 
-{
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
+
 
 {
     "name":"",

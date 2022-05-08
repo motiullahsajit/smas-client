@@ -61,7 +61,7 @@ const Subscription = () => {
         <form onSubmit={handleSubmit} className="form">
           {confirmation === false ? <>
             <h1 className='sub_form_heading'>Subscription</h1>
-            <p>Our monthly subscription price is now only <span className='highlight'>70 BDT</span>. Subcription details<span className='highlight'>70BDT 1 Month</span></p>
+            <p>Our monthly subscription price is now only <span className='highlight'>70 BDT</span>. Subscription details <span className='highlight'>70BDT 1 Month</span></p>
             <p>To confirm your subscription first send money to our Bkash No <span className='highlight'>01537210819</span> and then fill-up the form.</p>
             <p>Thank You</p>
             <input name="name" type="text" onChange={(e) => onChangeHandler(e)} placeholder="Name" className="form_input" required />

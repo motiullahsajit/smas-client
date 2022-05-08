@@ -1,5 +1,109 @@
 [ 
   {
+    "name":"Along For The  Ride 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/M9J2gjn/MV5-BYTBm-Nzhj-Ym-Yt-NGFj-ZC00-MTAz-LWIz-ODMt-OTkz-Mj-M0-Y2-Nm-Nj-Yx-Xk-Ey-Xk-Fqc-Gde-QXVy-NDI3-Nj-U.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1xGfs2MDEIZA50z5fcZSmLXyDiMl4d7If/view?usp=sharing"
+  }, 
+  {
+    "name":"Dinosaur World 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/sC3WZDk/281136249-dinosaur-world-2022-hdrip-xvid-ac3-evo.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1atMuT8LoTwxX3L0gECMjSgJ6PCSpFPdZ/view?usp=sharing"
+  },
+  {
+    "name":"Little Sorcerer 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/JBTfDrX/MV5-BZj-Rh-ZDE3-OTgt-ZDI5-Yi00-NGE4-LTg4-NGMt-Ym-Zk-Mj-Mw-Mjky-MGE5-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-I1-MTgw.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1gvlUB5FPmhhl6r_TRIjeFivJvE6tnaQh/view?usp=sharing"
+   },
+  {
+    "name":"The Twin 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/jg4ZY8k/MV5-BYWEy-NTM4-M2-Yt-OWY1-Ny00-ODMx-LTg2-MTgt-ZGUz-MWYz-NDZk-Mm-My-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-M4-NTM5.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1baL6u1-775p6JI3itxjE-IQQXGNdGHvX/view?usp=sharing"
+   },
+   {
+    "name": "The Sound Of Magic",
+    "type": "korean",
+    "overview": "2022 | 16+ | 1 Season | K-Dramas",
+    "posterUrl": "https://i.ibb.co/TW7xRw7/MV5-BY2-Rm-Ym-Qw-MDct-ZDJk-Yi00-ZWY4-LWJh-Zm-It-ZTJk-OWVi-Yz-Zl-Nzg2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQ4-Nj-Q.jpg",
+    "coverUrl": "https://i.ibb.co/Tw739RP/AAAABfna2-Npo-Ge-Qd-Vc47gtd7z-a-Iiw-Coz-G2-YYxy-D1n-Xt-YGmf-Ig9g-R4-Jiw-El51-BHqw-Pcj-Xjno29faj-PGc0.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1Oj2yEo3B-zYqyaQ8EQnnYrHptdAq3hAC/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1IuBovMxFZgMJmxVn1iCGfo1A-BRQspP9/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1EJ8K1pKU7Y-bPDIHvKxp9Zxxx2p_Ozxu/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/17_OTnjz3K1jG4Bqd--lv8vI5GCUPVTQ4/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1iBeWpQuMYk_wizBgKQgTjSf5zTPok_R8/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1v4T9U-PJidUR1bZH_JdjgCDPRnI77NkI/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name":"The Bad Guys 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/chfzwZb/MV5-BYTRi-OWVj-ODYt-Nm-E1-ZS00-YWVh-LWFm-NGUt-ZWMx-NGU0-MGE4-Mj-Y2-Xk-Ey-Xk-Fqc-Gde-QXVy-NDI3-Nj-U1.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1_QvIwOISO1Xfuv3nWUvlX79gTcaB_BXP/view?usp=sharing"
+   },
+   {
+    "name":"The Takedown 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/XXq1NK9/MV5-BZj-Nm-MWFj-Zm-Ut-ZWYy-My00-YTE4-LTlh-Nz-Et-MTBl-MGFk-Mz-Nm-OTE3-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-E4-ODA.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1xrNnPWc7St9xtzL3reTKGcy27u4R1TwE/view?usp=sharing"
+   },
+
+
+  {
+    "name":"Black Site 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/TgcW5qd/MV5-BOWZi-Mj-Vm-YTct-Yjlk-OS00-Zj-Nl-LTgw-N2-It-MWU0-MTQy-Yz-Fj-Mzc4-Xk-Ey-Xk-Fqc-Gde-QXVy-MTM2-ODg1.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1FWgo9RNLVfkrx0MHUGhObNA6EIwxrH8K/view?usp=sharing"
+  },
+
+   {
+    "name":"Break Every Chain 2021",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/tx5c701/MV5-BYzcy-MWRm-Mm-Yt-ZTE3-Mi00-OTQ0-LWJm-NDkt-OWFm-M2-Yz-Zjg4-Mz-M1-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Mj-E2.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1VXtwzi_5ZT8rvebiCccBneOHOkOWFTxr/view?usp=sharing"
+  },
+
+ {
+  "name":"Escape The Field 2022",
+  "type":"movie",
+  "posterUrl":"https://i.ibb.co/pKN1yqL/MV5-BZGM3-NGE1-ZGIt-Yz-Y3-Zi00-NTdj-LWIw-MDUt-M2-Nm-MDNj-ZTRk-Mm-M4-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA3-MDk2.jpg",
+  "movieUrl":"https://drive.google.com/file/d/1Voz6Mk36ecKan6SNl2wuydWBs3P-Q1CG/view?usp=sharing"
+},
+
+{
+ "name":"Marmaduke 2022",
+ "type":"movie",
+ "posterUrl":"https://i.ibb.co/5s2vfj3/marmaduke.jpg",
+ "movieUrl":"https://drive.google.com/file/d/1hwQLyEXkr9qjRTBzLvyAr66sQv_pkJaS/view?usp=sharing"
+},
+
+  {
     "name": "KGF Chapter 2",
     "type": "movie",
     "posterUrl": "https://i.ibb.co/0DPBj5Z/MV5-BMj-Mw-MDgy-OGQt-MWZj-NC00-MDUw-LTll-ZDYt-ZWM3-NDBm-N2-Yz-NGZm-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQz-Njkz-M.jpg",
@@ -536,10 +640,10 @@
   },
 
   {
-    "name": "Beast",
+    "name": "Beast 2022",
     "type": "movie",
     "posterUrl": "https://i.ibb.co/d6rHZx3/MV5-BNDNj-NWYz-ZDIt-Mz-E3-NS00-YTU4-LThj-Nz-Ut-MDc0-ZWU3-Yjk3-N2-Jl-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEz-Nzg0.jpg",
-    "movieUrl": "https://drive.google.com/file/d/1lyLqbfXTABQxG6KJNnPCfaT3q47xVViO/view?usp=sharing"
+    "movieUrl": "https://drive.google.com/file/d/13k3W-1DZwVk4j4hRoZ-4kglYjQQ-fVZ9/view?usp=sharing"
   },
   {
     "name": "Captain Nova",

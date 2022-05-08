@@ -1,5 +1,163 @@
 [
-
+  {
+    "name": "The Sound Of Magic",
+    "type": "korean",
+    "overview": "2022 | 16+ | 1 Season | K-Dramas",
+    "posterUrl": "https://i.ibb.co/TW7xRw7/MV5-BY2-Rm-Ym-Qw-MDct-ZDJk-Yi00-ZWY4-LWJh-Zm-It-ZTJk-OWVi-Yz-Zl-Nzg2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQ4-Nj-Q.jpg",
+    "coverUrl": "https://i.ibb.co/Tw739RP/AAAABfna2-Npo-Ge-Qd-Vc47gtd7z-a-Iiw-Coz-G2-YYxy-D1n-Xt-YGmf-Ig9g-R4-Jiw-El51-BHqw-Pcj-Xjno29faj-PGc0.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1Oj2yEo3B-zYqyaQ8EQnnYrHptdAq3hAC/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1IuBovMxFZgMJmxVn1iCGfo1A-BRQspP9/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1EJ8K1pKU7Y-bPDIHvKxp9Zxxx2p_Ozxu/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/17_OTnjz3K1jG4Bqd--lv8vI5GCUPVTQ4/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1iBeWpQuMYk_wizBgKQgTjSf5zTPok_R8/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1v4T9U-PJidUR1bZH_JdjgCDPRnI77NkI/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The Wilds",
+    "type": "american",
+    "overview": "2020 | 17+ | 2 Season | US TV Shows",
+    "posterUrl": "https://i.ibb.co/0VbcrRC/MV5-BMzgz-ZDA2-Nm-Et-ZTAw-Zi00-ZTY3-LWFi-YTkt-NTdj-YTBk-NTY1-N2-E4-Xk-Ey-Xk-Fqc-Gde-QXVy-MDM2-NDM2-M.jpg",
+    "coverUrl": "https://i.ibb.co/dPKd6XD/wp8385871.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1_4vEjugY6UTQurelsS0AU34X455QJptf/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1jNzYAWZMuNpXRMcqkTgd1zdzbnH1A5gu/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1NGPVQS0l-etGS8VDgkkfhLmygowIhTJB/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1dreivlnjHJUzL9ijQg9vn3ju09TBb-DF/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1i0evtp7sBmrxj4gu-R3gz8eUv9bv3AbR/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1IMCuYb7UCihtH8w3Gdj_5EyAzJe67VhI/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/157jY3dc_FLpMDJhFfCog4G0-ANFZvD8K/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/1V62ujasf1ODo1_Mo-_xObgrSWLtK9xRc/view?usp=sharing"
+          },
+          {
+            "name": "Episode 09",
+            "link": "https://drive.google.com/file/d/1H1AG8ohSyNsu4oj1A6uWQRuMMAYin-f7/view?usp=sharing"
+          },
+          {
+            "name": "Episode 10",
+            "link": "https://drive.google.com/file/d/1UIiVZCJDUy8PhEA7yxs5uw3SJYiANvns/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 2",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1najtBzXiZNIwSOUnAsUAQZNYzSYftwGw/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1gYCfADbx47OjbeHMgli4ucYktxmplau0/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1CpGQPlQ71AshvblR3fZicGC4E53n4CQ5/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1VgMCKN_1VztAb-P8y4BfgibHFXSbhwLW/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1PR1eBGC-tZo7WzusyOFX2l8UB5J-JNtN/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1Js92iI0DxdVOGAUPqM4IjBymne5AdbIV/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/1ZWGlU8nmB70lKgOrK07Jc00O3mILiwbM/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/1O2W3fq3g0TEKS4NSXpB2L6yR7Ue_qFhF/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Blood Sisters",
+    "type": "nollywod",
+    "overview": "2022 | 16+ | 1 Season | TV Thrillers",
+    "posterUrl": "https://i.ibb.co/pdL6gsq/MV5-BNGUy-Zm-Y2-NDgt-YTZh-My00-N2-Fl-LTlm-M2-Yt-YWYy-Mj-E3-NDQw-Nm-Fm-Xk-Ey-Xk-Fqc-Gde-QXVy-MTIz-OTU.jpg",
+    "coverUrl": "https://i.ibb.co/XYnTXPX/Blood-Sisters-Release-Time-and-Every-other-Info.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1oFqfHDagFBKiCAvUW7eOhli_B9DFUe2U/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1DrzeeSoWvplwffTb41i3aOJ46CBrMlwJ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/15nJQ9gmEjbQKfsufabQyVaIBdgZrwgwJ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1OtuLW_6ZKPdFfFx6h5FZHQFY5CDAIsLi/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
   {
     "name": "Peaky Blinders",
     "type": "british",
@@ -5462,61 +5620,6 @@
           {
             "name": "Episode 06",
             "link": "https://drive.google.com/file/d/1xH11cWgpreLfNw5RsYDxVbE2_Aa5ZCSx/view?usp=sharing"
-          }
-        ]
-      }
-    ]
-  },
-
-  {
-    "name": "",
-    "type": "",
-    "overview": "",
-    "posterUrl": "",
-    "coverUrl": "s",
-    "seasons": [
-      {
-        "name": "Season 1",
-        "episodes": [
-          {
-            "name": "Episode 01",
-            "link": ""
-          },
-          {
-            "name": "Episode 02",
-            "link": ""
-          },
-          {
-            "name": "Episode 03",
-            "link": ""
-          },
-          {
-            "name": "Episode 04",
-            "link": ""
-          },
-          {
-            "name": "Episode 05",
-            "link": ""
-          },
-          {
-            "name": "Episode 06",
-            "link": ""
-          },
-          {
-            "name": "Episode 07",
-            "link": ""
-          },
-          {
-            "name": "Episode 08",
-            "link": ""
-          },
-          {
-            "name": "Episode 09",
-            "link": ""
-          },
-          {
-            "name": "Episode 10",
-            "link": ""
           }
         ]
       }
