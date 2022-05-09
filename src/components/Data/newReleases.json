@@ -1,11 +1,86 @@
 [ 
+   {
+  "name": "The Sound Of Magic",
+  "type": "korean",
+  "overview": "2022 | 16+ | 1 Season | K-Dramas",
+  "posterUrl": "https://i.ibb.co/TW7xRw7/MV5-BY2-Rm-Ym-Qw-MDct-ZDJk-Yi00-ZWY4-LWJh-Zm-It-ZTJk-OWVi-Yz-Zl-Nzg2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQ4-Nj-Q.jpg",
+  "coverUrl": "https://i.ibb.co/Tw739RP/AAAABfna2-Npo-Ge-Qd-Vc47gtd7z-a-Iiw-Coz-G2-YYxy-D1n-Xt-YGmf-Ig9g-R4-Jiw-El51-BHqw-Pcj-Xjno29faj-PGc0.jpg",
+  "seasons": [
+    {
+      "name": "Season 1",
+      "episodes": [
+        {
+          "name": "Episode 01",
+          "link": "https://drive.google.com/file/d/1Oj2yEo3B-zYqyaQ8EQnnYrHptdAq3hAC/view?usp=sharing"
+        },
+        {
+          "name": "Episode 02",
+          "link": "https://drive.google.com/file/d/1IuBovMxFZgMJmxVn1iCGfo1A-BRQspP9/view?usp=sharing"
+        },
+        {
+          "name": "Episode 03",
+          "link": "https://drive.google.com/file/d/1EJ8K1pKU7Y-bPDIHvKxp9Zxxx2p_Ozxu/view?usp=sharing"
+        },
+        {
+          "name": "Episode 04",
+          "link": "https://drive.google.com/file/d/17_OTnjz3K1jG4Bqd--lv8vI5GCUPVTQ4/view?usp=sharing"
+        },
+        {
+          "name": "Episode 05",
+          "link": "https://drive.google.com/file/d/1iBeWpQuMYk_wizBgKQgTjSf5zTPok_R8/view?usp=sharing"
+        },
+        {
+          "name": "Episode 06",
+          "link": "https://drive.google.com/file/d/1v4T9U-PJidUR1bZH_JdjgCDPRnI77NkI/view?usp=sharing"
+        }
+      ]
+    }
+  ]
+},
   {
     "name":"Along For The  Ride 2022",
     "type":"movie",
     "posterUrl":"https://i.ibb.co/M9J2gjn/MV5-BYTBm-Nzhj-Ym-Yt-NGFj-ZC00-MTAz-LWIz-ODMt-OTkz-Mj-M0-Y2-Nm-Nj-Yx-Xk-Ey-Xk-Fqc-Gde-QXVy-NDI3-Nj-U.jpg",
     "movieUrl":"https://drive.google.com/file/d/1xGfs2MDEIZA50z5fcZSmLXyDiMl4d7If/view?usp=sharing"
   }, 
+
   {
+    "name":"The Twin 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/jg4ZY8k/MV5-BYWEy-NTM4-M2-Yt-OWY1-Ny00-ODMx-LTg2-MTgt-ZGUz-MWYz-NDZk-Mm-My-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-M4-NTM5.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1baL6u1-775p6JI3itxjE-IQQXGNdGHvX/view?usp=sharing"
+   },
+   {
+    "name":"4 Horseman Apocalypse 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/T16PNd8/MV5-BMj-Rh-MDQ5-OTEt-ZDIy-YS00-Ym-Ux-LWJh-ZTct-Ym-Ux-Zj-My-YTZl-Nm-Nj-Xk-Ey-Xk-Fqc-Gde-QXVy-NDY2-Nzg.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1dRpYmFfyQIdKcaf91ar8gaC-EwbO_vh0/view?usp=sharing"
+   },
+   {
+    "name":"7 Prisoners 2021",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/m6gk2cc/MV5-BNThm-N2-Jl-Ym-Qt-Yz-E5-Zi00-Y2-Qx-LThl-OWUt-YWM3-NTI5-YTAw-Mjc4-Xk-Ey-Xk-Fqc-Gde-QXVy-MTgx-Mz-A.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1oIYkmq01oa2Fr5w9tyL_6ReQhEFtStvU/view?usp=sharing"
+   },
+   {
+    "name":"He's All That 2021",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/9HRfxQ6/MV5-BYz-M3-Nm-Yy-MTIt-ZWY5-My00-MTQz-LWFm-Mz-Et-OTc2-Zj-Rk-MDJk-YWM3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTkx-Nj-U.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1SrLyjP-q1I3iuYz_ius_4Gou_JG2AhZC/view?usp=sharing"
+   },
+   {
+    "name":"Memory 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/jD60qwF/MV5-BOGI5-N2-Fh-Nzkt-Zj-Zl-Ni00-Mm-Rj-LWE1-Mm-Ut-Nj-Rl-Nz-Qy-OGMz-Yj-Nh-Xk-Ey-Xk-Fqc-Gde-QXVy-MDA4-N.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1-SNGO7vLaIb3oeqU_0BATju--7r6C10B/view?usp=sharing"
+   },
+   {
+    "name":"Ritsa 2021",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/pLJqkrF/MV5-BMz-Rl-NDE2-OTMt-Yj-E4-OS00-ODZj-LWE1-MGMt-Njg4-ZGYz-ODM5-Mj-Qy-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI0-ODI4.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1DP9Elyp6e67LB3hTZnsUBb3071KvMcOC/view?usp=sharing"
+   },
+   {
     "name":"Dinosaur World 2022",
     "type":"movie",
     "posterUrl":"https://i.ibb.co/sC3WZDk/281136249-dinosaur-world-2022-hdrip-xvid-ac3-evo.jpg",
@@ -17,50 +92,43 @@
     "posterUrl":"https://i.ibb.co/JBTfDrX/MV5-BZj-Rh-ZDE3-OTgt-ZDI5-Yi00-NGE4-LTg4-NGMt-Ym-Zk-Mj-Mw-Mjky-MGE5-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-I1-MTgw.jpg",
     "movieUrl":"https://drive.google.com/file/d/1gvlUB5FPmhhl6r_TRIjeFivJvE6tnaQh/view?usp=sharing"
    },
-  {
-    "name":"The Twin 2022",
+   {
+    "name":"Sheryl 2022",
     "type":"movie",
-    "posterUrl":"https://i.ibb.co/jg4ZY8k/MV5-BYWEy-NTM4-M2-Yt-OWY1-Ny00-ODMx-LTg2-MTgt-ZGUz-MWYz-NDZk-Mm-My-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-M4-NTM5.jpg",
-    "movieUrl":"https://drive.google.com/file/d/1baL6u1-775p6JI3itxjE-IQQXGNdGHvX/view?usp=sharing"
+    "posterUrl":"https://i.ibb.co/6Y9tN9c/MV5-BYm-Jl-Zm-U3-ZDUt-OTNh-Zi00-Mz-Nj-LWI3-MGYt-Nz-I1-MGEz-ZGZm-MGJk-Xk-Ey-Xk-Fqc-Gde-QXVy-MTM1-MTE1.jpg",
+    "movieUrl":"https://drive.google.com/file/d/194oxFE-PBq_QhsAsBrboI9PTQhokzBer/view?usp=sharing"
    },
    {
-    "name": "The Sound Of Magic",
-    "type": "korean",
-    "overview": "2022 | 16+ | 1 Season | K-Dramas",
-    "posterUrl": "https://i.ibb.co/TW7xRw7/MV5-BY2-Rm-Ym-Qw-MDct-ZDJk-Yi00-ZWY4-LWJh-Zm-It-ZTJk-OWVi-Yz-Zl-Nzg2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQ4-Nj-Q.jpg",
-    "coverUrl": "https://i.ibb.co/Tw739RP/AAAABfna2-Npo-Ge-Qd-Vc47gtd7z-a-Iiw-Coz-G2-YYxy-D1n-Xt-YGmf-Ig9g-R4-Jiw-El51-BHqw-Pcj-Xjno29faj-PGc0.jpg",
-    "seasons": [
-      {
-        "name": "Season 1",
-        "episodes": [
-          {
-            "name": "Episode 01",
-            "link": "https://drive.google.com/file/d/1Oj2yEo3B-zYqyaQ8EQnnYrHptdAq3hAC/view?usp=sharing"
-          },
-          {
-            "name": "Episode 02",
-            "link": "https://drive.google.com/file/d/1IuBovMxFZgMJmxVn1iCGfo1A-BRQspP9/view?usp=sharing"
-          },
-          {
-            "name": "Episode 03",
-            "link": "https://drive.google.com/file/d/1EJ8K1pKU7Y-bPDIHvKxp9Zxxx2p_Ozxu/view?usp=sharing"
-          },
-          {
-            "name": "Episode 04",
-            "link": "https://drive.google.com/file/d/17_OTnjz3K1jG4Bqd--lv8vI5GCUPVTQ4/view?usp=sharing"
-          },
-          {
-            "name": "Episode 05",
-            "link": "https://drive.google.com/file/d/1iBeWpQuMYk_wizBgKQgTjSf5zTPok_R8/view?usp=sharing"
-          },
-          {
-            "name": "Episode 06",
-            "link": "https://drive.google.com/file/d/1v4T9U-PJidUR1bZH_JdjgCDPRnI77NkI/view?usp=sharing"
-          }
-        ]
-      }
-    ]
-  },
+    "name":"Snoopy Presents To Mom And Dad With Love 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/wWZRGsP/MV5-BNzgw-MTY3-ODMt-YTEx-Ni00-Nj-Jh-LWFm-Nzkt-OTg0-Mjk0-NDM4-NDNj-Xk-Ey-Xk-Fqc-Gde-QXVy-MTE2-NDA4-MD.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1nOnP-4Xj42Ij0YXdg_rkTZhHiSrjjSBp/view?usp=sharing"
+   },
+   {
+    "name":"Sweet And Sour 2021",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/RC8cL9F/MV5-BZDQ5-NDg1-YWMt-MWEy-YS00-MWUz-LWJl-M2-Yt-ZDdh-OWVl-MDZm-Mz-Ri-Xk-Ey-Xk-Fqc-Gde-QXVy-Nz-Ez-Nj-U1.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1gHsun6WZLDY9f-4MpoI7C8jVJB1fhOEr/view?usp=sharing"
+   },
+   {
+    "name":"The Adventures Of Maid Marian 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/ZKZZH7d/MV5-BOWY5-ZDYz-NWMt-OTNj-YS00-NGYx-LWEx-Y2-Et-MWQ1-NWJh-ZGIz-Nj-Iz-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI0-Njg3-N.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1zt4LRd8pXGR7VyZNSwX1e2SMQoi5I1hb/view?usp=sharing"
+   },
+   {
+    "name":"Twist Of Fate 2016",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/vZLZmkQ/MV5-BZDNh-MTgx-Nz-Et-MDI5-Mi00-Nj-Yx-LWJk-Nzct-YWU2-MTcw-YTI3-Zm-Zj-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-I4-Mzkx.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1drd_FZeCevQKCZnld-tH2E1Q5qbwPbW-/view?usp=sharing"
+   },
+   {
+    "name":"When The Trees Fall 2018",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/Ntsytbx/MV5-BNWEx-NTk5-Yz-Yt-ZTAy-ZC00-NDkz-LWJm-Yz-It-Zm-I5-Nm-E3-OTQ2-Mj-Ri-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-U4-MT.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1Luz4WIGC4Zpo72jwikQypcIN4ZVqgcr-/view?usp=sharing"
+   },
+  
   {
     "name":"The Bad Guys 2022",
     "type":"movie",
@@ -96,6 +164,12 @@
   "movieUrl":"https://drive.google.com/file/d/1Voz6Mk36ecKan6SNl2wuydWBs3P-Q1CG/view?usp=sharing"
 },
 
+{
+  "name":"Trance 2020",
+  "type":"movie",
+  "posterUrl":"https://i.ibb.co/1LQ4wCH/MV5-BYj-Jh-Ym-M3-MWQt-MWM3-NC00-MWQy-LTli-ZWIt-NDI3-NGYw-ZTU0-MDAy-Xk-Ey-Xk-Fqc-Gde-QXVy-Mjkx-Nz-Q1.jpg",
+  "movieUrl":"https://drive.google.com/file/d/1PrjdS3vE6-2ayewBpD3pkDUoDk_cdDWm/view?usp=sharing"
+},
 {
  "name":"Marmaduke 2022",
  "type":"movie",

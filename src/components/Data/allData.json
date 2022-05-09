@@ -445,6 +445,12 @@
   },
 
   {
+    "name":"Trance 2020",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/1LQ4wCH/MV5-BYj-Jh-Ym-M3-MWQt-MWM3-NC00-MWQy-LTli-ZWIt-NDI3-NGYw-ZTU0-MDAy-Xk-Ey-Xk-Fqc-Gde-QXVy-Mjkx-Nz-Q1.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1PrjdS3vE6-2ayewBpD3pkDUoDk_cdDWm/view?usp=sharing"
+  },
+  {
     "name": "Love Hostel",
     "type": "movie",
     "posterUrl": "https://i.ibb.co/2KMRCbc/MV5-BZTg2-Mm-U4-Nz-At-ZWRk-YS00-Mzhl-LWJm-Yj-It-MDE2-NGQ4-Nm-Rm-YWU2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTIz-Mzg0.jpg",
@@ -1787,7 +1793,72 @@
     "posterUrl": "https://i.ibb.co/QMHHn64/MV5-BMTkw-MTg2-YWYt-OGU5-MS00-YTdh-LTg4-N2-Qt-Yzcy-ZDE0-MTlm-NDU3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQx-Nz-Mz-N.jpg",
     "movieUrl": "https://drive.google.com/file/d/1xvjZozVILrt1TACwM3D7s-aK9T3FAN7g/view?usp=sharing"
   },
-
+  {
+    "name":"4 Horseman Apocalypse 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/T16PNd8/MV5-BMj-Rh-MDQ5-OTEt-ZDIy-YS00-Ym-Ux-LWJh-ZTct-Ym-Ux-Zj-My-YTZl-Nm-Nj-Xk-Ey-Xk-Fqc-Gde-QXVy-NDY2-Nzg.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1dRpYmFfyQIdKcaf91ar8gaC-EwbO_vh0/view?usp=sharing"
+   },
+   {
+    "name":"7 Prisoners 2021",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/m6gk2cc/MV5-BNThm-N2-Jl-Ym-Qt-Yz-E5-Zi00-Y2-Qx-LThl-OWUt-YWM3-NTI5-YTAw-Mjc4-Xk-Ey-Xk-Fqc-Gde-QXVy-MTgx-Mz-A.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1oIYkmq01oa2Fr5w9tyL_6ReQhEFtStvU/view?usp=sharing"
+   },
+   {
+    "name":"He's All That 2021",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/9HRfxQ6/MV5-BYz-M3-Nm-Yy-MTIt-ZWY5-My00-MTQz-LWFm-Mz-Et-OTc2-Zj-Rk-MDJk-YWM3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTkx-Nj-U.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1SrLyjP-q1I3iuYz_ius_4Gou_JG2AhZC/view?usp=sharing"
+   },
+   {
+    "name":"Memory 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/jD60qwF/MV5-BOGI5-N2-Fh-Nzkt-Zj-Zl-Ni00-Mm-Rj-LWE1-Mm-Ut-Nj-Rl-Nz-Qy-OGMz-Yj-Nh-Xk-Ey-Xk-Fqc-Gde-QXVy-MDA4-N.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1-SNGO7vLaIb3oeqU_0BATju--7r6C10B/view?usp=sharing"
+   },
+   {
+    "name":"Ritsa 2021",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/pLJqkrF/MV5-BMz-Rl-NDE2-OTMt-Yj-E4-OS00-ODZj-LWE1-MGMt-Njg4-ZGYz-ODM5-Mj-Qy-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI0-ODI4.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1DP9Elyp6e67LB3hTZnsUBb3071KvMcOC/view?usp=sharing"
+   },
+   {
+    "name":"Sheryl 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/6Y9tN9c/MV5-BYm-Jl-Zm-U3-ZDUt-OTNh-Zi00-Mz-Nj-LWI3-MGYt-Nz-I1-MGEz-ZGZm-MGJk-Xk-Ey-Xk-Fqc-Gde-QXVy-MTM1-MTE1.jpg",
+    "movieUrl":"https://drive.google.com/file/d/194oxFE-PBq_QhsAsBrboI9PTQhokzBer/view?usp=sharing"
+   },
+   {
+    "name":"Snoopy Presents To Mom And Dad With Love 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/wWZRGsP/MV5-BNzgw-MTY3-ODMt-YTEx-Ni00-Nj-Jh-LWFm-Nzkt-OTg0-Mjk0-NDM4-NDNj-Xk-Ey-Xk-Fqc-Gde-QXVy-MTE2-NDA4-MD.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1nOnP-4Xj42Ij0YXdg_rkTZhHiSrjjSBp/view?usp=sharing"
+   },
+   {
+    "name":"Sweet And Sour 2021",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/RC8cL9F/MV5-BZDQ5-NDg1-YWMt-MWEy-YS00-MWUz-LWJl-M2-Yt-ZDdh-OWVl-MDZm-Mz-Ri-Xk-Ey-Xk-Fqc-Gde-QXVy-Nz-Ez-Nj-U1.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1gHsun6WZLDY9f-4MpoI7C8jVJB1fhOEr/view?usp=sharing"
+   },
+   {
+    "name":"The Adventures Of Maid Marian 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/ZKZZH7d/MV5-BOWY5-ZDYz-NWMt-OTNj-YS00-NGYx-LWEx-Y2-Et-MWQ1-NWJh-ZGIz-Nj-Iz-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI0-Njg3-N.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1zt4LRd8pXGR7VyZNSwX1e2SMQoi5I1hb/view?usp=sharing"
+   },
+   {
+    "name":"Twist Of Fate 2016",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/vZLZmkQ/MV5-BZDNh-MTgx-Nz-Et-MDI5-Mi00-Nj-Yx-LWJk-Nzct-YWU2-MTcw-YTI3-Zm-Zj-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-I4-Mzkx.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1drd_FZeCevQKCZnld-tH2E1Q5qbwPbW-/view?usp=sharing"
+   },
+   {
+    "name":"When The Trees Fall 2018",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/Ntsytbx/MV5-BNWEx-NTk5-Yz-Yt-ZTAy-ZC00-NDkz-LWJm-Yz-It-Zm-I5-Nm-E3-OTQ2-Mj-Ri-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-U4-MT.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1Luz4WIGC4Zpo72jwikQypcIN4ZVqgcr-/view?usp=sharing"
+   },
   {
     "name": "The Fallout",
     "type": "movie",
@@ -6413,6 +6484,51 @@
                 "name": "Episode 09",
                 "link": "https://drive.google.com/file/d/1iAXORjvPRmQ6507zlsMmk0K4n0e7WOOl/view?usp=sharing"
               }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Never Kiss Your Best Friend",
+        "type": "indian",
+        "overview": "2019 | 17+ | 2 Season | Romance Drama",
+        "posterUrl": "https://i.ibb.co/qC2QJrw/76450248.jpg",
+        "coverUrl": "https://i.ibb.co/vhNQHGx/Screenshot-2019-12-25-at-16-32-39.jpg",
+        "seasons": [
+          {
+            "name": "Season 1",
+            "episodes": [
+              {
+                "name": "All Episode Zip File ",
+                "link": "https://drive.google.com/file/d/1PCXcsWaMqyxBe7po76IJNW5MI1HyesTf/view?usp=sharing"
+              } 
+            ]
+          },
+          {
+            "name": "Season 2",
+            "episodes": [
+              {
+                "name": "All Episode Zip File 2.2GB",
+                "link": "https://drive.google.com/file/d/1kjs3RUbmoLVOnO_sedeCYcotxM6KOPPd/view?usp=sharing"
+              } 
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Never Kiss Your Best Friend",
+        "type": "indian",
+        "overview": "2022 | 17+ | 2 Season | Romance Drama",
+        "posterUrl": "https://i.ibb.co/H4vhZ7C/never-kiss-your-best-friend-season-2-poster.jpg",
+        "coverUrl": "https://i.ibb.co/XXh12kV/Never-Kiss-Your-Best-Friend-Season-2-Download-2022-480p-720p-1080p-in-Filmywap.jpg",
+        "seasons": [
+          {
+            "name": "Season 2",
+            "episodes": [
+              {
+                "name": "All Episode Zip File 2.2GB",
+                "link": "https://drive.google.com/file/d/1kjs3RUbmoLVOnO_sedeCYcotxM6KOPPd/view?usp=sharing"
+              } 
             ]
           }
         ]

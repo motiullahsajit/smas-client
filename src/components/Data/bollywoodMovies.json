@@ -11,6 +11,13 @@
     "posterUrl":"https://i.ibb.co/cLxh9Cc/MV5-BN2-Yz-Nj-U4-MTYt-Mz-Y5-OS00-ODg0-LTkx-MTUt-Njg0-Yj-Rk-Yz-I5-ZWJj-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz.jpg",
     "movieUrl":"https://drive.google.com/file/d/1RAx-BZ9wwxw2NsWxaZQq4842DkNk98GS/view?usp=sharing"
   },
+  
+{
+  "name":"Trance 2020",
+  "type":"movie",
+  "posterUrl":"https://i.ibb.co/1LQ4wCH/MV5-BYj-Jh-Ym-M3-MWQt-MWM3-NC00-MWQy-LTli-ZWIt-NDI3-NGYw-ZTU0-MDAy-Xk-Ey-Xk-Fqc-Gde-QXVy-Mjkx-Nz-Q1.jpg",
+  "movieUrl":"https://drive.google.com/file/d/1PrjdS3vE6-2ayewBpD3pkDUoDk_cdDWm/view?usp=sharing"
+},
   {
     "name":"Chhalawa 2019",
     "type":"movie",
@@ -758,12 +765,6 @@
 
 
 
-{
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
 
 {
     "name":"",
