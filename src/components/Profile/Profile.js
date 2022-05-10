@@ -51,10 +51,12 @@ const Profile = () => {
             <p>Expiration Date  : {moment(user.expirationDate).format('DD/MM/YYYY')}</p>
             {
               user.subscription === false && <button onClick={() => navigateTo('subscription')} className='primary_button'>Upgrade To Premium</button>
-            }
+            }      
           </div>
         </div>
       </section>
+            
+
     </main>
   );
 };

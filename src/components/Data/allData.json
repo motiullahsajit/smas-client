@@ -194,7 +194,12 @@
     "posterUrl":"https://i.ibb.co/ymT9D6B/MV5-BZj-Ex-NGM5-MTMt-NTFl-Ny00-OThl-LTlh-Yzct-OWEz-Zj-Q4-MWY3-YTUy-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI1-NDEy-N.jpg",
     "movieUrl":"https://drive.google.com/file/d/1QWFIE3hQr4LHy5PW8sYFaWcMSO5QZqUi/view?usp=sharing"
   },
-
+  {
+    "name":"Samantaral 2017",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/CwprWnw/Samantaral-poster.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1bL5TCmxEV-CNHVQzfXFQSqRh51CXUHdB/view?usp=sharing"
+  },
   {
     "name":"Saaho 2019",
     "type":"movie",
@@ -5066,18 +5071,81 @@
             "link": "https://drive.google.com/file/d/1lVoVUibENdpvIcPpBknZ5iZ14zPHAjmf/view?usp=sharing"
           },
           {
-            "name": "Episode 6-11 Zip File 1.5GB Uploading",
-            "link": ""
+            "name": "Episode 6",
+            "link": "https://drive.google.com/file/d/1eEAUK5bBTMxWBIkVd2wln5biOAl1ioEU/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1k1jIEgVu0oBbipuStK5Jdl1PXmXwCcVe/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/1aCUKz2NJKGjAHgXJtgPpVUmJ3wDOh6rJ/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/1wLJGZ793xuUVsuQgkiOMp7CfMpZ5KD5Y/view?usp=sharing"
+          },
+          {
+            "name":"Episode 10",
+            "link": "https://drive.google.com/file/d/1FaJRoRNDraUMjqfNziPYtdH7clVkTQEY/view?usp=sharing"
+          },
+          {
+            "name":"Episode 11",
+            "link": "https://drive.google.com/file/d/1c5SoQ4y9CH_GTqtWCQIFXw0MznUubukm/view?usp=sharing"
           }
         ]
       },
       {
-        "name": "Season 2 Uploading",
+        "name": "Season 2",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1uMAcIg9w1orVebCyeobG4jbSOQUzyAF5/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1ajhS7he9li3PuXaP_T3O3yXydzqs-xKc/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1UDWUnzxPuI_iyIhw4jvvIO6W1h11OJqL/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1TAKvv3ZjnjWYlIL7DVG50fgHhL_omltG/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/173S9TS2_hlLptrio7E-PkyrQ5oULWsIS/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1A_e-ZdE5Zd-Htxz48XCb24KoUe8nuVrU/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1mEV_JA9CxKbNtFPVugCKehGNipdrwRiN/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/1eMT3OHizD0Y-37_BvdyjT8z1G8C3hK89/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/1-4-bc7RfKRQuRWf-wqiI7K2QAnCN0vqY/view?usp=sharing"
+          }
+
+        ]
+       },
+       {
+        "name": "Season 3 Uploading",
         "episodes": [
           {
             "name": "Uploading",
             "link": ""
           }
+
         ]
        }
       ]
