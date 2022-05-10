@@ -879,6 +879,12 @@
     "movieUrl":"https://drive.google.com/file/d/1RAx-BZ9wwxw2NsWxaZQq4842DkNk98GS/view?usp=sharing"
   },
   {
+    "name":"Unishe April 1994",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/MpjJ4s4/MV5-BNTBi-Mjc3-N2-Et-Mj-Rm-ZC00-ZTU4-LThl-Nz-Mt-NGZj-YTlm-MDkz-Zm-M0-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-U0-Nzk.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1mt_uFEuY_51JuHgo49s8ZWXK729nWEIH/view?usp=sharing"
+  },
+  {
     "name":"Madhagaja 2021",
     "type":"movie",
     "posterUrl":"https://i.ibb.co/YyMnyPW/file7ih8sbeo6ndmr1t957s-1052590-1637392983.jpg",
@@ -5044,6 +5050,37 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Charitraheen",
+    "type": "bengali",
+    "overview": "2018 | 18+ | 3 Season | Thriller",
+    "posterUrl": "https://i.ibb.co/t3YZdFy/MV5-BY2-Q2-Nm-Rl-Mm-Yt-ZWM0-YS00-MTBh-LThl-ODEt-NGNk-Nz-I4-Mj-Y2-MDY4-Xk-Ey-Xk-Fqc-Gde-QXVy-OTQ0-MDU.jpg",
+    "coverUrl": "https://i.ibb.co/7G61s2P/CTRH3-36.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 1-5 Zip File 1.40GB",
+            "link": "https://drive.google.com/file/d/1lVoVUibENdpvIcPpBknZ5iZ14zPHAjmf/view?usp=sharing"
+          },
+          {
+            "name": "Episode 6-11 Zip File 1.5GB Uploading",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "name": "Season 2 Uploading",
+        "episodes": [
+          {
+            "name": "Uploading",
+            "link": ""
+          }
+        ]
+       }
+      ]
   },
   {
     "name": "Love Me",

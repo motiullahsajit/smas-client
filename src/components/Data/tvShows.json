@@ -5821,58 +5821,35 @@
 
  
   {
-    "name": "",
-    "type": "",
-    "overview": "",
-    "posterUrl": "",
-    "coverUrl": "",
+    "name": "Charitraheen",
+    "type": "bengali",
+    "overview": "2018 | 18+ | 3 Season | Thriller",
+    "posterUrl": "https://i.ibb.co/t3YZdFy/MV5-BY2-Q2-Nm-Rl-Mm-Yt-ZWM0-YS00-MTBh-LThl-ODEt-NGNk-Nz-I4-Mj-Y2-MDY4-Xk-Ey-Xk-Fqc-Gde-QXVy-OTQ0-MDU.jpg",
+    "coverUrl": "https://i.ibb.co/7G61s2P/CTRH3-36.jpg",
     "seasons": [
       {
         "name": "Season 1",
         "episodes": [
           {
-            "name": "Episode 01",
-            "link": ""
+            "name": "Episode 1-5 Zip File 1.40GB",
+            "link": "https://drive.google.com/file/d/1lVoVUibENdpvIcPpBknZ5iZ14zPHAjmf/view?usp=sharing"
           },
           {
-            "name": "Episode 02",
-            "link": ""
-          },
-          {
-            "name": "Episode 03",
-            "link": ""
-          },
-          {
-            "name": "Episode 04",
-            "link": ""
-          },
-          {
-            "name": "Episode 05",
-            "link": ""
-          },
-          {
-            "name": "Episode 06",
-            "link": ""
-          },
-          {
-            "name":"Episode 07",
-            "link": ""
-          },
-          {
-            "name":"Episode 08",
-            "link": ""
-          },
-          {
-            "name":"Episode 09",
-            "link": ""
-          },
-          {
-            "name":"Episode 10",
+            "name": "Episode 6-11 Zip File 1.5GB Uploading",
             "link": ""
           }
         ]
-      }
-    ]
+      },
+      {
+        "name": "Season 2 Uploading",
+        "episodes": [
+          {
+            "name": "Uploading",
+            "link": ""
+          }
+        ]
+       }
+      ]
   },
 
   {
