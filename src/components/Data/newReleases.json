@@ -1,4 +1,37 @@
 [ 
+  {
+    "name":"Battle Free Style 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/9trg40g/MV5-BZDUx-Nj-I3-Yz-It-Zj-Ji-OC00-Mz-Ey-LWEx-M2-Yt-MTMz-Y2-Nk-NDMw-M2-U2-Xk-Ey-Xk-Fqc-Gde-QXVy-NDk3-M.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1g00K71n9UT8t0rrR8PpKt34fhOP2x4xP/view?usp=sharing"
+   },
+   {
+    "name":"In Good Hands 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/6sph4bC/MV5-BZm-Rk-NTJh-YWYt-ZDM2-My00-ZDAw-LTg5-MGIt-Nj-E4-Njlh-NWE5-Zj-Mz-Xk-Ey-Xk-Fqc-Gde-QXVy-MTky-OTU2.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1sqLZN8qTWl4FLDpF4-8AYdZKfPoOL66e/view?usp=sharing"
+   },
+   {
+    "name":"Return To Space 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/5nf75dD/MV5-BMTY4-ODlj-Nm-Qt-MDMx-YS00-Zj-Q5-LTkx-MDEt-Yzky-Nj-I4-Y2-Iz-YTMy-Xk-Ey-Xk-Fqc-Gde-QXVy-NDI3-Nj-U.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1qwSLoyMfoi54TVV5AL433NGJmegYnITf/view?usp=sharing"
+   },
+   {
+    "name":"Love Like The Falling Petals 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/M9RCPMS/MV5-BNDg5-Nj-Fl-YTMt-NTY0-Ni00-N2-Zj-LThm-ZWQt-NDFh-OGY4-Yz-M2-ODY4-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEz-MTI1.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1fIiO0xysgV1rmFGr3aOZqb6YmEJ6UTPA/view?usp=sharing"
+  },
+  
+  {
+    "name":"Yaksha Ruthless Operatiion 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/kMrNbq5/MV5-BMGIy-Mjg0-OTIt-Mj-I3-NC00-NTZi-LTkz-Mm-Et-MDJj-M2-Q0-Nm-U3-ZTM1-Xk-Ey-Xk-Fqc-Gde-QXVy-NDI3-Nj-U.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1DUa9fuuhua3aVss2bUDjqxzfZrTLFR1v/view?usp=sharing"
+    },
+
+
    {
   "name": "The Sound Of Magic",
   "type": "korean",

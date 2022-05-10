@@ -1,5 +1,130 @@
 [
   {
+    "name": "All Of Us Are Dead",
+    "type": "korean",
+    "overview": "2022 | 18+ | 1 Season | K-Dramas based on Webtoon",
+
+    "posterUrl": "https://i.ibb.co/TRwQ2Vs/ze4lhw0o-LBHYml-M2-Ku-Zj-Bg0-Sq6-H.jpg",
+    "coverUrl": "https://i.ibb.co/BBw74h7/rhdj-MN-1.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1Faq0W9SMGfZZ4mEUv3jVcilvuRhbkKfX/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1islOJKpO3PVr2LlDEundFZUEr-bP4_3U/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1DuQp-GZiWjky0m-kKEYf2zuEauWrg407/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1jT1p7bHLmm88p5MACBPVybJEFJDqu5N4/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1HDwzEaq4IAfD8m8b4NH1ZT3nWmCLCjhy/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1i96iQAX48PEPUxh7U_erMYAriArAxE_f/view?usp=sharing"
+          },
+          {
+            "name": "Episode 07",
+            "link": "https://drive.google.com/file/d/1pPoOh5pscoesQUhYjAjd_tiVwBWnYmCn/view?usp=sharing"
+          },
+          {
+            "name": "Episode 08",
+            "link": "https://drive.google.com/file/d/1VMX7n5dvlg75GwK7RD2ZVUh3sbH2A0vu/view?usp=sharing"
+          },
+          {
+            "name": "Episode 09",
+            "link": "https://drive.google.com/file/d/1TKUDm-fvNhqY30bEavJHFf5Mnxv6pXYS/view?usp=sharing"
+          },
+          {
+            "name": "Episode 10",
+            "link": "https://drive.google.com/file/d/15kGMs9XSxULeQdg9yyDJBwWGfUyXRNhk/view?usp=sharing"
+          },
+          {
+            "name": "Episode 11",
+            "link": "https://drive.google.com/file/d/170rTACgfgdQ9NWSndnRp-WfJiLnkruVm/view?usp=sharing"
+          },
+          {
+            "name": "Episode 12",
+            "link": "https://drive.google.com/file/d/1Yni0D1wmbN_C7jJuNy2YaO61hnN0zx2E/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Squid Game",
+    "type": "popularonsmas",
+    "overview": "2021 | 18+ | 1 Season | TV Thrillers",
+    "posterUrl": "https://i.ibb.co/Jd2Vzdd/MV5-BYWE3-MDVk-N2-Et-Nj-Q5-MS00-ZDQ4-LTli-Nz-Yt-Mjc2-YWMz-MDEw-MTA3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEz-MTI1.jpg",
+    "coverUrl": "https://i.ibb.co/gdQpcry/thumb-1920-1191374.jpg",
+    "seasons": [
+      {
+        "name": "Squid Game Season 1",
+        "episodes": [
+          {
+            "name": "Episode 1",
+            "link": "https://drive.google.com/file/d/14cI6Nmb22Oy8mu-lAgKEBzZiLQOI009t/view?usp=sharing"
+          },
+          {
+            "name": "Episode 2",
+            "link": "https://drive.google.com/file/d/1DMwedzruDJ-4DO3_1-qHvmWKlCQComBF/view?usp=sharing"
+          },
+          {
+            "name": "Episode 3",
+            "link": "https://drive.google.com/file/d/1tnzuXm9_3KkgmT-Bo0ScRQGr1SiAoOE7/view?usp=sharing"
+          },
+          {
+            "name": "Episode 4",
+            "link": "https://drive.google.com/file/d/1IJWkzVu1R5T_FogN6X-YjzhhEkyDQWrF/view?usp=sharing"
+          },
+          {
+            "name": "Episode 5",
+            "link": "https://drive.google.com/file/d/1Ah9lohb12xFwPwk8w8HHG4-wYzik_1b7/view?usp=sharing"
+          },
+          {
+            "name": "Episode 6",
+            "link": "https://drive.google.com/file/d/11LxQ-FGv5YJXAsNPlrwluFoAroIoAKNu/view"
+          },
+          {
+            "name": "Episode 7",
+            "link": "https://drive.google.com/file/d/11MN4NpTEZhwu-DLbDKY2W2T9LsO67J5A/view"
+          },
+          {
+            "name": "Episode 8",
+            "link": "https://drive.google.com/file/d/11OCnr8OqnONKofYCIzRnQOvCD5pssnHi/view"
+          },
+          {
+            "name": "Episode 9",
+            "link": "https://drive.google.com/file/d/11X76YAPwiqa6tZDROMVrpnrRM0bgbgK8/view"
+          },
+          {
+            "name": "Episode 10",
+            "link": "https://drive.google.com/file/d/11YWFa7lK8Zuqb2q-Sidr8OUaNq0B5Hxv/view"
+          },
+          {
+            "name": "Episode 11",
+            "link": "https://drive.google.com/file/d/11Zqlxw-VuFo95H03RCKei4KdDUSBJRyR/view"
+          },
+          {
+            "name": "Episode 12",
+            "link": "https://drive.google.com/file/d/11abyBaVDxQO61nXbnWKBATJN0GDC632P/view"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Ozark",
     "type": "american",
     "overview": "2017 | 18+ | 4 Seasons | TV Thrillers",
@@ -245,136 +370,58 @@
     ]
   },
   {
-    "name": "KGF Chapter 2",
-    "type": "movie",
-    "posterUrl": "https://i.ibb.co/0DPBj5Z/MV5-BMj-Mw-MDgy-OGQt-MWZj-NC00-MDUw-LTll-ZDYt-ZWM3-NDBm-N2-Yz-NGZm-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQz-Njkz-M.jpg",
-    "movieUrl": "https://drive.google.com/file/d/16J9wqi98vFJvePfDfGbE5JWugBg47SkR/view?usp=sharing"
-  },
-  {
-    "name": "All Of Us Are Dead",
-    "type": "korean",
-    "overview": "2022 | 18+ | 1 Season | K-Dramas based on Webtoon",
-
-    "posterUrl": "https://i.ibb.co/TRwQ2Vs/ze4lhw0o-LBHYml-M2-Ku-Zj-Bg0-Sq6-H.jpg",
-    "coverUrl": "https://i.ibb.co/BBw74h7/rhdj-MN-1.jpg",
+    "name": "Welcome To Eden",
+    "type": "spanish",
+    "overview": "2022 | 18+ | 1 Season | Thriller",
+    "posterUrl": "https://i.ibb.co/0yt0RNv/MV5-BOTJj-Yz-Ex-N2-Yt-ZWY4-Ni00-Zj-E5-LWE2-MTIt-Mj-Zl-Zj-Nm-Nj-E5-Mzg5-Xk-Ey-Xk-Fqc-Gde-QXVy-Njky-ND.jpg",
+    "coverUrl": "https://i.ibb.co/L9cVwv2/MV5-BMm-Zh-OWY0-ZWMt-MThj-NS00-Nm-E1-LWFm-NTAt-MGE2-MDlj-NDA4-Yz-I4-Xk-Ey-Xk-Fqc-Gde-QXVy-ODcz-OTc2.jpg",
     "seasons": [
       {
         "name": "Season 1",
         "episodes": [
           {
             "name": "Episode 01",
-            "link": "https://drive.google.com/file/d/1Faq0W9SMGfZZ4mEUv3jVcilvuRhbkKfX/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1cjNGBJkhkRRqjPlde0JslrlIxc-Hjq9w/view?usp=sharing"
           },
           {
             "name": "Episode 02",
-            "link": "https://drive.google.com/file/d/1islOJKpO3PVr2LlDEundFZUEr-bP4_3U/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1G2gHNHOJjV7oLQ9lAFK3YVOJbPOEq6to/view?usp=sharing"
           },
           {
             "name": "Episode 03",
-            "link": "https://drive.google.com/file/d/1DuQp-GZiWjky0m-kKEYf2zuEauWrg407/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1BIqDUM2rgVkbhrY6UzRUg4iEQotB8M5I/view?usp=sharing"
           },
           {
             "name": "Episode 04",
-            "link": "https://drive.google.com/file/d/1jT1p7bHLmm88p5MACBPVybJEFJDqu5N4/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1MgtB4-QsBZZitSiXj_itPgARxiN3_VFN/view?usp=sharing"
           },
           {
             "name": "Episode 05",
-            "link": "https://drive.google.com/file/d/1HDwzEaq4IAfD8m8b4NH1ZT3nWmCLCjhy/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1DzsSUiAUuyYq0SYCkZzeLxH4K-p69Dqb/view?usp=sharing"
           },
           {
             "name": "Episode 06",
-            "link": "https://drive.google.com/file/d/1i96iQAX48PEPUxh7U_erMYAriArAxE_f/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1xJaun7lOS6DwrtTFQ_CmI7OV1Zb2eO5G/view?usp=sharing"
           },
           {
-            "name": "Episode 07",
-            "link": "https://drive.google.com/file/d/1pPoOh5pscoesQUhYjAjd_tiVwBWnYmCn/view?usp=sharing"
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1FRtcMzwhd7B_1xZeyy0gjITJbtKxWaF2/view?usp=sharing"
           },
           {
-            "name": "Episode 08",
-            "link": "https://drive.google.com/file/d/1VMX7n5dvlg75GwK7RD2ZVUh3sbH2A0vu/view?usp=sharing"
-          },
-          {
-            "name": "Episode 09",
-            "link": "https://drive.google.com/file/d/1TKUDm-fvNhqY30bEavJHFf5Mnxv6pXYS/view?usp=sharing"
-          },
-          {
-            "name": "Episode 10",
-            "link": "https://drive.google.com/file/d/15kGMs9XSxULeQdg9yyDJBwWGfUyXRNhk/view?usp=sharing"
-          },
-          {
-            "name": "Episode 11",
-            "link": "https://drive.google.com/file/d/170rTACgfgdQ9NWSndnRp-WfJiLnkruVm/view?usp=sharing"
-          },
-          {
-            "name": "Episode 12",
-            "link": "https://drive.google.com/file/d/1Yni0D1wmbN_C7jJuNy2YaO61hnN0zx2E/view?usp=sharing"
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/1EWz2QDNP_fcILZdYOYs4YM10fKVkuOxH/view?usp=sharing"
           }
         ]
       }
     ]
   },
   {
-    "name": "Squid Game",
-    "type": "popularonsmas",
-    "overview": "2021 | 18+ | 1 Season | TV Thrillers",
-    "posterUrl": "https://i.ibb.co/Jd2Vzdd/MV5-BYWE3-MDVk-N2-Et-Nj-Q5-MS00-ZDQ4-LTli-Nz-Yt-Mjc2-YWMz-MDEw-MTA3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEz-MTI1.jpg",
-    "coverUrl": "https://i.ibb.co/gdQpcry/thumb-1920-1191374.jpg",
-    "seasons": [
-      {
-        "name": "Squid Game Season 1",
-        "episodes": [
-          {
-            "name": "Episode 1",
-            "link": "https://drive.google.com/file/d/14cI6Nmb22Oy8mu-lAgKEBzZiLQOI009t/view?usp=sharing"
-          },
-          {
-            "name": "Episode 2",
-            "link": "https://drive.google.com/file/d/1DMwedzruDJ-4DO3_1-qHvmWKlCQComBF/view?usp=sharing"
-          },
-          {
-            "name": "Episode 3",
-            "link": "https://drive.google.com/file/d/1tnzuXm9_3KkgmT-Bo0ScRQGr1SiAoOE7/view?usp=sharing"
-          },
-          {
-            "name": "Episode 4",
-            "link": "https://drive.google.com/file/d/1IJWkzVu1R5T_FogN6X-YjzhhEkyDQWrF/view?usp=sharing"
-          },
-          {
-            "name": "Episode 5",
-            "link": "https://drive.google.com/file/d/1Ah9lohb12xFwPwk8w8HHG4-wYzik_1b7/view?usp=sharing"
-          },
-          {
-            "name": "Episode 6",
-            "link": "https://drive.google.com/file/d/11LxQ-FGv5YJXAsNPlrwluFoAroIoAKNu/view"
-          },
-          {
-            "name": "Episode 7",
-            "link": "https://drive.google.com/file/d/11MN4NpTEZhwu-DLbDKY2W2T9LsO67J5A/view"
-          },
-          {
-            "name": "Episode 8",
-            "link": "https://drive.google.com/file/d/11OCnr8OqnONKofYCIzRnQOvCD5pssnHi/view"
-          },
-          {
-            "name": "Episode 9",
-            "link": "https://drive.google.com/file/d/11X76YAPwiqa6tZDROMVrpnrRM0bgbgK8/view"
-          },
-          {
-            "name": "Episode 10",
-            "link": "https://drive.google.com/file/d/11YWFa7lK8Zuqb2q-Sidr8OUaNq0B5Hxv/view"
-          },
-          {
-            "name": "Episode 11",
-            "link": "https://drive.google.com/file/d/11Zqlxw-VuFo95H03RCKei4KdDUSBJRyR/view"
-          },
-          {
-            "name": "Episode 12",
-            "link": "https://drive.google.com/file/d/11abyBaVDxQO61nXbnWKBATJN0GDC632P/view"
-          }
-        ]
-      }
-    ]
+    "name": "KGF Chapter 2",
+    "type": "movie",
+    "posterUrl": "https://i.ibb.co/0DPBj5Z/MV5-BMj-Mw-MDgy-OGQt-MWZj-NC00-MDUw-LTll-ZDYt-ZWM3-NDBm-N2-Yz-NGZm-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQz-Njkz-M.jpg",
+    "movieUrl": "https://drive.google.com/file/d/16J9wqi98vFJvePfDfGbE5JWugBg47SkR/view?usp=sharing"
   },
+  
   {
     "name": "Forecasting Love And Weather",
     "type": "korean",
