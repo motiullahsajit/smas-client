@@ -631,6 +631,12 @@
     "movieUrl": "https://drive.google.com/file/d/1rBjBNkhSOQqF7aldErv6kOh-_zR4UyGz/view?usp=sharing"
   },
   {
+    "name":"Abhimaan 2016",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/ry4hvtj/MV5-BYm-Q3-NDhj-MTkt-ZGQ0-Yy00-N2-Rm-LTll-NGMt-Njc4-OTlm-YWNh-ZDg0-Xk-Ey-Xk-Fqc-Gde-QXVy-OTgz-MDgy-O.jpg",
+    "movieUrl":"https://drive.google.com/file/d/12MvWAn0TGDHLo0PAfy_mFDROcE0qOXNq/view?usp=sharing"
+  },
+  {
     "name": "Dhamaka",
     "type": "movie",
     "posterUrl": "https://i.ibb.co/thLgnSB/MV5-BNz-Uy-OWU2-M2-Mt-MDU1-Yy00-M2-E1-LTg3-OTkt-MGRj-YTE2-Mjkz-Yz-Uw-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E.jpg",
@@ -1021,6 +1027,12 @@
     "movieUrl": "https://drive.google.com/file/d/1--hMFE1W0RnZqRJkx4b00JoI4D8pYS0w/view?usp=sharing"
   },
   {
+    "name":"Baby Driver 2017",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/yB5xBL3/MV5-BMj-M3-Mj-Q1-Mzkx-Nl5-BMl5-Ban-Bn-Xk-Ft-ZTgw-ODk1-ODgy-Mj-I-V1.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1CNjMsNMC3hrvwpx8vFiWjapxeEsB3qzQ/view?usp=sharing"
+    },
+  {
     "name":"Man Of Steel 2013",
     "type":"movie",
     "posterUrl":"https://i.ibb.co/Tq5rZnp/MV5-BMTk5-ODk1-NDkx-MF5-BMl5-Ban-Bn-Xk-Ft-ZTcw-NTA5-OTY0-OQ-V1.jpg",
@@ -1214,6 +1226,56 @@
     "posterUrl":"https://i.ibb.co/60mBC7g/MV5-BZWI3-Nm-Ey-Yz-At-NWY4-OC00-YWY4-LTk2-Mjgt-M2-Y1-NDdl-ZWE4-ODgz-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E3.jpg",
     "movieUrl":"https://drive.google.com/file/d/1Ohg-wsQY9KYdMuoTULFashqBfdM715t1/view?usp=sharings"
   },
+  
+{
+  "name":"The Devils Tail 2021",
+  "type":"movie",
+  "posterUrl":"https://i.ibb.co/YZV2Tyd/MV5-BNWVl-MTJi-ZDkt-ZDQ2-Ni00-Mz-Y4-LWFj-MTUt-Nz-Nh-YWI3-Mz-Zh-NThm-Xk-Ey-Xk-Fqc-Gde-QXVy-MTY1-NDQ5.jpg",
+  "movieUrl":"https://drive.google.com/file/d/1BTGt8yHUAisrLP3PlubV-0iwBNOFbyg9/view?usp=sharing"
+},
+ {
+  "name":"They Talk To Me 2022",
+  "type":"movie",
+  "posterUrl":"https://i.ibb.co/9hsm1jL/MV5-BOGY1-Yj-Ix-NGUt-Yj-Ez-Yy00-YTZm-LTk2-MTYt-Mjg0-Yz-Nh-OTM1-OTg5-Xk-Ey-Xk-Fqc-Gde-QXVy-NTY3-NTY1.jpg",
+  "movieUrl":"https://drive.google.com/file/d/1AGqlHMwm0EpP-29SryW5IfE16lCXIarU/view?usp=sharing"
+},
+{
+"name":"Happy Feet Two 2011",
+"type":"movie",
+"posterUrl":"https://i.ibb.co/x7bYm7q/MV5-BM2-Q3-NWMy-Ym-Et-MWQw-ZC00-OGM4-LWE4-OWIt-MGY3-YTc1-ZDlm-ODI1-Xk-Ey-Xk-Fqc-Gde-QXVy-NTIz-OTk5-O.jpg",
+"movieUrl":"https://drive.google.com/file/d/1XxKRf2vIQZ6GMXVsp_DvDR3nGnbgowrb/view?usp=sharing"
+},
+{
+"name":"Hypnotic 2021",
+"type":"movie",
+"posterUrl":"https://i.ibb.co/6D307JV/MV5-BZm-U4-Zj-Rk-ZWIt-N2-Ex-Yy00-NDIw-LTg2-Zm-Yt-Njg4-YWFm-ZWUx-MWRi-Xk-Ey-Xk-Fqc-Gde-QXVy-MTkx-Nj-U.jpg",
+"movieUrl":"https://drive.google.com/file/d/1VZGecbAb5Dn_OsVtq_3Fa2uAL49yjHl8/view?usp=sharing"
+},
+{
+"name":"Exposure 36 2022",
+"type":"movie",
+"posterUrl":"https://i.ibb.co/W6yzCj0/MV5-BM2-Vl-MDI0-MWYt-Y2-Y3-NS00-Yz-Zi-LWFj-Zj-Yt-Nm-Ew-ZGM1-Mz-Jh-Nz-Bl-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-M0.jpg",
+"movieUrl":"https://drive.google.com/file/d/1fXep1axzjWJ6gqR5wQkfDT1ZTHib-1ai/view?usp=sharing"
+},
+{
+"name":"Lockdown 2022",
+"type":"movie",
+"posterUrl":"https://i.ibb.co/bsSSBGX/MV5-BNj-Ey-Mjlh-Njct-ZGE5-Mi00-YTcw-LTkw-Yj-Qt-Y2-E0-YTJl-MDYx-Yzhi-Xk-Ey-Xk-Fqc-Gde-QXVy-NTA0-NDMw.jpg",
+"movieUrl":"https://drive.google.com/file/d/1nQ2yre-3NyiJ7akIZqtJ2z4Er7lFBnbV/view?usp=sharing"
+},
+{
+  "name":"Poltergiest 1982",
+  "type":"movie",
+  "posterUrl":"https://i.ibb.co/2Pk3Kdn/MV5-BNzli-Zm-Rl-YTct-Ym-Nk-YS00-Nz-E5-LWI1-OWQt-MTRi-ODY5-MDMw-MTVk-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQx-Nz-Mz.jpg",
+  "movieUrl":"https://drive.google.com/file/d/1z9sm85J4V7fGAiycuHyYkedL6J1dK0Pf/view?usp=sharing"
+},
+
+{
+ "name":"Whale Rider 2002",
+ "type":"movie",
+ "posterUrl":"https://i.ibb.co/yVj3GsZ/MV5-BMj-M3-Mz-E2-OTEw-NF5-BMl5-Ban-Bn-Xk-Ft-ZTcw-NTky-MTg4-NA-V1.jpg",
+ "movieUrl":"https://drive.google.com/file/d/1ANkDotKLOYiDvYIW87jwXHXRyuTkj0Pm/view?usp=sharing"
+},
   {
     "name":"The Hunt 2020",
     "type":"movie",
