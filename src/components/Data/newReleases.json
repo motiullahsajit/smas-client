@@ -1,4 +1,5 @@
 [ 
+
   {
     "name":"Cars 2006",
     "type":"movie",
@@ -36,7 +37,12 @@
     "posterUrl":"https://i.ibb.co/hdgry2v/Donkeyhead-2022-683x1024.webp",
     "movieUrl":"https://drive.google.com/file/d/1xaic_4X9lRHOfh9cctZMxssmBTHeQkCW/view?usp=sharing"
     },
- 
+    {
+      "name":"Sarkaru Vaari Paata 2022",
+      "type":"movie",
+      "posterUrl":"https://i.ibb.co/dGfxjDg/MV5-BYjcy-ZTI5-MDEt-Nzcy-NS00-Yz-Nh-LWIx-MTct-OGNj-NTlj-MDg4-Nj-Mw-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA3-MDk2-N.jpg",
+      "movieUrl":"https://drive.google.com/file/d/10SZ8nsvXaZLtv3MKU2BCAAs8ldNxIBcW/view?usp=sharing"
+    },
   {
     "name":"The Devils Tail 2021",
     "type":"movie",

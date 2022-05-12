@@ -1,5 +1,11 @@
 [
   {
+    "name":"Sarkaru Vaari Paata 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/dGfxjDg/MV5-BYjcy-ZTI5-MDEt-Nzcy-NS00-Yz-Nh-LWIx-MTct-OGNj-NTlj-MDg4-Nj-Mw-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA3-MDk2-N.jpg",
+    "movieUrl":"https://drive.google.com/file/d/10SZ8nsvXaZLtv3MKU2BCAAs8ldNxIBcW/view?usp=sharing"
+  },
+  {
     "name":"Thar 2022",
     "type":"movie",
     "posterUrl":"https://i.ibb.co/C5jhx9C/MV5-BZTg0-Nz-I2-Y2-It-Zm-Yw-ZS00-NGY3-LTlj-NDAt-Zj-E0-ZDc5-Yz-Vm-Yjc4-Xk-Ey-Xk-Fqc-Gde-QXVy-OTI3-Mz.jpg",
@@ -787,81 +793,19 @@
     "movieUrl":"https://drive.google.com/file/d/12MvWAn0TGDHLo0PAfy_mFDROcE0qOXNq/view?usp=sharing"
   },
 
-  {
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
 
   {
-    "name":"",
+    "name":"Golondaaj 2021",
     "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
+    "posterUrl":"https://i.ibb.co/Hx9npC4/Golondaaj.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1Z75AGcyWCAfcfWe8k98aKMagpQiCkEF9/view?usp=sharing"
   },
 
   {
-    "name":"",
+    "name":"Dhaka Attack 2020",
     "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
-
-  {
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
-
-  {
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
-
-  {
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
-
-  {
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
-
-  {
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
-
-{
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
-
-{
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
-
-  {
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
+    "posterUrl":"https://i.ibb.co/Y0zys3L/Dhaka-Attack-First-Look-Poster.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1gCBlmzc_2gcSzxOxn294p5nK92Vlt8tc/view?usp=sharing"
   },
 
   {
