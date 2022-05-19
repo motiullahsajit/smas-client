@@ -816,12 +816,17 @@
   },
 
   {
-    "name":"",
+    "name":"Mukhosh 2022",
     "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
+    "posterUrl":"https://i.ibb.co/bWVyh6b/MV5-BYTgz-YWNk-NTEt-Mj-Fm-Ny00-NTcy-LTk4-Nzkt-OTVj-Nj-Jh-Nm-Zl-MTMz-Xk-Ey-Xk-Fqc-Gde-QXVy-OTE1-Nz-I0.jpg",
+    "movieUrl":"https://drive.google.com/file/d/18djpwi2TiXVvB1clqoTEqfNNlfInFMv6/view?usp=sharing"
   },
-
+  {
+    "name":"Floor No 7",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/bWVyh6b/MV5-BYTgz-YWNk-NTEt-Mj-Fm-Ny00-NTcy-LTk4-Nzkt-OTVj-Nj-Jh-Nm-Zl-MTMz-Xk-Ey-Xk-Fqc-Gde-QXVy-OTE1-Nz-I0.jpg",
+    "movieUrl":"https://drive.google.com/file/d/18djpwi2TiXVvB1clqoTEqfNNlfInFMv6/view?usp=sharing"
+  },
   {
     "name":"",
     "type":"movie",

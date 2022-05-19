@@ -850,6 +850,19 @@
     "posterUrl": "https://i.ibb.co/7Wd8y86/MV5-BMTgw-Nj-Ey-MDQy-OV5-BMl5-Ban-Bn-Xk-Ft-ZTcw-NTU5-OTcw-OQ-V1-FMjpg-UX1000.jpg",
     "movieUrl": "https://drive.google.com/file/d/15dGLrUJOtS-Ndw_IIiEYnFQqzlIO4Mph/view?usp=sharing"
   },
+  
+  {
+    "name":"Mukhosh 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/bWVyh6b/MV5-BYTgz-YWNk-NTEt-Mj-Fm-Ny00-NTcy-LTk4-Nzkt-OTVj-Nj-Jh-Nm-Zl-MTMz-Xk-Ey-Xk-Fqc-Gde-QXVy-OTE1-Nz-I0.jpg",
+    "movieUrl":"https://drive.google.com/file/d/18djpwi2TiXVvB1clqoTEqfNNlfInFMv6/view?usp=sharing"
+  },
+  {
+    "name":"Floor No 7",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/bWVyh6b/MV5-BYTgz-YWNk-NTEt-Mj-Fm-Ny00-NTcy-LTk4-Nzkt-OTVj-Nj-Jh-Nm-Zl-MTMz-Xk-Ey-Xk-Fqc-Gde-QXVy-OTE1-Nz-I0.jpg",
+    "movieUrl":"https://drive.google.com/file/d/18djpwi2TiXVvB1clqoTEqfNNlfInFMv6/view?usp=sharing"
+  },
   {
     "name": "Saina",
     "type": "movie",
@@ -1791,11 +1804,31 @@
     "movieUrl":"https://drive.google.com/file/d/1HhlWJcQPQ39kdRUC1OgmFMBJDbW1esIu/view?usp=sharing"
     },
     {
+      "name":"Annabelle 2014",
+      "type":"movie",
+      "posterUrl":"https://i.ibb.co/Pm6L1Rj/MV5-BOTQw-Zm-Qy-Yz-Et-ODk5-ZC00-OTY3-LWEx-Mj-At-Yz-Rj-NWFh-NGM3-Mz-Bl-Xk-Ey-Xk-Fqc-Gde-QXVy-NTIz-OTk.jpg",
+      "movieUrl":"https://drive.google.com/file/d/1Ru_mMiUTlrPu_gLz3C7LHHtVatuu7hNG/view?usp=sharing"
+    },
+    
+    {
+      "name":"Deadpool 2016",
+      "type":"movie",
+      "posterUrl":"https://i.ibb.co/6tJdK4L/MV5-BYz-E5-Mj-Y1-ZDgt-MTky-NC00-MTMy-LThh-Mj-At-ZGI5-OTE1-Nz-Fl-ZGJj-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-U0-OTQ.jpg",
+      "movieUrl":"https://drive.google.com/file/d/1lsmm7A-TvwYfRrblJPXAJObLuiDPMK8C/view?usp=sharing"
+    },
+    {
     "name":"Eraser Reborn 2022",
     "type":"movie",
     "posterUrl":"https://i.ibb.co/C9TH5jL/MV5-BNWM4-YTdj-Y2-Et-NDg1-Ny00-Y2-Vm-LTk3-MWUt-Yj-M5-YTBj-Mz-Nh-Yj-Vh-Xk-Ey-Xk-Fqc-Gde-QXVy-MTM4-NTI.jpg",
     "movieUrl":"https://drive.google.com/file/d/1Dfzor0lUrEh4pjfe9Afj3qtEfUkUp8b6/view?usp=sharing"
     },
+    {
+      "name":"Everything Everywhere All At Once 2022",
+      "type":"movie",
+      "posterUrl":"https://i.ibb.co/0cYtCPk/MV5-BYTdi-OTIy-ZTQt-Nm-Q1-OS00-Nj-Zl-LWIy-MTgt-Yzk5-Y2-M3-ZDVm-MDk1-Xk-Ey-Xk-Fqc-Gde-QXVy-MTAz-MDg4.jpg",
+      "movieUrl":"https://drive.google.com/file/d/12HPynIO5ce8VhefTv4Xl0Id5x519Z46l/view?usp=sharing"
+    },
+    
     {
     "name":"Laura's Star 2021",
     "type":"movie",
@@ -5672,8 +5705,24 @@
             "link":"https://drive.google.com/file/d/1tx5X9XSonQ84UL-nMYo5zHm678Kso-_C/view?usp=sharing"
           },
           {
-            "name": "Every Week New Hindi Episode",
-            "link": ""
+            "name": "Episode 12",
+            "link": "https://drive.google.com/file/d/1eCHXmxq_M4JFcVFPTpQPxgrdsMgJqeO8/view?usp=sharing"
+          },
+          {
+            "name": "Eoisode 13",
+            "link": "https://drive.google.com/file/d/1-Jn7a-jJEwJSOYDjriLVMtMKlMf4m8GC/view?usp=sharing"
+          },
+          {
+            "name": "Episode 14",
+            "link": "https://drive.google.com/file/d/1ovz8bDG8bkXSyGsQ41f5hTdBgS3cQlEm/view?usp=sharing"
+          },
+          {
+            "name": "Episode 15",
+            "link": "https://drive.google.com/file/d/1Y_BTQsxXPD1Gwferz_K0jUKraHxAFe-6/view?usp=sharing"
+          },
+          {
+            "name":"Every Week New Episode",
+            "link":""
           }
         ]
       }
