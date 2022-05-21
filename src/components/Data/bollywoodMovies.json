@@ -1,5 +1,49 @@
 [
   {
+    "name": "Bhool Bhulaiyaa 2",
+    "type": "indian",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "https://i.ibb.co/q9QwY51/MV5-BZj-Vj-Mjlk-ODIt-OTRj-MS00-Ym-Q4-LTk1-ZGUt-Yz-I3-M2-Ey-OGFl-Mzhl-Xk-Ey-Xk-Fqc-Gde-QXVy-MTUw-MDg3.jpg",
+    "coverUrl": "https://i.ibb.co/94fCcdJ/MV5-BZm-Fm-NTdh-MDMt-Mj-Fk-Zi00-M2-Jm-LTgz-N2-Yt-M2-Ez-Yj-A5-Yj-Fk-ZTk1-Xk-Ey-Xk-Fqc-Gde-QXVy-MTUw-M.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": "https://drive.google.com/file/d/1X2x4FlyN6j-wZO2zpqVF8hdrHX0V6o3Y/view?usp=sharing"
+          },
+          {
+            "name": "1080p Hindi",
+            "link": "https://drive.google.com/file/d/1Ba24d6SDXfFsex9Ldy3UVpZ8ky4_sTru/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dhaakad",
+    "type": "indian",
+    "overview": "2022 | 18+ | Action",
+    "posterUrl": "https://i.ibb.co/HtNR8MR/MV5-BNj-Zm-Nm-M1-MDMt-N2-Jm-Zi00-MWNl-LWJm-Zj-At-MGQ5-Zjhh-Nzg4-Zj-U0-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI2-OTk.jpg",
+    "coverUrl": "https://i.ibb.co/MgNpg1c/kangana-dhaakad-poster-1200.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": "https://drive.google.com/file/d/1dAId4KTO7p5fsj2FdB1roWacpWFKCHSL/view?usp=sharing"
+          },
+          {
+            "name": "1080p Hindi",
+            "link": "https://drive.google.com/file/d/1S5qX9YJDcCt8MzRnav-Iqsh7tBWkt6pW/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name":"Sarkaru Vaari Paata 2022",
     "type":"movie",
     "posterUrl":"https://i.ibb.co/dGfxjDg/MV5-BYjcy-ZTI5-MDEt-Nzcy-NS00-Yz-Nh-LWIx-MTct-OGNj-NTlj-MDg4-Nj-Mw-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA3-MDk2-N.jpg",
@@ -74,7 +118,7 @@
     "name":"Jersey 2022",
     "type":"movie",
     "posterUrl":"https://i.ibb.co/TgbCs9S/MV5-BM2-U2-ZDcw-MWYt-NGM4-My00-Njk3-LWEw-YTYt-Nj-I3-MDc2-Ym-Ux-NGY3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTM1-MTE1.jpg",
-    "movieUrl":"https://drive.google.com/file/d/1MTLEANj3efDFY04GOlSmb2CQPPcLjVv_/view?usp=sharing"
+    "movieUrl":"https://drive.google.com/file/d/1C625VWzr_mf5u9lmSMd-r3Io0aFySyAC/view?usp=sharing"
   },
   {
     "name":"Badhaai Do 2022",
@@ -826,6 +870,124 @@
     "type":"movie",
     "posterUrl":"https://i.ibb.co/bWVyh6b/MV5-BYTgz-YWNk-NTEt-Mj-Fm-Ny00-NTcy-LTk4-Nzkt-OTVj-Nj-Jh-Nm-Zl-MTMz-Xk-Ey-Xk-Fqc-Gde-QXVy-OTE1-Nz-I0.jpg",
     "movieUrl":"https://drive.google.com/file/d/18djpwi2TiXVvB1clqoTEqfNNlfInFMv6/view?usp=sharing"
+  },
+  
+
+
+    
+  {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    
+  {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    
+  {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    
+  {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    
+  {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
   },
   {
     "name":"",
