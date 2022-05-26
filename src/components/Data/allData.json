@@ -2630,6 +2630,20 @@
     "posterUrl":"https://i.ibb.co/Ntsytbx/MV5-BNWEx-NTk5-Yz-Yt-ZTAy-ZC00-NDkz-LWJm-Yz-It-Zm-I5-Nm-E3-OTQ2-Mj-Ri-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-U4-MT.jpg",
     "movieUrl":"https://drive.google.com/file/d/1Luz4WIGC4Zpo72jwikQypcIN4ZVqgcr-/view?usp=sharing"
    },
+   
+{
+  "name":"King'sman The Secret Service 2014",
+  "type":"movie",
+  "posterUrl":"https://i.ibb.co/RcLtnXy/MV5-BYTM3-ZTll-Nz-It-NTNm-OS00-Nz-Ji-LTg1-MWMt-Mj-Mx-NDc0-Nm-Jh-ODU5-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E.jpg",
+  "movieUrl":"https://drive.google.com/file/d/1tBAOOMAQ2DBAOeD0bldSA3DVmBLBJ7-l/view?usp=sharing"
+},
+
+{
+  "name":"Morbid Colors 2021",
+  "type":"movie",
+  "posterUrl":"https://i.ibb.co/WfbDH3f/41q-IFSc-EGJL-AC-SY580.jpg",
+  "movieUrl":"https://drive.google.com/file/d/10bid_DQ5SgZ0lxkSXRM8jB0Bn0A5dqTg/view?usp=sharing"
+},
   {
     "name": "The Fallout",
     "type": "movie",
@@ -2678,7 +2692,12 @@
     "posterUrl": "https://i.ibb.co/qmZPf19/MV5-BOGUw-NTg1-ZDkt-NTIz-ZS00-Yj-Zi-LWI4-YTEt-Zjk2-ZTNk-MDBh-Zj-Zh-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQ0-Nj-Iw.jpg",
     "movieUrl": "https://drive.google.com/file/d/1YokfD5FgkVdjKjOtbuJrcZPSLS6fqL8I/view?usp=sharing"
   },
-  
+  {
+    "name":"Hold Your Fire 2021",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/NLHG5nz/medium-cover.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1o3uqfCAmNxE7bK1gTouve_Cgo0kijRI9/view?usp=sharing"
+  },
   {
     "name":"The Angry Birds 2 2019",
     "type":"movie",
@@ -4230,6 +4249,51 @@
           {
             "name": "Episode 10",
             "link": "https://drive.google.com/file/d/1zgU1R6Mx_5yArfiGk8NVZrmf5oSeFL80/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 5 Zip File English",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1SgqjBTpoS-1vfs1qs64I0zZg5FxCpjPW/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1wCRZEIRxpxk_KB_IQO3BRIcZbojfcMoc/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1kwY4ieSDlPfvyPSnSfRvdWo45lFBjF1S/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1lxgt3rsNrtKZ5TA6Ce_F0SO1YlL2a6kC/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1PjDUbtmXMzBXOmndLCMg8fpNOly7Z9Dq/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1kFViUrH6WtJLEsBZ2bnsMIANaDCJOJVq/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1VL3Jwh46fObOn8Z8_n23eZ9xFrpiNrs5/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/16SVXSEuKyknEr34VqfBk2jN3X1Mtb3h4/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/17379Cuh8QAvzQVcZ9WcxD7FLBael8iRZ/view?usp=sharing"
+          },
+          {
+            "name":"Episode 10",
+            "link": "https://drive.google.com/file/d/12fT2YjLNr6SyaMiZ277eMNOQrBV47Ine/view?usp=sharing"
           }
         ]
       },
@@ -5998,8 +6062,46 @@
             "link": "https://drive.google.com/file/d/1Y_BTQsxXPD1Gwferz_K0jUKraHxAFe-6/view?usp=sharing"
           },
           {
-            "name":"Every Week New Episode",
-            "link":""
+            "name":"Episode 16",
+            "link":"https://drive.google.com/file/d/1kZMlBU2a6Rs3mD8GAveHrZRZgSAOjpwR/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Life And Beth",
+    "type": "american",
+    "overview": "2022 | 18+ | 1 Season | TV Mini Series",
+    "posterUrl": "https://i.ibb.co/r4xxwwG/MV5-BM2-My-Nj-Iz-Nz-At-Nz-Ey-Mi00-OGJl-LTk2-YWEt-MDg0-Y2-Qx-ZTZl-Mz-Ew-Xk-Ey-Xk-Fqc-Gde-QXVy-MDM2-ND.jpg",
+    "coverUrl": "https://i.ibb.co/pfxNwMK/rs-1200x1200-220208144335-1200-life-and-beth.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1xWdCmISgi0OSnvTKoxVTcxBLXEw_7qcY/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1UURTpfrvbMzm8qBL0q7ExPUY9ZbrLyTt/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1bD-0K0PFZhSXEYkN7z_WPOS0199TzwQ0/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1wUte4nggmDpO07jlsOQuEgDnW-9q42WU/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1LFJiJv7NL2d1B1TpJq-JR5uUYdGyHQIM/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1SVmIUXyxoJATObZ84U4KdXhaA2y4lFPy/view?usp=sharing"
           }
         ]
       }
@@ -6137,6 +6239,52 @@
           {
             "name": "Episode 08",
             "link": "https://drive.google.com/file/d/1DI0olBBMfMRtDWwp-vAbqCrkNUALBuyn/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fishbowl Wives",
+    "type": "japanese",
+    "overview": "2022 | 18+ | 1 Season | TV Dramas",
+    "posterUrl": "https://i.ibb.co/8rtV0jV/MV5-BYWE5-NWFh-ZDAt-Nz-U4-ZS00-NThm-LWI3-Mjgt-Mz-Nl-Yzk2-M2-M5-NTdj-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEz-MTI1.jpg",
+    "coverUrl": "https://i.ibb.co/4jXjVBs/AAAABeuk-S9-E-3-GN-ouef7-OMol8-G9yt8-k3qp-Lx-SL0-ZU3p-CMi8xqe-Vu-BFKMOunu-DZQf-Ybt3y-Ik-Kk-TDVLHmk6.jpg",
+    "seasons": [
+      {
+        "name": "Season 1 Dual Audio",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/14O-wfDPdwSKX4-kpAvea9ju9BXdzlAl2/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1vCmdIJANnpjKifoLlvi418uRibG4bS3y/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/14WvFpo4E2OxK56_0rXSOuSkUdqSZy3SR/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1sQ0s5eX3x2yEquEpDPlpeuT0xcM2V9NH/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1FKNi6L0uLF0kvXzS7Hm1w4vmDRFjOC_d/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1zdnAFEyYKp6j6lNIUc6YYGrtyGHr4bbC/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1guFA1rb4p_UYtWjuKmB3XvggL-v1TciT/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/1YVOSguphAPdT-KPJT_LhIoylwnodE587/view?usp=sharing"
           }
         ]
       }
@@ -9403,8 +9551,91 @@
             ]
           }
         ]
-      } 
-  
+      } ,
+      {
+        "name": "Nikhuj",
+        "type": "bangali",
+        "overview": "2022 | 16+ | 1 Season | TV Mini Series",
+        "posterUrl": "https://i.ibb.co/7jYM9tb/MV5-BNWM2-Nj-Ri-YTgt-OTgx-OS00-MDcw-LTll-Y2-It-Mzhk-Njg4-Yz-I1-ZDYx-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Yx-MTQz.jpg",
+        "coverUrl": "https://i.ibb.co/njp3b26/NIKJS-2.jpg",
+        "seasons": [
+          {
+            "name": "Season 1",
+            "episodes": [
+              {
+                "name": "Episode 01",
+                "link": "https://drive.google.com/file/d/1bt5Caz3Z737hn9tkkvhwNxwBBOGRlpf5/view?usp=sharing"
+              },
+              {
+                "name": "Episode 02",
+                "link": "https://drive.google.com/file/d/1MNpVbxE4WlKHkcR7d6CSJOpHYw7vAUaJ/view?usp=sharing"
+              },
+              {
+                "name": "Episode 03",
+                "link": "https://drive.google.com/file/d/1EkI40GqwtwPckmudYU3A3PPkr64hCIk1/view?usp=sharing"
+              },
+              {
+                "name": "Episode 04",
+                "link": "https://drive.google.com/file/d/19PDnAlcg8qVcBGFMerPvMzClN0WXi9yz/view?usp=sharing"
+              },
+              {
+                "name": "Episode 05",
+                "link": "https://drive.google.com/file/d/1EkJGN11rhArqKUpkpLQ4bNTAAaLv2N7v/view?usp=sharing"
+              },
+              {
+                "name": "Episode 06",
+                "link": "https://drive.google.com/file/d/10Ydwkvy-UGDKRpnrMn0xehxjivpAOhch/view?usp=sharing"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sabrina",
+        "type": "benagli",
+        "overview": "2022 | 16+ | 1 Season | TV Mini Series",
+        "posterUrl": "https://i.ibb.co/hZ2B52r/MV5-BOWY2-Mzhi-ZDAt-Nm-U3-OC00-Mm-Rj-LWEz-ZDgt-Nm-Y0-MDU1-NDM5-M2-Zk-Xk-Ey-Xk-Fqc-Gde-QXVy-OTQ0-MDUw.jpg",
+        "coverUrl": "https://i.ibb.co/bd1VcdK/MV5-BMWNh-Zj-Yy-Nj-Ut-ODIx-MC00-OWFl-LWFm-ZDkt-YWUz-ODkz-MDZk-NWFk-Xk-Ey-Xk-Fqc-Gde-QXVy-OTQ0-MDUw-O.jpg",
+        "seasons": [
+          {
+            "name": "Season 1",
+            "episodes": [
+              {
+                "name": "Episode 01",
+                "link": "https://drive.google.com/file/d/1pIxcjudG_jdYz-imuWM3akn7xxaKibHn/view?usp=sharing"
+              },
+              {
+                "name": "Episode 02",
+                "link": "https://drive.google.com/file/d/1n8LOWazVczxs98ACLW0AT90Xmhqwwvoy/view?usp=sharing"
+              },
+              {
+                "name": "Episode 03",
+                "link": "https://drive.google.com/file/d/14L32omEqQmOJ0qG32CBMlO6rw5x1ZEen/view?usp=sharing"
+              },
+              {
+                "name": "Episode 04",
+                "link": "https://drive.google.com/file/d/1Xdc-YQnUJBRfSN60GRruUln8QbrtiPAC/view?usp=sharing"
+              },
+              {
+                "name": "Episode 05",
+                "link": "https://drive.google.com/file/d/13ELPCTHjxXSmjo1RWXoOdaKbnFcYmmvM/view?usp=sharing"
+              },
+              {
+                "name": "Episode 06",
+                "link": "https://drive.google.com/file/d/1p3s2dYQhstzuKZ0oj50fV9xXxwGLhkaB/view?usp=sharing"
+              },
+              {
+                "name":"Episode 07",
+                "link": "https://drive.google.com/file/d/1wBVJSB_XmWfywK8fVk_47M9mpbYU1JwC/view?usp=sharing"
+              },
+              {
+                "name":"Episode 08",
+                "link": "https://drive.google.com/file/d/1bWRLIZt1KlJGdTcy1PfKPvUf_3qvYguM/view?usp=sharing"
+              }
+            ]
+          }
+        ]
+      }  
     ]
      
   
