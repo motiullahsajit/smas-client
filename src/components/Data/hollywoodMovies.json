@@ -526,7 +526,12 @@
     "posterUrl":"https://i.ibb.co/kMrNbq5/MV5-BMGIy-Mjg0-OTIt-Mj-I3-NC00-NTZi-LTkz-Mm-Et-MDJj-M2-Q0-Nm-U3-ZTM1-Xk-Ey-Xk-Fqc-Gde-QXVy-NDI3-Nj-U.jpg",
     "movieUrl":"https://drive.google.com/file/d/1DUa9fuuhua3aVss2bUDjqxzfZrTLFR1v/view?usp=sharing"
     },
-
+    {
+      "name":"The Social Network 2010",
+      "type":"movie",
+      "posterUrl":"https://i.ibb.co/CKcG4Ds/MV5-BYTBk-NDMw-Nzgt-Zj-Jk-Ni00-ZTVh-LWE5-Mz-At-MTYz-N2-U4-OTNj-OWRj-Xk-Ey-Xk-Fqc-Gde-QXVy-OTAz-ODkz.jpg",
+      "movieUrl":"https://drive.google.com/file/d/1LhANU9mOJYULEsDdoQZTDRLhFbHtLxIS/view?usp=sharing"
+    },
 {
  "name":"Arrival 2016",
  "type":"movie",
@@ -4153,12 +4158,7 @@
   "movieUrl":""
 },
 
-{
-  "name":"",
-  "type":"movie",
-  "posterUrl":"",
-  "movieUrl":""
-},
+
 
 {
   "name":"",

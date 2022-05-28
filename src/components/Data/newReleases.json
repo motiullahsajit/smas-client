@@ -328,43 +328,35 @@
         "episodes": [
           {
             "name": "Episode 01",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1zqmqkGd5faKwS2Kvv5GO2E2eLoH786PO/view?usp=sharing"
           },
           {
             "name": "Episode 02",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1WhtYJjSpsxtq6dBcvTJdt2gn2pbnEJFu/view?usp=sharing"
           },
           {
             "name": "Episode 03",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1dbdsu_O9wELMirwgWm8jjU4z7Hd5fadI/view?usp=sharing"
           },
           {
             "name": "Episode 04",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1wI2IkwUlTpHdNjDiQRP7oVFdhNYfGrxF/view?usp=sharing"
           },
           {
             "name": "Episode 05",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1sPQRnZ20rT38vwPXL2t3FGS0090GJMV4/view?usp=sharing"
           },
           {
             "name": "Episode 06",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1F1LATr-wTReBFAqMSyf8JpR4TbYwPLJN/view?usp=sharing"
           },
           {
             "name":"Episode 07",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1IfBPzVe-IvgLKZqxCfdlaIjHj1vDnW61/view?usp=sharing"
           },
           {
             "name":"Episode 08",
-            "link": ""
-          },
-          {
-            "name":"Episode 09",
-            "link": ""
-          },
-          {
-            "name":"Episode 10",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1njehnaTspQSn9vsIPDgTlLJpTe75Z4kp/view?usp=sharing"
           }
         ]
       } 
@@ -965,6 +957,64 @@
     "posterUrl":"https://i.ibb.co/JBTfDrX/MV5-BZj-Rh-ZDE3-OTgt-ZDI5-Yi00-NGE4-LTg4-NGMt-Ym-Zk-Mj-Mw-Mjky-MGE5-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-I1-MTgw.jpg",
     "movieUrl":"https://drive.google.com/file/d/1gvlUB5FPmhhl6r_TRIjeFivJvE6tnaQh/view?usp=sharing"
    },
+   {
+    "name": "A Chilling Adventures Of Sabrina",
+    "type": "american",
+    "overview": "2018 | 18+ | 4 Seasons | TV Shows Based on Comics",
+    "posterUrl": "https://i.ibb.co/s2tPPh9/MV5-BMTg3-Mj-Y1-MDUx-MV5-BMl5-Ban-Bn-Xk-Ft-ZTgw-Mzcz-NTU2-Nz-M-V1.jpg",
+    "coverUrl": "https://i.ibb.co/vc4VX8g/1158835.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/14LByj0n9AvnohfrYC2bHIj4gX-wXHq-w/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/14_y3rCd6y42nxFt4dw2rgKQUwV-vKXEi/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/14kmy2_I4DmLieg_BSt2ih9l6DPc_mHAi/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/14mQLqm04P904Rh1jB9YepKayZ9Z1mrPM/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/15IeTt6lqOET0CQftN2QAqGpkl84Q06oI/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/15G-i8PG9lsg9UyuIEt2dple3pMcSI6Bh/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/15wdOlx61CxB5CdOjkqgV7jFRUX4PxLWl/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/16-_0sEWXZOO5NMKMxRUJOB84OqP0bIR0/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/16ADP-ZTXbU7sne--l-osn8zEXC8tJikm/view?usp=sharing"
+          },
+          {
+            "name":"Episode 10",
+            "link": "https://drive.google.com/file/d/16LE4oFHUokqkEt5dA_9NP_rhx0eBDjcv/view?usp=sharing"
+          },
+          {
+            "name":"Episode 11",
+            "link": "https://drive.google.com/file/d/16VNlKLD2iIar89_8bZZjztBiTYAY6XuL/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
    {
     "name":"Sheryl 2022",
     "type":"movie",
