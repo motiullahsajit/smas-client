@@ -1,5 +1,533 @@
 [
   {
+    "name": "Obi-Wan Kenobi",
+    "type": "american",
+    "overview": "2022 | 16+ | 1 Season | Sci-Fi",
+    "posterUrl": "https://i.ibb.co/Qvs2FYF/MV5-BOTAx-OTlm-OTAt-Mj-A0-Yy00-Yj-Vj-LWE3-OTQt-Yj-Az-MWMx-OTAw-ZTY1-Xk-Ey-Xk-Fqc-Gde-QXVy-MTM1-MTE1.jpg",
+    "coverUrl": "https://i.ibb.co/vLbxmtR/1215196.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1h3KmA25mhAOFSYffD2ETbs_ZSpQhbwaF/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/11GS7pNTrtbjodqnkcDhNj7vtqga0F9Wt/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": ""
+          },
+          {
+            "name": "Episode 04",
+            "link": ""
+          },
+          {
+            "name": "Episode 05",
+            "link": ""
+          },
+          {
+            "name": "Episode 06",
+            "link": ""
+          },
+          {
+            "name":"Episode 07",
+            "link": ""
+          },
+          {
+            "name":"Episode 08",
+            "link": ""
+          },
+          {
+            "name":"Episode 09",
+            "link": ""
+          },
+          {
+            "name":"Episode 10",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Prison Break",
+    "type": "american",
+    "overview": "2005 | 16+ | 5 Season | US TV Show",
+    "posterUrl": "https://i.ibb.co/09CYcJB/p185128-b-v9-ah.jpg",
+    "coverUrl": "https://i.ibb.co/HtDT75c/1262051.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1q0KIHWRWQ6rUC4NHMzdiBLnsH4Vsf7mP/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1YzbKuKbqCBhZ8DcZywuHeGjEAcMtPCM8/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1fQPvVDuD7MsC3gTmtoLuCLoO8vLYzeIR/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1_yof3A1xa3_sJ0K04O_Y3q-sCvh_bbTX/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1Z-76XQnDCZ1awzg4Vynp6cdvy5rbSqw2/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1IqCzwjCdfsxkAmrmCuLEOt3ovK1X2nxk/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1ReakWj1xelSMmgonHcn2zagjZFifMoDr/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/1cjTsoZU7rur1M83KjqreqYIRc6hKRCfT/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/1DlB_rmfrmQAGHPekP7PgBgWrK1l_jOXJ/view?usp=sharing"
+          },
+          {
+            "name":"Episode 10",
+            "link": "https://drive.google.com/file/d/1Dg_KN5wvOaU2pRB6UZSH-mfoIv7oB4Ym/view?usp=sharing"
+          },
+          {
+            "name": "Episode 11",
+            "link": "https://drive.google.com/file/d/1Z1PaaJlhZ0iJ5OS4LH_0L6aUgMeqqA14/view?usp=sharing"
+          },
+          {
+            "name": "Episode 12",
+            "link": "https://drive.google.com/file/d/1eDlmDuSlLyhtNbX834iKcrtScAosEjcE/view?usp=sharing"
+          },
+          {
+            "name": "Episode 13",
+            "link": "https://drive.google.com/file/d/1RVXFi7kvmbDs3Ra7ECiU29SsYGCtThd4/view?usp=sharing"
+          },
+          {
+            "name": "Episode 14",
+            "link": "https://drive.google.com/file/d/1lbWFVJJTENMbjnpHx4Cuvkzeylx_OwJu/view?usp=sharing"
+          },
+          {
+            "name": "Episode 15",
+            "link": "https://drive.google.com/file/d/1TqVG4Lby-UEfD5o--8E4NGVBYqn0vOVv/view?usp=sharing"
+          },
+          {
+            "name": "Episode 16",
+            "link": "https://drive.google.com/file/d/12iRvu5k2wzZ98Wb5PkOA_uNfFWR3JF7G/view?usp=sharing"
+          },
+          {
+            "name":"Episode 17",
+            "link": "https://drive.google.com/file/d/1WUKVgf2gYWxatYMbNfvcNm1vCXG73cc9/view?usp=sharing"
+          },
+          {
+            "name":"Episode 18",
+            "link": "https://drive.google.com/file/d/1QgMb4et1EIdLvlRW_F0G8v4WoP1QLXfp/view?usp=sharing"
+          },
+          {
+            "name":"Episode 19",
+            "link": "https://drive.google.com/file/d/1OSPdaVqwNO4NN4_jQqwbjW8nWbyHb_H2/view?usp=sharing"
+          },
+          {
+            "name":"Episode 20",
+            "link": "https://drive.google.com/file/d/197i7Nyr-5zNqRyRVH2SowsEvELcG6w-o/view?usp=sharing"
+          },
+          {
+            "name": "Episode 21",
+            "link": "https://drive.google.com/file/d/1Yecg9ttaZGikz28vEcsfur1OFzw1RExd/view?usp=sharing"
+          },
+          {
+            "name": "Episode 22",
+            "link": "https://drive.google.com/file/d/1SV4qsTmZrTJ9RroMpQG176OHiVe4Re4X/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 2",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": ""
+          },
+          {
+            "name": "Episode 02",
+            "link": ""
+          },
+          {
+            "name": "Episode 03",
+            "link": ""
+          },
+          {
+            "name": "Episode 04",
+            "link": ""
+          },
+          {
+            "name": "Episode 05",
+            "link": ""
+          },
+          {
+            "name": "Episode 06",
+            "link": ""
+          },
+          {
+            "name":"Episode 07",
+            "link": ""
+          },
+          {
+            "name":"Episode 08",
+            "link": ""
+          },
+          {
+            "name":"Episode 09",
+            "link": ""
+          },
+          {
+            "name":"Episode 10",
+            "link": ""
+          },
+          {
+            "name": "Episode 11",
+            "link": ""
+          },
+          {
+            "name": "Episode 12",
+            "link": ""
+          },
+          {
+            "name": "Episode 13",
+            "link": ""
+          },
+          {
+            "name": "Episode 14",
+            "link": ""
+          },
+          {
+            "name": "Episode 15",
+            "link": ""
+          },
+          {
+            "name": "Episode 16",
+            "link": ""
+          },
+          {
+            "name":"Episode 17",
+            "link": ""
+          },
+          {
+            "name":"Episode 18",
+            "link": ""
+          },
+          {
+            "name":"Episode 19",
+            "link": ""
+          },
+          {
+            "name":"Episode 20",
+            "link": ""
+          },
+          {
+            "name": "Episode 21",
+            "link": ""
+          },
+          {
+            "name": "Episode 22",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "name": "Season 3",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": ""
+          },
+          {
+            "name": "Episode 02",
+            "link": ""
+          },
+          {
+            "name": "Episode 03",
+            "link": ""
+          },
+          {
+            "name": "Episode 04",
+            "link": ""
+          },
+          {
+            "name": "Episode 05",
+            "link": ""
+          },
+          {
+            "name": "Episode 06",
+            "link": ""
+          },
+          {
+            "name":"Episode 07",
+            "link": ""
+          },
+          {
+            "name":"Episode 08",
+            "link": ""
+          },
+          {
+            "name":"Episode 09",
+            "link": ""
+          },
+          {
+            "name":"Episode 10",
+            "link": ""
+          },
+          {
+            "name": "Episode 11",
+            "link": ""
+          },
+          {
+            "name": "Episode 12",
+            "link": ""
+          },
+          {
+            "name": "Episode 13",
+            "link": ""
+          },
+          {
+            "name": "Episode 14",
+            "link": ""
+          },
+          {
+            "name": "Episode 15",
+            "link": ""
+          },
+          {
+            "name": "Episode 16",
+            "link": ""
+          },
+          {
+            "name":"Episode 17",
+            "link": ""
+          },
+          {
+            "name":"Episode 18",
+            "link": ""
+          },
+          {
+            "name":"Episode 19",
+            "link": ""
+          },
+          {
+            "name":"Episode 20",
+            "link": ""
+          },
+          {
+            "name": "Episode 21",
+            "link": ""
+          },
+          {
+            "name": "Episode 22",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "name": "Season 4",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": ""
+          },
+          {
+            "name": "Episode 02",
+            "link": ""
+          },
+          {
+            "name": "Episode 03",
+            "link": ""
+          },
+          {
+            "name": "Episode 04",
+            "link": ""
+          },
+          {
+            "name": "Episode 05",
+            "link": ""
+          },
+          {
+            "name": "Episode 06",
+            "link": ""
+          },
+          {
+            "name":"Episode 07",
+            "link": ""
+          },
+          {
+            "name":"Episode 08",
+            "link": ""
+          },
+          {
+            "name":"Episode 09",
+            "link": ""
+          },
+          {
+            "name":"Episode 10",
+            "link": ""
+          },
+          {
+            "name": "Episode 11",
+            "link": ""
+          },
+          {
+            "name": "Episode 12",
+            "link": ""
+          },
+          {
+            "name": "Episode 13",
+            "link": ""
+          },
+          {
+            "name": "Episode 14",
+            "link": ""
+          },
+          {
+            "name": "Episode 15",
+            "link": ""
+          },
+          {
+            "name": "Episode 16",
+            "link": ""
+          },
+          {
+            "name":"Episode 17",
+            "link": ""
+          },
+          {
+            "name":"Episode 18",
+            "link": ""
+          },
+          {
+            "name":"Episode 19",
+            "link": ""
+          },
+          {
+            "name":"Episode 20",
+            "link": ""
+          },
+          {
+            "name": "Episode 21",
+            "link": ""
+          },
+          {
+            "name": "Episode 22",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "name": "Season 5",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": ""
+          },
+          {
+            "name": "Episode 02",
+            "link": ""
+          },
+          {
+            "name": "Episode 03",
+            "link": ""
+          },
+          {
+            "name": "Episode 04",
+            "link": ""
+          },
+          {
+            "name": "Episode 05",
+            "link": ""
+          },
+          {
+            "name": "Episode 06",
+            "link": ""
+          },
+          {
+            "name":"Episode 07",
+            "link": ""
+          },
+          {
+            "name":"Episode 08",
+            "link": ""
+          },
+          {
+            "name":"Episode 09",
+            "link": ""
+          },
+          {
+            "name":"Episode 10",
+            "link": ""
+          },
+          {
+            "name": "Episode 11",
+            "link": ""
+          },
+          {
+            "name": "Episode 12",
+            "link": ""
+          },
+          {
+            "name": "Episode 13",
+            "link": ""
+          },
+          {
+            "name": "Episode 14",
+            "link": ""
+          },
+          {
+            "name": "Episode 15",
+            "link": ""
+          },
+          {
+            "name": "Episode 16",
+            "link": ""
+          },
+          {
+            "name":"Episode 17",
+            "link": ""
+          },
+          {
+            "name":"Episode 18",
+            "link": ""
+          },
+          {
+            "name":"Episode 19",
+            "link": ""
+          },
+          {
+            "name":"Episode 20",
+            "link": ""
+          },
+          {
+            "name": "Episode 21",
+            "link": ""
+          },
+          {
+            "name": "Episode 22",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Breaking Bad",
     "type": "american",
     "overview": "2008 | 18+ | 5 Seasons | TV Dramas",
@@ -7668,114 +8196,8 @@
       }
     ]
   },
-  {
-    "name": "",
-    "type": "",
-    "overview": "",
-    "posterUrl": "",
-    "coverUrl": "",
-    "seasons": [
-      {
-        "name": "Season 1",
-        "episodes": [
-          {
-            "name": "Episode 01",
-            "link": ""
-          },
-          {
-            "name": "Episode 02",
-            "link": ""
-          },
-          {
-            "name": "Episode 03",
-            "link": ""
-          },
-          {
-            "name": "Episode 04",
-            "link": ""
-          },
-          {
-            "name": "Episode 05",
-            "link": ""
-          },
-          {
-            "name": "Episode 06",
-            "link": ""
-          },
-          {
-            "name":"Episode 07",
-            "link": ""
-          },
-          {
-            "name":"Episode 08",
-            "link": ""
-          },
-          {
-            "name":"Episode 09",
-            "link": ""
-          },
-          {
-            "name":"Episode 10",
-            "link": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "",
-    "type": "",
-    "overview": "",
-    "posterUrl": "",
-    "coverUrl": "",
-    "seasons": [
-      {
-        "name": "Season 1",
-        "episodes": [
-          {
-            "name": "Episode 01",
-            "link": ""
-          },
-          {
-            "name": "Episode 02",
-            "link": ""
-          },
-          {
-            "name": "Episode 03",
-            "link": ""
-          },
-          {
-            "name": "Episode 04",
-            "link": ""
-          },
-          {
-            "name": "Episode 05",
-            "link": ""
-          },
-          {
-            "name": "Episode 06",
-            "link": ""
-          },
-          {
-            "name":"Episode 07",
-            "link": ""
-          },
-          {
-            "name":"Episode 08",
-            "link": ""
-          },
-          {
-            "name":"Episode 09",
-            "link": ""
-          },
-          {
-            "name":"Episode 10",
-            "link": ""
-          }
-        ]
-      }
-    ]
-  },
+ 
+ 
   {
     "name": "",
     "type": "",
