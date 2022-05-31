@@ -34,6 +34,12 @@ const SeriesPage = () => {
                 <p className="banner__description_series">
                   {series?.overview}
                 </p>
+                <p className="banner__about_series">
+                  {series?.bio}
+                </p>
+
+
+
               </div>
               <div className="banner--fadeBottom_series" />
             </header>
