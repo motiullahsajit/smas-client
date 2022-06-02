@@ -1,5 +1,95 @@
 [ 
   {
+    "name": "Katakuti",
+    "type": "bengali",
+    "overview": "2022 | 18+ | 1 Season | Crime Thriller",
+    "bio":"This story depicts the heart wrenching journey of the character transition of Aditya. How life's turn of events turns an innocent boy to this radical character",
+    "posterUrl": "https://i.ibb.co/mGx9S68/download.jpg",
+    "coverUrl": "https://i.ibb.co/THm4Jx5/Katakuti-1.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1QF2Ez9kN9luu_4-h7sMq7Eu_vur0sC33/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1EfXw_S68YDcJ4wpp523qveVg4guP1lUr/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1FpzXoUu_jpVksCdZQ6FvHqsIVdHlYQrW/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1n9BEYxEyPFEE4Fp0GhosdcrgkCAPPreV/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1dwuLrYClthfmEzQhxAG01ULOJRjw55iJ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/178mbioBEHmg4XAZsA_T-JHMWGc7m8-oj/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dour",
+    "type": "bengali",
+    "overview": "2022 | 16+ | 1 Season | Thriller",
+    "bio":"This is the story of three conflicted men on an intense chase revolving around a missing car. What is the mystery behind this car?",
+    "posterUrl": "https://i.ibb.co/rQnjmwp/MV5-BMGQw-MDY3-Mm-Qt-ODBm-OS00-M2-Nk-LTlj-Y2-Et-ZTY5-Zm-I5-ZGNh-Yjhj-Xk-Ey-Xk-Fqc-Gde-QXVy-OTQ0-MDUw.jpg",
+    "coverUrl": "https://i.ibb.co/CvW6b2S/MV5-BODk5-OWIz-N2-It-Nz-E3-MS00-NWFj-LWIw-ZTgt-Y2-Mw-ZDYw-Mz-Uw-Yj-A4-Xk-Ey-Xk-Fqc-Gde-QXRy-YW5z-Y29.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/12LwQQf-yUJK9AGDFAZEzwmrDmWTId9Or/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1eExnOSskUtZNFWU9wLV7XzShBU_pi15E/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1rG0t9lcKzq8v3Z3s4SgPlBMOIbUy254p/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/14pau-qefgIU2CsVZH2AP1pWAeICTeFhW/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1X21wTMJiz-0AD1FP0u7KWAHVX7hzjSe9/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1ydeh6KfQAeTO0CU6NA3Sz75q2Prnt1NR/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1vtHzWAxgAYVTb96rXeQBpKlGToNxzr5A/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/19IhG9690U-gOJNzxcdNZ85GdTCd9ZrLK/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/1W3uit77sXr_TdFrG6cZYIs7ummgHQXoY/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Stranger Things",
     "type": "american",
     "overview": "2016 | 16+ | 4 Seasons | US TV Shows",

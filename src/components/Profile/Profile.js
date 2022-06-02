@@ -52,6 +52,7 @@ const Profile = () => {
             {
               user.subscription === false && <button onClick={() => navigateTo('subscription')} className='primary_button'>Upgrade To Premium</button>
             }      
+                <button onClick={() => navigateTo('')} className='primary_button_sub'>Back To Home</button>
           </div>
         </div>
       </section>
@@ -59,6 +60,7 @@ const Profile = () => {
 
     </main>
   );
+  
 };
 
 export default Profile;
