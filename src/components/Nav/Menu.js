@@ -102,12 +102,12 @@ export default function AccountMenu() {
           Subscription
         </MenuItem>
         <Divider />
-        <MenuItem onClick={handleLogout}>
+        {/* <MenuItem onClick={handleLogout}>
           <ListItemIcon>
             <Logout fontSize="small" />
           </ListItemIcon>
           Logout
-        </MenuItem>
+        </MenuItem> */}
       </Menu>
     </React.Fragment>
   );
