@@ -90,6 +90,7 @@
   },
 
 
+
   {
     "name":"Cobalt Blue 2022",
     "type":"movie",
@@ -843,7 +844,12 @@
     "movieUrl":"https://drive.google.com/file/d/12MvWAn0TGDHLo0PAfy_mFDROcE0qOXNq/view?usp=sharing"
   },
 
-
+  {
+    "name":"Jodi Kintu Tobuo 2021",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/Z1Mfr0q/MV5-BMj-Ni-MGIz-M2-Mt-Nzc1-OC00-ZTUy-LWEz-MGEt-Yj-Ay-Yj-Jk-MDEw-ZDk4-Xk-Ey-Xk-Fqc-Gde-QXVy-MTMw-OTcw.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1Cu_SlTeXOtlHzJ92MfjUWKdBW1QjQXX-/view?usp=sharing"
+  },
   {
     "name":"Golondaaj 2021",
     "type":"movie",
@@ -1407,12 +1413,7 @@
     "movieUrl":""
   },
 
-  {
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
+
 
   {
     "name":"",
