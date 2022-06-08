@@ -1,5 +1,108 @@
 [
   {
+    "name":"Ms Marvel",
+    "type": "american",
+    "overview": "2022 | 18+ | 1 Season | Adventure | Tv Series",
+    "posterUrl": "https://i.ibb.co/hHjKSyL/msmarvel-lob-crd-04.jpg",
+    "coverUrl": "https://i.ibb.co/NjpM55t/1223923.jpg",
+    "seasons": [
+      {
+        "name": "Season 1 English",
+        "episodes": [
+          {
+            "name": "Episode 01 720p",
+            "link": "https://drive.google.com/file/d/1AqcxccUWbSRDchD7gA0ZOgLsJlMnveWs/view?usp=sharing"
+          },
+          {
+            "name": "Episode 01 1080p",
+            "link": "https://drive.google.com/file/d/1kUAN-OcTKza1di841NQ_1aV5FJ2KFxoT/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02 Next Wednesday",
+            "link": ""
+          },
+          {
+            "name": "Episode 03",
+            "link": ""
+          },
+          {
+            "name": "Episode 04",
+            "link": ""
+          },
+          {
+            "name": "Episode 05",
+            "link": ""
+          },
+          {
+            "name": "Episode 06",
+            "link": ""
+          },
+          {
+            "name":"Episode 07",
+            "link": ""
+          },
+          {
+            "name":"Episode 08",
+            "link": ""
+          },
+          {
+            "name":"Episode 09",
+            "link": ""
+          },
+          {
+            "name":"Episode 10",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "name": "Season 1 Hindi",
+        "episodes": [
+          {
+            "name": "Episode 01 720p",
+            "link": "https://drive.google.com/file/d/1gxCwves-jzSEF_GonkZ1stz9TFmiZzJI/view?usp=sharing"
+          },
+          {
+            "name": "Episode 01 1080p",
+            "link": "https://drive.google.com/file/d/1lndJP7OXun3PvwCNvUXKWM4uVP8CViNs/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02 Next Wednesday",
+            "link": ""
+          },
+          {
+            "name": "Episode 04",
+            "link": ""
+          },
+          {
+            "name": "Episode 05",
+            "link": ""
+          },
+          {
+            "name": "Episode 06",
+            "link": ""
+          },
+          {
+            "name":"Episode 07",
+            "link": ""
+          },
+          {
+            "name":"Episode 08",
+            "link": ""
+          },
+          {
+            "name":"Episode 09",
+            "link": ""
+          },
+          {
+            "name":"Episode 10",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Dark",
     "type": "german",
     "overview": "2017 | 18+ | 3 Seasons | TV Drama",
@@ -6963,7 +7066,7 @@
           },
           {
             "name": "Episode 03",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1uQlI3hqSIrsGrGxODJeAXQR1aKy8drrl/view?usp=sharing"
           },
           {
             "name": "Episode 04",
