@@ -3,6 +3,7 @@
     "name":"Ms Marvel",
     "type": "american",
     "overview": "2022 | 18+ | 1 Season | Adventure | Tv Series",
+    "bio":"New Jersey raised Kamala Khan learns she has polymorphous powers",
     "posterUrl": "https://i.ibb.co/hHjKSyL/msmarvel-lob-crd-04.jpg",
     "coverUrl": "https://i.ibb.co/NjpM55t/1223923.jpg",
     "seasons": [
@@ -151,6 +152,110 @@
           }
          ]
        }
+    ]
+  },
+  {
+    "name": "The Flash",
+    "type": "american",
+    "overview": "2014 | 13+ | 7 Seasons | US TV Shows",
+    "bio":"A forensics expert who wakes from a coma with amazing new powers squares off against forces threatening the city in this live-action superhero romp.",
+    "posterUrl": "https://i.ibb.co/mGGGwCr/MV5-BMDIz-Nz-Yw-NTct-ZWY4-Mi00-Yj-Q2-LWI5-YWYt-Mzdm-NDgw-MGI4-Yzk1-Xk-Ey-Xk-Fqc-Gde-QXVy-MTkx-Nj-Uy.jpg",
+    "coverUrl": "https://i.ibb.co/sRzVfvv/8484.jpg",
+    "seasons": [
+      {
+        "name": "Season 8",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1wEC8ik4lurBk-JYp8mUFUG9c8K4ZgE_L/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1Yda1uHC-MZYeH6eXFCT96LNP2toZ0El6/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1SOc0FIc7DCrd-4cQLKQowgG0FmU2G9JV/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1XEQZEO1XIelNGofh2B4RG5tuVA-oGt0G/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1-BJKZ_ooV3EW1SSujTgdq8cjC9-dxW-5/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1ap8EZ3M3549CbU9dO5Ks6GbBfgZr6Xdn/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1hgMeWPkojRK8V7lCVyIbdQOOn2-zfS6i/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/1Ew2skRRzIKrbkv4YhgunABofnstm5aof/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/1BWh7lW_cRQkR7HLrppszZY8knHGDFaSI/view?usp=sharing"
+          },
+          {
+            "name":"Episode 10",
+            "link": "https://drive.google.com/file/d/1HPAAdsZ-nOI95HuNiqnVTsZUSUKaQCwn/view?usp=sharing"
+          },
+          {
+            "name": "Episode 11",
+            "link": "https://drive.google.com/file/d/1xHCtiGxyGR4o-YeUAzXioNdZRpze2wGI/view?usp=sharing"
+          },
+          {
+            "name": "Episode 12",
+            "link": "https://drive.google.com/file/d/1HcR2gMOD_pSHofRPYByKlPXsHDBwi6-N/view?usp=sharing"
+          },
+          {
+            "name": "Episode 13",
+            "link": "https://drive.google.com/file/d/1ApYbj9UYopXqhPWeX4GOzhcjvyRtzZuo/view?usp=sharing"
+          },
+          {
+            "name": "Episode 14",
+            "link": "https://drive.google.com/file/d/10GVJEv4PPmKtwl5TlPO7G0AeIcbFnt1D/view?usp=sharing"
+          },
+          {
+            "name": "Episode 15",
+            "link": "https://drive.google.com/file/d/1OcljbpH99Kyn53a2s9249WDFGlC_wgx3/view?usp=sharing"
+          },
+          {
+            "name": "Episode 16",
+            "link": "https://drive.google.com/file/d/1yqhhl0E0fZAa9hebqpVa-azA6E9w0ljw/view?usp=sharing"
+          },
+          {
+            "name":"Episode 17",
+            "link": ""
+          },
+          {
+            "name":"Episode 18",
+            "link": ""
+          },
+          {
+            "name":"Episode 19",
+            "link": ""
+          },
+          {
+            "name":"Episode 20",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "name": "Season 1-7 Coming Soon",
+        "episodes": [
+          {
+            "name": "Uploading",
+            "link": ""
+          }
+        ]
+      }
     ]
   },
   {
