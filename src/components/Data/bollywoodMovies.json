@@ -1,5 +1,31 @@
 [
   {
+    "name": "Ardh",
+    "type": "indian",
+    "overview": "2022 | 17+ | 1h 23m | Comedy",
+    "posterUrl": "https://i.ibb.co/16qH7Zn/1920x77045bd7aa4e15749caa1d7164d421136b5.webp",
+    "coverUrl": "https://i.ibb.co/0DYqmpG/1920x77045bd7aa4e15749caa1d7164d421136b5.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "480p Hindi",
+            "link": "https://drive.google.com/file/d/1HxdddKOZ246UQr0n6R1-UD-ZGOHBC4B7/view?usp=sharing"
+          },
+          {
+            "name": "720p Hindi",
+            "link": "https://drive.google.com/file/d/1gJ8eHY5tFHsqUyPxpAB-VJgnrF-Q5PrM/view?usp=sharing"
+          },
+          {
+            "name": "1080p Hindi",
+            "link": "https://drive.google.com/file/d/1ndTZ4GHsYkenI_HZeEAjmPoIm3RB42Eu/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Bhool Bhulaiyaa 2",
     "type": "indian",
     "overview": "2022 | 17+ | Movie | Horror",
@@ -506,6 +532,19 @@
     "posterUrl": "https://i.ibb.co/qnY6jJK/MV5-BM2-Jl-Nz-M1-NDEt-OWFm-YS00-NWJm-LThk-Nm-Mt-Nj-Yz-N2-Yw-Ym-Fi-N2-E3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEz-N.jpg",
     "movieUrl": "https://drive.google.com/file/d/1NITFBWfNlDtXp6d4IqXoH2Ks3jdZRqTi/view?usp=sharing"
   },
+  {
+    "name":"Mardaani 2014",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/QfY97Gt/MV5-BMj-I1-MTA5-Mz-M2-MF5-BMl5-Ban-Bn-Xk-Ft-ZTgw-Njk2-MDgw-Mj-E-V1.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1mAoO0qK4BvNliK5i_TI-5oOPyfkH3NYF/view?usp=sharing"
+  },
+
+  {
+    "name":"Mardaani 2 2019",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/7XhNsk7/MV5-BZGVm-OWUx-OTQt-MGJh-Zi00-OTY3-LWIz-NWYt-ODc3-NWU1-MGFj-Yz-Zj-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA3-OTY2-Nz.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1S8hgCk3yAAB3VGqoBhuB6Pea4Wc5wYkn/view?usp=sharing"
+  },
 
   {
     "name": "Forensic",
@@ -932,6 +971,95 @@
       }
     ]
   },
+  {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  
+  {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
     
   {
     "name": "",
@@ -978,7 +1106,6 @@
       }
     ]
   },
-    
   {
     "name": "",
     "type": "",
@@ -1112,28 +1239,6 @@
     ]
   },
   {
-    "name": "",
-    "type": "",
-    "overview": "2022 | 17+ | Movie | Horror",
-    "posterUrl": "",
-    "coverUrl": "",
-    "seasons": [
-      {
-        "name": "Watch Now",
-        "episodes": [
-          {
-            "name": "720p Hindi",
-            "link": ""
-          },
-          {
-            "name": "1080p Hindi",
-            "link": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name":"",
     "type":"movie",
     "posterUrl":"",
@@ -1555,19 +1660,6 @@
     "movieUrl":""
   },
 
-{
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
-
-  {
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
 
   {
     "name":"",
