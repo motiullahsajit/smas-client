@@ -26,6 +26,33 @@
     ]
   },
   {
+    "name": "Rehana Mariyam Noor",
+    "type": "bengali",
+    "overview": "2021 | 18+ | 1h 47m | Thriller",
+    "bio":"An assistant professor at a local medical college, finds herself in a difficult position after witnessing a sexual assault where she knows both the victim and the perpetrator.",
+    "posterUrl": "https://i.ibb.co/ZK5mvP2/MV5-BY2-Ez-YTJk-Nm-It-Nz-Q4-OS00-OWNk-LTlj-ZDIt-YTJi-Yj-Jj-NWRj-OGZm-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Yy-MTE.jpg",
+    "coverUrl": "https://i.ibb.co/z5brmcy/Rehana4-H-2021.webp",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "480p Bengali",
+            "link": "https://drive.google.com/file/d/1g0XL8aNDMa_8zEf5qvQv09tcpJKDvgYw/view?usp=sharing"
+          },
+          {
+            "name": "720p Bengali",
+            "link": "https://drive.google.com/file/d/11_0TEqWhSlaOBLsbM2qZOsnTVyhRBfNj/view?usp=sharing"
+          },
+          {
+            "name": "1080p Bengali",
+            "link": "https://drive.google.com/file/d/1xjaB5VLcUzd82rtRl78rPADjNwt0cj_F/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Bhool Bhulaiyaa 2",
     "type": "indian",
     "overview": "2022 | 17+ | Movie | Horror",
@@ -162,10 +189,10 @@
   },
 
   {
-    "name": "Bachchhan Paandey",
+    "name": "Bachchhan Paandey 2022",
     "type": "movie",
     "posterUrl": "https://drive.google.com/uc?id=1o1QfU4jUOjhosO3j7uy6CuRf02pghfhf",
-    "movieUrl": "https://drive.google.com/file/d/18dbIwDR4lQaZgXrUyLplOL0K80KQrEVX/view?usp=sharing"
+    "movieUrl": "https://drive.google.com/file/d/13etMj-doUMb-6RaNBYwMWXvmjrJBbC22/view?usp=sharing"
   },
 
   {
@@ -313,7 +340,7 @@
     "name": "Bachchhan Pandey",
     "type": "movie",
     "posterUrl": "https://i.ibb.co/3h5DFRX/MV5-BOWE5-Zjlj-ZDEt-YTZm-Ny00-MGVl-LWJj-Nj-Et-MWUw-Mz-Uy-MDc5-NTA3-Xk-Ey-Xk-Fqc-Gde-QXVy-ODgz-MDMw-O.jpg ",
-    "movieUrl": "https://drive.google.com/file/d/1xQAppAnZdx5M02B_isyG5ehr6qa1bQAH/view?usp=sharing"
+    "movieUrl": "https://drive.google.com/file/d/13etMj-doUMb-6RaNBYwMWXvmjrJBbC22/view?usp=sharing"
   },
   {
     "name": "Gehraiyaan",
@@ -508,6 +535,13 @@
     "posterUrl": "https://i.ibb.co/kSffkCH/MV5-BODc0-Nj-Q2-NTUt-Nz-Rk-ZC00-MDQ3-LWJl-ZDQt-Nz-Jh-YTky-Nm-Yw-MDZk-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-E4-Nj.jpg",
     "movieUrl": "https://drive.google.com/file/d/1rBjBNkhSOQqF7aldErv6kOh-_zR4UyGz/view?usp=sharing"
   },
+  {
+    "name":"Mukhosh 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/Tg29jNH/MV5-BNWY5-ODQz-Zm-Et-Nj-Y1-YS00-Zj-Zl-LWEy-ZDIt-MGI1-ZDVi-Zm-Ix-M2-Jm-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Yx-MT.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1aFW4cfD1gGVaHYZhOn9p9I7JTgGxxEi5/view?usp=sharing"
+  },
+
   {
     "name": "Dhamaka",
     "type": "movie",
@@ -1128,6 +1162,7 @@
       }
     ]
   },
+
   {
     "name": "",
     "type": "",
@@ -1217,28 +1252,6 @@
     ]
   },
   {
-    "name": "",
-    "type": "",
-    "overview": "2022 | 17+ | Movie | Horror",
-    "posterUrl": "",
-    "coverUrl": "",
-    "seasons": [
-      {
-        "name": "Watch Now",
-        "episodes": [
-          {
-            "name": "720p Hindi",
-            "link": ""
-          },
-          {
-            "name": "1080p Hindi",
-            "link": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name":"",
     "type":"movie",
     "posterUrl":"",
@@ -1866,12 +1879,6 @@
     "movieUrl":""
   },
 
-  {
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
 
   {
     "name":"",
