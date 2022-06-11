@@ -53,6 +53,12 @@
     ]
   },
   {
+    "name":"Special 26 2013",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/MsPVf0v/MV5-BMTQ1-NDI5-Mj-Mz-NF5-BMl5-Ban-Bn-Xk-Ft-ZTcw-MTc0-MDQw-OQ-V1-FMjpg-UX1000.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1FqNTEEK-pCOdC3gw69utlUhq6_OlJWEX/view?usp=sharing"
+  },
+  {
     "name": "Bhool Bhulaiyaa 2",
     "type": "indian",
     "overview": "2022 | 17+ | Movie | Horror",
@@ -1830,12 +1836,7 @@
     "movieUrl":""
   },
 
-  {
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
+
 
   {
     "name":"",
