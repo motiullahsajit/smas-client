@@ -1,5 +1,32 @@
 [
   {
+  "name": "See For Me",
+  "type": "hollywood",
+  "overview": "2021 | 17+ | 1h 32m | Crime Thriller",
+  "bio":"When blind former skier Sophie cat-sits in a secluded mansion, three thieves invade for the hidden safe. Sophie's only defense is army veteran Kelly. Kelly helps Sophie defend herself against the invaders to survive.",
+  "posterUrl": "https://i.ibb.co/vDqVB9D/MV5-BNTM0-ODM2-Zm-It-Mj-Nj-NS00-Nj-I2-LWFi-Nz-Qt-NDVm-ZGRl-ODcw-M2-Uw-Xk-Ey-Xk-Fqc-Gde-QXVy-MTE1-Mz.jpg",
+  "coverUrl": "https://i.ibb.co/0Fwb7yG/MV5-BM2-Jm-Ym-Y3-NTgt-M2-U0-OC00-N2-U5-LTgy-Yz-Ut-OGY2-Zm-Rk-MWRl-Nm-E0-Xk-Ey-Xk-Fqc-Gde-QWxia-WFtb2.jpg",
+  "seasons": [
+    {
+      "name": "Watch Now",
+      "episodes": [
+        {
+          "name": "480p Hin+Eng",
+          "link": "https://drive.google.com/file/d/1RaC-d9-RGGFAFmjsfUjnHrLPoWKMcQpy/view?usp=sharing"
+        },
+        {
+          "name": "720p Hindi+Eng",
+          "link": "https://drive.google.com/file/d/1Mweqxrq3bRS0SXPePf9XMz1jqoUxu10Q/view?usp=sharing"
+        },
+        {
+          "name": "1080p Hin+Eng",
+          "link": "https://drive.google.com/file/d/1AdZsvxk6D6w34IMKg9fVIZ-KE0opQ1q7/view?usp=sharing"
+        }
+      ]
+    }
+  ]
+},
+  {
     "name":"Double Threat 2022",
     "type":"movie",
     "posterUrl":"https://i.ibb.co/kx36JRb/48715-1-DOUBLE-THREAT-3000x3000-2cb69df5-141f-ec11-8288-0e415c66ce57.jpg",
@@ -3518,7 +3545,7 @@
 {
   "name": "",
   "type": "",
-  "overview": "2022 | 17+ | Movie | Horror",
+  "overview": "",
   "posterUrl": "",
   "coverUrl": "",
   "seasons": [
@@ -3537,6 +3564,447 @@
     }
   ]
 },
+{
+  "name": "",
+  "type": "",
+  "overview": "",
+  "posterUrl": "",
+  "coverUrl": "",
+  "seasons": [
+    {
+      "name": "Watch Now",
+      "episodes": [
+        {
+          "name": "720p Hindi",
+          "link": ""
+        },
+        {
+          "name": "1080p Hindi",
+          "link": ""
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "",
+  "type": "",
+  "overview": "",
+  "posterUrl": "",
+  "coverUrl": "",
+  "seasons": [
+    {
+      "name": "Watch Now",
+      "episodes": [
+        {
+          "name": "720p Hindi",
+          "link": ""
+        },
+        {
+          "name": "1080p Hindi",
+          "link": ""
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "",
+  "type": "",
+  "overview": "",
+  "posterUrl": "",
+  "coverUrl": "",
+  "seasons": [
+    {
+      "name": "Watch Now",
+      "episodes": [
+        {
+          "name": "720p Hindi",
+          "link": ""
+        },
+        {
+          "name": "1080p Hindi",
+          "link": ""
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "",
+  "type": "",
+  "overview": "",
+  "posterUrl": "",
+  "coverUrl": "",
+  "seasons": [
+    {
+      "name": "Watch Now",
+      "episodes": [
+        {
+          "name": "720p Hindi",
+          "link": ""
+        },
+        {
+          "name": "1080p Hindi",
+          "link": ""
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "",
+  "type": "",
+  "overview": "",
+  "posterUrl": "",
+  "coverUrl": "",
+  "seasons": [
+    {
+      "name": "Watch Now",
+      "episodes": [
+        {
+          "name": "720p Hindi",
+          "link": ""
+        },
+        {
+          "name": "1080p Hindi",
+          "link": ""
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "",
+  "type": "",
+  "overview": "",
+  "posterUrl": "",
+  "coverUrl": "",
+  "seasons": [
+    {
+      "name": "Watch Now",
+      "episodes": [
+        {
+          "name": "720p Hindi",
+          "link": ""
+        },
+        {
+          "name": "1080p Hindi",
+          "link": ""
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "",
+  "type": "",
+  "overview": "",
+  "posterUrl": "",
+  "coverUrl": "",
+  "seasons": [
+    {
+      "name": "Watch Now",
+      "episodes": [
+        {
+          "name": "720p Hindi",
+          "link": ""
+        },
+        {
+          "name": "1080p Hindi",
+          "link": ""
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "",
+  "type": "",
+  "overview": "",
+  "posterUrl": "",
+  "coverUrl": "",
+  "seasons": [
+    {
+      "name": "Watch Now",
+      "episodes": [
+        {
+          "name": "720p Hindi",
+          "link": ""
+        },
+        {
+          "name": "1080p Hindi",
+          "link": ""
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "",
+  "type": "",
+  "overview": "",
+  "posterUrl": "",
+  "coverUrl": "",
+  "seasons": [
+    {
+      "name": "Watch Now",
+      "episodes": [
+        {
+          "name": "720p Hindi",
+          "link": ""
+        },
+        {
+          "name": "1080p Hindi",
+          "link": ""
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "",
+  "type": "",
+  "overview": "",
+  "posterUrl": "",
+  "coverUrl": "",
+  "seasons": [
+    {
+      "name": "Watch Now",
+      "episodes": [
+        {
+          "name": "720p Hindi",
+          "link": ""
+        },
+        {
+          "name": "1080p Hindi",
+          "link": ""
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "",
+  "type": "",
+  "overview": "",
+  "posterUrl": "",
+  "coverUrl": "",
+  "seasons": [
+    {
+      "name": "Watch Now",
+      "episodes": [
+        {
+          "name": "720p Hindi",
+          "link": ""
+        },
+        {
+          "name": "1080p Hindi",
+          "link": ""
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "",
+  "type": "",
+  "overview": "",
+  "posterUrl": "",
+  "coverUrl": "",
+  "seasons": [
+    {
+      "name": "Watch Now",
+      "episodes": [
+        {
+          "name": "720p Hindi",
+          "link": ""
+        },
+        {
+          "name": "1080p Hindi",
+          "link": ""
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "",
+  "type": "",
+  "overview": "",
+  "posterUrl": "",
+  "coverUrl": "",
+  "seasons": [
+    {
+      "name": "Watch Now",
+      "episodes": [
+        {
+          "name": "720p Hindi",
+          "link": ""
+        },
+        {
+          "name": "1080p Hindi",
+          "link": ""
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "",
+  "type": "",
+  "overview": "",
+  "posterUrl": "",
+  "coverUrl": "",
+  "seasons": [
+    {
+      "name": "Watch Now",
+      "episodes": [
+        {
+          "name": "720p Hindi",
+          "link": ""
+        },
+        {
+          "name": "1080p Hindi",
+          "link": ""
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "",
+  "type": "",
+  "overview": "",
+  "posterUrl": "",
+  "coverUrl": "",
+  "seasons": [
+    {
+      "name": "Watch Now",
+      "episodes": [
+        {
+          "name": "720p Hindi",
+          "link": ""
+        },
+        {
+          "name": "1080p Hindi",
+          "link": ""
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "",
+  "type": "",
+  "overview": "",
+  "posterUrl": "",
+  "coverUrl": "",
+  "seasons": [
+    {
+      "name": "Watch Now",
+      "episodes": [
+        {
+          "name": "720p Hindi",
+          "link": ""
+        },
+        {
+          "name": "1080p Hindi",
+          "link": ""
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "",
+  "type": "",
+  "overview": "",
+  "posterUrl": "",
+  "coverUrl": "",
+  "seasons": [
+    {
+      "name": "Watch Now",
+      "episodes": [
+        {
+          "name": "720p Hindi",
+          "link": ""
+        },
+        {
+          "name": "1080p Hindi",
+          "link": ""
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "",
+  "type": "",
+  "overview": "",
+  "posterUrl": "",
+  "coverUrl": "",
+  "seasons": [
+    {
+      "name": "Watch Now",
+      "episodes": [
+        {
+          "name": "720p Hindi",
+          "link": ""
+        },
+        {
+          "name": "1080p Hindi",
+          "link": ""
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "",
+  "type": "",
+  "overview": "",
+  "posterUrl": "",
+  "coverUrl": "",
+  "seasons": [
+    {
+      "name": "Watch Now",
+      "episodes": [
+        {
+          "name": "720p Hindi",
+          "link": ""
+        },
+        {
+          "name": "1080p Hindi",
+          "link": ""
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "",
+  "type": "",
+  "overview": "",
+  "posterUrl": "",
+  "coverUrl": "",
+  "seasons": [
+    {
+      "name": "Watch Now",
+      "episodes": [
+        {
+          "name": "720p Hindi",
+          "link": ""
+        },
+        {
+          "name": "1080p Hindi",
+          "link": ""
+        }
+      ]
+    }
+  ]
+},
+
 {
   "name": "",
   "type": "",

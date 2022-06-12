@@ -1,5 +1,52 @@
 [ 
   {
+    "name": "The Broken News",
+    "type": "indian",
+    "overview": "2022 | 16+ | 1 Season | Suspense",
+    "bio":"Indian news channels Awaaz Bharati News and Josh 24/7 have opposing principles that lead to a fierce rivalry. The dynamic journalists attempt to balance their lives while facing an uncertain future.",
+    "posterUrl": "https://i.ibb.co/LpLxt1k/MV5-BY2-Y3-Ym-Jh-NDgt-Mz-Jh-MS00-M2-Ji-LWE3-NGQt-Yj-Vl-ODNk-ZTkx-Mj-Vk-Xk-Ey-Xk-Fqc-Gde-QXVy-MTIy-Nz.jpg",
+    "coverUrl": "https://i.ibb.co/sKb9Xn3/MV5-BMz-E0-Nz-M5-MGMt-ZWE2-Yi00-Mm-Rh-LTg5-MTkt-ZDA3-NWE5-OTA5-MDdm-Xk-Ey-Xk-Fqc-Gde-QXVy-MTIy-Nz-Y0.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1SEH55CqjjrsSBDaEazMG7VAVIWk3s1lo/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1qqSF3meV80kcRvfWUBl7kcBVgjIIRWSy/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1NW_n5rdZyc067GCufk0n2vh0KFbu136F/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1hl8c8JRboFRyCZDbut9e415X8AAlMnM1/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1NF5Mvh8BgTt2fzwbtZSOObIk9lelK8Qb/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1zjuWJTA4PD_asbX7YrGbU_W4twNwhp58/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1AlNkD1dQDzrlzDcYuO-uOq2kZ3G0Tfuy/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/1lXT4vD-uPa0pCf1NlaCupf8oyoLgqKo3/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Black Spot",
     "type": "french",
     "overview": "2017 | 18+ | 2 Seasons | Crime TV Shows",
@@ -2410,6 +2457,37 @@
     ]
   },
   {
+    "name": "CBI 5",
+    "type": "indian",
+    "overview": "2022 | 17+ | 2h 45m | Mystery",
+    "bio":"A series of murders is happening in the city. With the police failing to solve the case, a team of CBI Officers under CBI officer Sethurama Iyer take up the investigation to resolve the mystery.",
+    "posterUrl": "https://i.ibb.co/cFRSP3h/MV5-BZDZh-Zj-A2-Yj-Yt-YTM0-ZS00-Ym-E0-LWI3-NDIt-Mzg0-ZDhi-N2-Zh-Zj-Zh-Xk-Ey-Xk-Fqc-Gde-QXVy-Mjkx-Nz.jpg",
+    "coverUrl": "https://i.ibb.co/sFyv4Tf/cbi5-19042022m1.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "480p Hindi 561MB",
+            "link": "https://drive.google.com/file/d/1p_yKFvIVSgZ1BS10PbvxAfpV_0lmTJUk/view?usp=sharing"
+          },
+          {
+            "name": "720p HEVC Hindi 939MB",
+            "link": "https://drive.google.com/file/d/1LIW6SEu4s_8dYY8lJl8gni6psCz8qfOh/view?usp=sharing"
+          },
+          {
+            "name": "720p Hindi 1.43GB",
+            "link": "https://drive.google.com/file/d/1D4viJd5MkXeeLlQT4kzswbiYYLy2GuW7/view?usp=sharing"
+          },
+          {
+            "name": "1080p Hindi",
+            "link": "https://drive.google.com/file/d/1I8v7jtVSGm9Tz8CbkPskcsq-zo4ZKTnQ/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Dhaakad",
     "type": "indian",
     "overview": "2022 | 18+ | Action",
@@ -2750,7 +2828,7 @@
       "name":"Sarkaru Vaari Paata 2022",
       "type":"movie",
       "posterUrl":"https://i.ibb.co/dGfxjDg/MV5-BYjcy-ZTI5-MDEt-Nzcy-NS00-Yz-Nh-LWIx-MTct-OGNj-NTlj-MDg4-Nj-Mw-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA3-MDk2-N.jpg",
-      "movieUrl":"https://drive.google.com/file/d/10SZ8nsvXaZLtv3MKU2BCAAs8ldNxIBcW/view?usp=sharing"
+      "movieUrl":"https://drive.google.com/file/d/1i9TBFZuLlpQoO4f1IvtzdUbRml9WtsIF/view?usp=sharing"
     },
   {
     "name":"The Devils Tail 2021",
@@ -2967,6 +3045,45 @@
           {
             "name":"Episode 11",
             "link": "https://drive.google.com/file/d/16VNlKLD2iIar89_8bZZjztBiTYAY6XuL/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Devotion, A Story Of Love And Desire",
+    "type": "italian",
+    "overview": "2021 | 18+ | 1 Season | TV Shows Based on Books",
+    "bio":"A seemingly happy marriage begins to dissolve when the husband's faithfulness is called into question, and both spouses become tempted by other desires.",
+    "posterUrl": "https://i.ibb.co/m8VtDX3/ems.jpg",
+    "coverUrl": "https://i.ibb.co/RQSzfTt/AAAABb-Vgu-St1e-JG2-M8oke-J7-Nr9m-Bf4-IZ2vn-W5ss1-Mprs-G0-Vxgh-N6-N-r1gti-UWc-AH-Lve8-Acg-PU5-Mz-Zx7.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/16Ffjzd-sExheRk_9GV9yFJmMgUH80pLa/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1dTMD-qZG827GqzDWlyOI15ACEIXsPvp8/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1CKJ1Bwxpc-Q_YBv8ktrheQpDKPNbMBx3/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1w02W5J4vCawHoYaJ55TONWp4fWDATyGv/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1I8qFRfBpH1G19_3OA69NrB-uwLSUZtdO/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/19GDsu5Nxb_Bjg7ofgizGHaQqeU8WMJwa/view?usp=sharing"
           }
         ]
       }

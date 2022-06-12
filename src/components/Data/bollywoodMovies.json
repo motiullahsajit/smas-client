@@ -1,5 +1,36 @@
 [
   {
+    "name": "CBI 5",
+    "type": "indian",
+    "overview": "2022 | 17+ | 2h 45m | Mystery",
+    "bio":"A series of murders is happening in the city. With the police failing to solve the case, a team of CBI Officers under CBI officer Sethurama Iyer take up the investigation to resolve the mystery.",
+    "posterUrl": "https://i.ibb.co/cFRSP3h/MV5-BZDZh-Zj-A2-Yj-Yt-YTM0-ZS00-Ym-E0-LWI3-NDIt-Mzg0-ZDhi-N2-Zh-Zj-Zh-Xk-Ey-Xk-Fqc-Gde-QXVy-Mjkx-Nz.jpg",
+    "coverUrl": "https://i.ibb.co/sFyv4Tf/cbi5-19042022m1.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "480p Hindi 561MB",
+            "link": "https://drive.google.com/file/d/1p_yKFvIVSgZ1BS10PbvxAfpV_0lmTJUk/view?usp=sharing"
+          },
+          {
+            "name": "720p HEVC Hindi 939MB",
+            "link": "https://drive.google.com/file/d/1LIW6SEu4s_8dYY8lJl8gni6psCz8qfOh/view?usp=sharing"
+          },
+          {
+            "name": "720p Hindi 1.43GB",
+            "link": "https://drive.google.com/file/d/1D4viJd5MkXeeLlQT4kzswbiYYLy2GuW7/view?usp=sharing"
+          },
+          {
+            "name": "1080p Hindi",
+            "link": "https://drive.google.com/file/d/1I8v7jtVSGm9Tz8CbkPskcsq-zo4ZKTnQ/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Ardh",
     "type": "indian",
     "overview": "2022 | 17+ | 1h 23m | Comedy",
@@ -106,7 +137,7 @@
     "name":"Sarkaru Vaari Paata 2022",
     "type":"movie",
     "posterUrl":"https://i.ibb.co/dGfxjDg/MV5-BYjcy-ZTI5-MDEt-Nzcy-NS00-Yz-Nh-LWIx-MTct-OGNj-NTlj-MDg4-Nj-Mw-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA3-MDk2-N.jpg",
-    "movieUrl":"https://drive.google.com/file/d/10SZ8nsvXaZLtv3MKU2BCAAs8ldNxIBcW/view?usp=sharing"
+    "movieUrl":"https://drive.google.com/file/d/1i9TBFZuLlpQoO4f1IvtzdUbRml9WtsIF/view?usp=sharing"
   },
   {
     "name":"Thar 2022",
@@ -1011,6 +1042,73 @@
       }
     ]
   },
+  {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+ 
   {
     "name": "",
     "type": "",
