@@ -8701,6 +8701,52 @@
       }
     ]
   },
+
+
+  {
+    "name":"Juju Ashche 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/yY3rVRj/2U7TUby.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1lU6fnKMOuL2JvRKv7fgpk-nfnnUGzFbq/view?usp=sharing"
+  },
+
+  {
+    "name": "Isaac Liton",
+    "type": "bengali",
+    "overview": "2022 | 14+ | 1 Season | Thriller",
+    "posterUrl": "https://i.ibb.co/6P6sydb/Isaac-Liton.jpg",
+    "coverUrl": "https://i.ibb.co/t2HHdG5/maxresdefault.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 1-7 1 File 1.16GB",
+            "link": "https://drive.google.com/file/d/1W5qUp8dzA6W6-2A5dYhTnAWHQ8KUxE0g/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "9 April",
+    "type": "bengali",
+    "overview": "2022 | 16+ | 1 Season | Thriller",
+    "bio":"9 April is based on a brutal murder, greed and abuse of power.",
+    "posterUrl": "https://i.ibb.co/6nx8K0R/272888197-686403966060662-3801486571713627074-n.jpg",
+    "coverUrl": "https://i.ibb.co/QnrjLNn/Binge-web-series-2201251116.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 1-6 Collapse 1 File",
+            "link": "https://drive.google.com/file/d/1EoziXEDuITsgVWF3lg62oXtv4S1X6Szo/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
   {
     "name": "Guilty Minds",
     "type": "indian",
