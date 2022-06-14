@@ -1891,6 +1891,53 @@
             ]
           }
         ]
+      },
+      {
+        "name": "Intimacy",
+        "type": "spanish",
+        "overview": "2022 | 18+ | 1 Season | Crime TV Shows",
+        "bio":"A rising politician's career is threatened when a surreptitiously recorded video of her sex life is leaked to the public.",
+        "posterUrl": "https://i.ibb.co/7jNQzFM/MV5-BZTk1-YWNh-Mm-Et-ZWQ1-Yi00-Yz-Jh-LWE5-MDIt-Yzg1-Nz-Rk-NTAx-NTI5-Xk-Ey-Xk-Fqc-Gde-QXVy-NDI3-Nj-U1.jpg",
+        "coverUrl": "https://i.ibb.co/KNXy6WJ/KmCFF.jpg",
+        "seasons": [
+          {
+            "name": "Season 1",
+            "episodes": [
+              {
+                "name": "Episode 01",
+                "link": "https://drive.google.com/file/d/1XviBalGusmVIMkNIu3MNPn_SCDbJPGuY/view?usp=sharing"
+              },
+              {
+                "name": "Episode 02",
+                "link": "https://drive.google.com/file/d/1AlO-T8MfIwcEpTOirLHNKseO-0BnSepU/view?usp=sharing"
+              },
+              {
+                "name": "Episode 03",
+                "link": "https://drive.google.com/file/d/1KlPgZNrsIqVJUdiop9AWYDtH0xhha9OJ/view?usp=sharing"
+              },
+              {
+                "name": "Episode 04",
+                "link": "https://drive.google.com/file/d/1T_9jjzgZAXK81PR13uYNKlvE5WLssJSf/view?usp=sharing"
+              },
+              {
+                "name": "Episode 05",
+                "link": "https://drive.google.com/file/d/1qrNo4EmhQby5sGnWdxJEboIHNaP9pBy-/view?usp=sharing"
+              },
+              {
+                "name": "Episode 06",
+                "link": "https://drive.google.com/file/d/1Fc_eh529_3aQf3l0vk7Rz-i98KFab9tS/view?usp=sharing"
+              },
+              {
+                "name":"Episode 07",
+                "link": "https://drive.google.com/file/d/16dXsK7xM5frIcRA9V9kkkzykzrETWiM0/view?usp=sharing"
+              },
+              {
+                "name":"Episode 08",
+                "link": "https://drive.google.com/file/d/1lUdqUoC_JBl__z7ll-YMN2xjmSL_Qevk/view?usp=sharing"
+              }
+            ]
+          }
+        ]
       }
     
 ]
