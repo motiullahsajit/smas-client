@@ -1,5 +1,60 @@
 [
   {
+    "name": "Jack Reacher",
+    "type": "american",
+    "overview": "2012 | 13+ | 2h 11m | Action & Adventure",
+    "bio":"  When an ex-military cop investigates a sniper charged with five homicides, he's drawn into a dangerous cat-and-mouse game in this exciting thriller.",
+    "posterUrl": "https://i.ibb.co/P4LJKsC/MV5-BMTM1-Nj-Ux-MDI3-OV5-BMl5-Ban-Bn-Xk-Ft-ZTcw-Njg1-ODM3-OA-V1.jpg",
+    "coverUrl": "https://i.ibb.co/gSm629W/jack-reacher-1200-1200-675-675-crop-000000.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "480p Dual Audio",
+            "link": "https://drive.google.com/file/d/1OeI5C1SIPupUXQ01sa3yzeCUlUWgd9cm/view?usp=sharing"
+          },
+          {
+            "name": "720p Dual Audio",
+            "link": "https://drive.google.com/file/d/1KRXVGZ1sm-SRBz3iktLxd77QnGBIyk9G/view?usp=sharing"
+          },
+          {
+            "name": "1080p Dual Audio",
+            "link": "https://drive.google.com/file/d/1-6uaB1Sb4QC2rWH-_accsgDMD0a7Wxoe/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jack Reacher Never Go Back",
+    "type": "american",
+    "overview": "2016 | 18+ | 1h 59m | Action & Adventure",
+    "bio":"When he learns that his friend has been accused of murder, Jack Reacher suspects a vast conspiracy -- and soon finds himself on the run alongside her.",
+    "posterUrl": "https://i.ibb.co/rQFM0JG/MV5-BODQ3-ODQ3-NDI4-NV5-BMl5-Ban-Bn-Xk-Ft-ZTgw-MDY1-Mzk5-OTE-V1-FMjpg-UX1000.jpg",
+    "coverUrl": "https://i.ibb.co/xDjWzVL/thumb-1920-742921.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "480p Dual Audio",
+            "link": "https://drive.google.com/file/d/1j67ZlC3IkuI1q9MQGkaTFZNUZJCqtqSE/view?usp=sharing"
+          },
+          {
+            "name": "720p Dual Audio",
+            "link": "https://drive.google.com/file/d/1YhYTZYQWieQyZx0cQ7MKurfaPtWg7dRB/view?usp=sharing"
+          },
+          {
+            "name": "1080p Dual Audio",
+            "link": "https://drive.google.com/file/d/19N2J8SOy6CvkjLpk14Kzh2DYrRZzQFC4/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
   "name": "See For Me",
   "type": "hollywood",
   "overview": "2021 | 17+ | 1h 32m | Crime Thriller",
@@ -50,8 +105,7 @@
     "posterUrl":"https://i.ibb.co/HzGfsL1/MV5-BOTRh-ODAy-NTgt-MDBm-ZC00-Zm-Zm-LTlk-NGYt-Mz-U5-ODY0-ZDZk-NWZk-Xk-Ey-Xk-Fqc-Gde-QXVy-Nzg5-Mz-Iy.jpg",
     "movieUrl":"https://drive.google.com/file/d/1GxrTzy0uvrJeVPg3q8sp-RgXsR32mouL/view?usp=sharing"
     },
-    
-
+ 
     {
     "name":"Last Seen Alive 2022",
     "type":"movie",
@@ -3652,6 +3706,7 @@
     }
   ]
 },
+
 {
   "name": "",
   "type": "",
@@ -3762,50 +3817,7 @@
     }
   ]
 },
-{
-  "name": "",
-  "type": "",
-  "overview": "",
-  "posterUrl": "",
-  "coverUrl": "",
-  "seasons": [
-    {
-      "name": "Watch Now",
-      "episodes": [
-        {
-          "name": "720p Hindi",
-          "link": ""
-        },
-        {
-          "name": "1080p Hindi",
-          "link": ""
-        }
-      ]
-    }
-  ]
-},
-{
-  "name": "",
-  "type": "",
-  "overview": "",
-  "posterUrl": "",
-  "coverUrl": "",
-  "seasons": [
-    {
-      "name": "Watch Now",
-      "episodes": [
-        {
-          "name": "720p Hindi",
-          "link": ""
-        },
-        {
-          "name": "1080p Hindi",
-          "link": ""
-        }
-      ]
-    }
-  ]
-},
+
 {
   "name": "",
   "type": "",

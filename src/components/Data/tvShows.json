@@ -1,4 +1,84 @@
 [
+  
+  {
+    "name": "Something In The Rain",
+    "type": "korean",
+    "overview": "2018 | 16+ | 1 Season | TV Dramas",
+    "bio":"Reunited with her best friend’s younger brother, who’s back from a stint abroad, a recently dumped career woman begins to see him in a new light.",
+    "posterUrl": "https://i.ibb.co/JcMwrvX/Sayem.jpg",
+    "coverUrl": "https://i.ibb.co/dG1kG4Z/2648211.jpg",
+    "seasons": [
+      {
+        "name": "Season 1 Korean",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1bnOC26w-46tYrL_jCAWcIHu_VTFZ7OQz/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/11_COofxms_nzOgw_SMuDBOwJjA1dC0e-/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1o9ahxmE2DZF_lKZ0Z6bXwj3KbjdqaPOt/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1Dlngk0nEqkOhsMWsD5TWHl5A90RBve0G/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1c4a16qQ-B8KbmD33A54171MOSrSByz6c/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1eKwQqKnKJ09i1PHtI0oDTyB11pXDUH9I/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1zd3uacslD_jhhCEMh_d4VYb9HRn_0JU1/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/1SJwk_FdRGXkBAWhawHzjPU_ZPycREUpi/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/1kJhtdn4OiAP_om15wpNpWOpnj7BIS02V/view?usp=sharing"
+          },
+          {
+            "name":"Episode 10",
+            "link": "https://drive.google.com/file/d/1J_v7xD99yY1ehhwrouULjtflY0OyGoN9/view?usp=sharing"
+          },
+          {
+            "name": "Episode 11",
+            "link": "https://drive.google.com/file/d/1qHtplDbC3FU8wVvfTzlDwCGRCWY83Mft/view?usp=sharing"
+          },
+          {
+            "name": "Episode 12",
+            "link": "https://drive.google.com/file/d/1H54O4mSnj1FbGMBXYgNkex8n_QcCmXHP/view?usp=sharing"
+          },
+          {
+            "name": "Episode 13",
+            "link": "https://drive.google.com/file/d/1_l8AV2tw5I5q8HKbwQE64nURQ2wmsF0Q/view?usp=sharing"
+          },
+          {
+            "name": "Episode 14",
+            "link": "https://drive.google.com/file/d/1rcRRMK7IRXnGm_bcrB8wbIp6y0Rc5qNp/view?usp=sharing"
+          },
+          {
+            "name": "Episode 15",
+            "link": "https://drive.google.com/file/d/1Sa-HUgAB1QsO0Y34ZibLJabBQZxpiQ5Z/view?usp=sharing"
+          },
+          {
+            "name": "Episode 16",
+            "link": "https://drive.google.com/file/d/1oD6teYk7HC3uRAdvLN9KQDgMW9UsgbKV/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
   {
     "name": "Intimacy",
     "type": "spanish",
@@ -152,7 +232,28 @@
         ]
       },
       {
-        "name": "Season 2-8 Uploading",
+        "name": "Season 2",
+        "episodes": [
+          {
+            "name": "Episode 1-5 Zip File 1.15GB",
+            "link": "https://drive.google.com/file/d/1nj5jjG5nh3lGfOPMpdA-3-UCLQOg_Jyd/view?usp=sharing"
+          },
+          {
+            "name": "Episode 6-10 Zip File 1.04GB",
+            "link": "https://drive.google.com/file/d/1NvBsrdRnXafbZ-fgT4Wk6-uES5U88Ubc/view?usp=sharing"
+          },
+          {
+            "name": "Episode 11-20 Zip File 2.05GB",
+            "link": "https://drive.google.com/file/d/1gKZdHjJupOSAMzxi3IDy8OMsmZBWnVsp/view?usp=sharing"
+          },
+          {
+            "name": "Episode 21-23 623MB",
+            "link": "https://drive.google.com/file/d/1AYPpH8RCT87aLm4jnV9zAZ7_ZIOv350a/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 3-8 Uploading",
         "episodes": [
           {
             "name": "Uploading",
@@ -3433,6 +3534,85 @@
           {
             "name": "Episode 04",
             "link": "https://drive.google.com/file/d/1OtuLW_6ZKPdFfFx6h5FZHQFY5CDAIsLi/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tomorrow",
+    "type": "korean",
+    "overview": "2022 | 18+ | 1 Season | TV Dramas",
+    "bio":"Made half-human and half-spirit by accident, a young man is employed by a company of grim reapers in the underworld to carry out special missions.",
+    "posterUrl": "https://i.ibb.co/RQJ9nZj/MV5-BZWU5-YWI4-Mz-At-Nj-Uw-Yi00-Mm-Fh-LWI4-Mz-It-OWE5-OWZm-Mj-Ax-MGZm-Xk-Ey-Xk-Fqc-Gde-QXVy-NDg3-OTE.jpg",
+    "coverUrl": "https://i.ibb.co/VvFMTXN/tomorrow-netflix-poster.jpg",
+    "seasons": [
+      {
+        "name": "Season 1 Korean",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1IMqyXKLOCQlyCkNZ8XSQ0k2WgMBuoiBP/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1ejeTQqXpqxAetdFs9J1kEwS_M2ueKHfx/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1-V5FQWvJrf59eNyCJztlCObV9Ho_decF/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/17Cy4tykbpA3NTSOTVqQxUFlqbkFbk1LM/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1HrvTuG96l3nDk62NLdzH15aAFTi0AGwS/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/15YulR7VtDYg6g3CNEC_0xiB0O9NB0b8U/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1spMjNN4K1ZHD3bZb3aEsN8nZSiLqdmZI/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/12E1N7XKJOePaBULyCmP_Wj3qSj3-s0mb/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/1qJdNaaQch6aFv4m1hLN3Tn2WKCVxj-G3/view?usp=sharing"
+          },
+          {
+            "name":"Episode 10",
+            "link": "https://drive.google.com/file/d/1lQHIG1oe45ijbysLLkk_MjMfKqsuL11F/view?usp=sharing"
+          },
+          {
+            "name": "Episode 11",
+            "link": "https://drive.google.com/file/d/1exlK5_sFILDMG5M6wlX6sUkVmXKNPDBT/view?usp=sharing"
+          },
+          {
+            "name": "Episode 12",
+            "link": "https://drive.google.com/file/d/1ThafzpaAt_D4YmJzwBAP5m0tK-UaoWkA/view?usp=sharing"
+          },
+          {
+            "name": "Episode 13",
+            "link": "https://drive.google.com/file/d/1TqvFmcBauzQMchIzEKV8q5OL8M26beP8/view?usp=sharing"
+          },
+          {
+            "name": "Episode 14",
+            "link": "https://drive.google.com/file/d/1Tbl65RXEqgXWKo1xYJdS17H_quwX6ajR/view?usp=sharing"
+          },
+          {
+            "name": "Episode 15",
+            "link": "https://drive.google.com/file/d/1wLagLABFx5jvJuqbnPW2JrDSUeEsQidr/view?usp=sharing"
+          },
+          {
+            "name": "Episode 16",
+            "link": "https://drive.google.com/file/d/15XW5jdoeGoobXTPJs5j9Fuy6jjbuqOCm/view?usp=sharing"
           }
         ]
       }
@@ -14455,6 +14635,7 @@
       }
     ]
   },
+
  {
     "name": "",
     "type": "",
@@ -14504,59 +14685,29 @@
           {
             "name":"Episode 10",
             "link": ""
-          }
-        ]
-      }
-    ]
-  },
- {
-    "name": "",
-    "type": "",
-    "overview": "",
-    "posterUrl": "",
-    "coverUrl": "",
-    "seasons": [
-      {
-        "name": "Season 1",
-        "episodes": [
+          },
           {
-            "name": "Episode 01",
+            "name": "Episode 11",
             "link": ""
           },
           {
-            "name": "Episode 02",
+            "name": "Episode 12",
             "link": ""
           },
           {
-            "name": "Episode 03",
+            "name": "Episode 13",
             "link": ""
           },
           {
-            "name": "Episode 04",
+            "name": "Episode 14",
             "link": ""
           },
           {
-            "name": "Episode 05",
+            "name": "Episode 15",
             "link": ""
           },
           {
-            "name": "Episode 06",
-            "link": ""
-          },
-          {
-            "name":"Episode 07",
-            "link": ""
-          },
-          {
-            "name":"Episode 08",
-            "link": ""
-          },
-          {
-            "name":"Episode 09",
-            "link": ""
-          },
-          {
-            "name":"Episode 10",
+            "name": "Episode 16",
             "link": ""
           }
         ]
@@ -15821,60 +15972,7 @@
       }
     ]
   },
-  {
-    "name": "",
-    "type": "",
-    "overview": "",
-    "posterUrl": "",
-    "coverUrl": "",
-    "seasons": [
-      {
-        "name": "Season 1",
-        "episodes": [
-          {
-            "name": "Episode 01",
-            "link": ""
-          },
-          {
-            "name": "Episode 02",
-            "link": ""
-          },
-          {
-            "name": "Episode 03",
-            "link": ""
-          },
-          {
-            "name": "Episode 04",
-            "link": ""
-          },
-          {
-            "name": "Episode 05",
-            "link": ""
-          },
-          {
-            "name": "Episode 06",
-            "link": ""
-          },
-          {
-            "name":"Episode 07",
-            "link": ""
-          },
-          {
-            "name":"Episode 08",
-            "link": ""
-          },
-          {
-            "name":"Episode 09",
-            "link": ""
-          },
-          {
-            "name":"Episode 10",
-            "link": ""
-          }
-        ]
-      }
-    ]
-  },
+
   {
     "name": "",
     "type": "",

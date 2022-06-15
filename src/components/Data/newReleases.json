@@ -6,6 +6,85 @@
     "movieUrl":"https://drive.google.com/file/d/10GSOytQgQkP0j47XLhSS2b9NtP-ZAE0s/view?usp=sharing"
   },
   {
+    "name": "Tomorrow",
+    "type": "korean",
+    "overview": "2022 | 18+ | 1 Season | TV Dramas",
+    "bio":"Made half-human and half-spirit by accident, a young man is employed by a company of grim reapers in the underworld to carry out special missions.",
+    "posterUrl": "https://i.ibb.co/RQJ9nZj/MV5-BZWU5-YWI4-Mz-At-Nj-Uw-Yi00-Mm-Fh-LWI4-Mz-It-OWE5-OWZm-Mj-Ax-MGZm-Xk-Ey-Xk-Fqc-Gde-QXVy-NDg3-OTE.jpg",
+    "coverUrl": "https://i.ibb.co/VvFMTXN/tomorrow-netflix-poster.jpg",
+    "seasons": [
+      {
+        "name": "Season 1 Korean",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1IMqyXKLOCQlyCkNZ8XSQ0k2WgMBuoiBP/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1ejeTQqXpqxAetdFs9J1kEwS_M2ueKHfx/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1-V5FQWvJrf59eNyCJztlCObV9Ho_decF/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/17Cy4tykbpA3NTSOTVqQxUFlqbkFbk1LM/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1HrvTuG96l3nDk62NLdzH15aAFTi0AGwS/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/15YulR7VtDYg6g3CNEC_0xiB0O9NB0b8U/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1spMjNN4K1ZHD3bZb3aEsN8nZSiLqdmZI/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/12E1N7XKJOePaBULyCmP_Wj3qSj3-s0mb/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/1qJdNaaQch6aFv4m1hLN3Tn2WKCVxj-G3/view?usp=sharing"
+          },
+          {
+            "name":"Episode 10",
+            "link": "https://drive.google.com/file/d/1lQHIG1oe45ijbysLLkk_MjMfKqsuL11F/view?usp=sharing"
+          },
+          {
+            "name": "Episode 11",
+            "link": "https://drive.google.com/file/d/1exlK5_sFILDMG5M6wlX6sUkVmXKNPDBT/view?usp=sharing"
+          },
+          {
+            "name": "Episode 12",
+            "link": "https://drive.google.com/file/d/1ThafzpaAt_D4YmJzwBAP5m0tK-UaoWkA/view?usp=sharing"
+          },
+          {
+            "name": "Episode 13",
+            "link": "https://drive.google.com/file/d/1TqvFmcBauzQMchIzEKV8q5OL8M26beP8/view?usp=sharing"
+          },
+          {
+            "name": "Episode 14",
+            "link": "https://drive.google.com/file/d/1Tbl65RXEqgXWKo1xYJdS17H_quwX6ajR/view?usp=sharing"
+          },
+          {
+            "name": "Episode 15",
+            "link": "https://drive.google.com/file/d/1wLagLABFx5jvJuqbnPW2JrDSUeEsQidr/view?usp=sharing"
+          },
+          {
+            "name": "Episode 16",
+            "link": "https://drive.google.com/file/d/15XW5jdoeGoobXTPJs5j9Fuy6jjbuqOCm/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "The Broken News",
     "type": "indian",
     "overview": "2022 | 16+ | 1 Season | Suspense",
