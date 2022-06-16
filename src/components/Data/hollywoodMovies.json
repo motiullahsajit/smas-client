@@ -1,4 +1,5 @@
 [
+
   {
     "name": "Jack Reacher",
     "type": "american",
@@ -76,6 +77,60 @@
         {
           "name": "1080p Hin+Eng",
           "link": "https://drive.google.com/file/d/1AdZsvxk6D6w34IMKg9fVIZ-KE0opQ1q7/view?usp=sharing"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "Centauro",
+  "type": "spanish",
+  "overview": "2022 | 18+ | 1h 30m | Crime Movies",
+  "bio":"To clear his son's mother's debt to a cartel, a superbike racer becomes a drug courier, risking his chances of going pro — and jeopardizing his own life.",
+  "posterUrl": "https://i.ibb.co/7jH7Rg3/MV5-BOTI1-ZDQ5-N2-Ut-N2-Yx-Yy00-YWE2-LWFl-OWUt-Nj-Vi-Mm-Zm-YWE1-MDQ1-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQx-Nz-M.jpg",
+  "coverUrl": "https://i.ibb.co/Mndzhzk/ttc7g.jpg",
+  "seasons": [
+    {
+      "name": "Watch Now",
+      "episodes": [
+        {
+          "name": "480p Hindi+Eng+Spanish",
+          "link": "https://drive.google.com/file/d/1FxHElyW0xh3bS-K_T1HornT9Q8d316tn/view?usp=sharing"
+        },
+        {
+          "name": "720p Hindi+Eng+Spanish",
+          "link": "https://drive.google.com/file/d/1IlkdHOXySONFz1yNr3wEHadFiudU5xKy/view?usp=sharing"
+        },
+        {
+          "name": "1080p Hindi+Eng+Spanish",
+          "link": "https://drive.google.com/file/d/1GP2t2yA15BKvTfuRxUtMV_CM9NrKQK63/view?usp=sharing"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "The Wrath Of God",
+  "type": "argentinian",
+  "overview": "2022 | 18+ | 1h 38m | Movies Based on Books",
+  "bio":"Convinced the tragic deaths of her loved ones were orchestrated by a famous novelist she worked for, Luciana turns to a journalist to expose her truth.",
+  "posterUrl": "https://i.ibb.co/m0bGCJ0/MV5-BYj-Ew-NGJh-Mzkt-Mj-Zh-NS00-ODFl-LThm-ZDct-YTY3-OGIz-MTEz-NGFj-Xk-Ey-Xk-Fqc-Gde-QXVy-NDI3-Nj-U1.jpg",
+  "coverUrl": "https://i.ibb.co/1LsJ4T1/AAAABY5a42m-Kk-E1m-Pt1by-Jm-WE4i-Xm-Km-WBWsr-Dr-YYf1fuf-R2-Rn-S1-AUR9341lwe-Dgz-AGy-Dm-GOU9p6-Mm-OQz.jpg",
+  "seasons": [
+    {
+      "name": "Watch Now",
+      "episodes": [
+        {
+          "name": "480p Hin+Eng",
+          "link": "https://drive.google.com/file/d/1MaCYivqDyVFL8SGiq6VbeniTCzxiYcws/view?usp=sharing"
+        },
+        {
+          "name": "720p Hin+Eng",
+          "link": "https://drive.google.com/file/d/1ubgLeXD6vVV3zKGZPdAaVNO8cAcw61ek/view?usp=sharing"
+        },
+        {
+          "name": "1080p Hin+Eng",
+          "link": "https://drive.google.com/file/d/1cjFbTfWp8OTnLbrtUyIrEl62ZGveetpp/view?usp=sharing"
         }
       ]
     }
@@ -3266,28 +3321,7 @@
     }
   ]
 },
-{
-  "name": "",
-  "type": "",
-  "overview": "2022 | 17+ | Movie | Horror",
-  "posterUrl": "",
-  "coverUrl": "",
-  "seasons": [
-    {
-      "name": "Watch Now",
-      "episodes": [
-        {
-          "name": "720p Hindi",
-          "link": ""
-        },
-        {
-          "name": "1080p Hindi",
-          "link": ""
-        }
-      ]
-    }
-  ]
-},
+
 {
   "name": "",
   "type": "",
@@ -3707,28 +3741,7 @@
   ]
 },
 
-{
-  "name": "",
-  "type": "",
-  "overview": "",
-  "posterUrl": "",
-  "coverUrl": "",
-  "seasons": [
-    {
-      "name": "Watch Now",
-      "episodes": [
-        {
-          "name": "720p Hindi",
-          "link": ""
-        },
-        {
-          "name": "1080p Hindi",
-          "link": ""
-        }
-      ]
-    }
-  ]
-},
+
 {
   "name": "",
   "type": "",

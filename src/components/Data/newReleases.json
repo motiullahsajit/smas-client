@@ -1,10 +1,108 @@
 [ 
   {
+    "name": "Centauro",
+    "type": "spanish",
+    "overview": "2022 | 18+ | 1h 30m | Crime Movies",
+    "bio":"To clear his son's mother's debt to a cartel, a superbike racer becomes a drug courier, risking his chances of going pro — and jeopardizing his own life.",
+    "posterUrl": "https://i.ibb.co/7jH7Rg3/MV5-BOTI1-ZDQ5-N2-Ut-N2-Yx-Yy00-YWE2-LWFl-OWUt-Nj-Vi-Mm-Zm-YWE1-MDQ1-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQx-Nz-M.jpg",
+    "coverUrl": "https://i.ibb.co/Mndzhzk/ttc7g.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "480p Hindi+Eng+Spanish",
+            "link": "https://drive.google.com/file/d/1FxHElyW0xh3bS-K_T1HornT9Q8d316tn/view?usp=sharing"
+          },
+          {
+            "name": "720p Hindi+Eng+Spanish",
+            "link": "https://drive.google.com/file/d/1IlkdHOXySONFz1yNr3wEHadFiudU5xKy/view?usp=sharing"
+          },
+          {
+            "name": "1080p Hindi+Eng+Spanish",
+            "link": "https://drive.google.com/file/d/1GP2t2yA15BKvTfuRxUtMV_CM9NrKQK63/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The Wrath Of God",
+    "type": "argentinian",
+    "overview": "2022 | 18+ | 1h 38m | Movies Based on Books",
+    "bio":"Convinced the tragic deaths of her loved ones were orchestrated by a famous novelist she worked for, Luciana turns to a journalist to expose her truth.",
+    "posterUrl": "https://i.ibb.co/m0bGCJ0/MV5-BYj-Ew-NGJh-Mzkt-Mj-Zh-NS00-ODFl-LThm-ZDct-YTY3-OGIz-MTEz-NGFj-Xk-Ey-Xk-Fqc-Gde-QXVy-NDI3-Nj-U1.jpg",
+    "coverUrl": "https://i.ibb.co/1LsJ4T1/AAAABY5a42m-Kk-E1m-Pt1by-Jm-WE4i-Xm-Km-WBWsr-Dr-YYf1fuf-R2-Rn-S1-AUR9341lwe-Dgz-AGy-Dm-GOU9p6-Mm-OQz.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "480p Hin+Eng",
+            "link": "https://drive.google.com/file/d/1MaCYivqDyVFL8SGiq6VbeniTCzxiYcws/view?usp=sharing"
+          },
+          {
+            "name": "720p Hin+Eng",
+            "link": "https://drive.google.com/file/d/1ubgLeXD6vVV3zKGZPdAaVNO8cAcw61ek/view?usp=sharing"
+          },
+          {
+            "name": "1080p Hin+Eng",
+            "link": "https://drive.google.com/file/d/1cjFbTfWp8OTnLbrtUyIrEl62ZGveetpp/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Salt City",
+    "type": "indian",
+    "overview": "2022 | 18+ | 1 Season | TV Series",
+    "bio":"Salt City delves into the complexities of relationships within the Bajpai family. The show explores their journey of exploring the past, dealing with a bitter present, and unfolding a promising future.",
+    "posterUrl": "https://i.ibb.co/M9nss1F/MV5-BN2-Y1-Nm-I5-Mj-Et-NDk0-Yi00-ZTQy-LWI2-Yj-Yt-NDAw-Nj-Iw-Zj-Yx-N2-Ez-Xk-Ey-Xk-Fqc-Gde-QXVy-MTAy-M.jpg",
+    "coverUrl": "https://i.ibb.co/Jc5p7vR/Salt-City.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1Dm0XLGeVi3qGm-OWA2QoxpFYTos2jJPs/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1NHLbleojNyTSZ1T3Kx8rUfkj5WqifY2E/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/18XAbCRyiCNdOjCAqaOl6ONPF4sjAka-n/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/19_r0Z3lQUIsEAN0QOc-hoeeRBjl_qARE/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1iRsphL3murZ9vdvsnw9WmNHc9mBHFmGO/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1m6NlSyVQOmZco-R11LDz70P_5b1h067b/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1RVPH3gpPjpVwCKSFGXo9vDRaFBzA836f/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name":"Khel Khel Mein 2021",
     "type":"movie",
     "posterUrl":"https://i.ibb.co/K5pLYvj/MV5-BNjgy-OWYw-Nzkt-Nm-Uy-Ni00-OTFi-LWJm-OGQt-MWQy-MGNk-MDI1-MDdh-Xk-Ey-Xk-Fqc-Gde-QXVy-ODg1-MTc3-MT.jpg",
     "movieUrl":"https://drive.google.com/file/d/10GSOytQgQkP0j47XLhSS2b9NtP-ZAE0s/view?usp=sharing"
   },
+
   {
     "name": "Tomorrow",
     "type": "korean",
@@ -79,6 +177,33 @@
           {
             "name": "Episode 16",
             "link": "https://drive.google.com/file/d/15XW5jdoeGoobXTPJs5j9Fuy6jjbuqOCm/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The Great Robbery of Brazil's Central Bank",
+    "type": "barazilian",
+    "overview": "2022 | 13+ | 1 Season | TV Mysteries",
+    "bio":"In 2005, thieves tunnel into a Fortaleza, Brazil, bank vault and steal over 160 million reais. This docuseries explores that spectacular, historic heist.",
+    "posterUrl": "https://i.ibb.co/K5qSz5J/hei-t-the-great-robbery-of-brazils-central-bank-1.jpg",
+    "coverUrl": "https://i.ibb.co/vBmmsDM/the-great-robbery-of-brazil-s-central-bank-731012.webp",
+    "seasons": [
+      {
+        "name": "Season 1 English",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/12uZBRobjz17Hn8dF7e4YoNUggEZK4Ugy/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1e8aMQKYMWbsqMWdUH9j04QzlmmfOQGH6/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/15Y2eWAOnHeUXwVzL1vpWdaY0HXCyLDy7/view?usp=sharing"
           }
         ]
       }
@@ -466,11 +591,19 @@
             "link": "https://drive.google.com/file/d/1kUAN-OcTKza1di841NQ_1aV5FJ2KFxoT/view?usp=sharing"
           },
           {
-            "name": "Episode 02 Next Wednesday",
+            "name": "Episode 02 720p",
+            "link": "https://drive.google.com/file/d/1PUKa6FigezChgC5qg8Fg_qA5OMk4NmtP/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02 1080p",
+            "link": "https://drive.google.com/file/d/1q4SqJ998CuV6oczJqTvu_iD_McY6KZ_P/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03 Next Wednesday",
             "link": ""
           },
           {
-            "name": "Episode 03",
+            "name": "Episode 03 Next Wednesday",
             "link": ""
           },
           {
@@ -515,7 +648,19 @@
             "link": "https://drive.google.com/file/d/1lndJP7OXun3PvwCNvUXKWM4uVP8CViNs/view?usp=sharing"
           },
           {
-            "name": "Episode 02 Next Wednesday",
+            "name": "Episode 02 720p",
+            "link": "https://drive.google.com/file/d/17AoFipak3nQE7MKgFWYIG9Dn-Fxk-twc/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02 1080p",
+            "link": "https://drive.google.com/file/d/16Iq9wRE3ck28tyt5tZm_98mjmjx81r8v/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03 Next Wednesday",
+            "link": ""
+          },
+          {
+            "name": "Episode 03 Next Wednesday",
             "link": ""
           },
           {
@@ -2249,7 +2394,7 @@
      ]
   },
   {
-    "name": "Obi-Wan Kenobi",
+    "name": "Obi Wan Kenobi",
     "type": "american",
     "overview": "2022 | 16+ | 1 Season | Sci-Fi",
     "bio":"Jedi Master Obi-Wan Kenobi watches over young Luke Skywalker and evades the Empire's elite Jedi hunters during his exile on the desert planet Tatooine.",
@@ -2257,27 +2402,27 @@
     "coverUrl": "https://i.ibb.co/vLbxmtR/1215196.jpg",
     "seasons": [
       {
-        "name": "Season 1",
+        "name": "Season 1 Dual Audio",
         "episodes": [
           {
             "name": "Episode 01",
-            "link": "https://drive.google.com/file/d/1h3KmA25mhAOFSYffD2ETbs_ZSpQhbwaF/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/10-53gFlZ88KU3BFLoEAK_ySPXWkfLAQK/view?usp=sharing"
           },
           {
             "name": "Episode 02",
-            "link": "https://drive.google.com/file/d/11GS7pNTrtbjodqnkcDhNj7vtqga0F9Wt/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1CH4Bd8oavxrPmHU_OyCfofZ7nx3mzeZA/view?usp=sharing"
           },
           {
             "name": "Episode 03",
-            "link": "https://drive.google.com/file/d/1uQlI3hqSIrsGrGxODJeAXQR1aKy8drrl/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/19xn7IIbsAGQDPLEdrFHUT4dBq--B3_Gj/view?usp=sharing"
           },
           {
             "name": "Episode 04",
-            "link": ""
+            "link": "https://drive.google.com/file/d/10HLvQcBrmS4tdDGdK_k45dwUIA95wk15/view?usp=sharing"
           },
           {
             "name": "Episode 05",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1_Ggf1GvlD9RZbQ9XfaHxxceFxAnJE79B/view?usp=sharing"
           },
           {
             "name": "Episode 06",
