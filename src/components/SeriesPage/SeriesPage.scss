@@ -34,10 +34,13 @@
 .banner__description_series {
   width: 45rem;
   line-height: 1.3;
-  padding-top: 1rem;
+  padding-top: 0.3rem;
+  padding-left: 0.2rem;
   font-size: 0.8rem;
   max-width: 360px;
-  height: 15px;
+  height: 20px;
+  font-weight: bold;
+  background-color: red;
 }
 
 .banner__about_series {

@@ -44,6 +44,29 @@
     ]
   },
   {
+    "name": "Bachchhan Pandey",
+    "type": "indian",
+    "overview": "2022 | 17+ | 2h 26m | Action",
+    "bio":"A budding director tries to research a merciless gangster for making a film on gangster-ism. But her secret attempts to conduct the research fail when she gets caught for snooping.",
+    "posterUrl": "https://i.ibb.co/ZGCxFd9/download.jpg",
+    "coverUrl": "https://i.ibb.co/5LVVGZj/bachchhan-paandey-1647657151.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": "https://drive.google.com/file/d/1l6qXlq5NjFMiLh4ULNGTczRtoyZpy_1B/view?usp=sharing"
+          },
+          {
+            "name": "1080p Hindi",
+            "link": "https://drive.google.com/file/d/18dbIwDR4lQaZgXrUyLplOL0K80KQrEVX/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Ardh",
     "type": "indian",
     "overview": "2022 | 17+ | 1h 23m | Comedy",
@@ -266,12 +289,7 @@
     "movieUrl": "https://drive.google.com/file/d/1DMZdOICjHSvsvHGjO1n8H3P22hMam-hr/view?usp=sharing"
   },
 
-  {
-    "name": "Bachchhan Paandey 2022",
-    "type": "movie",
-    "posterUrl": "https://drive.google.com/uc?id=1o1QfU4jUOjhosO3j7uy6CuRf02pghfhf",
-    "movieUrl": "https://drive.google.com/file/d/13etMj-doUMb-6RaNBYwMWXvmjrJBbC22/view?usp=sharing"
-  },
+
 
   {
     "name": "Hey Sinamika",
@@ -414,12 +432,7 @@
     "posterUrl": "https://i.ibb.co/7jY9MHJ/MV5-BM2-Rj-YWI2-NGUt-Nm-Fk-NC00-ODM2-LWFj-YTIt-OTg2-OTE2-Mz-Qx-Nj-Jm-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E.jpg",
     "movieUrl": "https://drive.google.com/file/d/1IZOnMkR0bja0EP1NEyEJN0lDhcY8jb4z/view?usp=sharing"
   },
-  {
-    "name": "Bachchhan Pandey",
-    "type": "movie",
-    "posterUrl": "https://i.ibb.co/3h5DFRX/MV5-BOWE5-Zjlj-ZDEt-YTZm-Ny00-MGVl-LWJj-Nj-Et-MWUw-Mz-Uy-MDc5-NTA3-Xk-Ey-Xk-Fqc-Gde-QXVy-ODgz-MDMw-O.jpg ",
-    "movieUrl": "https://drive.google.com/file/d/13etMj-doUMb-6RaNBYwMWXvmjrJBbC22/view?usp=sharing"
-  },
+
   {
     "name": "Gehraiyaan",
     "type": "movie",
@@ -5491,28 +5504,7 @@
       }
     ]
   },
-      {
-    "name": "",
-    "type": "",
-    "overview": "2022 | 17+ | Movie | Horror",
-    "posterUrl": "",
-    "coverUrl": "",
-    "seasons": [
-      {
-        "name": "Watch Now",
-        "episodes": [
-          {
-            "name": "720p Hindi",
-            "link": ""
-          },
-          {
-            "name": "1080p Hindi",
-            "link": ""
-          }
-        ]
-      }
-    ]
-  },
+    
       {
     "name": "",
     "type": "",

@@ -2197,6 +2197,29 @@
     ]
   },
   {
+    "name": "Bachchhan Pandey",
+    "type": "indian",
+    "overview": "2022 | 17+ | 2h 26m | Action",
+    "bio":"A budding director tries to research a merciless gangster for making a film on gangster-ism. But her secret attempts to conduct the research fail when she gets caught for snooping.",
+    "posterUrl": "https://i.ibb.co/ZGCxFd9/download.jpg",
+    "coverUrl": "https://i.ibb.co/5LVVGZj/bachchhan-paandey-1647657151.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": "https://drive.google.com/file/d/1l6qXlq5NjFMiLh4ULNGTczRtoyZpy_1B/view?usp=sharing"
+          },
+          {
+            "name": "1080p Hindi",
+            "link": "https://drive.google.com/file/d/18dbIwDR4lQaZgXrUyLplOL0K80KQrEVX/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Dour",
     "type": "bengali",
     "overview": "2022 | 16+ | 1 Season | Thriller",
@@ -4213,12 +4236,7 @@
     "posterUrl": "https://i.ibb.co/SNSWLrq/MV5-BOWY3-ZWFk-Zm-It-NDE3-Ny00-ZTBh-LTg0-Nj-Qt-Y2-E2-ZGEy-Nm-Ew-ODA3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTkx-Nj-U.jpg",
     "movieUrl": "https://drive.google.com/file/d/133udxdG4CYO3x9iG0XtIcgF6bhaE9dAh/view?usp=sharing"
   },
-  {
-    "name": "Bachchhan Paandey",
-    "type": "movie",
-    "posterUrl": "https://drive.google.com/uc?id=1o1QfU4jUOjhosO3j7uy6CuRf02pghfhf",
-    "movieUrl": "https://drive.google.com/file/d/13etMj-doUMb-6RaNBYwMWXvmjrJBbC22/view?usp=sharing"
-  },
+
   {
     "name": "Roktopolash",
     "type": "bengali",
