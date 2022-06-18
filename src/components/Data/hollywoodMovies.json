@@ -1,5 +1,31 @@
 [
-
+  {
+    "name": "Spiderhead",
+    "type": "american",
+    "overview": "2022 | 18+ | 1h 47m | US Movies",
+    "bio":"A prisoner in a state-of-the-art penitentiary begins to question the purpose of the emotion-controlling drugs he's testing for a pharmaceutical genius.",
+    "posterUrl": "https://i.ibb.co/10Qn2xc/MV5-BNDVk-ZTc4-OTkt-NTAy-OC00-Mz-Qx-LThi-Zj-Mt-M2-M3-MTlm-Yz-Fj-Y2-Fk-Xk-Ey-Xk-Fqc-Gde-QXVy-MTkx-Nj.jpg",
+    "coverUrl": "https://i.ibb.co/MZ2s5SF/wallpapersden-com-netflix-spiderhead-2048x1152.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "480p Dual Audio",
+            "link": "https://drive.google.com/file/d/1s2BQBwjMyF4tngKZg52ZJE8tCVIqnDZz/view?usp=sharing"
+          },
+          {
+            "name": "720p Dual Audio",
+            "link": "https://drive.google.com/file/d/1VQOHY1G74iERsQuN-_Il1oBRtMahk9f3/view?usp=sharing"
+          },
+          {
+            "name": "1080p Dual Audio",
+            "link": "https://drive.google.com/file/d/15yYBF3rbBhNw8CIe7OKHLZM5Mh0pxfkF/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
   {
     "name": "Jack Reacher",
     "type": "american",
@@ -4007,28 +4033,7 @@
     }
   ]
 },
-{
-  "name": "",
-  "type": "",
-  "overview": "",
-  "posterUrl": "",
-  "coverUrl": "",
-  "seasons": [
-    {
-      "name": "Watch Now",
-      "episodes": [
-        {
-          "name": "720p Hindi",
-          "link": ""
-        },
-        {
-          "name": "1080p Hindi",
-          "link": ""
-        }
-      ]
-    }
-  ]
-},
+
 
 {
   "name": "",

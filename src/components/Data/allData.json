@@ -3539,6 +3539,33 @@
     "movieUrl": "https://drive.google.com/file/d/1v6YDsLvSQFjYJC7JVaBO7sCsxN5BKGsT/view?usp=sharing"
   },
   {
+    "name": "Spiderhead",
+    "type": "american",
+    "overview": "2022 | 18+ | 1h 47m | US Movies",
+    "bio":"A prisoner in a state-of-the-art penitentiary begins to question the purpose of the emotion-controlling drugs he's testing for a pharmaceutical genius.",
+    "posterUrl": "https://i.ibb.co/10Qn2xc/MV5-BNDVk-ZTc4-OTkt-NTAy-OC00-Mz-Qx-LThi-Zj-Mt-M2-M3-MTlm-Yz-Fj-Y2-Fk-Xk-Ey-Xk-Fqc-Gde-QXVy-MTkx-Nj.jpg",
+    "coverUrl": "https://i.ibb.co/MZ2s5SF/wallpapersden-com-netflix-spiderhead-2048x1152.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "480p Dual Audio",
+            "link": "https://drive.google.com/file/d/1s2BQBwjMyF4tngKZg52ZJE8tCVIqnDZz/view?usp=sharing"
+          },
+          {
+            "name": "720p Dual Audio",
+            "link": "https://drive.google.com/file/d/1VQOHY1G74iERsQuN-_Il1oBRtMahk9f3/view?usp=sharing"
+          },
+          {
+            "name": "1080p Dual Audio",
+            "link": "https://drive.google.com/file/d/15yYBF3rbBhNw8CIe7OKHLZM5Mh0pxfkF/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "No Exit",
     "type": "movie",
     "posterUrl": "https://i.ibb.co/NFr8BgG/download.jpg",
@@ -5524,91 +5551,55 @@
         "episodes": [
           {
             "name": "Episode 01",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1TlHhoeKSLuL6LLuWEv_90f9iZhVFd0Q5/view?usp=sharing"
           },
           {
             "name": "Episode 02",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1CuifI2q6EzaACMILLdjrPiLaZjyC4OIn/view?usp=sharing"
           },
           {
             "name": "Episode 03",
-            "link": ""
+            "link": "https://drive.google.com/file/d/12Mi0AUfWqh_PZY_vLVbUNYobdxwMvbHZ/view?usp=sharing"
           },
           {
             "name": "Episode 04",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1otF09TdZFkRSB75tooQ7POAfEHmhReR4/view?usp=sharing"
           },
           {
             "name": "Episode 05",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1NvqQe9hJsivRYdTQct7IS9i_wZERP7t-/view?usp=sharing"
           },
           {
             "name": "Episode 06",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1Xqy0nURA-dO0YVvjNYykiRBVbDiY-vtR/view?usp=sharing"
           },
           {
             "name":"Episode 07",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1w-toaesx_JNviVZfWCSA_vhA7BE8Fs5C/view?usp=sharing"
           },
           {
             "name":"Episode 08",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1ncmvtpRLT2C3dXJwyKfjWV5sH0gHT6nR/view?usp=sharing"
           },
           {
             "name":"Episode 09",
-            "link": ""
+            "link": "https://drive.google.com/file/d/17_quVImxRUy76JedBvYg7BL1XGuRw3AZ/view?usp=sharing"
           },
           {
             "name":"Episode 10",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1wUipRqoTkq3Y-wd8EZOlVPbUW6pd6l_c/view?usp=sharing"
           },
           {
             "name": "Episode 11",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1ojW-MTU-qEiv3ajtLY3NgvLbrgzX33PA/view?usp=sharing"
           },
           {
             "name": "Episode 12",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1CY6_GGdsnLmQtyzPqPsbt0XDu4G0M1q9/view?usp=sharing"
           },
           {
             "name": "Episode 13",
-            "link": ""
-          },
-          {
-            "name": "Episode 14",
-            "link": ""
-          },
-          {
-            "name": "Episode 15",
-            "link": ""
-          },
-          {
-            "name": "Episode 16",
-            "link": ""
-          },
-          {
-            "name":"Episode 17",
-            "link": ""
-          },
-          {
-            "name":"Episode 18",
-            "link": ""
-          },
-          {
-            "name":"Episode 19",
-            "link": ""
-          },
-          {
-            "name":"Episode 20",
-            "link": ""
-          },
-          {
-            "name": "Episode 21",
-            "link": ""
-          },
-          {
-            "name": "Episode 22",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1rV8n3yNmoSsv9hpqYEBr_YSACSbTp8ln/view?usp=sharing"
           }
         ]
       },
@@ -6383,7 +6374,24 @@
         ]
       },
       {
-        "name": "Season 3-8 Uploading",
+        "name": "Season 3",
+        "episodes": [
+          {
+            "name": "Episode 1-10 Zip File 2.15GB 720p",
+            "link": "https://drive.google.com/file/d/1REcu2jgyhoojilRE2Fo-MMYspZls1j6j/view?usp=sharing"
+          },
+          {
+            "name": "Episode 11-20 Zip File 1.96GB 720p",
+            "link": "https://drive.google.com/file/d/1Toxrr1b6eBJW39TznHGaFAQnfq9RuJkq/view?usp=sharing"
+          },
+          {
+            "name": "Episode 21-23 Zip File 670MB 720p",
+            "link": "https://drive.google.com/file/d/13xtj0c8ZJrbfRTiyVB7MwHyKKfq349gg/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 4-8 Uploading",
         "episodes": [
           {
             "name": "Uploading",
@@ -10182,6 +10190,92 @@
     ]
   },
   {
+    "name": "Reacher",
+    "type": "american",
+    "overview": "2022 | 18+ | 1 Seaason | TV Series",
+    "bio":"Jack Reacher was arrested for murder and now the police need his help. Based on the books by Lee Child.", 
+    "posterUrl": "https://i.ibb.co/y02ztg6/MV5-BNz-Q4-MGYz-Yz-At-Nj-Jl-OC00-NTdk-LTlm-NTAt-Mm-Zj-Mz-Zm-ZTg2-YTEz-Xk-Ey-Xk-Fqc-Gde-QXVy-Mjkw-OTA.jpg",
+    "coverUrl": "https://i.ibb.co/vYgw7Gq/reacher.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1QFw0IBYRyELR0ug4U4FYXAXuY7PaIosQ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1_pH6RNOWmWtdV3BDItfp3m0t79cZGxyQ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1Z8n5lHWJG7hhNIFv8J_MiDcUOBVtXoLC/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1IN0E5BPBYWPLZ5KfXxSoVAayDnTm9G1J/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/15Xio5-EbwvWJ1eEgsQbWpC24SX-kaS18/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1fcbpKIBWnvLWDmwn_RyU0zjkuDLgn6Do/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1dOncFQ7JtGQ78_VlBp7zDaWkXPiDB4KU/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/18xAr3ry_4HA5RhfxEqWDizcNiLDxBvlW/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Web of Make Believe: Death, Lies and the Internet",
+    "type": "american",
+    "overview": "2022 | 18+ | 1 Season | True Crime Documentaries",
+    "bio":"Conspiracy. Fraud. Violence. Murder. What starts out virtual can get real all too quickly — and when the web is worldwide, so are the consequences.",
+    "posterUrl": "https://i.ibb.co/zHVR6fN/web-of-make-believe-death-lies-and-the-internet.jpg",
+    "coverUrl": "https://i.ibb.co/LPXtRm5/AAAABZMNAur-Y-Gh-Fjve9xh04-Sd65-SP2i8-CFSNg8sk7rwr-K5cyelq-Us-IBW-x-e-Wiy-NXAh-Ly-TWsc-OHq-Vqa8-Qa-I.jpg",
+    "seasons": [
+      {
+        "name": "Season 1 Hindi+English",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1bOgvNtK7qdPKBow3fFySfBJFzQZg7cFx/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1IDWf4Fb3jZmWZLCfw-aIvhtoEq0NuW-9/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1vuW_soonI-u7opEkjE9v7cCu3pEHkaEK/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1XULBQJDMrdQyxr7CrX_aCtZ9WznyXTnz/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1W1QiPSffBOKTPTPszpshYfaov7xvsTgk/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1hY88FtMoIh_ee6BpV4D4MTyW1TPxm2qs/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Pacific Rim",
     "type": "anime",
     "overview": "2021 | 16+ | 1 Season | Sci-Fi Anime",
@@ -11622,6 +11716,7 @@
         "name": "She",
         "type": "indian",
         "overview": "2020 | 18+ | 1 Season | TV Dramas",
+        "bio":"An undercover assignment to expose a drug ring becomes a timid Mumbai constable’s road to empowerment as she realizes her dormant sexuality's potential.",
         "posterUrl": "https://i.ibb.co/mD951SJ/MV5-BYzc4-Zm-Fh-Zj-It-OWJj-My00-Yzhi-LTkx-MDAt-NWUy-Nj-Iy-OTJk-Ym-Y3-Xk-Ey-Xk-Fqc-Gde-QXVy-NDAz-NDk0.jpg",
         "coverUrl": "https://i.ibb.co/pfHGzvW/She-Netflix-Web-Series.jpg",
         "seasons": [
@@ -11659,14 +11754,38 @@
             ]
           },
           {
-            "name": "Season 2 Coming June 17",
+            "name": "Season 2",
             "episodes": [
               {
-                "name": "Coming",
-                "link": ""
+                "name": "Episode 01",
+                "link": "https://drive.google.com/file/d/1Jg3PZEEUdZwwfXB6lg_-dBukvkgzky2o/view?usp=sharing"
+              },
+              {
+                "name": "Episode 02",
+                "link": "https://drive.google.com/file/d/1Hi-Jz2P8MCQzX_FWZ4m6dcf6dXApYrH1/view?usp=sharing"
+              },
+              {
+                "name": "Episode 03",
+                "link": "https://drive.google.com/file/d/15Jz7XRfmz_fW5Cf4-E_wYEWOhIQxSdwC/view?usp=sharing"
+              },
+              {
+                "name": "Episode 04",
+                "link": "https://drive.google.com/file/d/1vFQaA8280l0cQ7bh0m9dRaN7bUOSVXuZ/view?usp=sharing"
+              },
+              {
+                "name": "Episode 05",
+                "link": "https://drive.google.com/file/d/1ce6JcKRLrx1LEhbxI8IP2xilf0AZfQCA/view?usp=sharing"
+              },
+              {
+                "name": "Episode 06",
+                "link": "https://drive.google.com/file/d/1PBbe6XMcXkI7dgzET0bE8fumno78S7D3/view?usp=sharing"
+              },
+              {
+                "name":"Episode 07",
+                "link": "https://drive.google.com/file/d/18Q2lV7_uQsKWEXcY7E2EZNZZZ8BvJafC/view?usp=sharing"
               }
-             ]
-           }
+            ]
+          }
         ]
       },
       {

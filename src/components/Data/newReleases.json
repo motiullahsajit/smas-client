@@ -1,5 +1,81 @@
 [ 
   {
+    "name": "She",
+    "type": "indian",
+    "overview": "2020 | 18+ | 1 Season | TV Dramas",
+    "bio":"An undercover assignment to expose a drug ring becomes a timid Mumbai constable’s road to empowerment as she realizes her dormant sexuality's potential.",
+    "posterUrl": "https://i.ibb.co/mD951SJ/MV5-BYzc4-Zm-Fh-Zj-It-OWJj-My00-Yzhi-LTkx-MDAt-NWUy-Nj-Iy-OTJk-Ym-Y3-Xk-Ey-Xk-Fqc-Gde-QXVy-NDAz-NDk0.jpg",
+    "coverUrl": "https://i.ibb.co/pfHGzvW/She-Netflix-Web-Series.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/16tRCyEKcUlQhCMzZEoJvD4ECwGw1lgZD/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1rwr3XXqW9koDrS_gkDArk4ulezPnOMB5/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1i6Z6KHCpWeFTgWL7imTAK8qQIdcdWHGN/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1RembcQXyfYpoA1-MrJgkgVr--6e91V8y/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1KxTHmUR0LMXWEkqUWlNxmrAOYSeWFQ_i/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1bKGXfxdnV14Dn11HRZzfOB3Y3peqz5mr/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1H0Eg_QcUDU9ym6VT4bimncpgIlLUTqFK/view?usp=sharing"
+          }
+        ]
+      },
+        {
+          "name": "Season 2",
+          "episodes": [
+            {
+              "name": "Episode 01",
+              "link": "https://drive.google.com/file/d/1Jg3PZEEUdZwwfXB6lg_-dBukvkgzky2o/view?usp=sharing"
+            },
+            {
+              "name": "Episode 02",
+              "link": "https://drive.google.com/file/d/1Hi-Jz2P8MCQzX_FWZ4m6dcf6dXApYrH1/view?usp=sharing"
+            },
+            {
+              "name": "Episode 03",
+              "link": "https://drive.google.com/file/d/15Jz7XRfmz_fW5Cf4-E_wYEWOhIQxSdwC/view?usp=sharing"
+            },
+            {
+              "name": "Episode 04",
+              "link": "https://drive.google.com/file/d/1vFQaA8280l0cQ7bh0m9dRaN7bUOSVXuZ/view?usp=sharing"
+            },
+            {
+              "name": "Episode 05",
+              "link": "https://drive.google.com/file/d/1ce6JcKRLrx1LEhbxI8IP2xilf0AZfQCA/view?usp=sharing"
+            },
+            {
+              "name": "Episode 06",
+              "link": "https://drive.google.com/file/d/1PBbe6XMcXkI7dgzET0bE8fumno78S7D3/view?usp=sharing"
+            },
+            {
+              "name":"Episode 07",
+              "link": "https://drive.google.com/file/d/18Q2lV7_uQsKWEXcY7E2EZNZZZ8BvJafC/view?usp=sharing"
+            }
+          ]
+        }
+      ]
+    },
+  {
     "name": "Centauro",
     "type": "spanish",
     "overview": "2022 | 18+ | 1h 30m | Crime Movies",
@@ -102,7 +178,45 @@
     "posterUrl":"https://i.ibb.co/K5pLYvj/MV5-BNjgy-OWYw-Nzkt-Nm-Uy-Ni00-OTFi-LWJm-OGQt-MWQy-MGNk-MDI1-MDdh-Xk-Ey-Xk-Fqc-Gde-QXVy-ODg1-MTc3-MT.jpg",
     "movieUrl":"https://drive.google.com/file/d/10GSOytQgQkP0j47XLhSS2b9NtP-ZAE0s/view?usp=sharing"
   },
-
+  {
+    "name": "Web of Make Believe: Death, Lies and the Internet",
+    "type": "american",
+    "overview": "2022 | 18+ | 1 Season | True Crime Documentaries",
+    "bio":"Conspiracy. Fraud. Violence. Murder. What starts out virtual can get real all too quickly — and when the web is worldwide, so are the consequences.",
+    "posterUrl": "https://i.ibb.co/zHVR6fN/web-of-make-believe-death-lies-and-the-internet.jpg",
+    "coverUrl": "https://i.ibb.co/LPXtRm5/AAAABZMNAur-Y-Gh-Fjve9xh04-Sd65-SP2i8-CFSNg8sk7rwr-K5cyelq-Us-IBW-x-e-Wiy-NXAh-Ly-TWsc-OHq-Vqa8-Qa-I.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1bOgvNtK7qdPKBow3fFySfBJFzQZg7cFx/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1IDWf4Fb3jZmWZLCfw-aIvhtoEq0NuW-9/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1vuW_soonI-u7opEkjE9v7cCu3pEHkaEK/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1XULBQJDMrdQyxr7CrX_aCtZ9WznyXTnz/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1W1QiPSffBOKTPTPszpshYfaov7xvsTgk/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1hY88FtMoIh_ee6BpV4D4MTyW1TPxm2qs/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
   {
     "name": "Tomorrow",
     "type": "korean",
@@ -760,57 +874,7 @@
       }
     ]
   },
-  {
-    "name": "She",
-    "type": "indian",
-    "overview": "2020 | 18+ | 1 Season | TV Dramas",
-    "posterUrl": "https://i.ibb.co/mD951SJ/MV5-BYzc4-Zm-Fh-Zj-It-OWJj-My00-Yzhi-LTkx-MDAt-NWUy-Nj-Iy-OTJk-Ym-Y3-Xk-Ey-Xk-Fqc-Gde-QXVy-NDAz-NDk0.jpg",
-    "coverUrl": "https://i.ibb.co/pfHGzvW/She-Netflix-Web-Series.jpg",
-    "seasons": [
-      {
-        "name": "Season 1",
-        "episodes": [
-          {
-            "name": "Episode 01",
-            "link": "https://drive.google.com/file/d/16tRCyEKcUlQhCMzZEoJvD4ECwGw1lgZD/view?usp=sharing"
-          },
-          {
-            "name": "Episode 02",
-            "link": "https://drive.google.com/file/d/1rwr3XXqW9koDrS_gkDArk4ulezPnOMB5/view?usp=sharing"
-          },
-          {
-            "name": "Episode 03",
-            "link": "https://drive.google.com/file/d/1i6Z6KHCpWeFTgWL7imTAK8qQIdcdWHGN/view?usp=sharing"
-          },
-          {
-            "name": "Episode 04",
-            "link": "https://drive.google.com/file/d/1RembcQXyfYpoA1-MrJgkgVr--6e91V8y/view?usp=sharing"
-          },
-          {
-            "name": "Episode 05",
-            "link": "https://drive.google.com/file/d/1KxTHmUR0LMXWEkqUWlNxmrAOYSeWFQ_i/view?usp=sharing"
-          },
-          {
-            "name": "Episode 06",
-            "link": "https://drive.google.com/file/d/1bKGXfxdnV14Dn11HRZzfOB3Y3peqz5mr/view?usp=sharing"
-          },
-          {
-            "name":"Episode 07",
-            "link": "https://drive.google.com/file/d/1H0Eg_QcUDU9ym6VT4bimncpgIlLUTqFK/view?usp=sharing"
-          }
-        ]
-      },
-      {
-        "name": "Season 2 Coming June 17",
-        "episodes": [
-          {
-            "name": "Coming",
-            "link": ""
-          }
-         ]
-       }
-    ]
-  },
+
   {
     "name": "Refugee",
     "type": "bengali",
