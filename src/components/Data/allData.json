@@ -1845,6 +1845,13 @@
   },
 
   {
+    "name":"Don 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/Lr5Nc2K/MV5-BYz-Yy-MGFl-MDYt-Zm-M0-OS00-ZDA0-LTk5-Mm-Mt-Yz-Ew-YTFl-Nz-Fi-Nj-Mz-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEz-Nz.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1HpgUchuyL4IFFvQBJMdkK2SGy1fm4yZt/view?usp=sharing"
+  },
+
+  {
     "name":"Night Drive 2022",
     "type":"movie",
     "posterUrl":"https://i.ibb.co/10WnR4n/9428-37565-Night-Drijpg.jpg",
@@ -4048,23 +4055,24 @@
     "name": "DS Multiverse Of Madness",
     "type": "american",
     "overview": "2022 | 17+ | Movie | Thriller",
+    "bio":"Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse. They seek help from Wanda the Scarlet Witch, Wong and others.",
     "posterUrl": "https://i.ibb.co/C6vVG5r/MV5-BNWM0-ZGJl-Mz-Mt-Zm-Yw-Mi00-Nz-I3-LTgz-Mz-Mt-Nj-Mz-Njli-NDRm-Zm-Fl-Xk-Ey-Xk-Fqc-Gde-QXVy-MTM1-MT.jpg",
-    "coverUrl": "https://i.ibb.co/1qj4tK5/1213553.jpg",
+    "coverUrl": "https://i.ibb.co/DCVWkXn/1207325.jpg",
     "seasons": [
       {
         "name": "Watch Now",
         "episodes": [
           {
-            "name": "720p Hindi",
-            "link": "https://drive.google.com/file/d/1juYeGvfXcWKgdkqUc-YmLeG7nq1Cgor_/view?usp=sharing"
+            "name": "480p English",
+            "link": "https://drive.google.com/file/d/1WXCLob-DeAJ9Z-EnoZ2gPmRn65wEKfK9/view?usp=sharing"
           },
           {
-            "name":"1080p Hindi",
-            "link":"https://drive.google.com/file/d/1SK-tYUErjYZP-0WBe2QePtoB2-XtNDRS/view?usp=sharing"
+            "name":"720p English",
+            "link": "https://drive.google.com/file/d/1tuGMs8TeMKTGHrqbjY6RBxhb4O77xCu3/view?usp=sharing"
           },  
           {
-            "name": "720p English",
-            "link": "https://drive.google.com/file/d/1j03extE-I0JaqSPAL25eywCTX5GwwM3u/view?usp=sharing"
+            "name": "1080p English",
+            "link": "https://drive.google.com/file/d/185DsRo8lWiuLdBbMVZPgABQs2nbuNo8p/view?usp=sharing"
           }
         ]
       }
@@ -6316,7 +6324,76 @@
       }
     ]
   },
-
+ {
+    "name": "DI Ray",
+    "type": "british",
+    "overview": "2022 | 17+ | 1 Season | Crime",
+    "bio":"Newly promoted DI Rachita Ray takes on a case that forces her to face a lifelong personal conflict.",
+    "posterUrl": "https://i.ibb.co/XyjCwG2/MV5-BNTE5-NWRi-Yjkt-Y2-Ji-My00-OTA4-LThm-ZTYt-Nz-Iy-ODdk-Mm-Zi-Yzk4-Xk-Ey-Xk-Fqc-Gde-QXVy-MDU5-MDEy.jpg",
+    "coverUrl": "https://i.ibb.co/BnrKYDL/di-ray-episode-1-01-0-58b1883.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1SZFphF7oUMPpro82FxCc3DaZk7C0OfoN/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1x0yeIIEZ6GpNgPomNkeoPfZGMoxT-N14/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1woct1oVd7tpxL9BjuNYtrhpgeEvkIvWv/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/12yPSqbjjIsTw2QepMHVWy61TcvrXbpRV/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The Pentaverate",
+    "type": "american",
+    "overview": "2022 | 18+ | 1 Season | TV Comedies",
+    "bio":"After influencing global events for centuries, a secret society faces a dangerous threat from within. Can a Canadian reporter save them — and the world",
+    "posterUrl": "https://i.ibb.co/w7PvTqG/MV5-BYTAw-MTc4-M2-Et-OTY5-NS00-Y2-Rj-LTk1-Zjgt-ZTAx-YTg2-Nj-Ez-OWUz-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEz-MTI1.jpg",
+    "coverUrl": "https://i.ibb.co/jzzJfbC/AAAABQo-VC3-DZtf-B5-Mh-Zg7-j-m-Rd24-QTE0-B39shhm5rhs3-Odvtq-CH7-N0-Wbc4-r1o-RJF8-SD1-Atkeg-Leh-Id2-N.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/13pg9EohirCa6swodEomHojnmXjvCG1ts/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1oVwclZfMZCGiiodNpMZG2GC3JG5IXOQV/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1HfTDMaK5TU7l7YdR7JNVVE_0sThOdzpm/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1efJ3KP1u9pwl97RhAGguYAIzWA22B0r5/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1rBaYhVU17XJN0WkEm8FVY6xioW28BME0/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1DA99ESaheEKc8gYdGZDv4maHcd4kToKf/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
   {
     "name": "The Boys",
     "type": "american",
@@ -10100,23 +10177,23 @@
           },
           {
             "name": "Episode 04",
-            "link": ""
+            "link": "https://drive.google.com/file/d/14rsa5_PI4Bk1nn2JrfWq25_EzYucWXCy/view?usp=sharing"
           },
           {
             "name": "Episode 05",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1OQDTIeX1aRJtgw0jjV1FatSxb83gjsne/view?usp=sharing"
           },
           {
             "name": "Episode 06",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1AYm3rvyUJUzbdz5Nqx_Fnd6cE1xcv3il/view?usp=sharing"
           },
           {
             "name": "Episode 07",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1sl6dNshQ2vaiYmnEnWrLnfBlYX0n69ah/view?usp=sharing"
           },
           {
             "name": "Episode 08",
-            "link": ""
+            "link": "https://drive.google.com/file/d/15Q-KEZTdFjlvnw-GIUEN8PTy76Lz7P2v/view?usp=sharing"
           }
         ]
       }

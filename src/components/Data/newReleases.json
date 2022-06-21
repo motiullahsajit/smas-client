@@ -3788,23 +3788,24 @@
     "name": "DS Multiverse Of Madness",
     "type": "american",
     "overview": "2022 | 17+ | Movie | Thriller",
+    "bio":"Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse. They seek help from Wanda the Scarlet Witch, Wong and others.",
     "posterUrl": "https://i.ibb.co/C6vVG5r/MV5-BNWM0-ZGJl-Mz-Mt-Zm-Yw-Mi00-Nz-I3-LTgz-Mz-Mt-Nj-Mz-Njli-NDRm-Zm-Fl-Xk-Ey-Xk-Fqc-Gde-QXVy-MTM1-MT.jpg",
-    "coverUrl": "https://i.ibb.co/1qj4tK5/1213553.jpg",
+    "coverUrl": "https://i.ibb.co/DCVWkXn/1207325.jpg",
     "seasons": [
       {
         "name": "Watch Now",
         "episodes": [
           {
-            "name": "720p Dual Audio Hindi",
-            "link": "https://drive.google.com/file/d/1juYeGvfXcWKgdkqUc-YmLeG7nq1Cgor_/view?usp=sharing"
+            "name": "480p English",
+            "link": "https://drive.google.com/file/d/1WXCLob-DeAJ9Z-EnoZ2gPmRn65wEKfK9/view?usp=sharing"
           },
           {
-            "name":"1080p Hindi",
-            "link":"https://drive.google.com/file/d/1SK-tYUErjYZP-0WBe2QePtoB2-XtNDRS/view?usp=sharing"
+            "name":"720p English",
+            "link": "https://drive.google.com/file/d/1tuGMs8TeMKTGHrqbjY6RBxhb4O77xCu3/view?usp=sharing"
           },  
           {
-            "name": "720p English",
-            "link": "https://drive.google.com/file/d/1j03extE-I0JaqSPAL25eywCTX5GwwM3u/view?usp=sharing"
+            "name": "1080p English",
+            "link": "https://drive.google.com/file/d/185DsRo8lWiuLdBbMVZPgABQs2nbuNo8p/view?usp=sharing"
           }
         ]
       }
