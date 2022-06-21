@@ -1,9 +1,72 @@
 [
   {
+    "name": "Bangarraju",
+    "type": "tamil",
+    "overview": "2022 | 16+ | 2h 30m | Drama",
+    "bio":"Bangarraju and Satyabhama come down to settle the life of their grandson Chinna Bangarraju and to save the treasure of temple.",
+    "posterUrl": "https://i.ibb.co/zR87qyv/MV5-BZTRi-NDQ2-ODYt-Mzcw-My00-ZGNj-LWIx-Mz-Et-ZTMz-NDIx-Y2-I0-Njk5-Xk-Ey-Xk-Fqc-Gde-QXVy-NTM2-NTg3-N.jpg",
+    "coverUrl": "https://i.ibb.co/b6Z4L3B/Na-Kosam-Nuvvu-song-still.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "480p Hindi",
+            "link": "https://drive.google.com/file/d/1uJyJhu0k7MOIucNSzGlaagDJI1ivViA7/view?usp=sharing"
+          },
+          {
+            "name": "720p Hindi",
+            "link": "https://drive.google.com/file/d/1PCaTV2_ACj4HGMoVCqWkmQ66bWTGFM-b/view?usp=sharing"
+          },
+          {
+            "name": "1080p Hindi",
+            "link": "https://drive.google.com/file/d/1IpkGnazEGKlBwP2-1OOJZDFHSW57IZGw/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Major",
+    "type": "indian",
+    "overview": "2022 | 17+ | 2h 30m | Action",
+    "bio":"The life of Maj. Sandeep Unnikrishnan, who fought against terrorists and was killed in action during the 2008 attacks at the Taj Palace Hotel in Mumbai, India.",
+    "posterUrl": "https://i.ibb.co/gwTZhvQ/MV5-BYm-E5-NDM0-Mjgt-NTVi-OS00-Nz-Ax-LWI3-MWQt-MTg0-N2-Uy-Nj-E0-Zj-Ix-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI3-Mj.jpg",
+    "coverUrl": "https://i.ibb.co/1qzQG9S/91973367.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": "https://drive.google.com/file/d/1MnXN7nmbp2ql866q7eBj4iCLYkbQ_Unu/view?usp=sharing"
+          },
+          {
+            "name": "1080p Hindi",
+            "link": "https://drive.google.com/file/d/1BpvUmlfl6UxcKgyWUKuRReU-Iputzekk/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name":"Khel Khel Mein 2021",
     "type":"movie",
     "posterUrl":"https://i.ibb.co/K5pLYvj/MV5-BNjgy-OWYw-Nzkt-Nm-Uy-Ni00-OTFi-LWJm-OGQt-MWQy-MGNk-MDI1-MDdh-Xk-Ey-Xk-Fqc-Gde-QXVy-ODg1-MTc3-MT.jpg",
     "movieUrl":"https://drive.google.com/file/d/10GSOytQgQkP0j47XLhSS2b9NtP-ZAE0s/view?usp=sharing"
+  },
+  
+  {
+    "name":"Halfpace 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/K7wk5Z5/MV5-BZWNj-MWQw-ZTIt-Yj-Nl-NS00-MGFm-LWIw-NTUt-MGY1-Mzdi-NGRj-Mjcy-Xk-Ey-Xk-Fqc-Gde-QXVy-NDQ5-ODA3-Mz.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1IZ6o0u9qNFRNB1y-5tx2fjcQev1Sc4E7/view?usp=sharing"
+  },
+  {
+    "name":"Jayeshbhai Jordaar 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/vvsTS5P/MV5-BMzdl-NGE5-MGYt-Mz-A0-Ny00-Zm-Vm-LThk-OTct-Mj-Rm-NGI2-Nm-Q4-ZGQ2-Xk-Ey-Xk-Fqc-Gde-QXVy-NTkz-NDQ4.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1mkW6Hr-fpnht2jiE18krEF-CyItdhnKR/view?usp=sharing"
   },
   {
     "name":"Juju Ashche 2022",
@@ -165,11 +228,11 @@
         "episodes": [
           {
             "name": "720p Hindi",
-            "link": "https://drive.google.com/file/d/1X2x4FlyN6j-wZO2zpqVF8hdrHX0V6o3Y/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1ayiBAd4reaErffeNg32GlMul1gY5T97l/view?usp=sharing"
           },
           {
             "name": "1080p Hindi",
-            "link": "https://drive.google.com/file/d/1Ba24d6SDXfFsex9Ldy3UVpZ8ky4_sTru/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1-Os5p_TovZP5wVtyeC1JbDl8gQom_bkl/view?usp=sharing"
           }
         ]
       }
@@ -213,7 +276,7 @@
     "name":"Runway 34",
     "type":"movie",
     "posterUrl":"https://i.ibb.co/cLxh9Cc/MV5-BN2-Yz-Nj-U4-MTYt-Mz-Y5-OS00-ODg0-LTkx-MTUt-Njg0-Yj-Rk-Yz-I5-ZWJj-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz.jpg",
-    "movieUrl":"https://drive.google.com/file/d/1RAx-BZ9wwxw2NsWxaZQq4842DkNk98GS/view?usp=sharing"
+    "movieUrl":"https://drive.google.com/file/d/13d8Qrtjay69ec_k9AUJayBqHDtSQdv6M/view?usp=sharing"
   },
   
 {
@@ -711,6 +774,33 @@
     "type": "movie",
     "posterUrl": "https://i.ibb.co/ZGvp0wc/MV5-BYm-I4-Mjgw-M2-Qt-MWJj-NC00-Yj-Ix-LWJk-ZTIt-MWJh-Mz-Fm-ZGVm-MTlk-Xk-Ey-Xk-Fqc-Gde-QXVy-MTE0-MTY2.jpg",
     "movieUrl": "         https://drive.google.com/file/d/1h1rCHykSdMSBgpMUfMMT6GUrOkkQOBTI/view?usp=sharing"
+  },
+  {
+    "name": "Secret Superstar",
+    "type": "indian",
+    "overview": "2017 | 13+ | 2h 29m | Music & Musicals",
+    "bio":"A talented teenage singer-songwriter living amid domestic abuse becomes a YouTube sensation after a video in which she hides her identity goes viral.",
+    "posterUrl": "https://i.ibb.co/StfqGQr/MV5-BMDc5-Yj-Rj-ODkt-Mj-Vi-OS00-Yz-Ji-LWIz-NGIt-YTc2-OTgz-Nm-Mw-Zm-Ji-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA4-Nj.jpg",
+    "coverUrl": "https://i.ibb.co/9qbHfGD/MV5-BOGVj-Yz-I0-NDkt-M2-Zk-YS00-Zjhl-LTgy-Mm-It-MWJm-MGJm-MDFk-ZTQx-Xk-Ey-Xk-Fqc-Gde-QXVy-NDAz-NDk0.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "480p Hindi",
+            "link": "https://drive.google.com/file/d/1sbMg6sp1VM8ayZROJsY5tKD5nTo-6iI6/view?usp=sharing"
+          },
+          {
+            "name": "720p Hindi",
+            "link": "https://drive.google.com/file/d/1rvitSXzoTyUQxs6HeoukK1KquUYAtGGh/view?usp=sharing"
+          },
+          {
+            "name": "1080p Hindi",
+            "link": "https://drive.google.com/file/d/1Q_LKXWl7n_btHbzmaOAUyypxCI1WII0W/view?usp=sharing"
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "Jallikattu",
@@ -3106,6 +3196,1813 @@
       }
     ]
   },
+  {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+ 
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  
+      {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+      {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+      {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
       {
     "name": "",
     "type": "",
@@ -4008,6 +5905,7 @@
       }
     ]
   },
+
       {
     "name": "",
     "type": "",
@@ -5042,7 +6940,29 @@
       }
     ]
   },
+      {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
       {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "",
     "type": "",
     "overview": "2022 | 17+ | Movie | Horror",
@@ -5064,7 +6984,29 @@
       }
     ]
   },
+  {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
       {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "",
     "type": "",
     "overview": "2022 | 17+ | Movie | Horror",
@@ -5086,7 +7028,29 @@
       }
     ]
   },
+  {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
       {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "",
     "type": "",
     "overview": "2022 | 17+ | Movie | Horror",
@@ -5108,7 +7072,28 @@
       }
     ]
   },
+  {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
       {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },     {
     "name": "",
     "type": "",
     "overview": "2022 | 17+ | Movie | Horror",
@@ -5130,7 +7115,29 @@
       }
     ]
   },
+  {
+    "name": "",
+    "type": "",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "posterUrl": "",
+    "coverUrl": "",
+    "seasons": [
       {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": ""
+          },
+          {
+            "name": "1080p Hindi",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "",
     "type": "",
     "overview": "2022 | 17+ | Movie | Horror",
@@ -5152,6 +7159,7 @@
       }
     ]
   },
+
       {
     "name": "",
     "type": "",
@@ -7187,12 +9195,7 @@
     "movieUrl":""
   },
 
-  {
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
+
 
   {
     "name":"",
@@ -7381,12 +9384,6 @@
     "movieUrl":""
   },
 
-  {
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
 
   {
     "name":"",

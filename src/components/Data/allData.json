@@ -1,4 +1,5 @@
 [
+
   {
     "name": "Tomorrow",
     "type": "korean",
@@ -77,6 +78,12 @@
         ]
       }
     ]
+  },
+  {
+    "name":"Everest 2015",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/rwtmZFy/MV5-BMTNm-Mz-M0-ZTkt-ZWY3-Yy00-ODVi-LTll-ZDgt-ODcw-M2-Qy-M2-E2-YTU2-L2lt-YWdl-Xk-Ey-Xk-Fqc-Gde-QXVy.jpg",
+    "movieUrl":"https://drive.google.com/file/d/13kapltMy_ykdpoNH5syBisqZS-spUBip/view?usp=sharing"
   },
   {
     "name": "Refugee",
@@ -1581,11 +1588,11 @@
         "episodes": [
           {
             "name": "720p Hindi",
-            "link": "https://drive.google.com/file/d/1X2x4FlyN6j-wZO2zpqVF8hdrHX0V6o3Y/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1ayiBAd4reaErffeNg32GlMul1gY5T97l/view?usp=sharing"
           },
           {
             "name": "1080p Hindi",
-            "link": "https://drive.google.com/file/d/1Ba24d6SDXfFsex9Ldy3UVpZ8ky4_sTru/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1-Os5p_TovZP5wVtyeC1JbDl8gQom_bkl/view?usp=sharing"
           }
         ]
       }
@@ -1608,6 +1615,29 @@
     "type":"movie",
     "posterUrl":"https://i.ibb.co/CwprWnw/Samantaral-poster.jpg",
     "movieUrl":"https://drive.google.com/file/d/1bL5TCmxEV-CNHVQzfXFQSqRh51CXUHdB/view?usp=sharing"
+  },
+  {
+    "name": "Major",
+    "type": "indian",
+    "overview": "2022 | 17+ | 2h 30m | Action",
+    "bio":"The life of Maj. Sandeep Unnikrishnan, who fought against terrorists and was killed in action during the 2008 attacks at the Taj Palace Hotel in Mumbai, India.",
+    "posterUrl": "https://i.ibb.co/gwTZhvQ/MV5-BYm-E5-NDM0-Mjgt-NTVi-OS00-Nz-Ax-LWI3-MWQt-MTg0-N2-Uy-Nj-E0-Zj-Ix-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI3-Mj.jpg",
+    "coverUrl": "https://i.ibb.co/1qzQG9S/91973367.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": "https://drive.google.com/file/d/1MnXN7nmbp2ql866q7eBj4iCLYkbQ_Unu/view?usp=sharing"
+          },
+          {
+            "name": "1080p Hindi",
+            "link": "https://drive.google.com/file/d/1BpvUmlfl6UxcKgyWUKuRReU-Iputzekk/view?usp=sharing"
+          }
+        ]
+      }
+    ]
   },
   {
     "name":"Saaho 2019",
@@ -2078,6 +2108,12 @@
     "movieUrl":"https://drive.google.com/file/d/1gCBlmzc_2gcSzxOxn294p5nK92Vlt8tc/view?usp=sharing"
   },
   {
+    "name":"Jayeshbhai Jordaar 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/vvsTS5P/MV5-BMzdl-NGE5-MGYt-Mz-A0-Ny00-Zm-Vm-LThk-OTct-Mj-Rm-NGI2-Nm-Q4-ZGQ2-Xk-Ey-Xk-Fqc-Gde-QXVy-NTkz-NDQ4.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1mkW6Hr-fpnht2jiE18krEF-CyItdhnKR/view?usp=sharing"
+  },
+  {
     "name": "Bigil",
     "type": "movie",
     "posterUrl": "https://i.ibb.co/jbbrp28/MV5-BMGYx-Ym-Vm-YTct-ZGMw-NS00-Mm-Vk-LWI2-Mz-Ut-ZTEz-Y2-Ux-OTJi-ZTVl-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA4-Nj-E.jpg",
@@ -2167,6 +2203,12 @@
   },
 
   {
+    "name":"Halfpace 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/K7wk5Z5/MV5-BZWNj-MWQw-ZTIt-Yj-Nl-NS00-MGFm-LWIw-NTUt-MGY1-Mzdi-NGRj-Mjcy-Xk-Ey-Xk-Fqc-Gde-QXVy-NDQ5-ODA3-Mz.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1IZ6o0u9qNFRNB1y-5tx2fjcQev1Sc4E7/view?usp=sharing"
+  },
+  {
     "name": "Hridiyam",
     "type": "movie",
     "posterUrl": "https://i.ibb.co/LxTTrzJ/MV5-BN2-E5-ZGVm-Zj-Ut-Zj-Yz-MS00-NDFl-LTk2-M2-Mt-ODAz-ZDU4-Zj-M2-NWY3-Xk-Ey-Xk-Fqc-Gde-QXVy-Mjkx-Nz.jpg",
@@ -2191,7 +2233,33 @@
     "posterUrl":"https://i.ibb.co/yNmnG34/Main-Viyah-Nahi-Karona-Tere-Naal-1080x1600.jpg",
     "movieUrl":"https://drive.google.com/file/d/185hP8Go9m3oVrID_SLxODvjO_3h4nM_E/view?usp=sharing"
   },
-
+  {
+    "name": "Bangarraju",
+    "type": "tamil",
+    "overview": "2022 | 16+ | 2h 30m | Drama",
+    "bio":"Bangarraju and Satyabhama come down to settle the life of their grandson Chinna Bangarraju and to save the treasure of temple.",
+    "posterUrl": "https://i.ibb.co/zR87qyv/MV5-BZTRi-NDQ2-ODYt-Mzcw-My00-ZGNj-LWIx-Mz-Et-ZTMz-NDIx-Y2-I0-Njk5-Xk-Ey-Xk-Fqc-Gde-QXVy-NTM2-NTg3-N.jpg",
+    "coverUrl": "https://i.ibb.co/b6Z4L3B/Na-Kosam-Nuvvu-song-still.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "480p Hindi",
+            "link": "https://drive.google.com/file/d/1uJyJhu0k7MOIucNSzGlaagDJI1ivViA7/view?usp=sharing"
+          },
+          {
+            "name": "720p Hindi",
+            "link": "https://drive.google.com/file/d/1PCaTV2_ACj4HGMoVCqWkmQ66bWTGFM-b/view?usp=sharing"
+          },
+          {
+            "name": "1080p Hindi",
+            "link": "https://drive.google.com/file/d/1IpkGnazEGKlBwP2-1OOJZDFHSW57IZGw/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
 
   {
     "name": "Jallikattu",
@@ -2451,12 +2519,38 @@
     "posterUrl":"https://i.ibb.co/FDvx71b/MV5-BZTk4-Mzg5-Nz-Qt-Mjk3-Zi00-MDE4-LWEx-Mjct-Yz-Q5-MDU5-ODVm-NDI0-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E3.jpg",
     "movieUrl":"https://drive.google.com/file/d/10_5x-nzHcihhGUXypoWzvw2HLMqnkULY/view?usp=sharing"
   },
-
+  {
+    "name": "Secret Superstar",
+    "type": "indian",
+    "overview": "2017 | 13+ | 2h 29m | Music & Musicals",
+    "bio":"A talented teenage singer-songwriter living amid domestic abuse becomes a YouTube sensation after a video in which she hides her identity goes viral.",
+    "posterUrl": "https://i.ibb.co/StfqGQr/MV5-BMDc5-Yj-Rj-ODkt-Mj-Vi-OS00-Yz-Ji-LWIz-NGIt-YTc2-OTgz-Nm-Mw-Zm-Ji-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA4-Nj.jpg",
+    "coverUrl": "https://i.ibb.co/9qbHfGD/MV5-BOGVj-Yz-I0-NDkt-M2-Zk-YS00-Zjhl-LTgy-Mm-It-MWJm-MGJm-MDFk-ZTQx-Xk-Ey-Xk-Fqc-Gde-QXVy-NDAz-NDk0.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "480p Hindi",
+            "link": "https://drive.google.com/file/d/1sbMg6sp1VM8ayZROJsY5tKD5nTo-6iI6/view?usp=sharing"
+          },
+          {
+            "name": "720p Hindi",
+            "link": "https://drive.google.com/file/d/1rvitSXzoTyUQxs6HeoukK1KquUYAtGGh/view?usp=sharing"
+          },
+          {
+            "name": "1080p Hindi",
+            "link": "https://drive.google.com/file/d/1Q_LKXWl7n_btHbzmaOAUyypxCI1WII0W/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
 {
     "name":"Runway 34",
     "type":"movie",
     "posterUrl":"https://i.ibb.co/cLxh9Cc/MV5-BN2-Yz-Nj-U4-MTYt-Mz-Y5-OS00-ODg0-LTkx-MTUt-Njg0-Yj-Rk-Yz-I5-ZWJj-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz.jpg",
-    "movieUrl":"https://drive.google.com/file/d/1RAx-BZ9wwxw2NsWxaZQq4842DkNk98GS/view?usp=sharing"
+    "movieUrl":"https://drive.google.com/file/d/13d8Qrtjay69ec_k9AUJayBqHDtSQdv6M/view?usp=sharing"
   },
   {
     "name":"Unishe April 1994",
@@ -2532,7 +2626,57 @@
     "posterUrl": "https://i.ibb.co/YL3jCJs/MV5-BNj-Jj-Mz-I1-ZDct-MDhm-My00-Nzk2-LTg5-Zjgt-NGIy-N2-Qy-NDQw-MDU5-Xk-Ey-Xk-Fqc-Gde-QXVy-MTMy-Nz-Mx.jpg",
     "movieUrl": "https://drive.google.com/file/d/1ZShUw2FTNn4lPksy84uev_jR8kNJJLZX/view?usp=sharing"
   },
-
+  {
+    "name":"Attack On Finland 2021",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/bgYN05W/MV5-BZj-Qy-YWQ5-YWQt-Nj-Uz-NC00-MDU2-LTlm-OGUt-Nm-Q5-ZDgw-ODZm-Nm-Zi-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-E4-Nz.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1cDw1ObJCrvAQGDxoIihB-0lXa5K-KAsd/view?usp=sharing"
+  },
+  
+  {
+    "name":"Hobbs And Shaw 2019",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/0FsrfvY/MV5-BMTc4-Nz-A5-MTgw-Ml5-BMl5-Ban-Bn-Xk-Ft-ZTgw-Nj-A2-Mj-Iz-Nz-M-V1.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1hsswJyKs2tPSlHY15-DmEtwdaqWJeb1-/view?usp=sharing"
+  },
+  
+  {
+    "name":"Heart Of The Matter 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/C96YkBY/MV5-BNWIy-OWNi-OTUt-ZWY3-Ny00-ZTVh-LTgz-NTgt-Nz-Vh-ZTY4-Mm-Ji-Y2-Ey-Xk-Ey-Xk-Fqc-Gde-QXVy-NDgx-Mj-Mz.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1jjP-XXDsVoJupfKianfeKvB8Mwt6nMGS/view?usp=sharing"
+  },
+  
+  {
+    "name":"Hidden Gems 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/b5PP3nF/MV5-BNTIz-NGFj-MTct-MWZj-OS00-YThl-LTg2-Mjct-Mj-Q3-YTY2-OGU2-MGQ0-Xk-Ey-Xk-Fqc-Gde-QXVy-NTYw-Mz-A1-M.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1WyumSys_J4r49-DlKfqVfW6S_O4TivlU/view?usp=sharing"
+  },
+  
+  
+  
+  {
+    "name":"Hustle 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/VJQGDmX/MV5-BYjdh-YTE3-Nj-Mt-Zj-I3-OC00-Nz-Vl-LWFi-NTUt-Nz-Q3-NDNi-NTI3-NDg4-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEy-Mj-M.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1q8lk5E3MwUZRXZD8ftnm_W2gPuLSxwoG/view?usp=sharing"
+  },
+  
+  {
+    "name":"Lost On Everest 2020",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/bFf6jpb/MV5-BNWY1-ZDY1-MDUt-Nz-E3-My00-Yz-Qx-LWE0-Nj-It-Nz-E2-Zj-E0-YThk-MTVm-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-Ey-Nj.jpg",
+    "movieUrl":"https://drive.google.com/file/d/17yYEuWE837r9EyJwP3LFDM-ybenf1zrL/view?usp=sharing"
+  },
+  
+  {
+    "name":"Wings Over Everest 2019",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/tB71nc7/MV5-BNDdk-Yzkx-ODUt-OGEw-Yy00-YWRi-LTg0-Mz-At-MGY4-MWNi-OGFh-YWE3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA4-Nj-E0-N.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1kNt3dxViANROeQZDtVcDDmd6s2xYJw1p/view?usp=sharing"
+  },
+  
   {
     "name": "Mission Impossible 1",
     "type": "movie",
@@ -6139,6 +6283,129 @@
     ]
   },
   {
+    "name": "Cyber Vaar",
+    "type": "indian",
+    "overview": "2022 | 17+ | 1 Season | CRime Thriller",
+    "bio":"Cyber Vaar-Har Screen Crime Scene sheds light on the rising threat of cybercrime looming over Mumbai. ACP Akash Malik along with Cyber Expert Ananya Saini and team T.R.A.C.E. get on the quest to wipe out cybercrimes from the city.",
+    "posterUrl": "https://i.ibb.co/WxGY8wQ/MV5-BMDlj-ZDA3-ZWEt-N2-M5-OC00-NWM3-LWFl-YTEt-YWZl-NWJj-Yj-Ay-MWIy-Xk-Ey-Xk-Fqc-Gde-QXVy-MTE0-Mz-Y0.jpg",
+    "coverUrl": "https://i.ibb.co/dtYwHbk/sayem.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1bsbrgwEYwuUCzG2ViRUwduiYgdEe43qR/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1T-XBd1KQiUVFatOA9zdd2ZiwZCPAwysm/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1_evUztjqxIUafQKwBClq7Kr6RIJYHOW6/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "name": "The Boys",
+    "type": "american",
+    "overview": "2022 | 18+ | 3 Seasons | Action ",
+    "bio":"A group of vigilantes set out to take down corrupt superheroes who abuse their superpowers",
+    "posterUrl": "https://i.ibb.co/n6k7F5q/THE-BOYS-S3-TEASE-ART.jpg",
+    "coverUrl": "https://i.ibb.co/hZ88xK2/the-boys2.jpg",
+    "seasons": [
+      {
+        "name": "Season 1 Dual Audio",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/11bmHByjBgEJGmlAhLbzzypsfeJt59aDo/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1mW_fWSpKFkG2Iblqwu2UNSDzUisNLOZG/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1--n7yvEc-OP_mSN3q8kxIdm7q_EjpAjP/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1GFoGTsbyjDoIhV-JCx9Om9h4zB31rzqI/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1En5TMNqMclJEv495jf_IOxDhmsH3D9MJ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06 Coming Soon",
+            "link": ""
+          },
+          {
+            "name":"Episode 07",
+            "link": ""
+          },
+          {
+            "name":"Episode 08",
+            "link": ""
+          },
+          {
+            "name":"Episode 09",
+            "link": ""
+          },
+          {
+            "name":"Episode 10",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "name": "Masoom",
+    "type": "indian",
+    "overview": "2022 | 17+ | 1 Season | Mystery ",
+    "bio":"Blood is about old secrets, older betrayals, mind games, and the lies family tell each other.",
+    "posterUrl": "https://i.ibb.co/WB9HKjj/Masoom-S01-Hindi-720p-HEVC.jpg",
+    "coverUrl": "https://i.ibb.co/C01GgWy/0e7zOtM.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1s6jp_bOaICOYely84D7QjCJ5YsYM711D/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/12HrTEq_Dhr8kv1caj2WgusmDGgv2HQYq/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1L16LM27mQNJtBuxHf4CnEJqkupypqSJO/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1HUSQaT5i-2FY4ftpmX3tG4i3uEQiUXeX/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1t3HBTCdS3p8zZiwSuCciMo49l75t824f/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1I74Fluvb4Y2C5kQBxo3-plcUXmrXd3Fp/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Intimacy",
     "type": "spanish",
     "overview": "2022 | 18+ | 1 Season | Crime TV Shows",
@@ -9217,6 +9484,61 @@
           {
             "name": "Episode 06",
             "link": "https://drive.google.com/file/d/1xH11cWgpreLfNw5RsYDxVbE2_Aa5ZCSx/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Secrets of Summer",
+    "type": "argentinian",
+    "overview": "2022 | 13+ | 1 Season | Kids' TV",
+    "bio":"A remote Argentine resort revives its wakeboarding competition, drawing in Mexican athlete Steffi, who is determined to uncover a family secret.",
+    "posterUrl": "https://i.ibb.co/hmkW3Y6/AAAABXvh8p-Wc-ETh-Wtq73-Fdy-Uw-0-F1-ZUj4u-Dq-R1-PINyl-SP7x-Lqxdc-JCa-S-0l6-T6-Wl-Bk-Akg-ABzl-LMck-OS.jpg",
+    "coverUrl": "https://i.ibb.co/LZdjc3H/AAAABTk-DCkk-Op-FWT95v-PA87-BPbdayy-EDN8-H23-VOmc0-Cu-Wac6w-Xkd9-M71k-H6-Cu-KP7-d9-CZct8z-Rt9-Rn52-R.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1odTuaCjv0qohS_wqqv9QwDYzjPGz3P9e/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/10POWqivCoSBWtNBTpEmM7_R6zlaXeP-N/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1-2AFRwXFc05E5ZUpFE7aLvvTTugvjw0r/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1MGR_IFWdLmUNgkaBxc_t7-Px-AEqpWfG/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1a5v0S3f29QC1KK33uhP-mnulEHszVTJ6/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1diFQQ6Ur9C4V0DC34I1ymch4ula7rsFW/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1g0ttzqDi7Fft2GqaAPhuPndPOEN7B3O6/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/15BAXtee3YDXdwtcFNmqKZpr87zWdaI2_/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/1t9aorj4tKcIE3et-xh9bA_Hu2m3tisbd/view?usp=sharing"
+          },
+          {
+            "name":"Episode 10",
+            "link": "https://drive.google.com/file/d/123BAYk9FWve-VnOvrwT_ZJPVjcPnCSoW/view?usp=sharing"
           }
         ]
       }
@@ -13890,6 +14212,169 @@
                 "name":"Episode 08",
                 "link": "https://drive.google.com/file/d/1_zIslTEryAQkmIJO79Gn3HisKpPPqmMg/view?usp=sharing"
               }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "My Liberation Notes",
+        "type": "korean",
+        "overview": "2022 | 16+ | 1 Season | TV Dramas",
+        "bio":"Three siblings, exhausted by the monotony of day-to-day adulthood, seek to find fulfillment and freedom from their unremarkable lives.",
+        "posterUrl": "https://i.ibb.co/zQzcp24/MV5-BNWIz-ZWUw-MDEt-ZTAw-My00-Nj-E4-LThj-ZTAt-MDUw-OTRi-ZGYy-ZTcy-Xk-Ey-Xk-Fqc-Gde-QXVy-MTMz-Nz-Q4-M.jpg",
+        "coverUrl": "https://i.ibb.co/y5vD4FV/AAAABXwnm6d-Ugl-Z4z-WXAYb2-g-WP9q-N69-F2-XGXx0-X2j18290j-Yj7dt0-O6-W6e4-Y2h3i-Vjgcz-I532-E5k-G9vlfw.jpg",
+        "seasons": [
+          {
+            "name": "Season 1 Korean",
+            "episodes": [
+              {
+                "name": "Episode 01",
+                "link": "https://drive.google.com/file/d/1cR3yAdhrw3rDJTPpH_IgKDtDbYmQ0lJ6/view?usp=sharing"
+              },
+              {
+                "name": "Episode 02",
+                "link": "https://drive.google.com/file/d/1Kd94xQ_blnFGvaD_iMlCYly69FHF4T_3/view?usp=sharing"
+              },
+              {
+                "name": "Episode 03",
+                "link": "https://drive.google.com/file/d/1RQVsPSSIoDd1XX9xaC0ggxaXIzC0attV/view?usp=sharing"
+              },
+              {
+                "name": "Episode 04",
+                "link": "https://drive.google.com/file/d/1x3F6wbcWYpYrRJ4ztbC7uro-igzpg1gk/view?usp=sharing"
+              },
+              {
+                "name": "Episode 05",
+                "link": "https://drive.google.com/file/d/1hOnqHhKc69CRed3WJw--vMEK3nVdk2kT/view?usp=sharing"
+              },
+              {
+                "name": "Episode 06",
+                "link": "https://drive.google.com/file/d/1fw_YE2unIhIoQWdCZnzqzc5Gz6YFs2WN/view?usp=sharing"
+              },
+              {
+                "name":"Episode 07",
+                "link": "https://drive.google.com/file/d/1yirjTWiCbhNGEwKFoIyTUIH60l_fZht7/view?usp=sharing"
+              },
+              {
+                "name":"Episode 08",
+                "link": "https://drive.google.com/file/d/1D67mIMqr_0oSHg8zKgYnRJEnEstKNxob/view?usp=sharing"
+              },
+              {
+                "name":"Episode 09 Sorry This File is Missing",
+                "link": ""
+              },
+              {
+                "name":"Episode 10",
+                "link": "https://drive.google.com/file/d/1ACW2CVAkzPI5_8lhUSAy9nbRKi2Mdewh/view?usp=sharing"
+              },
+              {
+                "name": "Episode 11",
+                "link": "https://drive.google.com/file/d/1sk2wIvWPRE_t8G3CVjYTvaYBCOMNvI4s/view?usp=sharing"
+              },
+              {
+                "name": "Episode 12",
+                "link": "https://drive.google.com/file/d/1wUbfrXL3Q1oTPX2IohbGPduOeouFRXJk/view?usp=sharing"
+              },
+              {
+                "name": "Episode 13",
+                "link": "https://drive.google.com/file/d/1wUbfrXL3Q1oTPX2IohbGPduOeouFRXJk/view?usp=sharing"
+              },
+              {
+                "name": "Episode 14",
+                "link": "https://drive.google.com/file/d/1j_QebN7kJSn8dr-VT0e_LxV8elyLXjPM/view?usp=sharing"
+              },
+              {
+                "name": "Episode 15",
+                "link": "https://drive.google.com/file/d/1j_QebN7kJSn8dr-VT0e_LxV8elyLXjPM/view?usp=sharing"
+              },
+              {
+                "name": "Episode 16",
+                "link": "https://drive.google.com/file/d/1wXpC8avAC5oFBf-9RKgU-dZ9ot5Or44j/view?usp=sharing"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "The Witcher",
+        "type": "american",
+        "overview": "2019 | 18+ | 2 Seasons | TV Dramas",
+        "bio":"Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world where people often prove more wicked than beasts.",
+        "posterUrl": "https://i.ibb.co/kmGCGSh/MV5-BN2-Fi-OWU4-Yz-Yt-Mz-Zi-OS00-Mzcy-LTlk-OGEt-OTgw-Zm-Ew-Mz-Ax-Mz-A3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTkx-Nj.jpg",
+        "coverUrl": "https://i.ibb.co/TPC8CYJ/the-witcher-geralt-netflix-uhdpaper-com-8-K-7-1002-wp-thumbnail.jpg",
+        "seasons": [
+          {
+            "name": "Season 1 Dual Audio",
+            "episodes": [
+              {
+                "name": "Episode 01",
+                "link": "https://drive.google.com/file/d/14eOl4pcsRgcPMy6j-zMXP9isAK9D98q0/view?usp=sharing"
+              },
+              {
+                "name": "Episode 02",
+                "link": "https://drive.google.com/file/d/1s4tS906ARGNKev8iNA43bZZQiJONdUDs/view?usp=sharing"
+              },
+              {
+                "name": "Episode 03",
+                "link": "https://drive.google.com/file/d/1mKviaDlgbYcXOpAu8I-Nur8HTneWD0BT/view?usp=sharing"
+              },
+              {
+                "name": "Episode 04",
+                "link": "https://drive.google.com/file/d/1xd3XWlS-0m0mpd2L8xx707uA03WdVOhx/view?usp=sharing"
+              },
+              {
+                "name": "Episode 05",
+                "link": "https://drive.google.com/file/d/1k7d6yQp12MM7LfLRcG7FmdByy61Psg7T/view?usp=sharing"
+              },
+              {
+                "name": "Episode 06",
+                "link": "https://drive.google.com/file/d/1EKrg-yuIjHmK99eTqH877NX1LA_rzZUh/view?usp=sharing"
+              },
+              {
+                "name":"Episode 07",
+                "link": "https://drive.google.com/file/d/1pTgrDlsPREX2hHpqZCkx6GlqQeLouVTp/view?usp=sharing"
+              },
+              {
+                "name":"Episode 08",
+                "link": "https://drive.google.com/file/d/1KGUrHzBsmpqK3SYHPBy3fysmm_R5vkx5/view?usp=sharing"
+              }
+            ]
+          },
+          {
+            "name": "Season 2 Dual Audio",
+            "episodes": [
+              {
+                "name": "Episode 01",
+                "link": "https://drive.google.com/file/d/1uEVwWdqMcUU2tG_ynGd8qw1p0a8AtDMU/view?usp=sharing"
+              },
+              {
+                "name": "Episode 02",
+                "link": "https://drive.google.com/file/d/1s9y-iZsXB5Nc2U6vTOevMo3GZQgL-kYp/view?usp=sharing"
+              },
+              {
+                "name": "Episode 03",
+                "link": "https://drive.google.com/file/d/1TgYm4QXTkaOnfzxnzYg-rlcaUWDr4CiN/view?usp=sharing"
+              },
+              {
+                "name": "Episode 04",
+                "link": "https://drive.google.com/file/d/1IbrubOUU4mF7orvNqyrIjlXPgo3OLB3A/view?usp=sharing"
+              },
+              {
+                "name": "Episode 05",
+                "link": "https://drive.google.com/file/d/1yZVixadRlJGl6R6MkDD9xrMtBzPOD4rm/view?usp=sharing"
+              },
+              {
+                "name": "Episode 06",
+                "link": "https://drive.google.com/file/d/1cunCY6EK95j5CEMudM9cz_5HF45KLBdh/view?usp=sharing"
+              },
+              {
+                "name":"Episode 07",
+                "link": "https://drive.google.com/file/d/1DOJxyIqSbqkgHlh43WDbLT8uT3kt1wMq/view?usp=sharing"
+              },
+              {
+                "name":"Episode 08",
+                "link": "https://drive.google.com/file/d/1tLSrkzwieHisajfkP2u5GmurSo1oGvtO/view?usp=sharing"
+              }  
             ]
           }
         ]

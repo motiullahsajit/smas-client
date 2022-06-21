@@ -1,5 +1,184 @@
 [ 
   {
+    "name": "The Witcher",
+    "type": "american",
+    "overview": "2019 | 18+ | 2 Seasons | TV Dramas",
+    "bio":"Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world where people often prove more wicked than beasts.",
+    "posterUrl": "https://i.ibb.co/kmGCGSh/MV5-BN2-Fi-OWU4-Yz-Yt-Mz-Zi-OS00-Mzcy-LTlk-OGEt-OTgw-Zm-Ew-Mz-Ax-Mz-A3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTkx-Nj.jpg",
+    "coverUrl": "https://i.ibb.co/TPC8CYJ/the-witcher-geralt-netflix-uhdpaper-com-8-K-7-1002-wp-thumbnail.jpg",
+    "seasons": [
+      {
+        "name": "Season 1 Dual Audio",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/14eOl4pcsRgcPMy6j-zMXP9isAK9D98q0/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1s4tS906ARGNKev8iNA43bZZQiJONdUDs/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1mKviaDlgbYcXOpAu8I-Nur8HTneWD0BT/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1xd3XWlS-0m0mpd2L8xx707uA03WdVOhx/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1k7d6yQp12MM7LfLRcG7FmdByy61Psg7T/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1EKrg-yuIjHmK99eTqH877NX1LA_rzZUh/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1pTgrDlsPREX2hHpqZCkx6GlqQeLouVTp/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/1KGUrHzBsmpqK3SYHPBy3fysmm_R5vkx5/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 2",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1uEVwWdqMcUU2tG_ynGd8qw1p0a8AtDMU/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1s9y-iZsXB5Nc2U6vTOevMo3GZQgL-kYp/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1TgYm4QXTkaOnfzxnzYg-rlcaUWDr4CiN/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1IbrubOUU4mF7orvNqyrIjlXPgo3OLB3A/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1yZVixadRlJGl6R6MkDD9xrMtBzPOD4rm/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1cunCY6EK95j5CEMudM9cz_5HF45KLBdh/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1DOJxyIqSbqkgHlh43WDbLT8uT3kt1wMq/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/1tLSrkzwieHisajfkP2u5GmurSo1oGvtO/view?usp=sharing"
+          }  
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The Boys",
+    "type": "american",
+    "overview": "2022 | 18+ | 3 Seasons | Action ",
+    "bio":"A group of vigilantes set out to take down corrupt superheroes who abuse their superpowers",
+    "posterUrl": "https://i.ibb.co/n6k7F5q/THE-BOYS-S3-TEASE-ART.jpg",
+    "coverUrl": "https://i.ibb.co/hZ88xK2/the-boys2.jpg",
+    "seasons": [
+      {
+        "name": "Season 1 Dual Audio",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/11bmHByjBgEJGmlAhLbzzypsfeJt59aDo/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1mW_fWSpKFkG2Iblqwu2UNSDzUisNLOZG/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1--n7yvEc-OP_mSN3q8kxIdm7q_EjpAjP/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1GFoGTsbyjDoIhV-JCx9Om9h4zB31rzqI/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1En5TMNqMclJEv495jf_IOxDhmsH3D9MJ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06 Coming Soon",
+            "link": ""
+          },
+          {
+            "name":"Episode 07",
+            "link": ""
+          },
+          {
+            "name":"Episode 08",
+            "link": ""
+          },
+          {
+            "name":"Episode 09",
+            "link": ""
+          },
+          {
+            "name":"Episode 10",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "name": "Masoom",
+    "type": "indian",
+    "overview": "2022 | 17+ | 1 Season | Mystery ",
+    "bio":"Blood is about old secrets, older betrayals, mind games, and the lies family tell each other.",
+    "posterUrl": "https://i.ibb.co/WB9HKjj/Masoom-S01-Hindi-720p-HEVC.jpg",
+    "coverUrl": "https://i.ibb.co/C01GgWy/0e7zOtM.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1s6jp_bOaICOYely84D7QjCJ5YsYM711D/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/12HrTEq_Dhr8kv1caj2WgusmDGgv2HQYq/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1L16LM27mQNJtBuxHf4CnEJqkupypqSJO/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1HUSQaT5i-2FY4ftpmX3tG4i3uEQiUXeX/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1t3HBTCdS3p8zZiwSuCciMo49l75t824f/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1I74Fluvb4Y2C5kQBxo3-plcUXmrXd3Fp/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "She",
     "type": "indian",
     "overview": "2020 | 18+ | 1 Season | TV Dramas",
@@ -2810,11 +2989,11 @@
         "episodes": [
           {
             "name": "720p Hindi",
-            "link": "https://drive.google.com/file/d/1X2x4FlyN6j-wZO2zpqVF8hdrHX0V6o3Y/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1ayiBAd4reaErffeNg32GlMul1gY5T97l/view?usp=sharing"
           },
           {
             "name": "1080p Hindi",
-            "link": "https://drive.google.com/file/d/1Ba24d6SDXfFsex9Ldy3UVpZ8ky4_sTru/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1-Os5p_TovZP5wVtyeC1JbDl8gQom_bkl/view?usp=sharing"
           }
         ]
       }
@@ -3634,7 +3813,7 @@
     "name":"Runway 34",
     "type":"movie",
     "posterUrl":"https://i.ibb.co/cLxh9Cc/MV5-BN2-Yz-Nj-U4-MTYt-Mz-Y5-OS00-ODg0-LTkx-MTUt-Njg0-Yj-Rk-Yz-I5-ZWJj-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz.jpg",
-    "movieUrl":"https://drive.google.com/file/d/1RAx-BZ9wwxw2NsWxaZQq4842DkNk98GS/view?usp=sharing"
+    "movieUrl":"https://drive.google.com/file/d/13d8Qrtjay69ec_k9AUJayBqHDtSQdv6M/view?usp=sharing"
   },
   {
     "name": "365 Days Part 2 This Day",
