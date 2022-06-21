@@ -2144,6 +2144,13 @@
     "movieUrl":"https://drive.google.com/file/d/1i9TBFZuLlpQoO4f1IvtzdUbRml9WtsIF/view?usp=sharing"
   },
   {
+    "name":"Sahosh 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/DRd9cVH/Sahosh-2022-Bengali-Chorki-WEB-DL-H264-AAC-1080p-720p-480p-Download.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1K8oeMc1MHyqX1rqMdDOcAJJ4NZbsjFAe/view?usp=sharing"
+  },
+
+  {
     "name":"Abhimaan 2016",
     "type":"movie",
     "posterUrl":"https://i.ibb.co/ry4hvtj/MV5-BYm-Q3-NDhj-MTkt-ZGQ0-Yy00-N2-Rm-LTll-NGMt-Njc4-OTlm-YWNh-ZDg0-Xk-Ey-Xk-Fqc-Gde-QXVy-OTgz-MDgy-O.jpg",
@@ -6319,7 +6326,7 @@
     "coverUrl": "https://i.ibb.co/hZ88xK2/the-boys2.jpg",
     "seasons": [
       {
-        "name": "Season 1 Dual Audio",
+        "name": "Season 3 Dual Audio",
         "episodes": [
           {
             "name": "Episode 01",
@@ -6359,6 +6366,15 @@
           },
           {
             "name":"Episode 10",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "name": "Season 1 & 2 Uploading",
+        "episodes": [
+          {
+            "name":"Episode Uploading",
             "link": ""
           }
         ]

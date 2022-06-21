@@ -8522,7 +8522,7 @@
     "coverUrl": "https://i.ibb.co/hZ88xK2/the-boys2.jpg",
     "seasons": [
       {
-        "name": "Season 1 Dual Audio",
+        "name": "Season 3 Dual Audio",
         "episodes": [
           {
             "name": "Episode 01",
@@ -8565,10 +8565,18 @@
             "link": ""
           }
         ]
+      },
+      {
+        "name": "Season 1 & 2 Uploading",
+        "episodes": [
+          {
+            "name":"Episode Uploading",
+            "link": ""
+          }
+        ]
       }
     ]
   },
-
   {
     "name": "Pacific Rim",
     "type": "anime",
