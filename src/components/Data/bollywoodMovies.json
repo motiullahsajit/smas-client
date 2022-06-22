@@ -1,5 +1,17 @@
 [
   {
+    "name":"Black 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/nQCTmJ1/black-et00328897-19-05-2022-05-06-06.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1QYKAoLS6m2AFglLY2vKLy8VSh_HcujJP/view?usp=sharing"
+  },
+  {
+    "name":"Anek 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/5BsyynC/MV5-BYz-Ni-NDM4-Nj-Yt-ZDMy-MS00-YTgy-LWIz-MWYt-Nm-Fh-Mj-Bi-NWJi-N2-Rj-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1KjuVQ9DyuwqrQCwJ9uHoIobwwkBy_1U2/view?usp=sharing"
+  },
+  {
     "name": "Bangarraju",
     "type": "tamil",
     "overview": "2022 | 16+ | 2h 30m | Drama",
@@ -423,7 +435,12 @@
     "posterUrl": "https://i.ibb.co/7vzx85q/MV5-BNm-Fi-Nj-Rl-ODUt-Nj-Ri-Zi00-ZDQ0-LTk3-ZDIt-ZDhj-Nm-U5-N2-Rk-NGNj-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz.jpg",
     "movieUrl": "https://drive.google.com/file/d/1reA-dWLZFDWv2dT1UdSZB5NceOMMYDQg/view?usp=sharing"
   },
-
+  {
+    "name":"Singham 2011",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/kDqtBGs/MV5-BNWIx-NDdl-YWQt-MDg0-Mi00-Mjk0-LWFi-M2-It-NTVj-ODQ0-ZGU4-Njg1-Xk-Ey-Xk-Fqc-Gde-QXVy-Njc5-Mjg4-Nz.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1NL2-khvBFB6y9FT7K9ueaxxNXbu4O4li/view?usp=sharing"
+  },
   {
     "name": "RRR",
     "type": "movie",
@@ -721,6 +738,13 @@
     "posterUrl": "https://i.ibb.co/w0Jj638/MV5-BNm-I0-MTli-MTAt-Mm-Jh-NC00-NTJm-LTll-Mz-Qt-MDI3-Nz-A1-ODMy-ZWI1-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E.jpg",
     "movieUrl": "https://drive.google.com/file/d/11HeRLXpWhXAyUkX5ogOlfnPFBRM9WOQ2/view?usp=sharing"
   },
+  {
+    "name":"Bodyguard 2011",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/DCBXyq8/MV5-BZWUx-YTFj-NDAt-Zjlm-ZC00-ODBh-LTk1-ZDYt-OTY0-NWJl-YWM2-OTAy-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQ3-OTM0-MDA.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1rRNlW6E6_-r7BgOgRyMnkCRRHBqgWzhV/view?usp=sharing"
+  },
+
   {
     "name": "Enemy",
     "type": "movie",
@@ -9068,12 +9092,7 @@
     "movieUrl":""
   },
 
-  {
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
+
 
 {
     "name":"",
@@ -9174,12 +9193,6 @@
     "movieUrl":""
   },
 
-  {
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
 
   {
     "name":"",
@@ -9405,6 +9418,119 @@
     "posterUrl":"",
     "movieUrl":""
   },
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+{
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+{
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+{
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+{
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+{
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+ 
+
+{
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
 
   {
     "name":"",
@@ -9525,12 +9651,291 @@
     "movieUrl":""
   },
 
+
   {
     "name":"",
     "type":"movie",
     "posterUrl":"",
     "movieUrl":""
   },
+
+
+
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+{
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+{
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+{
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+{
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+{
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+{
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+
+
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+
+
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+{
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+{
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+{
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+{
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+{
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+{
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
+  {
+    "name":"",
+    "type":"movie",
+    "posterUrl":"",
+    "movieUrl":""
+  },
+
 
   {
     "name":"",

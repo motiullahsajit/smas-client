@@ -3664,6 +3664,19 @@
     "posterUrl":"https://i.ibb.co/XsCVV7w/MV5-BMTM3-NTg2-NDQz-OF5-BMl5-Ban-Bn-Xk-Ft-ZTcw-Njc2-Nz-Qz-OQ-V1-FMjpg-UX1000.jpg",
     "movieUrl":"https://drive.google.com/file/d/1lvdr8JVhpajzcTZIP8mlTBKjO_mD_A6Q/view?usp=sharing"
    },
+   {
+    "name":"Black 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/nQCTmJ1/black-et00328897-19-05-2022-05-06-06.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1QYKAoLS6m2AFglLY2vKLy8VSh_HcujJP/view?usp=sharing"
+  },
+  {
+    "name":"A Journal for Jordan 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/28b5r9j/MV5-BYj-U4-Mm-Fl-ODMt-Yj-E2-OC00-OWQ2-LWIw-NDct-MTQ4-Mm-Zh-Mzdh-MWE2-Xk-Ey-Xk-Fqc-Gde-QXVy-MDM2-NDM2.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1IST9cKjGngxBWmN6YpYvcYcX9tMzkllr/view?usp=sharing"
+  },
+  
   {
     "name":"Emma 2022",
     "type":"movie",
@@ -4072,7 +4085,11 @@
           },  
           {
             "name": "1080p English",
-            "link": "https://drive.google.com/file/d/185DsRo8lWiuLdBbMVZPgABQs2nbuNo8p/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1BFUvUJU7Lsn9RKjGyp1LtPVX-xRx0ajh/view?usp=sharing"
+          },
+          {
+            "name":"4k UHD English",
+            "link":"https://drive.google.com/file/d/1and0cFnw2SiJM72-TqQIk-s_A-7w1kie/view?usp=sharing"
           }
         ]
       }
@@ -4118,7 +4135,33 @@
     "posterUrl": "https://i.ibb.co/PFNrw4z/MV5-BMz-Fh-Nj-M1-Zjgt-Nj-E3-MC00-MTIy-LWE4-M2-Ut-Ym-Ri-NDIy-YWE4-NTVi-Xk-Ey-Xk-Fqc-Gde-QXVy-NTg0-MTg.jpg",
     "movieUrl": "https://drive.google.com/file/d/1tmR9_ISl6zqXYorF5kZQ9dA1XZQwAjwy/view?usp=sharing"
   },
-
+  {
+    "name": "Fireheart",
+    "type": "hollywood",
+    "overview": "2022 | 16+ | 1h 32m | Adventure",
+    "bio":"Joins a small group of misfit firefighters trying to stop the arsonist.",
+    "posterUrl": "https://i.ibb.co/JRk2CLC/MV5-BMGM5-ZTFm-YWQt-MGRi-OS00-Yz-I1-LTky-Mz-At-NGIz-NWFj-Zm-Fl-YTFh-Xk-Ey-Xk-Fqc-Gde-QXVy-MTAx-NDE3.jpg",
+    "coverUrl": "https://i.ibb.co/9qL00Xp/MV5-BNDQx-Zj-Nl-MGIt-NTQx-ZS00-NDM2-LTg1-ZWUt-NGM4-MGY0-N2-Rk-ZTk5-Xk-Ey-Xk-Fqc-Gde-QXRy-YW5z-Y29k-Z.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "480p Dual Audio",
+            "link": "https://drive.google.com/file/d/13vrwaIAwBtvQr4wwMnMlV2l_nqXRe2kx/view?usp=sharing"
+          },
+          {
+            "name": "720p Dual Audio",
+            "link": "https://drive.google.com/file/d/1dyvg-RxekRDg09LkDdb5c4DfO4w8YsWg/view?usp=sharing"
+          },
+          {
+            "name": "1080p Dual Audio",
+            "link": "https://drive.google.com/file/d/1Vi3wZ3CXcTB1heXScK1V1XZSNc-T0VMY/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
   {
     "name": "Space Sweepers",
     "type": "movie",
@@ -4961,12 +5004,30 @@
     "movieUrl":"https://drive.google.com/file/d/1W08MtjL5JXksuBdpiotzeTL7r1FkE6sJ/view?usp=sharing"
   },
   {
+    "name":"Anek 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/5BsyynC/MV5-BYz-Ni-NDM4-Nj-Yt-ZDMy-MS00-YTgy-LWIz-MWYt-Nm-Fh-Mj-Bi-NWJi-N2-Rj-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1KjuVQ9DyuwqrQCwJ9uHoIobwwkBy_1U2/view?usp=sharing"
+  },
+  {
+    "name":"Singham 2011",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/kDqtBGs/MV5-BNWIx-NDdl-YWQt-MDg0-Mi00-Mjk0-LWFi-M2-It-NTVj-ODQ0-ZGU4-Njg1-Xk-Ey-Xk-Fqc-Gde-QXVy-Njc5-Mjg4-Nz.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1NL2-khvBFB6y9FT7K9ueaxxNXbu4O4li/view?usp=sharing"
+  },
+  {
     "name":"A Genie's Tail 2022",
     "type":"movie",
     "posterUrl":"https://i.ibb.co/RhCdYrT/download-1.jpg",
     "movieUrl":"https://drive.google.com/file/d/1cGXJ-zYSHzMaGU4krLHpFFg-Brcohd_1/view?usp=sharing"
   },
-  
+  {
+    "name":"Bodyguard 2011",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/DCBXyq8/MV5-BZWUx-YTFj-NDAt-Zjlm-ZC00-ODBh-LTk1-ZDYt-OTY0-NWJl-YWM2-OTAy-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQ3-OTM0-MDA.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1rRNlW6E6_-r7BgOgRyMnkCRRHBqgWzhV/view?usp=sharing"
+  },
+
   {
     "name":"A Small Fortune 2021",
     "type":"movie",
@@ -10194,6 +10255,171 @@
           {
             "name": "Episode 08",
             "link": "https://drive.google.com/file/d/15Q-KEZTdFjlvnw-GIUEN8PTy76Lz7P2v/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Love Death & Robots",
+    "type": "american",
+    "overview": "2019 | 18+ | 3 Seasons | Sci-Fi TV",
+    "bio":"Terrifying creatures, wicked surprises and dark comedy converge in this NSFW anthology of animated stories presented by Tim Miller and David Fincher.",
+    "posterUrl": "https://i.ibb.co/xMPJVgv/MV5-BYTNi-YTNk-NTAt-Yz-E3-ZS00-ZDQ1-LWEw-ZTYt-Zj-I1-Nz-Yz-MWJj-Y2-U4-Xk-Ey-Xk-Fqc-Gde-QXVy-ODk4-OTc3.jpg",
+    "coverUrl": "https://i.ibb.co/jbs93BR/1865357.jpg",
+    "seasons": [
+      {
+        "name": "Season 1 Dual Audio",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1zBUadUsgeTPOEVsd1lbPe0m5QfHJevd_/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1YtieJTml9Gb_MIxOgNSEdGk6Y3YpRaok/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1ys9bFB0DL9msQScbAn-FXFmXHVCt4c19/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1APnGPvypLp8IKZk6MDEImJlLEbBkoZtG/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/16ibaF1y_nDUCSe-UK4U4tbcvFnQ_Zkih/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1W-YyOn3MsbZeM8yYBx4Z-OIpGClW0Kbp/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1nhmlMcuK04wOZSxkJfLRKvnCXcYpzoHQ/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/1N52jmaf2VoHXbsIWdVGlSOtOAD9J3h3X/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/1xkSbI1YI0IP5B2SNiiujOOwBwWVPE9Hd/view?usp=sharing"
+          },
+          {
+            "name":"Episode 10",
+            "link": "https://drive.google.com/file/d/1yuWL-7nOYd_s0Dkz9rWqpHW1xNb9ajDL/view?usp=sharing"
+          },
+          {
+            "name": "Episode 11",
+            "link": "https://drive.google.com/file/d/1ndrGkrqlPQdMAqibJtHOSUq2TecnkCEc/view?usp=sharing"
+          },
+          {
+            "name": "Episode 12",
+            "link": "https://drive.google.com/file/d/1BwryHUqpLjLCZ_aEhMYqOkS1f_S7e3EO/view?usp=sharing"
+          },
+          {
+            "name": "Episode 13",
+            "link": "https://drive.google.com/file/d/1g9OQeylWIlf9_7iJuR5DmJYGQqqmA_BO/view?usp=sharing"
+          },
+          {
+            "name": "Episode 14",
+            "link": "https://drive.google.com/file/d/1mhyKQ25MhhXZ8Y7-vlpn7u2lMCbeWB19/view?usp=sharing"
+          },
+          {
+            "name": "Episode 15",
+            "link": "https://drive.google.com/file/d/14BFom_lgjFf1Vg86Duy5fIyxOsgHoRHY/view?usp=sharing"
+          },
+          {
+            "name": "Episode 16",
+            "link": "https://drive.google.com/file/d/1XoCEWDihHNM9YLAACpUF9d3qmxtEoxH9/view?usp=sharing"
+          },
+          {
+            "name":"Episode 17",
+            "link": "https://drive.google.com/file/d/1FewSHyy2YkmrS4qGpLY6xnAneUNMDWGw/view?usp=sharing"
+          },
+          {
+            "name":"Episode 18",
+            "link": "https://drive.google.com/file/d/1CsVQIernG2GiIOsxuxXjwqTvcapCX6Lu/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 2 Dual Audio",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1h5DOBopMPwFuK9n7hkoCwIVofJTtoKKN/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1dCwp0ky41o6JzuPtmr_q46cdr5IXn30V/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1WCD7rhTXglAiITsebnviyxSXvgFRDkSK/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1nExdbfpz1E80UUK4ZH6G6eO3XIGCbE9L/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1CNjHTaqlC4S-YUz7C3A5dVwBupIaexGW/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1uORM7eGJd6dCwd1OBgW1AghjfBWI7g1P/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1lsiGHMM3aiMLyNPCdBXm_wCZJtCnj9xI/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/1hygfyqLb6yIeLI6EJhTfGhQoBrbcUmrZ/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 3 Dual Audio",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1J8RFcdvkVGKarPWy_p8Me36oMwaUhju8/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1Q0G-W46ppOupSuCV11RJJPslFypF2w_I/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1YGS9zNH7-D0_Xqleu9buQqwsBW7pnxGD/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1MH0zPx7beB103lusDTOqARVw0ZXeCqIW/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1pmS0b2VWPGhxmdvRVnKAEKWJxMs03c02/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1qCjkxxgRTi3LojdtmeSDI4Y7Y2m_azGM/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1BfkDZu9y_1AxjcsmrdEWkOj6phL7IMiN/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/1C4jNIVqRMsXayMB4lEWUC-3BERapBXLA/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/1HplcyegdvmF46CZKN4pqN02t65YLtihN/view?usp=sharing"
           }
         ]
       }
