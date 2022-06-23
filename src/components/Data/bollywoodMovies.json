@@ -67,7 +67,46 @@
     "posterUrl":"https://i.ibb.co/K5pLYvj/MV5-BNjgy-OWYw-Nzkt-Nm-Uy-Ni00-OTFi-LWJm-OGQt-MWQy-MGNk-MDI1-MDdh-Xk-Ey-Xk-Fqc-Gde-QXVy-ODg1-MTc3-MT.jpg",
     "movieUrl":"https://drive.google.com/file/d/10GSOytQgQkP0j47XLhSS2b9NtP-ZAE0s/view?usp=sharing"
   },
-  
+  {
+    "name":"Jungle Cry 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/nCyddsZ/MV5-BNj-Vj-ZGIx-OWQt-Zm-Iz-Ny00-YTI5-LWFl-ZDQt-Nz-Nj-Yj-Ex-ZWRl-MWU3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA3-MDk2.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1Lin8bhCuguwBdlwBaawanSas6QslAgQl/view?usp=sharing"
+  },
+  {
+    "name":"Toolsidas Junior 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/t3Sd9bb/MV5-BMGFl-Yj-Vk-MWMt-MDM2-MC00-Zm-Q3-LThm-Mj-Ut-MDYy-MGRl-OGJm-Njgy-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E3.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1JpGs7ZV3DaBicqrw0yu5UrPo9vAAHmyK/view?usp=sharing"
+  },
+
+  {
+    "name":"Koi Mil Gaya 2003",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/zb3Fdhj/MV5-BMTA4-MTg5-ZDEt-N2-Iy-YS00-Nm-Qx-LThm-Zj-Et-Nm-Vi-Mjdk-OTk3-ZTM5-Xk-Ey-Xk-Fqc-Gde-QXVy-OTk3-NTc2.jpg",
+    "movieUrl":"https://drive.google.com/file/d/18Km4oNgopRonQAX6ovP74AXXlOnZ9zq_/view?usp=sharing"
+  },
+
+  {
+    "name":"Krrish 2006",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/54ChJfQ/MV5-BNj-I3-Nz-Rl-YTIt-OTdl-MC00-ODhl-LWI1-NTYt-MTgw-NDk5-Yzg0-Yj-Jj-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E3.jpg",
+    "movieUrl":"https://drive.google.com/file/d/16igh0IjypqA_M7fClSJX_DbK4GKzdfuK/view?usp=sharing"
+  },
+
+{
+    "name":"Krrish 3 2013",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/WBtF0pR/MV5-BMj-I0-Mz-U3-MTM1-Ml5-BMl5-Ban-Bn-Xk-Ft-ZTgw-OTk2-Mj-Q0-MDE-V1-FMjpg-UX1000.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1j3urNVD2Y_nJrsVYETz5N_YyQqAU3ous/view?usp=sharing"
+  },
+
+  {
+    "name":"A Flying Jatt 2016",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/YRqyLC5/MV5-BMDZj-NTdh-OGMt-Yz-Zh-ZS00-Ym-Iy-LThj-ZDct-MThm-YTRk-Yj-Vm-NDJl-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E3.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1TipGHB4e5bPdmjguyI5tV1_ocvNJOUDf/view?usp=sharing"
+  },
   {
     "name":"Don 2022",
     "type":"movie",
@@ -8809,12 +8848,6 @@
     "movieUrl":""
   },
 
-  {
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
 
 {
     "name":"",
@@ -9744,12 +9777,6 @@
     "movieUrl":""
   },
 
-{
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
 
   {
     "name":"",
@@ -9880,33 +9907,7 @@
     "movieUrl":""
   },
 
-{
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
-
-  {
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
-
-{
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
-
-  {
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
+ 
 
 {
     "name":"",

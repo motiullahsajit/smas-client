@@ -1,5 +1,150 @@
 [ 
   {
+    "name": "The Umbrella Academy",
+    "type": "american",
+    "overview": "2019 | 16+ | 3 Seasons | Sci-Fi TV",
+    "bio":"Reunited by their father's death, estranged siblings with extraordinary powers uncover shocking family secrets -- and a looming threat to humanity.",
+    "posterUrl": "https://i.ibb.co/yPrV88F/MV5-BY2-Vl-OWMz-NWUt-Nj-U4-Ny00-Nj-Bm-LWE1-ZWYt-ZDM5-NDJl-Yz-Ji-Zjg5-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Y1-MTg.jpg",
+    "coverUrl": "https://i.ibb.co/LvQJMZq/wp4217344.jpg",
+    "seasons": [
+      {
+        "name": "Season 1 Dual Audio",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1Rpzm_8wx6KHZssJDazLrh2NRqyxxgHbx/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1HBBIq9pRJM2MlPMFdY5waBY3LqCi-uzG/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1oiwyRNsgEqze5O386W36i8eVrtYmcU7p/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/11ABy67afQtGYbPdLNjIEf0YdHlUndjyT/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1khGXNgB9-Y0vIka6Kcday6psWJdX3esO/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1QSsW1yNmmbFGUstKeVE9Akl2vNO448ub/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1S2jduoX7Umb6xjIdXcbmVBzRB5gZcQvC/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/1rbKhysmPhzVeYRhSdsdtjZj2JLRB0ZYR/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/1b-GE5PkzuI48lRpaJMpONLVMq3toPfgq/view?usp=sharing"
+          },
+          {
+            "name":"Episode 10",
+            "link": "https://drive.google.com/file/d/1iJiha76OOiTnbfdwEn_PpJ2Qk2O7ruXv/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 2 Dual Audio",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/17OYvHOFW2H5p3ky6gPZQysLdz1OGXEdO/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1R1NOvbGed_yylBIGdBb5Z2s6GBsmi4kj/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1KRmr_y2SUfe-V-gRsK5a5726vWbSX8bU/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1PzjX43tT7Zx-mfoyhG3CsCe1V6exSLiQ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1jFKuNUh-0bysB-Y83e-hz-SbPTIIWdmV/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1dWd8TivLjgPgOAMAs7pjIf-a05PGGvWb/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1zN99cZXJT78cPpMlMzsHE1k2BOSoU_EJ/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/1mEcy4lItAJvNuQIBY7O-nvQZ3NlI30qp/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/1IsWmbJupck6phc-lLaGG-IPphb7V5iim/view?usp=sharing"
+          },
+          {
+            "name":"Episode 10",
+            "link": "https://drive.google.com/file/d/1WuOpU_3U8kkszIp_chKBnA7eSmIUzcqD/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 3 Dual Audio",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1XwG7Eko2KAwQRuv_vD40k4plzbphZoAU/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1qrVyn8H0XNfrX8asd-dCwv5zm457-RTI/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1cn60aXKDQ5P5tCrijgo9jfvQhabiijla/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1bcnaPkTO_IaZ3kHgWr18wm4SDCEcV8r7/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1DL0vSycbyi6Q450dPSl7Pka9FTwOjGBc/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/12vFNzGDA7eMkoiZ-SxDI-H-mcxKSfTBv/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1X9Hs9uS-o6wpicn-esAZEmx6dmq0XVhz/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/1zJfRMaIW_LwUDvndYuUT6vWjkdKlQ98P/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/14RjBJaXBt0VFOT6b0yvZaI57g4nHPXSa/view?usp=sharing"
+          },
+          {
+            "name":"Episode 10",
+            "link": "https://drive.google.com/file/d/1woIUfK4CkOdG2NEF3YITwkpvoaLTA6HI/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "The Witcher",
     "type": "american",
     "overview": "2019 | 18+ | 2 Seasons | TV Dramas",
@@ -79,6 +224,61 @@
             "name":"Episode 08",
             "link": "https://drive.google.com/file/d/1tLSrkzwieHisajfkP2u5GmurSo1oGvtO/view?usp=sharing"
           }  
+        ]
+      }
+    ]
+  },
+  {
+    "name": "More Than Friends",
+    "type": "korean",
+    "overview": "2020 | 13+ | 1 Season | TV Dramas | Hindi Dubbed",
+    "bio":"Two friends navigate through 10 years of unlucky timing and unresolved feelings to find their way back to each other as adults — and as  lovers.",
+    "posterUrl": "https://i.ibb.co/cQGcyKZ/MV5-BNDc5-MDRi-Mj-Yt-ZDZh-Ny00-ODc3-LThh-OTUt-NTE5-ZWUz-OWVl-OGE2-Xk-Ey-Xk-Fqc-Gde-QXVy-Njc3-Mj-Qz-N.jpg",
+    "coverUrl": "https://i.ibb.co/tpkgh48/AAAABWLx3tqf578-PLEs-VZjk-YB5w-M35s-W-0-APX-fzkc-8-Rq-TNg-NBl-Ov4lp-DVoe-RRkom7c77l-Ftzjtk8-HLPJOKph.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1l9TOzt5nvgoaizA-sUoZC4bSWgA4tJn2/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1-RVNK0cWN9zLSd8ozfnGhuZwDCeX8eRP/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1roOGaY_TRb8SUgbHBli0UJGabAg0y0Kt/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04 This File is Missing",
+            "link": "Not Found"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1O96RvrOqMztxOkuEOWZ-mSaPTZGjAUxW/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": ""
+          },
+          {
+            "name":"Episode 07",
+            "link": ""
+          },
+          {
+            "name":"Episode 08",
+            "link": ""
+          },
+          {
+            "name":"Episode 09",
+            "link": ""
+          },
+          {
+            "name":"Episode 10",
+            "link": ""
+          }
         ]
       }
     ]
@@ -872,130 +1072,7 @@
     ]
   },
 
-  {
-    "name":"Ms Marvel",
-    "type": "american",
-    "overview": "2022 | 18+ | 1 Season | Adventure | Tv Series",
-    "bio":"New Jersey raised Kamala Khan learns she has polymorphous powers",
-    "posterUrl": "https://i.ibb.co/hHjKSyL/msmarvel-lob-crd-04.jpg",
-    "coverUrl": "https://i.ibb.co/NjpM55t/1223923.jpg",
-    "seasons": [
-      {
-        "name": "Season 1 English",
-        "episodes": [
-          {
-            "name": "Episode 01 720p",
-            "link": "https://drive.google.com/file/d/1AqcxccUWbSRDchD7gA0ZOgLsJlMnveWs/view?usp=sharing"
-          },
-          {
-            "name": "Episode 01 1080p",
-            "link": "https://drive.google.com/file/d/1kUAN-OcTKza1di841NQ_1aV5FJ2KFxoT/view?usp=sharing"
-          },
-          {
-            "name": "Episode 02 720p",
-            "link": "https://drive.google.com/file/d/1PUKa6FigezChgC5qg8Fg_qA5OMk4NmtP/view?usp=sharing"
-          },
-          {
-            "name": "Episode 02 1080p",
-            "link": "https://drive.google.com/file/d/1q4SqJ998CuV6oczJqTvu_iD_McY6KZ_P/view?usp=sharing"
-          },
-          {
-            "name": "Episode 03 Next Wednesday",
-            "link": ""
-          },
-          {
-            "name": "Episode 03 Next Wednesday",
-            "link": ""
-          },
-          {
-            "name": "Episode 04",
-            "link": ""
-          },
-          {
-            "name": "Episode 05",
-            "link": ""
-          },
-          {
-            "name": "Episode 06",
-            "link": ""
-          },
-          {
-            "name":"Episode 07",
-            "link": ""
-          },
-          {
-            "name":"Episode 08",
-            "link": ""
-          },
-          {
-            "name":"Episode 09",
-            "link": ""
-          },
-          {
-            "name":"Episode 10",
-            "link": ""
-          }
-        ]
-      },
-      {
-        "name": "Season 1 Hindi",
-        "episodes": [
-          {
-            "name": "Episode 01 720p",
-            "link": "https://drive.google.com/file/d/1gxCwves-jzSEF_GonkZ1stz9TFmiZzJI/view?usp=sharing"
-          },
-          {
-            "name": "Episode 01 1080p",
-            "link": "https://drive.google.com/file/d/1lndJP7OXun3PvwCNvUXKWM4uVP8CViNs/view?usp=sharing"
-          },
-          {
-            "name": "Episode 02 720p",
-            "link": "https://drive.google.com/file/d/17AoFipak3nQE7MKgFWYIG9Dn-Fxk-twc/view?usp=sharing"
-          },
-          {
-            "name": "Episode 02 1080p",
-            "link": "https://drive.google.com/file/d/16Iq9wRE3ck28tyt5tZm_98mjmjx81r8v/view?usp=sharing"
-          },
-          {
-            "name": "Episode 03 Next Wednesday",
-            "link": ""
-          },
-          {
-            "name": "Episode 03 Next Wednesday",
-            "link": ""
-          },
-          {
-            "name": "Episode 04",
-            "link": ""
-          },
-          {
-            "name": "Episode 05",
-            "link": ""
-          },
-          {
-            "name": "Episode 06",
-            "link": ""
-          },
-          {
-            "name":"Episode 07",
-            "link": ""
-          },
-          {
-            "name":"Episode 08",
-            "link": ""
-          },
-          {
-            "name":"Episode 09",
-            "link": ""
-          },
-          {
-            "name":"Episode 10",
-            "link": ""
-          }
-        ]
-      }
-    ]
-  },
+  
   {
     "name": "Ardh",
     "type": "indian",
@@ -2700,7 +2777,7 @@
           },
           {
             "name": "Episode 06",
-            "link": ""
+            "link": "https://drive.google.com/file/d/1X89Rnxt_lpCauJxbgT46t_xbvzH283VP/view?usp=sharing"
           },
           {
             "name":"Episode 07",

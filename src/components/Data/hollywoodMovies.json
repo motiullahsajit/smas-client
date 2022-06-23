@@ -31,6 +31,29 @@
     ]
   },
   {
+    "name": "Love And Gelato",
+    "type": "american",
+    "overview": "2022 | 13+ | 1h 52m | Teen Movies",
+    "bio":"To fulfill her mother's final wish, Lina spends the summer before college in Rome, where she discovers romance, adventure — and a passion for gelato.",
+    "posterUrl": "https://i.ibb.co/XpGyL0g/jl-XUa-Oq-GCSb8-I7-M0-Yn2v-KQIi-Dfs.jpg",
+    "coverUrl": "https://i.ibb.co/VShzyHJ/2-139.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi|+English",
+            "link": "https://drive.google.com/file/d/1OFCCa0Cp4nMOHjcXKU1sMACM-0UH0utt/view?usp=sharing"
+          },
+          {
+            "name": "1080p Hindi+English",
+            "link": "https://drive.google.com/file/d/15bWJ8oeLuzx0oH_Dzk4CJ7lIADnyYHjd/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Spiderhead",
     "type": "american",
     "overview": "2022 | 18+ | 1h 47m | US Movies",
@@ -251,6 +274,29 @@
         {
           "name": "1080p Hindi+Eng+Spanish",
           "link": "https://drive.google.com/file/d/1GP2t2yA15BKvTfuRxUtMV_CM9NrKQK63/view?usp=sharing"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "Words On Bathroom Walls",
+  "type": "american",
+  "overview": "2020 | 17+ | 1h 30m | Romance",
+  "bio":"Diagnosed with a mental illness halfway through his senior year of high school, a witty, introspective teen struggles to keep it a secret while falling in love with a brilliant classmate who inspires him to not be defined by his condition.",
+  "posterUrl":"https://i.ibb.co/YWTYmms/MV5-BNTJm-NTNl-ZDEt-M2-Jj-Ny00-Mm-Nm-LTgz-NWIt-N2-Vl-ZGNl-Nj-M1-Yj-Fm-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEx-MDk.jpg",
+  "coverUrl": "https://i.ibb.co/gTm148Q/words-on-bathroom-walls-movie-review-2020.jpg",
+  "seasons": [
+    {
+      "name": "Watch Now",
+      "episodes": [
+        {
+          "name": "720p Dual Audio",
+          "link": "https://drive.google.com/file/d/1f3JEUd7vH8i5X5TKOXq1d8ENY_xi1_KJ/view?usp=sharing"
+        },
+        {
+          "name": "1080p Dual Audio",
+          "link": "https://drive.google.com/file/d/18ki2JrLQ940kxIOEFD-ZsYkLt9SVZZwn/view?usp=sharing"
         }
       ]
     }
@@ -3513,28 +3559,7 @@
     }
   ]
 },
-{
-  "name": "",
-  "type": "",
-  "overview": "2022 | 17+ | Movie | Horror",
-  "posterUrl": "",
-  "coverUrl": "",
-  "seasons": [
-    {
-      "name": "Watch Now",
-      "episodes": [
-        {
-          "name": "720p Hindi",
-          "link": ""
-        },
-        {
-          "name": "1080p Hindi",
-          "link": ""
-        }
-      ]
-    }
-  ]
-},
+
 {
   "name": "",
   "type": "",
@@ -3957,28 +3982,7 @@
   ]
 },
 
-{
-  "name": "",
-  "type": "",
-  "overview": "",
-  "posterUrl": "",
-  "coverUrl": "",
-  "seasons": [
-    {
-      "name": "Watch Now",
-      "episodes": [
-        {
-          "name": "720p Hindi",
-          "link": ""
-        },
-        {
-          "name": "1080p Hindi",
-          "link": ""
-        }
-      ]
-    }
-  ]
-},
+
 {
   "name": "",
   "type": "",
