@@ -10402,6 +10402,57 @@
     ]
   },
   {
+    "name": "Man Vs Bee",
+    "type": "british",
+    "overview": "2022 | 7+ | 1 Season | TV Comedies",
+    "bio":"Bumbling dad Trevor tries to get the best of a cunning bee while house-sitting a posh mansion — but only unleashes more chaos in this comedy series.",
+    "posterUrl": "https://i.ibb.co/2PJ4pPG/MV5-BNTI1-Nj-A4-NTIt-ZWE2-MS00-NDRk-LWI5-ZGIt-YTVh-YTky-NTI3-NWM4-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEz-MTI1-Mj.jpg",
+    "coverUrl": "https://i.ibb.co/XtnrF1n/vs-Poster.jpg",
+    "seasons": [
+      {
+        "name": "Season 1 Dual Audio",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/17b7KlAcyBypAJ6w-Kd0zepANA4ABig3T/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1fSWM97Rsz1WICcsUadBW4Lyg7XCGG65F/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1WxVll7HFAiqOZzvIt6P2j2av34eV0B28/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1xoWhxz6B4RuBHAS80CBjRODBcGhtIY_T/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1yG2wmOBVzrNKum-CXBCAtjniGeA01QLB/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/14hhD-Ccc5BC7mOVjPOzYlgrVCPAJZAZs/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1bnHGPL7GQ7g5mbTjpRWqUa8K79rXS-sE/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/1EQbTuG2HSveMmAdNlkwfqOgL2v3DeNm9/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/1kLFGsQLx4ewyA84kQ-3MBRJi4RPpWyO0/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Poison 2",
     "type": "indian",
     "overview": "2019 | 18+ | Season 2 | Love Revenge",
@@ -20340,60 +20391,7 @@
       }
     ]
   },
-  {
-    "name": "",
-    "type": "",
-    "overview": "",
-    "posterUrl": "",
-    "coverUrl": "",
-    "seasons": [
-      {
-        "name": "Season 1",
-        "episodes": [
-          {
-            "name": "Episode 01",
-            "link": ""
-          },
-          {
-            "name": "Episode 02",
-            "link": ""
-          },
-          {
-            "name": "Episode 03",
-            "link": ""
-          },
-          {
-            "name": "Episode 04",
-            "link": ""
-          },
-          {
-            "name": "Episode 05",
-            "link": ""
-          },
-          {
-            "name": "Episode 06",
-            "link": ""
-          },
-          {
-            "name":"Episode 07",
-            "link": ""
-          },
-          {
-            "name":"Episode 08",
-            "link": ""
-          },
-          {
-            "name":"Episode 09",
-            "link": ""
-          },
-          {
-            "name":"Episode 10",
-            "link": ""
-          }
-        ]
-      }
-    ]
-  },
+
   {
     "name": "",
     "type": "",

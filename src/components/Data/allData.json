@@ -1,5 +1,56 @@
 [
   {
+    "name": "Man Vs Bee",
+    "type": "british",
+    "overview": "2022 | 7+ | 1 Season | TV Comedies",
+    "bio":"Bumbling dad Trevor tries to get the best of a cunning bee while house-sitting a posh mansion — but only unleashes more chaos in this comedy series.",
+    "posterUrl": "https://i.ibb.co/2PJ4pPG/MV5-BNTI1-Nj-A4-NTIt-ZWE2-MS00-NDRk-LWI5-ZGIt-YTVh-YTky-NTI3-NWM4-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEz-MTI1-Mj.jpg",
+    "coverUrl": "https://i.ibb.co/XtnrF1n/vs-Poster.jpg",
+    "seasons": [
+      {
+        "name": "Season 1 Dual Audio",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/17b7KlAcyBypAJ6w-Kd0zepANA4ABig3T/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1fSWM97Rsz1WICcsUadBW4Lyg7XCGG65F/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1WxVll7HFAiqOZzvIt6P2j2av34eV0B28/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1xoWhxz6B4RuBHAS80CBjRODBcGhtIY_T/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1yG2wmOBVzrNKum-CXBCAtjniGeA01QLB/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/14hhD-Ccc5BC7mOVjPOzYlgrVCPAJZAZs/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1bnHGPL7GQ7g5mbTjpRWqUa8K79rXS-sE/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/1EQbTuG2HSveMmAdNlkwfqOgL2v3DeNm9/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/1kLFGsQLx4ewyA84kQ-3MBRJi4RPpWyO0/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name":"Toolsidas Junior 2022",
     "type":"movie",
     "posterUrl":"https://i.ibb.co/t3Sd9bb/MV5-BMGFl-Yj-Vk-MWMt-MDM2-MC00-Zm-Q3-LThm-Mj-Ut-MDYy-MGRl-OGJm-Njgy-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E3.jpg",
@@ -2106,11 +2157,25 @@
     "movieUrl":"https://drive.google.com/file/d/1QWFIE3hQr4LHy5PW8sYFaWcMSO5QZqUi/view?usp=sharing"
   },
   {
+    "name":"Crimes OF The Future 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/jr2zDhG/MV5-BZDdj-ODNk-Mm-Yt-Yj-Mw-NS00-NTQz-LThl-Yj-Ut-ODY2-Zjdj-NTNl-Y2-Ji-Xk-Ey-Xk-Fqc-Gde-QXVy-MTkx-Nj-U.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1LWO3fk5TXi4gEEovXI_LmnnaSOGy1-Fb/view?usp=sharing"
+  },
+  
+  {
     "name":"Samantaral 2017",
     "type":"movie",
     "posterUrl":"https://i.ibb.co/CwprWnw/Samantaral-poster.jpg",
     "movieUrl":"https://drive.google.com/file/d/1bL5TCmxEV-CNHVQzfXFQSqRh51CXUHdB/view?usp=sharing"
   },
+  {
+    "name":"Blackmail 2018",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/GQ9PQ04/MV5-BYz-Yy-OGJm-Nj-It-MTJk-My00-Y2-Q5-LWEz-Zj-Mt-OGZj-Ym-M0-YTk5-Mz-A0-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz.jpg",
+    "movieUrl":"https://drive.google.com/file/d/15JZdKjqysy5P183bOQfCTck3fKof43jF/view?usp=sharing"
+  },
+
   {
     "name": "Major",
     "type": "indian",
@@ -3991,7 +4056,19 @@
     "posterUrl":"https://i.ibb.co/vzLGsTX/download.jpg",
     "movieUrl":"https://drive.google.com/file/d/1cD72mI32_vdUnduOHU1c-J9HSdE_mj9H/view?usp=sharing"
   },
-  
+  {
+    "name":"My Name Is Khan 2010",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/0MHH0Pv/MV5-BMTUy-MTA4-NDYz-MV5-BMl5-Ban-Bn-Xk-Ft-ZTcw-Mjk5-Mzcx-Mw-V1.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1hHLGXZLvz7TGoapoL0d7mblWOmznK12D/view?usp=sharing"
+  },
+
+  {
+    "name":"Main Tera Hero 2014",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/Bg5DT6w/MV5-BZj-Bi-YWU0-Zm-Mt-ZDE0-NC00-ZTUx-LWE3-OTQt-Y2-Yy-Nj-Vj-MTRl-OGJj-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1rApPiWf_uHfCCJGgNrso2jkdCpSwQUzd/view?usp=sharing"
+  },
   {
     "name":"Zero Contact 2022",
     "type":"movie",

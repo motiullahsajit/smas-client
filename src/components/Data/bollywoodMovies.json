@@ -1,4 +1,5 @@
 [
+
   {
     "name":"Black 2022",
     "type":"movie",
@@ -78,6 +79,12 @@
     "type":"movie",
     "posterUrl":"https://i.ibb.co/t3Sd9bb/MV5-BMGFl-Yj-Vk-MWMt-MDM2-MC00-Zm-Q3-LThm-Mj-Ut-MDYy-MGRl-OGJm-Njgy-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E3.jpg",
     "movieUrl":"https://drive.google.com/file/d/1JpGs7ZV3DaBicqrw0yu5UrPo9vAAHmyK/view?usp=sharing"
+  },
+  {
+    "name":"My Name Is Khan 2010",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/0MHH0Pv/MV5-BMTUy-MTA4-NDYz-MV5-BMl5-Ban-Bn-Xk-Ft-ZTcw-Mjk5-Mzcx-Mw-V1.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1hHLGXZLvz7TGoapoL0d7mblWOmznK12D/view?usp=sharing"
   },
 
   {
@@ -480,6 +487,13 @@
     "posterUrl":"https://i.ibb.co/kDqtBGs/MV5-BNWIx-NDdl-YWQt-MDg0-Mi00-Mjk0-LWFi-M2-It-NTVj-ODQ0-ZGU4-Njg1-Xk-Ey-Xk-Fqc-Gde-QXVy-Njc5-Mjg4-Nz.jpg",
     "movieUrl":"https://drive.google.com/file/d/1NL2-khvBFB6y9FT7K9ueaxxNXbu4O4li/view?usp=sharing"
   },
+  {
+    "name":"Blackmail 2018",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/GQ9PQ04/MV5-BYz-Yy-OGJm-Nj-It-MTJk-My00-Y2-Q5-LWEz-Zj-Mt-OGZj-Ym-M0-YTk5-Mz-A0-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz.jpg",
+    "movieUrl":"https://drive.google.com/file/d/15JZdKjqysy5P183bOQfCTck3fKof43jF/view?usp=sharing"
+  },
+
   {
     "name": "RRR",
     "type": "movie",
@@ -938,7 +952,12 @@
     "posterUrl": "https://i.ibb.co/z8gpsks/MV5-BYz-I5-Nz-Vm-Nm-Yt-ZGQz-Ni00-Zm-Jm-LTlj-NWEt-Mz-U0-Nzgw-Yj-I3-ODcy-Xk-Ey-Xk-Fqc-Gde-QXVy-NTM3-Mz.jpg",
     "movieUrl": "https://drive.google.com/file/d/10ooYbpztYPj_Rk8FF8-aednqZFkx057D/view?usp=sharing"
   },
-
+  {
+    "name":"Main Tera Hero 2014",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/Bg5DT6w/MV5-BZj-Bi-YWU0-Zm-Mt-ZDE0-NC00-ZTUx-LWE3-OTQt-Y2-Yy-Nj-Vj-MTRl-OGJj-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1rApPiWf_uHfCCJGgNrso2jkdCpSwQUzd/view?usp=sharing"
+  },
   {
     "name": "Red",
     "type": "movie",
@@ -9271,12 +9290,6 @@
     "movieUrl":""
   },
 
-  {
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
 
   {
     "name":"",
@@ -9359,13 +9372,6 @@
     "movieUrl":""
   },
 
-
-  {
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
 
   {
     "name":"",
@@ -9593,12 +9599,6 @@
     "movieUrl":""
   },
 
-  {
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
 
   {
     "name":"",
