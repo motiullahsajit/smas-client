@@ -1,5 +1,133 @@
 [
   {
+    "name": "Avrodh",
+    "type": "indian",
+    "overview": "2020 | 17+ | 2 Season | Action | TV Series",
+    "bio":"It is a War Thriller based on the theme of Indian Army and Uri Surgical Strike.",
+    "posterUrl": "https://i.ibb.co/VJdRsz4/MV5-BZGUx-NWM5-Mz-Et-ODA3-Ny00-ZTYw-LWFj-ODgt-NDZk-ZWVm-Nm-Zi-YTc3-Xk-Ey-Xk-Fqc-Gde-QXVy-OTQy-MTIw-O.jpg",
+    "coverUrl": "https://i.ibb.co/YLmND8k/MV5-BM2-Vh-MDE3-ZTMt-YTBm-OS00-OWE1-LWI5-MDgt-ODQx-N2-Y2-MDY0-ODA3-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-M0-Mj-Iz.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1lvhq6Gi8ZQf-oF-ZmIKU2obP61T2FbzA/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1T6u7UPlK87LXiTIYPrj23Zev3jZ52RFh/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/181fWeDUkkVs8FcTpgoYtp8P064sfl5U9/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1Bjiqfa77k_dDpFXCKq1sU19g_NEaonEc/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/10YdMOdavrfvZCVV2X2RV65o1k1-KHbA2/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1_XEf3CA5HUK9T_5iaZkTIx0RwkjUh1eB/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1pLRycgbqll2p6E2pIv-JXLtbg0sP4KAW/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/1wIMU6pKEXR45FGOE68vASAB55maQz6VO/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/1hOkrrP_S5ZvrjEP3NkEsSBlOdl6Odd_v/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 2",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1Ryp85Cp1FfPZiDZAuZ-SQNiwURRAkJcK/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1HvyQe-k7jrObyaIimI-a6T4JbTWnx3Rb/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1maap1GvP8EVClkf_B1YDsFzNHNq4g9Wf/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1USnvq1_vqpvredb9Uqy0XbmXrC36Fur4/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1eeVcbrL1Wl5P3KHkvHqMhvPbEBs9uDH_/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1THGEfN5QZ4YxP_YP-uqDrL_0oaZvXw1l/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/11QMtau0pchDYud5iqsoH3bSgUTZan_09/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/1lVE_eMnlIWZ5AbQh6L096q1Kgv-_cWyc/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  
+  {
+    "name": "Money Heist Korea Joint Economic Area",
+    "type": "korean",
+    "overview": "2022 | 18+ | 1 Season | Crime TV Shows| Multi Audio",
+    "bio":"Thieves overtake the mint of a unified Korea. With hostages trapped inside, the police must stop them — as well as the shadowy mastermind behind it all.",
+    "posterUrl": "https://i.ibb.co/VpJVgZZ/MV5-BNTNl-NGZj-YWMt-MGMw-OS00-ZTAx-LTgw-Mj-Ut-Zm-Y4-YWNl-ZTgw-ODQ2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEz-MTI1-M.jpg",
+    "coverUrl": "https://i.ibb.co/W0sHrK0/Money-Heist.webp",
+    "seasons": [
+      {
+        "name": "Season 1 Hin+Eng+Kor",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1VNAGFzZO0ArxJC3YTvF7-I49GYNf5D_t/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/18ULnhqvIipdp1DcKvzeHKwyGlfZJs3Dr/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1LOv8SCXmTVnHp6vArV1vAxnMwL1tMqjj/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1FFY4MjaXfuzM0HRm7og7Uyp_1v-km9n8/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1EOklHY5eHLfH0deruAiRGOqg-U57BFNd/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/10sgHZg2mK62Ra06oi0vE0YNdSBWToMnb/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Man Vs Bee",
     "type": "british",
     "overview": "2022 | 7+ | 1 Season | TV Comedies",
@@ -1934,6 +2062,29 @@
           {
             "name": "Episode 16",
             "link": "https://drive.google.com/file/d/1gugqOYJw-5oerEA6Ug1c8RRyvgXr1wCl/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jug Jugg Jeeyo",
+    "type": "indian",
+    "overview": "2022 | 17+ | 1h 59m | Comedy",
+    "bio":"A story set in the heart of Patiala and much like the city, it's full of love and laughter, colour and drama. This story is all about family and its values, unresolved yearnings and unexpected reconciliations. A good family entertainer",
+    "posterUrl": "https://i.ibb.co/2gqYsCV/MV5-BMTg5-Yjlk-Zm-It-ZWZj-OC00-ZWQ5-LTk2-Mjct-Ym-I2-ZGYz-ODY0-N2-Zm-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E3.jpg",
+    "coverUrl": "https://i.ibb.co/gWTjdHw/jugg-jeeyo-poster.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": "https://drive.google.com/file/d/1sQ0lrxpPU_Nm1UwiTGmg5lmnK69pOzon/view?usp=sharing"
+          },
+          {
+            "name": "1080p Hindi",
+            "link": "https://drive.google.com/file/d/1yGG_6PkwLHjegUD1PaxVpPmuoP5dirEX/view?usp=sharing"
           }
         ]
       }

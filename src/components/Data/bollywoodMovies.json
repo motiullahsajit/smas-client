@@ -1,5 +1,27 @@
 [
-
+  {
+    "name": "Jug Jugg Jeeyo",
+    "type": "indian",
+    "overview": "2022 | 17+ | 1h 59m | Comedy",
+    "bio":"A story set in the heart of Patiala and much like the city, it's full of love and laughter, colour and drama. This story is all about family and its values, unresolved yearnings and unexpected reconciliations. A good family entertainer",
+    "posterUrl": "https://i.ibb.co/2gqYsCV/MV5-BMTg5-Yjlk-Zm-It-ZWZj-OC00-ZWQ5-LTk2-Mjct-Ym-I2-ZGYz-ODY0-N2-Zm-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E3.jpg",
+    "coverUrl": "https://i.ibb.co/gWTjdHw/jugg-jeeyo-poster.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Hindi",
+            "link": "https://drive.google.com/file/d/1sQ0lrxpPU_Nm1UwiTGmg5lmnK69pOzon/view?usp=sharing"
+          },
+          {
+            "name": "1080p Hindi",
+            "link": "https://drive.google.com/file/d/1yGG_6PkwLHjegUD1PaxVpPmuoP5dirEX/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
   {
     "name":"Black 2022",
     "type":"movie",
