@@ -1,5 +1,84 @@
 [
   {
+    "name": "Its Okay To Not Be Okay",
+    "type": "korean",
+    "overview": "2020 | 13+ | 1 Season | TV Comedies",
+    "bio":"An extraordinary road to emotional healing opens up for an antisocial children's book writer and a selfless psych ward caretaker when they cross paths.",
+    "posterUrl": "https://i.ibb.co/sQMwrwr/MV5-BYTk0-Nzk5-ZWYt-YTNl-Zi00-Yj-Bj-LWJh-Yjct-MWMw-Mm-Yy-MDA5-Zj-Jm-Xk-Ey-Xk-Fqc-Gde-QXVy-NDY5-Mj-My.jpg",
+    "coverUrl": "https://i.ibb.co/dkh0jYT/3408583.jpg",
+    "seasons": [
+      {
+        "name": "Season 1 Hindi Dubbed",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1xtN7qE2edsqv7cMILJc9YOGh2kL_3GcT/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1WC5kYJ_-mg9Lrs7j1_HdoRLqas4oLbQP/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1uUVTmiA6ASO_1TMdrUdVOI32BvBIu8Rb/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1O98c8NqayiqrlBygn3xC1JcokVoKzj70/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1iEG3ZIslHOweI0my4JqX37AmvxrW67U2/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1TKz7eGL1Jp8wXUFJjTqR7J78QthEBIdX/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1WSZJCmCQSDp7P4zqVDWOf8xhHCzSvoLF/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/173iuqKCq1pGUs7VtIgBXUNJWoK6G4lbO/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/1Jirxv5QGwkjiO99dG4NTtSScum0Dby95/view?usp=sharing"
+          },
+          {
+            "name":"Episode 10",
+            "link": "https://drive.google.com/file/d/1BA8zOH2VNUkw3cV7kaZRhlMaVXWFwCbu/view?usp=sharing"
+          },
+          {
+            "name": "Episode 11",
+            "link": "https://drive.google.com/file/d/1gBe_Sg0iRzvn6D-QthEZMihmNoc9YMcz/view?usp=sharing"
+          },
+          {
+            "name": "Episode 12",
+            "link": "https://drive.google.com/file/d/1lJ-G_T9yslWvwziyUlDX0x9S7k-nAu20/view?usp=sharing"
+          },
+          {
+            "name": "Episode 13",
+            "link": "https://drive.google.com/file/d/1cH0QvMPMPg_PA8R7NV_zCZq_QbcPjDEr/view?usp=sharing"
+          },
+          {
+            "name": "Episode 14",
+            "link": "https://drive.google.com/file/d/12weKiF_SM4ZeJl0ihUpHG5roy_BetF4O/view?usp=sharing"
+          },
+          {
+            "name": "Episode 15",
+            "link": "https://drive.google.com/file/d/1hVO6NZZb5yIZKkjgPqz0fiwkS56tXJ-Q/view?usp=sharing"
+          },
+          {
+            "name": "Episode 16",
+            "link": "https://drive.google.com/file/d/11K5xdmbol_bEY77X1i3zJBnMfW-wby2f/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "That's My Life",
     "type": "turkish",
     "overview": "2022 | 16+ | 1 Season | TV Seris | Turkish Drama ",
@@ -5952,6 +6031,14 @@
     "posterUrl":"https://i.ibb.co/FsMS6R3/MV5-BYTVh-Zm-E4-MTgt-NDIy-NC00-NDFm-LTg4-Y2-Qt-MWQ3-MTQ2-M2-Iy-Nz-Fj-Xk-Ey-Xk-Fqc-Gde-QXVy-OTkw-ODA4.jpg",
     "movieUrl":"https://drive.google.com/file/d/1W08MtjL5JXksuBdpiotzeTL7r1FkE6sJ/view?usp=sharing"
   },
+  
+  {
+    "name":"Firequake 2014",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/MZwC1R1/MV5-BMTA1-Mz-Ew-Nj-Aw-NTBe-QTJe-QWpw-Z15-Bb-WU4-MDU5-NTcx-ODUx-V1.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1-FUguWIuZ08rnU88rPTg1HQnn_8v7cC3/view?usp=sharing"
+  },
+
   {
     "name":"Abandoned 2022",
     "type":"movie",
