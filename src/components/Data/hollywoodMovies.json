@@ -1,5 +1,12 @@
 [
   {
+    "name":"Where the Scary Things Are 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/93mnpPs/Where-the-Scary-Things-Are-Poster-Small.webp",
+    "movieUrl":"https://drive.google.com/file/d/1n9BcEu8b9bPOK86rkhNpmpJkHl94g6mQ/view?usp=sharing"
+  },
+  
+  {
     "name": "DS Multiverse Of Madness",
     "type": "american",
     "overview": "2022 | 17+ | Movie | Thriller",
@@ -29,6 +36,55 @@
         ]
       }
     ]
+  },
+  {
+    "name":"Watcher 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/PrVY0v8/MV5-BMTNk-Nj-U4-OGYt-ODM3-NS00-Nz-M1-LWFk-ZWIt-ZTEx-Nzdj-YTAw-Mm-Rl-Xk-Ey-Xk-Fqc-Gde-QXVy-MTE1-Mz-I2.jpg",
+    "movieUrl":"https://drive.google.com/file/d/15GJWKQgN0XF2h6q9N1s_EKAXmZVQ-c3G/view?usp=sharing"
+  },
+  
+  {
+    "name":"Source Code 2011",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/ZKbCQ39/MV5-BMTY0-MTc3-Mz-Mz-NV5-BMl5-Ban-Bn-Xk-Ft-ZTcw-NDE4-Mj-E0-NA-V1.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1gegL1Cwulc7RwACN9RaKgutJEEOdIIGl/view?usp=sharing"
+  },
+  
+  {
+    "name":"Jerry And Marge Go Large 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/THbVZFJ/MV5-BYWI5-Y2-Ex-Nz-Ut-Zj-Q1-NS00-Zj-Bl-LWI1-NDkt-ZGYw-NTRi-Nz-I5-Zj-Mx-Xk-Ey-Xk-Fqc-Gde-QXVy-MTM1-MT.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1XMKx9BEqyCrlaUhCYllQSiVp45pBDqCW/view?usp=sharing"
+  },
+  {
+    "name": "Blasted",
+    "type": "norwegian",
+    "overview": "2022 | 16+ | 1h 55m | Sci-Fi Movies",
+    "bio":"When an alien invasion interrupts a bachelor party, two childhood friends reunite as the kick-ass laser tag duo they once were to fight back.",
+    "posterUrl": "https://i.ibb.co/dQVtX7B/MV5-BNDJl-MGVj-N2-Qt-ZTYx-OC00-MGYw-LTk0-OWEt-YTlh-N2-Uy-MDUx-Mjc2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQy-MTMw-O.jpg",
+    "coverUrl": "https://i.ibb.co/VMPRQ8n/AAAABa6-NCS1-Hkel-Iq72o38-Ky-HJ9-LBm-9g-RNPQ8-C1-Vrz-Rsl-OKUUMg-Me-Gw-Jr-W8-TTd-H6-z-Hemg-Omo-Opd-Mh.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Dual Audio",
+            "link": "https://drive.google.com/file/d/1Du4pMZ7vAO8chd7RofM_KjQxVDPy_svF/view?usp=sharing"
+          },
+          {
+            "name": "1080p Dual Audio",
+            "link": "https://drive.google.com/file/d/1xDI-z4CFFEf90ulJ6Tdo2X-YcdAhRX6B/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name":"Gatlopp 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/zPYxQZ8/Gatlopp-2022-MOVIE-2.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1O7hVq_OvYQdmauHV54olsEJRRQ5RqIjS/view?usp=sharing"
   },
   {
     "name":"Abandoned 2022",
@@ -1416,7 +1472,7 @@
     "name": "Spider-man No Way Home 2021",
     "type": "movie",
     "posterUrl": "https://i.ibb.co/TLbfnNC/MV5-BZWMy-Yz-Fj-YTYt-NTRj-Yi00-OGEx-LWE2-Yzgt-OGRm-Yj-Ax-ZTU3-Nz-Bi-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-Q0-Mz-A.jpg",
-    "movieUrl": "https://drive.google.com/file/d/1gzA-NBP03YoaxjKoB9T5SATxEjj37YC6/view?usp=sharing"
+    "movieUrl": "https://drive.google.com/file/d/1S_t2lfzbZAZWoqymJ-vpYe653Erk1Txh/view?usp=sharing"
   },
   {
     "name": "Choose Or Die 2022",
@@ -4026,28 +4082,7 @@
     }
   ]
 },
-{
-  "name": "",
-  "type": "",
-  "overview": "",
-  "posterUrl": "",
-  "coverUrl": "",
-  "seasons": [
-    {
-      "name": "Watch Now",
-      "episodes": [
-        {
-          "name": "720p Hindi",
-          "link": ""
-        },
-        {
-          "name": "1080p Hindi",
-          "link": ""
-        }
-      ]
-    }
-  ]
-},
+
 {
   "name": "",
   "type": "",
@@ -4246,33 +4281,7 @@
   "posterUrl":"",
   "movieUrl":""
 },
-{
-  "name":"",
-  "type":"movie",
-  "posterUrl":"",
-  "movieUrl":""
-},
-
-{
-  "name":"",
-  "type":"movie",
-  "posterUrl":"",
-  "movieUrl":""
-},
-
-{
-  "name":"",
-  "type":"movie",
-  "posterUrl":"",
-  "movieUrl":""
-},
 
-{
-  "name":"",
-  "type":"movie",
-  "posterUrl":"",
-  "movieUrl":""
-},
 {
   "name":"",
   "type":"movie",
@@ -5434,12 +5443,6 @@
   "movieUrl":""
 },
 
-{
-  "name":"",
-  "type":"movie",
-  "posterUrl":"",
-  "movieUrl":""
-},
 
 {
   "name":"",

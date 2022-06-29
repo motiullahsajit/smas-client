@@ -1,5 +1,108 @@
 [ 
   {
+    "name": "Blasted",
+    "type": "norwegian",
+    "overview": "2022 | 16+ | 1h 55m | Sci-Fi Movies",
+    "bio":"When an alien invasion interrupts a bachelor party, two childhood friends reunite as the kick-ass laser tag duo they once were to fight back.",
+    "posterUrl": "https://i.ibb.co/dQVtX7B/MV5-BNDJl-MGVj-N2-Qt-ZTYx-OC00-MGYw-LTk0-OWEt-YTlh-N2-Uy-MDUx-Mjc2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQy-MTMw-O.jpg",
+    "coverUrl": "https://i.ibb.co/VMPRQ8n/AAAABa6-NCS1-Hkel-Iq72o38-Ky-HJ9-LBm-9g-RNPQ8-C1-Vrz-Rsl-OKUUMg-Me-Gw-Jr-W8-TTd-H6-z-Hemg-Omo-Opd-Mh.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Dual Audio",
+            "link": "https://drive.google.com/file/d/1Du4pMZ7vAO8chd7RofM_KjQxVDPy_svF/view?usp=sharing"
+          },
+          {
+            "name": "1080p Dual Audio",
+            "link": "https://drive.google.com/file/d/1xDI-z4CFFEf90ulJ6Tdo2X-YcdAhRX6B/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Undercover",
+    "type": "korean",
+    "overview": "2021 | 16+ | 1 Season | Thriller | Hindi Dubbed",
+    "bio":"A female civil-rights lawyer begins to doubt her husband, whom she has been married for 20 years.",
+    "posterUrl": "https://i.ibb.co/SwhKPZc/MV5-BNTkz-Yz-Mw-M2-Ut-Mz-Vj-ZC00-NWFj-LTk3-NGYt-ZWQ2-NTg2-Mjlm-MTNh-Xk-Ey-Xk-Fqc-Gde-QXVy-NDY5-Mj-My.jpg",
+    "coverUrl": "https://i.ibb.co/gS47Xyz/undercover-2021.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1Tlb0mcXtYwke5Q1gab-Z-tyMJ9npKY-7/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1n-Ac_lWz1vIE1U_VjKZ595MnvRIVP9ze/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1s-LS3yjxymvvPw9-RRLjCDd-vT14zmT_/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/10T8o2Tall8vbqhoTJm6QJpp5qunoDmZF/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/12IWEoanJjD287XZK_jfgLhk_Gto6tOJL/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/10zDDTAek202F3Aazu9hJDufZ16957q7W/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1Ua7WS4dfQbJOU9BwtiV6oBp0H_YGkoTx/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/1p7gg0EWFvPHHVRjydUvPRwomB1Hq2EGE/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/16JcKtvEpKKGDrqaTnILAQG5te2s3oUNR/view?usp=sharing"
+          },
+          {
+            "name":"Episode 10",
+            "link": "https://drive.google.com/file/d/1OsRby2iVclFzpjhJNgsHcJujohyxrttD/view?usp=sharing"
+          },
+          {
+            "name": "Episode 11",
+            "link": "https://drive.google.com/file/d/1h4-N9IA16ohbL0QOG_2pBX8gq4X_Y8qa/view?usp=sharing"
+          },
+          {
+            "name": "Episode 12",
+            "link": "https://drive.google.com/file/d/19H82GJag4G9LlrDiV3O0TblDpWwZlsbY/view?usp=sharing"
+          },
+          {
+            "name": "Episode 13",
+            "link": "https://drive.google.com/file/d/1Zq8e4XzO-KZi-waAPAGRIlA3E4ZfGrhi/view?usp=sharing"
+          },
+          {
+            "name": "Episode 14",
+            "link": "https://drive.google.com/file/d/1VL_s3hqQIRB83pVBBgdhn-EzkIbSCZCu/view?usp=sharing"
+          },
+          {
+            "name": "Episode 15",
+            "link": "https://drive.google.com/file/d/1-4ZwKQIowKHHDONl4wRVe_Pz1XpBzb87/view?usp=sharing"
+          },
+          {
+            "name": "Episode 16",
+            "link": "https://drive.google.com/file/d/1uPlLVvVgBEU-ZBY97fFSi8mNbUJyXjNW/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
     "name": "Its Okay To Not Be Okay",
     "type": "korean",
     "overview": "2020 | 13+ | 1 Season | TV Comedies",
@@ -2846,11 +2949,11 @@
         "episodes": [
           {
             "name": "720p Hindi",
-            "link": "https://drive.google.com/file/d/1l6qXlq5NjFMiLh4ULNGTczRtoyZpy_1B/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1YBd-lCGrphDkLgJRxGfoVfA98VYLe0eG/view?usp=sharing"
           },
           {
             "name": "1080p Hindi",
-            "link": "https://drive.google.com/file/d/18dbIwDR4lQaZgXrUyLplOL0K80KQrEVX/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1RGCi1duTw_xhlE91NzvR1CUaQaQ4qdxg/view?usp=sharing"
           }
         ]
       }

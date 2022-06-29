@@ -1,5 +1,11 @@
 [
   {
+    "name":"Forensic 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/F6TRmhx/1920x7700d93fbdc158c4f87b25804ce5970cd319193899f25984e49b98962ae7d528fd0.webp",
+    "movieUrl":"https://drive.google.com/file/d/16fLPMwgcodQ0Yqbv6tpv_-1pnslURCES/view?usp=sharing"
+  },
+  {
     "name": "Jug Jugg Jeeyo",
     "type": "indian",
     "overview": "2022 | 17+ | 1h 59m | Comedy",
@@ -206,11 +212,11 @@
         "episodes": [
           {
             "name": "720p Hindi",
-            "link": "https://drive.google.com/file/d/1l6qXlq5NjFMiLh4ULNGTczRtoyZpy_1B/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1YBd-lCGrphDkLgJRxGfoVfA98VYLe0eG/view?usp=sharing"
           },
           {
             "name": "1080p Hindi",
-            "link": "https://drive.google.com/file/d/18dbIwDR4lQaZgXrUyLplOL0K80KQrEVX/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1RGCi1duTw_xhlE91NzvR1CUaQaQ4qdxg/view?usp=sharing"
           }
         ]
       }
@@ -9608,12 +9614,7 @@
     "movieUrl":""
   },
 
-  {
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
+ 
 
   {
     "name":"",

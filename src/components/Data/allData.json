@@ -1,5 +1,216 @@
 [
   {
+    "name": "The Time Traveler's Wife",
+    "type": "american",
+    "overview": "2022 | 18+ | 1 Season | Romance",
+    "bio":"Tells the intricate love story of Clare and Henry, and a marriage with a problem... time travel.",
+    "posterUrl": "https://i.ibb.co/j6VpTJc/MV5-BNTU4-Zjc3-ODQt-OWRj-Zi00-MGU5-LWIx-OTYt-OTk3-Nm-Q5-Nj-I2-Mj-U3-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Y1-MTg4.jpg",
+    "coverUrl": "https://i.ibb.co/fD6SXYV/MV5-BMWY5-Mj-Ix-Zj-Ut-OTA4-My00-ODNk-LWJk-Zj-Mt-NTdi-Zj-Vj-Yjcz-Nzc1-Xk-Ey-Xk-Fqc-Gde-QXNu-ZXNod-Q-V.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/17Kq16aJgcAhqpy1uofCez7vg-kWk4L4Q/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1WdvJOvsbj-ya__R_BwgRo1HwsdL6KSxG/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1hc7p5vlOS2-Bi3P4Q7D-ZqBerXf7Jk8J/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1KLw7WEeiQzVbyXkjP2cHiM260zt31_3J/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1R-nBoC6ggxRKH6eauJzT2uWe9lLzga_F/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1mX7KolEp4KPMMi_rq4Xf-tQ-M-DiFeyZ/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "name":"Where the Scary Things Are 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/93mnpPs/Where-the-Scary-Things-Are-Poster-Small.webp",
+    "movieUrl":"https://drive.google.com/file/d/1n9BcEu8b9bPOK86rkhNpmpJkHl94g6mQ/view?usp=sharing"
+  },
+  
+  {
+    "name": "Blasted",
+    "type": "norwegian",
+    "overview": "2022 | 16+ | 1h 55m | Sci-Fi Movies",
+    "bio":"When an alien invasion interrupts a bachelor party, two childhood friends reunite as the kick-ass laser tag duo they once were to fight back.",
+    "posterUrl": "https://i.ibb.co/dQVtX7B/MV5-BNDJl-MGVj-N2-Qt-ZTYx-OC00-MGYw-LTk0-OWEt-YTlh-N2-Uy-MDUx-Mjc2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQy-MTMw-O.jpg",
+    "coverUrl": "https://i.ibb.co/VMPRQ8n/AAAABa6-NCS1-Hkel-Iq72o38-Ky-HJ9-LBm-9g-RNPQ8-C1-Vrz-Rsl-OKUUMg-Me-Gw-Jr-W8-TTd-H6-z-Hemg-Omo-Opd-Mh.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p Dual Audio",
+            "link": "https://drive.google.com/file/d/1Du4pMZ7vAO8chd7RofM_KjQxVDPy_svF/view?usp=sharing"
+          },
+          {
+            "name": "1080p Dual Audio",
+            "link": "https://drive.google.com/file/d/1xDI-z4CFFEf90ulJ6Tdo2X-YcdAhRX6B/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kota Factory",
+    "type": "indian",
+    "overview": "2021 | 13+ | 2 Seasons | TV Dramas | Indian",
+    "bio":"In a city of coaching centers known to train India’s finest collegiate minds, an earnest but unexceptional student and his friends navigate campus life.",
+    "posterUrl": "https://i.ibb.co/X5FCCDQ/MV5-BOGVm-MGYw-ZTEt-OGFl-YS00-ODRh-LTg3-M2-Mt-Mzc1-OGNh-Nz-U3-N2-Iz-Xk-Ey-Xk-Fqc-Gde-QXVy-NDY4-Nj-Ax.jpg",
+    "coverUrl": "https://i.ibb.co/60tNtbN/cpp-s3fs-public-2019-03-aspect-xl-large-Super-Hero-KOTA-FACTORY-1.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1lXmSjKIbpYdcYT-o-zxYLkuoM_3TF46l/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1OLkJ5fxaFOrGUiUFBbS8vI2dD2AE-lNP/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1PdHpakdgc18E3KY_Nzbi7UTo3gbaxUTZ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1Hwar8XWirYxvaK-C128MJoJ5lBeHiGeZ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1Vbz4bCTt2A8ZRx2KCNUnvdUSA2kJbqdL/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 2",
+        "episodes": [
+
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1wvfmTBXb678shYbF_6yikOXCxkSQDavR/view?usp=sharing"
+          },
+          {
+            "name":"Episode 02",
+            "link": "https://drive.google.com/file/d/1u9YpAu2UJynkswtMqi8gD6M_A_eGqDhw/view?usp=sharing"
+          },
+          {
+            "name":"Episode 03",
+            "link": "https://drive.google.com/file/d/10YoLBrdZLefVe2hoC44rgWD5VYr6J1Fc/view?usp=sharing"
+          },
+          {
+            "name":"Episode 04",
+            "link": "https://drive.google.com/file/d/14rEzt0v8_xSD1WNp42vEKkyM3vxp2ioQ/view?usp=sharing"
+          },
+          {
+            "name":"Episode 05",
+            "link": "https://drive.google.com/file/d/14Bj7IQSC2hGNn1nQrmCZSQSzJYuJQKkI/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Undercover",
+    "type": "korean",
+    "overview": "2021 | 16+ | 1 Season | Thriller | Hindi Dubbed",
+    "bio":"A female civil-rights lawyer begins to doubt her husband, whom she has been married for 20 years.",
+    "posterUrl": "https://i.ibb.co/SwhKPZc/MV5-BNTkz-Yz-Mw-M2-Ut-Mz-Vj-ZC00-NWFj-LTk3-NGYt-ZWQ2-NTg2-Mjlm-MTNh-Xk-Ey-Xk-Fqc-Gde-QXVy-NDY5-Mj-My.jpg",
+    "coverUrl": "https://i.ibb.co/gS47Xyz/undercover-2021.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1Tlb0mcXtYwke5Q1gab-Z-tyMJ9npKY-7/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1n-Ac_lWz1vIE1U_VjKZ595MnvRIVP9ze/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1s-LS3yjxymvvPw9-RRLjCDd-vT14zmT_/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/10T8o2Tall8vbqhoTJm6QJpp5qunoDmZF/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/12IWEoanJjD287XZK_jfgLhk_Gto6tOJL/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/10zDDTAek202F3Aazu9hJDufZ16957q7W/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1Ua7WS4dfQbJOU9BwtiV6oBp0H_YGkoTx/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/1p7gg0EWFvPHHVRjydUvPRwomB1Hq2EGE/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/16JcKtvEpKKGDrqaTnILAQG5te2s3oUNR/view?usp=sharing"
+          },
+          {
+            "name":"Episode 10",
+            "link": "https://drive.google.com/file/d/1OsRby2iVclFzpjhJNgsHcJujohyxrttD/view?usp=sharing"
+          },
+          {
+            "name": "Episode 11",
+            "link": "https://drive.google.com/file/d/1h4-N9IA16ohbL0QOG_2pBX8gq4X_Y8qa/view?usp=sharing"
+          },
+          {
+            "name": "Episode 12",
+            "link": "https://drive.google.com/file/d/19H82GJag4G9LlrDiV3O0TblDpWwZlsbY/view?usp=sharing"
+          },
+          {
+            "name": "Episode 13",
+            "link": "https://drive.google.com/file/d/1Zq8e4XzO-KZi-waAPAGRIlA3E4ZfGrhi/view?usp=sharing"
+          },
+          {
+            "name": "Episode 14",
+            "link": "https://drive.google.com/file/d/1VL_s3hqQIRB83pVBBgdhn-EzkIbSCZCu/view?usp=sharing"
+          },
+          {
+            "name": "Episode 15",
+            "link": "https://drive.google.com/file/d/1-4ZwKQIowKHHDONl4wRVe_Pz1XpBzb87/view?usp=sharing"
+          },
+          {
+            "name": "Episode 16",
+            "link": "https://drive.google.com/file/d/1uPlLVvVgBEU-ZBY97fFSi8mNbUJyXjNW/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
     "name": "Its Okay To Not Be Okay",
     "type": "korean",
     "overview": "2020 | 13+ | 1 Season | TV Comedies",
@@ -791,7 +1002,20 @@
         ]
       },
       {
-        "name": "Season 1-4 Uploading",
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 1-5 Zip File",
+            "link": "https://drive.google.com/file/d/1XWEBQ-FAkOR85MhboZEHQVXjJZY0wlYm/view?usp=sharing"
+          },
+          {
+            "name": "Episode 6-13 Zip File",
+            "link": "https://drive.google.com/file/d/1H2__RTRGkTwinN68iBJGRg-wAS0P4-Tf/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 2-4 Uploading",
         "episodes": [
           {
             "name": "Episode 01",
@@ -2887,11 +3111,11 @@
         "episodes": [
           {
             "name": "720p Hindi",
-            "link": "https://drive.google.com/file/d/1l6qXlq5NjFMiLh4ULNGTczRtoyZpy_1B/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1YBd-lCGrphDkLgJRxGfoVfA98VYLe0eG/view?usp=sharing"
           },
           {
             "name": "1080p Hindi",
-            "link": "https://drive.google.com/file/d/18dbIwDR4lQaZgXrUyLplOL0K80KQrEVX/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1RGCi1duTw_xhlE91NzvR1CUaQaQ4qdxg/view?usp=sharing"
           }
         ]
       }
@@ -3631,12 +3855,38 @@
     "posterUrl": "https://i.ibb.co/k0L8ymy/MV5-BNTk2-Mm-Qx-Yz-Mt-Yz-Vh-ZS00-Nzdh-LTg3-Ym-Ut-Mz-Iy-MDY3-MTFm-Ym-Fh-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz.jpg",
     "movieUrl": "https://drive.google.com/file/d/1mAwFYfVd4INOpZ0TkF9ZpVQDkqaY-2BJ/view?usp=sharing"
   },
-
+  {
+    "name":"Watcher 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/PrVY0v8/MV5-BMTNk-Nj-U4-OGYt-ODM3-NS00-Nz-M1-LWFk-ZWIt-ZTEx-Nzdj-YTAw-Mm-Rl-Xk-Ey-Xk-Fqc-Gde-QXVy-MTE1-Mz-I2.jpg",
+    "movieUrl":"https://drive.google.com/file/d/15GJWKQgN0XF2h6q9N1s_EKAXmZVQ-c3G/view?usp=sharing"
+  },
+  
+  {
+    "name":"Source Code 2011",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/ZKbCQ39/MV5-BMTY0-MTc3-Mz-Mz-NV5-BMl5-Ban-Bn-Xk-Ft-ZTcw-NDE4-Mj-E0-NA-V1.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1gegL1Cwulc7RwACN9RaKgutJEEOdIIGl/view?usp=sharing"
+  },
+  
+  {
+    "name":"Jerry And Marge Go Large 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/THbVZFJ/MV5-BYWI5-Y2-Ex-Nz-Ut-Zj-Q1-NS00-Zj-Bl-LWI1-NDkt-ZGYw-NTRi-Nz-I5-Zj-Mx-Xk-Ey-Xk-Fqc-Gde-QXVy-MTM1-MT.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1XMKx9BEqyCrlaUhCYllQSiVp45pBDqCW/view?usp=sharing"
+  },
+  
+  {
+    "name":"Gatlopp 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/zPYxQZ8/Gatlopp-2022-MOVIE-2.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1O7hVq_OvYQdmauHV54olsEJRRQ5RqIjS/view?usp=sharing"
+  },
   {
     "name": "Spider-man No Way Home 2021",
     "type": "movie",
     "posterUrl": "https://i.ibb.co/TLbfnNC/MV5-BZWMy-Yz-Fj-YTYt-NTRj-Yi00-OGEx-LWE2-Yzgt-OGRm-Yj-Ax-ZTU3-Nz-Bi-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-Q0-Mz-A.jpg",
-    "movieUrl": "https://drive.google.com/file/d/1gzA-NBP03YoaxjKoB9T5SATxEjj37YC6/view?usp=sharing"
+    "movieUrl": "https://drive.google.com/file/d/1S_t2lfzbZAZWoqymJ-vpYe653Erk1Txh/view?usp=sharing"
   },
   {
     "name": "The Batman 2022",
@@ -4482,6 +4732,12 @@
     "type":"movie",
     "posterUrl":"https://i.ibb.co/2WXRFg1/MV5-BZj-U1-Mm-Zl-Ym-Mt-N2-Y3-YS00-Mj-Bl-LTk1-Nm-Qt-Mjcw-Mz-M0-NWJj-MDM4-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQy-O.jpg",
     "movieUrl":"https://drive.google.com/file/d/1LqslUOQTuqven0RcZD-500tGEtC-tGFC/view?usp=sharing"
+  },
+  {
+    "name":"Forensic 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/F6TRmhx/1920x7700d93fbdc158c4f87b25804ce5970cd319193899f25984e49b98962ae7d528fd0.webp",
+    "movieUrl":"https://drive.google.com/file/d/16fLPMwgcodQ0Yqbv6tpv_-1pnslURCES/view?usp=sharing"
   },
   {
     "name":"There Are No Saints 2022",
