@@ -6,6 +6,19 @@
     "movieUrl":"https://drive.google.com/file/d/16fLPMwgcodQ0Yqbv6tpv_-1pnslURCES/view?usp=sharing"
   },
   {
+    "name":"12th Man 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/FqMrxMd/MV5-BZjk5-Nj-Nl-YTMt-N2-E1-YS00-MTk3-LWI2-Njgt-OWU3-Nm-I2-ZDgx-MTEw-Xk-Ey-Xk-Fqc-Gde-QXVy-Mjkx-Nz-Q1.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1-_3U4m1jCm_S6CFooXn6r0hcjQxxAJXo/view?usp=sharing"
+  },
+  {
+    "name":"Samrat Prithviraj 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/9YX53TF/MV5-BOGI1-N2-Qw-Nj-Yt-Mj-Qz-OS00-Nj-Zi-LTg1-Yz-Et-MDVj-ZGY0-Yjkw-ODNj-Xk-Ey-Xk-Fqc-Gde-QXVy-MTkx-Nj.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1jkH3s6xF5QcjLTMyRe3kzmL9SK9TpVgZ/view?usp=sharing"
+  },
+
+  {
     "name": "Jug Jugg Jeeyo",
     "type": "indian",
     "overview": "2022 | 17+ | 1h 59m | Comedy",
@@ -27,6 +40,13 @@
         ]
       }
     ]
+  },
+    
+  {
+    "name":"Sabhaapathy 2021",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/2FwjRGL/MV5-BODA4-YWI3-MWMt-Mj-Rm-YS00-OWU3-LTlk-NTkt-OWJi-Mj-I0-Nzk3-Njk3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI1-NDEy-N.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1PHGhyFnZkhqhstt0e29Eul7KJzPN5U1e/view?usp=sharing"
   },
   {
     "name":"Black 2022",
@@ -334,7 +354,8 @@
   {
     "name": "Dhaakad",
     "type": "indian",
-    "overview": "2022 | 18+ | Action",
+    "overview": "2022 | 18+ | 2h 15m | Action",
+    "bio":"Agent Agni, a highly trained and deadly field agent is entrusted with the mission to gather Intel and eliminate Rudraveer, an international human and arms trafficker who has been off the radar for ten years.",
     "posterUrl": "https://i.ibb.co/HtNR8MR/MV5-BNj-Zm-Nm-M1-MDMt-N2-Jm-Zi00-MWNl-LWJm-Zj-At-MGQ5-Zjhh-Nzg4-Zj-U0-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI2-OTk.jpg",
     "coverUrl": "https://i.ibb.co/MgNpg1c/kangana-dhaakad-poster-1200.jpg",
     "seasons": [
@@ -343,11 +364,11 @@
         "episodes": [
           {
             "name": "720p Hindi",
-            "link": "https://drive.google.com/file/d/1dAId4KTO7p5fsj2FdB1roWacpWFKCHSL/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/18uP7KZ5Io8--9q9G8XmioHyEMub3OHm9/view?usp=sharing"
           },
           {
             "name": "1080p Hindi",
-            "link": "https://drive.google.com/file/d/1S5qX9YJDcCt8MzRnav-Iqsh7tBWkt6pW/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1-QfzlAIFxLsnf3yrS2uE3XVinTEHrciQ/view?usp=sharing"
           }
         ]
       }
@@ -9616,12 +9637,6 @@
 
  
 
-  {
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
 
 
   {
