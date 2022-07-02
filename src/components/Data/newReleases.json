@@ -3569,7 +3569,48 @@
          ]
        },
        {
-        "name": "Season 4 Dual Audio",
+        "name": "Season 4 English",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1d2MR4ljW1tunNmwwlmAA5Un78qXPXH2d/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1wUQuoC5gU0XsqFZlXtBbyrE0Lag3vqTe/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1bPuTkbAoz_MU71SVGOP6SKY2o5NarQ_H/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/16u-vCmT_SSzGawuFlzHo3R5OFgmJ7GZJ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1BMlFCY5FUltEg4TgZNJhO_kvVAlU6uq9/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/10IaCrqOvfD_kizAhH1kuIfdj_wJgXksU/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1vRIgGl0O3bJJ5UX_dVtCDdIhrVNBNDWY/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/11d0yE4vwY87NDjJq2VgILkSJfrqC8Hd7/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/1JzE9v5TugiLTTOGi0-HlhwkTQasA8ler/view?usp=sharing"
+          }
+        ]
+      },
+       {
+        "name": "Season 4 Hindi",
         "episodes": [
           {
             "name": "Episode 01",
@@ -3611,6 +3652,7 @@
       }
      ]
   },
+
   {
     "name": "Obi Wan Kenobi",
     "type": "american",
