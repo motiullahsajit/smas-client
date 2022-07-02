@@ -1,4 +1,92 @@
 [
+   
+  {
+    "name": "The Terminal List",
+    "type": "american",
+    "overview": "2022 | 18+ | 1 season | Crime Thriller | Dual Audio",
+    "bio":"A former Navy SEAL officer investigates why his entire platoon was ambushed during a high-stakes covert mission.",
+    "posterUrl": "https://i.ibb.co/ZXF0RT3/The-Terminal-List-1-600x889.webp",
+    "coverUrl": "https://i.ibb.co/232RDRy/The-Terminal-List-Promo-Image.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1yB2IL6yTka4lgSn9gIbuSBhdWNv9pHxy/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1YKUWqisZ4ow7OmPzKvpAautEcXhXY_as/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1Ea3IUHjsTf9X25LEQJddWX7aATg2TunF/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1IHyCiD-jjgxqzZ2Ygp5Jl-rqyaZCYLBs/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1wmFsM7jNXLkAZxQJp-EKMYzof6x4z5Sh/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1LULYNJqOeH7tMB5kbsB8GE8fcK94EoL3/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/18_pIMAremWJ9teayjhK734INH99qdSAx/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/1b7GC7dGaY4vDvYmxwpmZOCYOdLPzQkYg/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+ 
+  {
+    "name": "Baymax!",
+    "type": "american",
+    "overview": "2022 | 16+ | 1 Season | Adventure | English",
+    "bio":"The characters in the unique city of Big Hero 6 get their own series, packed with adventures.",
+    "posterUrl": "https://i.ibb.co/c8vwvdT/MV5-BMGZi-Zm-Nk-ZWMt-Mj-E0-OS00-Nz-Bm-LWIw-Nj-Mt-Zm-Zj-MWE1-Mj-E1-MTM2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQz-NT.jpg",
+    "coverUrl": "https://i.ibb.co/bmHMwc2/https-hypebeast-com-wp-content-blogs-dir-6-files-2022-05-big-hero-6-baymax-tv-show-series-disney-plu.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1JQwFQTKfuydQadDcRBurxfn9Akpd0pI2/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1dCfH_qxRCHq_lbqWDPFTNmMmAcRx69K9/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1bue174SYehM81duFdOoaz5rOId2Z8Fzd/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/190Z4sc6ls3x-_h9FIPq-GLVpQJJ-dOjt/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1OPZrvUs1k3beuGQKBbXCQB6EigjuvelA/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1iP7geGM9_0BDN1awj8-n0ONvXhw3W9M0/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
   {
     "name": "In From The Cold",
     "type": "american",
@@ -12664,16 +12752,12 @@
             "link": "https://drive.google.com/file/d/1VZh2oW4vzsUhUZRJrHbzb8Fm_FjlaFZ9/view?usp=sharing"
           },
           {
-            "name":"Episode 08 1st July",
-            "link": ""
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/1Y2MN_VOMPPzM019ZNruebvQqXjH1GZ-x/view?usp=sharing"
           },
           {
-            "name":"Episode 09 1st July",
-            "link": ""
-          },
-          {
-            "name":"Episode 10 1st July",
-            "link": ""
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/1y0ncgcd_QllmeO2ImG3SsBrmBbwUhhvN/view?usp=sharing"
           }
         ]
       }
