@@ -1,5 +1,155 @@
 [
   {
+    "name": "Shooting Stars",
+    "type": "korean",
+    "overview": "2022 | 18+ | 1 Seasons | Romance | Korean Lan",
+    "bio":" They went to the same university, where he became her swoon enemy. They bicker but soon develop feelings for one another.",
+    "posterUrl": "https://i.ibb.co/Y0gLZTV/MV5-BYjgz-MTkw-MTkt-NDZl-Yy00-Zjky-LWEx-Zj-Mt-Ym-Zj-NTlh-Zm-Ni-Nj-Nk-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQx-Nz-I.jpg",
+    "coverUrl": "https://i.ibb.co/Y0gLZTV/MV5-BYjgz-MTkw-MTkt-NDZl-Yy00-Zjky-LWEx-Zj-Mt-Ym-Zj-NTlh-Zm-Ni-Nj-Nk-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQx-Nz-I.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1e7QeYw9Qlkh74jjUpDqQDBjYaFLAYf8F/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1RK_HyzP6PlOHOCRDuPKVhM1rMHbr7lCq/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/18b-suA1PfjJUUSAVc5iJQHXndTm3phzI/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1thnswNDKG4nPkhSqmHhcbFac2vlivdt3/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1Bn8z4yDO6LQG9s0tV6o0STaAhklqem9N/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1GaokA1ZElMM1GbTBQyHnEAa9ZaQyBbgo/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1GaokA1ZElMM1GbTBQyHnEAa9ZaQyBbgo/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/1br9HrUyTILD7AOm4PZUuXBxABFeNT-dz/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/1E0leJRtt6qDX0OeabTgdV-xfdsB7eq5m/view?usp=sharing"
+          },
+          {
+            "name":"Episode 10",
+            "link": "https://drive.google.com/file/d/1b_NHfM1P7xdztcpHYsFgk_p1ta5RjQyD/view?usp=sharing"
+          },
+          {
+            "name": "Episode 11",
+            "link": "https://drive.google.com/file/d/1kQKH-JZJG4bxclxOSpcv06keLS_yXnxL/view?usp=sharing"
+          },
+          {
+            "name": "Episode 12",
+            "link": "https://drive.google.com/file/d/1LDa9nC-X097eSk-0jScsczcLDcokABZ7/view?usp=sharing"
+          },
+          {
+            "name": "Episode 13",
+            "link": "https://drive.google.com/file/d/1UFqsEHbBGkO86TS0DJH-j668J7ytDrSt/view?usp=sharing"
+          },
+          {
+            "name": "Episode 14",
+            "link": "https://drive.google.com/file/d/1cCIdIROUyklX-LQcxoFnmtDO_qxNKRQs/view?usp=sharing"
+          },
+          {
+            "name": "Episode 15",
+            "link": "https://drive.google.com/file/d/1RtBX6Hr5VfzR9p-KGG8UgwKLsErwmUEh/view?usp=sharing"
+          },
+          {
+            "name": "Episode 16",
+            "link": "https://drive.google.com/file/d/1IUMsBqK9s3bndZIg0NK6kq-qu_3a0e2d/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name":"Operation Romeo 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/Sm2B02q/MV5-BODgx-NTI2-Zj-It-MThm-NS00-ZWMy-LWFh-Mzkt-MTcy-ZWI0-MWMy-Mj-Mx-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E3.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1i9MLasZQP3yIn2djaS87UfQ-xH3ocxp4/view?usp=sharing"
+  },
+
+  {
+    "name": "The Future Of",
+    "type": "american",
+    "overview": "2022 | 13+ | 1 Season | US TV Shows | Dual Audio",
+    "bio":"With the help of industry experts, this innovative docuseries examines new and emerging technological trends to imagine revolutionary possibilities.",
+    "posterUrl": "https://i.ibb.co/PFL8jWS/MV5-BNTYw-MDBh-Yz-At-YTJh-ZC00-YWFl-LTli-ODIt-ODFk-Yzg5-OGEx-NTg1-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA3-MTI2-OD.jpg",
+    "coverUrl": "https://i.ibb.co/9gL1Jwr/maxresdefault.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1RBIAxU9ATF4GoMdqKivh7RWT-ciQzEpB/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1jdDlbR8RZZ0poyE4CohTvq-IGvUGP8Oh/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1VP56-OfQxVMlr4elhddlgJilbob_Zf2v/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1tesn5847IBirtsI_p05HgEseFgM9So2V/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/16bZlt4MtnF_YJG1B8BCz9pxjGsIxLayd/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/14QCjCbFBRdv0szlq6Yx026J3eo26ZHvV/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1dwWrLu3Jpr_Q0CdXqr-xPaoXU6MVU3A5/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/1sK4zfCJoTNL6FQIVfuTQsKGuGz0stHw9/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/13XX8agaAiDjLhqbPlmvdGtIR7hxqdH33/view?usp=sharing"
+          },
+          {
+            "name":"Episode 10",
+            "link": "https://drive.google.com/file/d/147XMcwXrAYF0Ht5qtOJmazIRWap5S-z6/view?usp=sharing"
+          },
+          {
+            "name":"Episode 11",
+            "link": "https://drive.google.com/file/d/1KH8fFSAa6pKlsQgdh8PBSK9bunj5LtPU/view?usp=sharing"
+          },
+          {
+            "name":"Episode 12",
+            "link": "https://drive.google.com/file/d/1fvUhywnE3B3RPJ6XGjMsA7omXKg1WV5B/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
     "name": "Traitors",
     "type": "british",
     "overview": "2019 | 18+ | 1 Season | Political TV Shows | Hindi Dubbed",
@@ -3443,11 +3593,11 @@
         "episodes": [
           {
             "name": "720p Hindi",
-            "link": "https://drive.google.com/file/d/1MnXN7nmbp2ql866q7eBj4iCLYkbQ_Unu/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1jJSfradIB5QW6FXpUhu0cBGnMfNznt9L/view?usp=sharing"
           },
           {
             "name": "1080p Hindi",
-            "link": "https://drive.google.com/file/d/1BpvUmlfl6UxcKgyWUKuRReU-Iputzekk/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1PznhDJU6wCObpU3r7zpaOOGSd1Y2BG7F/view?usp=sharing"
           }
         ]
       }
@@ -3760,7 +3910,12 @@
     "posterUrl": "https://i.ibb.co/chDWr3z/MV5-BZGZi-ZTNk-Ym-Et-ZDZi-MC00-MDNh-LTky-Nm-Qt-Mz-Qy-NTBj-OTc3-Zm-E2-Xk-Ey-Xk-Fqc-Gde-QXVy-ODIw-MDI1.jpg",
     "movieUrl": "https://drive.google.com/file/d/1LaXEL9EDpSDGG_yWbJp-J4BYxnkZ7jw7/view?usp=sharing"
   },
-
+  {
+    "name":"02",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/DRncHfZ/MV5-BNz-Ix-YTgw-OGQt-Zj-Bi-ZC00-Nzky-LWE0-Yz-Yt-MWI1-ZDkw-MGM5-Zm-Vh-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEz-Nzg0.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1o42Hek62OikAjcTHWpov5im3MOF0f-MA/view?usp=sharing"
+  },
   {
     "name":"Trance 2020",
     "type":"movie",
@@ -4969,6 +5124,13 @@
     "type":"movie",
     "posterUrl":"https://i.ibb.co/MsPVf0v/MV5-BMTQ1-NDI5-Mj-Mz-NF5-BMl5-Ban-Bn-Xk-Ft-ZTcw-MTc0-MDQw-OQ-V1-FMjpg-UX1000.jpg",
     "movieUrl":"https://drive.google.com/file/d/1FqNTEEK-pCOdC3gw69utlUhq6_OlJWEX/view?usp=sharing"
+  },
+  
+  {
+    "name":"Ragini MMS 2 2014",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/d4B37RY/MV5-BZWE3-Nzc1-MWMt-MTcz-ZS00-M2-Q4-LTgy-YTMt-ODE2-Mz-Y2-NTkz-ZTA3-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E3.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1FteBEanwzX7bhaviXwA3CFf1m_6r7_X3/view?usp=sharing"
   },
   {
     "name": "The Adam Project",
@@ -8804,7 +8966,24 @@
         ]
       },
       {
-        "name": "Season 4-8 Uploading",
+        "name": "Season 4",
+        "episodes": [
+          {
+            "name": "Episode 1-8 Zip File",
+            "link": "https://drive.google.com/file/d/1ydqgu8D003x5uaRfC1mApyT4WhNo8A5M/view?usp=sharing"
+          },
+          {
+            "name":"Episode 9-17 Zip File",
+            "link": "https://drive.google.com/file/d/1uSzEBdVgddU2f8jJmRNv9aquzYuV1oV2/view?usp=sharing"
+          },
+          {
+            "name":"Episode 18-23 Zip File",
+            "link": "https://drive.google.com/file/d/1g80gypp1tBXEpJRDmMI4PFuCj8emmwII/view?usp=sharing"
+          }
+         ]
+      },
+      {
+        "name": "Season 5-8 Uploading",
         "episodes": [
           {
             "name": "Uploading",

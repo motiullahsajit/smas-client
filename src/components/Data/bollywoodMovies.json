@@ -1,4 +1,18 @@
 [
+  
+  {
+    "name":"Operation Romeo 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/Sm2B02q/MV5-BODgx-NTI2-Zj-It-MThm-NS00-ZWMy-LWFh-Mzkt-MTcy-ZWI0-MWMy-Mj-Mx-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E3.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1i9MLasZQP3yIn2djaS87UfQ-xH3ocxp4/view?usp=sharing"
+  },
+
+  {
+    "name":"02",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/DRncHfZ/MV5-BNz-Ix-YTgw-OGQt-Zj-Bi-ZC00-Nzky-LWE0-Yz-Yt-MWI1-ZDkw-MGM5-Zm-Vh-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEz-Nzg0.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1o42Hek62OikAjcTHWpov5im3MOF0f-MA/view?usp=sharing"
+  },
   {
     "name":"Forensic 2022",
     "type":"movie",
@@ -100,11 +114,11 @@
         "episodes": [
           {
             "name": "720p Hindi",
-            "link": "https://drive.google.com/file/d/1MnXN7nmbp2ql866q7eBj4iCLYkbQ_Unu/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1jJSfradIB5QW6FXpUhu0cBGnMfNznt9L/view?usp=sharing"
           },
           {
             "name": "1080p Hindi",
-            "link": "https://drive.google.com/file/d/1BpvUmlfl6UxcKgyWUKuRReU-Iputzekk/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1PznhDJU6wCObpU3r7zpaOOGSd1Y2BG7F/view?usp=sharing"
           }
         ]
       }
@@ -149,6 +163,12 @@
     "movieUrl":"https://drive.google.com/file/d/16igh0IjypqA_M7fClSJX_DbK4GKzdfuK/view?usp=sharing"
   },
 
+  {
+    "name":"Ragini MMS 2 2014",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/d4B37RY/MV5-BZWE3-Nzc1-MWMt-MTcz-ZS00-M2-Q4-LTgy-YTMt-ODE2-Mz-Y2-NTkz-ZTA3-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E3.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1FteBEanwzX7bhaviXwA3CFf1m_6r7_X3/view?usp=sharing"
+  },
 {
     "name":"Krrish 3 2013",
     "type":"movie",
@@ -9008,12 +9028,6 @@
     "movieUrl":""
   },
 
-  {
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
 
   {
     "name":"",
@@ -9197,13 +9211,6 @@
 
 
 {
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
-
-  {
     "name":"",
     "type":"movie",
     "posterUrl":"",
@@ -9897,12 +9904,7 @@
     "movieUrl":""
   },
 
-  {
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
+
 
   {
     "name":"",
