@@ -1,5 +1,10 @@
 [
-  
+  {
+    "name":"lucifer 2019",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/8NSnh9S/MV5-BZGY2-Nz-Rk-Nm-Ut-Yj-Uz-ZS00-ZDkx-LTkx-N2-Et-NDI2-Nj-Fi-OGY3-OGM4-Xk-Ey-Xk-Fqc-Gde-QXVy-Mjkx-Nz.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1mCndtxCXHAHupB-_sP9Gtza8kc7kTE63/view?usp=sharing"
+  },
   {
     "name":"Operation Romeo 2022",
     "type":"movie",
@@ -661,6 +666,12 @@
     "type": "movie",
     "posterUrl": "https://i.ibb.co/HxDYZf5/MV5-BOGQz-OTRk-MWMt-ZDcw-Ny00-Zm-Fj-LTlk-YWEt-NDMz-Zm-Y5-NDMx-ZDQy-Xk-Ey-Xk-Fqc-Gde-QXVy-NDQ3-OTI3-M.jpg",
     "movieUrl": "https://drive.google.com/file/d/14x8zBXCgw_vSkoOVIc1E_2RIqYUPzb8H/view?usp=sharing"
+  },
+  {
+    "name":"Kaabil 2017",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/sqLJDK3/MV5-BMWJk-Mj-Ji-Nz-Mt-Nzhm-OC00-Mj-Q3-LTg5-Mm-Et-MTRk-MTg1-Zj-Q2-Zm-M1-L2lt-YWdl-L2lt-YWdl-Xk-Ey-Xk.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1KJ0Zm2nNqvzu7hnfT25acSoTOibVPY3t/view?usp=sharing"
   },
 
   {
@@ -9303,12 +9314,7 @@
   },
 
 
-  {
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
+
 
   {
     "name":"",
@@ -9688,12 +9694,6 @@
     "movieUrl":""
   },
 
-{
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
 
   {
     "name":"",

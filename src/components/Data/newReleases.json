@@ -1,5 +1,44 @@
 [ 
   {
+    "name": "Chosen",
+    "type": "danish",
+    "overview": "2022 | 18+ | 1 Season | TV Thrillers | English",
+    "bio":"A 17-year-old girl finds her world turned upside down when she and her friends discover the disturbing truth lurking in their quiet Danish town.",
+    "posterUrl": "https://i.ibb.co/ySwVdvk/MV5-BMz-Fh-ZTNh-YTIt-Nzlk-My00-Yjkw-LWI2-OTEt-Yz-U0-Yzhl-ZWI0-N2-Zm-Xk-Ey-Xk-Fqc-Gde-QXVy-NDk3-Mz-Mw.jpg",
+    "coverUrl": "https://i.ibb.co/F4RcTmT/Screenshot-1-1.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1AS4Fulkz1Aq_vzQSHtAc24Gkppeu_8Ii/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1P0lrmcus9zJNt5BDBA8Z6r8ia49XPymk/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1t-0IoOvw3Pd2hgIBd0C4QKzZegykn_3M/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1TjOX-IT3mTn0jJHI_Y2SW7NEB2MRYIU3/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1EE2T3Z9pJLG4BT2ihRv39jpDXNS8QMsR/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1DXLoWCMA-04L4PSvLuNLsmz7aRN3lzg0/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Shooting Stars",
     "type": "korean",
     "overview": "2022 | 18+ | 1 Seasons | Romance | Korean Lan",
