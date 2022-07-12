@@ -127,6 +127,13 @@
     "movieUrl":"https://drive.google.com/file/d/1LWO3fk5TXi4gEEovXI_LmnnaSOGy1-Fb/view?usp=sharing"
   },
   
+{
+  "name":"Ranveer vs. Wild with Bear Grylls",
+  "type":"movie",
+  "posterUrl":"https://i.ibb.co/8MYyxnf/ranveer-32-0.webp",
+  "movieUrl":"https://drive.google.com/file/d/1VNbdAbnNyWToau2cfGCjy-9Uk-bTknF8/view?usp=sharing"
+},
+
   {
     "name": "Love And Gelato",
     "type": "american",
@@ -4494,13 +4501,6 @@
   "movieUrl":""
 },
 
-
-{
-  "name":"",
-  "type":"movie",
-  "posterUrl":"",
-  "movieUrl":""
-},
 
 {
   "name":"",
