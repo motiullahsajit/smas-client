@@ -1,5 +1,11 @@
 [
   {
+    "name":"Vikram 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/vcsg4nm/MV5-BMm-Jh-YTYx-MGEt-Nj-Q5-NS00-MWZi-LWEw-N2-It-Yj-Jm-MWE2-YTU1-YWYx-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEz-Nzg0.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1qzVO3T_QKnlQ30xG16mDL5I2UtVuxBEe/view?usp=sharing"
+  },
+  {
     "name":"lucifer 2019",
     "type":"movie",
     "posterUrl":"https://i.ibb.co/8NSnh9S/MV5-BZGY2-Nz-Rk-Nm-Ut-Yj-Uz-ZS00-ZDkx-LTkx-N2-Et-NDI2-Nj-Fi-OGY3-OGM4-Xk-Ey-Xk-Fqc-Gde-QXVy-Mjkx-Nz.jpg",
@@ -9205,12 +9211,7 @@
     "movieUrl":""
   },
 
-{
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
+
 
 
 

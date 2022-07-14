@@ -1,5 +1,36 @@
 [
-  
+  {
+    "name": "How To Change Your Mind",
+    "type": "american",
+    "overview": "2022 | 18+ | 1 Season | Science & Nature Docs | Dual Audio",
+    "bio":"Author Michael Pollan leads the way in this docuseries exploring the history and uses of psychedelics, including LSD, psilocybin, MDMA and mescaline.",
+    "posterUrl": "https://i.ibb.co/P4Q7shN/How-To-Change-Your-Mind-Netflix.jpg",
+    "coverUrl": "https://i.ibb.co/B38F6X7/Netflix-Pollan.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/142tN3vxa-mHcqoVypHF_jiFK9G5ra2CN/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1zSo0PTTge1X0_VFQ5yWDTvBgOzKMA-j7/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1xHS5OxM93BrL2i75Ir2you1iit5b50av/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1AXsccV53vjICUyIdpHKKhLKP2L1RzOma/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+ 
 {
   "name":"Ranveer vs. Wild with Bear Grylls",
   "type":"movie",
@@ -2356,6 +2387,103 @@
     ]
   },
   {
+    "name": "After Life",
+    "type": "british",
+    "overview": "2019 | 18+ | 3 Seasons | TV Dramas | English ",
+    "bio":"Struggling to come to terms with his wife's death, a writer for a newspaper adopts a gruff new persona in an effort to push away those trying to help.",
+    "posterUrl": "https://i.ibb.co/1rGsHjx/MV5-BZj-Q3-MDI5-ZWYt-Nm-Iz-MC00-OTY0-LTk4-MGYt-MWVi-Yzk5-MWRh-NTcy-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEy-Mj-M2.jpg",
+    "coverUrl": "https://i.ibb.co/1qq68Gr/after-life-serie-saison-3-banniere.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1oXK4EKOF1FqKvYzZyzKFuUJHlgmB4tEM/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1vtr8mA-MP2ZWJ-JJe17ejwUD4pRbIxCy/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1XZ2pkhwetkn1zSIkIqXlDwJQKasYnJmE/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1bXcXE8GBiDDprLk86zSc4V4fawsEV2m8/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1EgvlgBY2hv6btR784EtrAfpjzUllOEQ3/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1W6EehSXXSpiDNavldShv7K2nrg4-b31E/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 2",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1EI-9Y8y9GxWnZhb7iwWoiT2Y5GiH8jqh/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1zps3zMW6rr41gMfvDrYu3-ErGfAWnW0D/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1tfdQiAU1tKRl_Pp_3oxuGN6zF85kUH3s/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1-f7M2hg-seLSuz5wSHVBc6f5KzyPgka5/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1NScDQSFhU6kUF6vKwKaapS1JPQbETHNC/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/12wi0ihDkyM_8PRqeSZT1b0FqWbAKS7Gw/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 3",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1HmiLMc78FjyVzuiV0eOVrWUOoygIl329/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1sw06oL0E9VEa_X38e4PeK38YAhy2ce_b/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1sw06oL0E9VEa_X38e4PeK38YAhy2ce_b/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1d7NtDhdf08JrSrJKHMk2ZXcWlmu_PCoo/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1-eA4aDS1JnHt5Vva3jwVxJtKj1a0OAhZ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1vKbiEGhyOaRwKVOoYZwq2G_A_UcOVmN_/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name":"Ms Marvel",
     "type": "american",
     "overview": "2022 | 18+ | 1 Season | Adventure | Tv Series",
@@ -2399,33 +2527,22 @@
             "link": "https://drive.google.com/file/d/1pEwpplmIgB6gjRE81KPNT0B7QZ1nQmLf/view?usp=sharing"
           },
           {
-            "name": "Episode 05 Next Wednesday",
-            "link": ""
+            "name": "Episode 05 720p",
+            "link": "https://drive.google.com/file/d/13VfdPy_6mRzISSxmx5BK_Ydv3jAw9NwD/view?usp=sharing"
           },
           {
-            "name": "Episode 05 Next Wednesday",
-            "link": ""
+            "name": "Episode 05 1080p",
+            "link": "https://drive.google.com/file/d/1j-ze1z_mjW4jk5LL7N18xiHpWPQLYMvA/view?usp=sharing"
           },
           {
-            "name": "Episode 06",
-            "link": ""
+            "name": "Episode 06 720p",
+            "link": "https://drive.google.com/file/d/14hmJpFBzpowPXRyFYXzZE1uwoVEkf3XC/view?usp=sharing"
           },
           {
-            "name":"Episode 07",
-            "link": ""
-          },
-          {
-            "name":"Episode 08",
-            "link": ""
-          },
-          {
-            "name":"Episode 09",
-            "link": ""
-          },
-          {
-            "name":"Episode 10",
-            "link": ""
+            "name": "Episode 06 1080p",
+            "link": "https://drive.google.com/file/d/17ZEbngeWGLK0D-st9pkAER6_ULr0vCmj/view?usp=sharing"
           }
+         
         ]
       },
       {
@@ -2464,32 +2581,20 @@
             "link": "https://drive.google.com/file/d/1yOTmKy_iamNhluCV7ertDduDF7k0rFVP/view?usp=sharing"
           },
           {
-            "name": "Episode 05 Next Wednesday",
-            "link": ""
+            "name": "Episode 05 720p",
+            "link": "https://drive.google.com/file/d/1FpelJTHaAz-Dve5lX8atA4UvK7z3bd2y/view?usp=sharing"
           },
           {
-            "name": "Episode 05 Next Wednesday",
-            "link": ""
-          },      
-          {
-            "name": "Episode 06",
-            "link": ""
+            "name": "Episode 05 1080p",
+            "link": "https://drive.google.com/file/d/1EPorQpDVAcC-VJcSkaUYJgVFqEGXszxo/view?usp=sharing"
           },
           {
-            "name":"Episode 07",
-            "link": ""
+            "name": "Episode 06 720p",
+            "link": "https://drive.google.com/file/d/17bg3iUsl-PtDDdyXD1vg6pypDBWtkjTP/view?usp=sharing"
           },
           {
-            "name":"Episode 08",
-            "link": ""
-          },
-          {
-            "name":"Episode 09",
-            "link": ""
-          },
-          {
-            "name":"Episode 10",
-            "link": ""
+            "name": "Episode 06 1080p",
+            "link": "https://drive.google.com/file/d/1ioVAk0DYLnRnEcU9wTU8DYtA8N74NUZM/view?usp=sharing"
           }
         ]
       }
@@ -7161,7 +7266,12 @@
     "posterUrl": "https://i.ibb.co/SfFNLrK/MV5-BMj-Mx-ODI2-NDM5-Nl5-BMl5-Ban-Bn-Xk-Ft-ZTgw-Njgz-OTk1-MTI-V1.jpg",
     "movieUrl": "https://drive.google.com/file/d/13-3kushKGX671aq2cUCYz0MIT3nNoml0/view?usp=sharing"
   },
-
+  {
+    "name":"Vikram 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/vcsg4nm/MV5-BMm-Jh-YTYx-MGEt-Nj-Q5-NS00-MWZi-LWEw-N2-It-Yj-Jm-MWE2-YTU1-YWYx-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEz-Nzg0.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1qzVO3T_QKnlQ30xG16mDL5I2UtVuxBEe/view?usp=sharing"
+  },
   {
     "name": "Follower",
     "type": "movie",

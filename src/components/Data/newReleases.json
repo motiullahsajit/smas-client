@@ -1,5 +1,133 @@
 [ 
-  
+  {
+    "name": "After Life",
+    "type": "british",
+    "overview": "2019 | 18+ | 3 Seasons | TV Dramas | English ",
+    "bio":"Struggling to come to terms with his wife's death, a writer for a newspaper adopts a gruff new persona in an effort to push away those trying to help.",
+    "posterUrl": "https://i.ibb.co/1rGsHjx/MV5-BZj-Q3-MDI5-ZWYt-Nm-Iz-MC00-OTY0-LTk4-MGYt-MWVi-Yzk5-MWRh-NTcy-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEy-Mj-M2.jpg",
+    "coverUrl": "https://i.ibb.co/1qq68Gr/after-life-serie-saison-3-banniere.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1oXK4EKOF1FqKvYzZyzKFuUJHlgmB4tEM/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1vtr8mA-MP2ZWJ-JJe17ejwUD4pRbIxCy/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1XZ2pkhwetkn1zSIkIqXlDwJQKasYnJmE/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1bXcXE8GBiDDprLk86zSc4V4fawsEV2m8/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1EgvlgBY2hv6btR784EtrAfpjzUllOEQ3/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1W6EehSXXSpiDNavldShv7K2nrg4-b31E/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 2",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1EI-9Y8y9GxWnZhb7iwWoiT2Y5GiH8jqh/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1zps3zMW6rr41gMfvDrYu3-ErGfAWnW0D/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1tfdQiAU1tKRl_Pp_3oxuGN6zF85kUH3s/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1-f7M2hg-seLSuz5wSHVBc6f5KzyPgka5/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1NScDQSFhU6kUF6vKwKaapS1JPQbETHNC/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/12wi0ihDkyM_8PRqeSZT1b0FqWbAKS7Gw/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 3",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1HmiLMc78FjyVzuiV0eOVrWUOoygIl329/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1sw06oL0E9VEa_X38e4PeK38YAhy2ce_b/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1sw06oL0E9VEa_X38e4PeK38YAhy2ce_b/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1d7NtDhdf08JrSrJKHMk2ZXcWlmu_PCoo/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1-eA4aDS1JnHt5Vva3jwVxJtKj1a0OAhZ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1vKbiEGhyOaRwKVOoYZwq2G_A_UcOVmN_/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "How To Change Your Mind",
+    "type": "american",
+    "overview": "2022 | 18+ | 1 Season | Science & Nature Docs | Dual Audio",
+    "bio":"Author Michael Pollan leads the way in this docuseries exploring the history and uses of psychedelics, including LSD, psilocybin, MDMA and mescaline.",
+    "posterUrl": "https://i.ibb.co/P4Q7shN/How-To-Change-Your-Mind-Netflix.jpg",
+    "coverUrl": "https://i.ibb.co/B38F6X7/Netflix-Pollan.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/142tN3vxa-mHcqoVypHF_jiFK9G5ra2CN/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1zSo0PTTge1X0_VFQ5yWDTvBgOzKMA-j7/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1xHS5OxM93BrL2i75Ir2you1iit5b50av/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1AXsccV53vjICUyIdpHKKhLKP2L1RzOma/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+ 
 {
   "name":"Ranveer vs. Wild with Bear Grylls",
   "type":"movie",
