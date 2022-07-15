@@ -1,5 +1,48 @@
 [ 
   {
+    "name": "Syndicate",
+    "type": "bengali",
+    "overview": "2022 | 16+ | 1 Season | Crime Thriller",
+    "bio":"An young employee at a well known bank passes away jumping from the building rooftop",
+    "posterUrl":"https://i.ibb.co/Zcv7W5z/1258f7f6e5ab8561a1240e2102748b8a-2-1.jpg",
+    "coverUrl": "https://i.ibb.co/ZJyNxg7/Screenshot-1.png",
+    "seasons": [
+      {
+        "name": "Season 1 720p",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1tIJd3zpKHTvjlgupiD5jDcBSbNwvF50-/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1Z6Y1nMjmccGHEWdGTiTXdrd7TcQsZ9wA/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1WV7NrvnsznDXDuTNvYRkC5p3Lign_ZEu/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1trp0HoglvomuG-pXf2M18V-FJ1COQAwq/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1-4QRnIVkij56RTCV6ozj_VtJiWfEqjkg/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/14zgBIOsjEWvTqtAbC984NUYzkgKMy5v-/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1XOtRtpOECBp-ejaggvjXwLScqQVDPncX/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "After Life",
     "type": "british",
     "overview": "2019 | 18+ | 3 Seasons | TV Dramas | English ",
