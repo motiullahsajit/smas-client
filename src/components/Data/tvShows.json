@@ -141,6 +141,57 @@
     ]
   },
   {
+    "name": "Kaiser",
+    "type": "bengali",
+    "overview": "2022 | 16+ | 1 Season | Thriller",
+    "bio":"Kaiser is tasked with investigating the mysterious murders of two young women. The crisis in his personal life and the mystery of the murders continue to unfold parallelly.",
+    "posterUrl": "https://i.ibb.co/2k4Yc0G/Kaiser-Bengali-Web-Series-on-Hoichoi-Wiki-1.jpg",
+    "coverUrl": "https://i.ibb.co/chv7QJx/Screenshot-14.png",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1VVaV05AMoX9kGd7wsSd0GbK7n_E9lU18/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1BPWX1yDLg9oqcMCJ-pn2-wwr9TtcPv9I/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1apFzN-EM29RMAZwDfTcyCXGRwRMZ4Vp_/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1zx_OD5AFagsetTuMikjdJRriEKmCK6LK/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1c3wqj17JK7ma0Y7ADKlzYHW9CspUBS7r/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1_VUJjwQfaoEfKaXbUoStVfLmBh6OQNUR/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1gmvMeZ6Ni3b2e6UMNvRJRmNp9u7PIsRc/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/1MYXLUxc3VDn7Kn1vzIBooDev7PmZmiLm/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/1geKipCH1DS94o4UKtTSQ6VuEUgtZwcv8/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Chosen",
     "type": "danish",
     "overview": "2022 | 18+ | 1 Season | TV Thrillers | English",
@@ -24436,60 +24487,7 @@
       }
     ]
   },
-    {
-    "name": "",
-    "type": "",
-    "overview": "",
-    "posterUrl": "",
-    "coverUrl": "",
-    "seasons": [
-      {
-        "name": "Season 1",
-        "episodes": [
-          {
-            "name": "Episode 01",
-            "link": ""
-          },
-          {
-            "name": "Episode 02",
-            "link": ""
-          },
-          {
-            "name": "Episode 03",
-            "link": ""
-          },
-          {
-            "name": "Episode 04",
-            "link": ""
-          },
-          {
-            "name": "Episode 05",
-            "link": ""
-          },
-          {
-            "name": "Episode 06",
-            "link": ""
-          },
-          {
-            "name":"Episode 07",
-            "link": ""
-          },
-          {
-            "name":"Episode 08",
-            "link": ""
-          },
-          {
-            "name":"Episode 09",
-            "link": ""
-          },
-          {
-            "name":"Episode 10",
-            "link": ""
-          }
-        ]
-      }
-    ]
-  },
+ 
     {
     "name": "",
     "type": "",
