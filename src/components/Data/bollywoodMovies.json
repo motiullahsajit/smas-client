@@ -1,5 +1,19 @@
 [
   {
+    "name":"Jaadugar 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/WvmGmPk/Jaadugar-poster-1655307746.webp",
+    "movieUrl":"https://drive.google.com/file/d/10Qg12QXof0pY6UFMuqSggPUGXAq15RBV/view?usp=sharing"
+  },
+
+  {
+    "name":"Dilwale Dulhania Le Jayenge 1995",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/Lt88Jg8/Dilwale-Dulhania-Le-Jayenge-poster.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1Zki6zCtwsTXkIPgmjea9-6iX0kRT9Bv6/view?usp=sharing"
+  },
+
+  {
     "name":"Vikram 2022",
     "type":"movie",
     "posterUrl":"https://i.ibb.co/vcsg4nm/MV5-BMm-Jh-YTYx-MGEt-Nj-Q5-NS00-MWZi-LWEw-N2-It-Yj-Jm-MWE2-YTU1-YWYx-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEz-Nzg0.jpg",
@@ -9660,12 +9674,6 @@
     "movieUrl":""
   },
 
-{
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
 
 {
     "name":"",
@@ -9966,12 +9974,6 @@
   },
 
 
-  {
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
 
 
 

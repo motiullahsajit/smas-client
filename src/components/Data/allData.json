@@ -1,5 +1,66 @@
 [
   {
+    "name":"Jaadugar 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/WvmGmPk/Jaadugar-poster-1655307746.webp",
+    "movieUrl":"https://drive.google.com/file/d/10Qg12QXof0pY6UFMuqSggPUGXAq15RBV/view?usp=sharing"
+  },
+
+  {
+    "name":"Dilwale Dulhania Le Jayenge 1995",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/Lt88Jg8/Dilwale-Dulhania-Le-Jayenge-poster.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1Zki6zCtwsTXkIPgmjea9-6iX0kRT9Bv6/view?usp=sharing"
+  },
+
+  {
+    "name": "Remarriage & Desires",
+    "type": "korean",
+    "overview": "2022 | 16+ | 1 Season | TV Dramas | Hindi ",
+    "bio":"Through an exclusive matchmaking agency that caters to the ultrarich, a woman plots revenge against her ex-husband’s scheming mistress.",
+    "posterUrl": "https://i.ibb.co/cQfSrJb/netflix-has-released-a-poster-for-their-upcoming-series-remarriage-desires.jpg",
+    "coverUrl": "https://i.ibb.co/GQMmQMh/Remarriage-Desires-season-1-episode-5-recap.jpg",
+    "seasons": [
+      {
+        "name": "Season 1 Multi Audio",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1AqPl-Y0Q1IOp9jD-vhPfM37M3vEXX_e0/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1oSyYuYHLAgbMj1P0YpswSodMw2t0lhoL/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1oH_t6VcnETQlpNlTSY7WHeAJYZqjL5LU/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1nDxNirQ66MRquEagSGjLjQdheZlB6QoK/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1IdLArTbS9yCxY0rKiSZItZoViT-z1oKo/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1ONOaGBgVAQI927k1jxdHowh-UaKtYINa/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1i0-LyMLpWqBJbzQ74nKgrEv9pLXZ_l8Z/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/1o1IZavXhrvpnnXgC-gc-8XLjsCzhDTwi/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Kaiser",
     "type": "bengali",
     "overview": "2022 | 16+ | 1 Season | Thriller",
