@@ -5,7 +5,33 @@
     "posterUrl":"https://i.ibb.co/WvmGmPk/Jaadugar-poster-1655307746.webp",
     "movieUrl":"https://drive.google.com/file/d/10Qg12QXof0pY6UFMuqSggPUGXAq15RBV/view?usp=sharing"
   },
-
+  {
+    "name":"The Witch Part 2 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/J5NVnn9/MV5-BNWNi-ZDc3-NWUt-Nm-Q5-ZS00-MTI0-LWFj-NGQt-ZGUw-ZDlm-Zm-U0-N2-Qy-Xk-Ey-Xk-Fqc-Gde-QXVy-NTIx-NTMx.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1ohmXXe3C-TeU4YtjqwIr5nd8QiU1tHdj/view?usp=sharing"
+  },
+  {
+    "name":"The Witch Part 1 2018",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/fHy3Gtf/d-uink7u4aanmn.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1CpNnsucfp1P83XcPg97lHcb5GUkgN8iS/view?usp=sharing"
+  },
+  
+  {
+    "name":"Hit 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/n8ChjWr/MV5-BMm-Y0-Mzc1-NGMt-OTk2-OS00-NDcz-LWIx-Mj-Ut-ZDk3-Mj-Nl-Nzdi-YWM1-Xk-Ey-Xk-Fqc-Gde-QXVy-MTE0-MTY2.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1N-yq_eEflFZq07d7Dl9RuRcVnxW_oEO5/view?usp=sharing"
+  },
+  
+  {
+    "name":"Zombies 3",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/PN86fbn/MV5-BZDg4-Mj-Vh-ZDQt-M2-Ri-NC00-Nz-Zk-LWI4-MWMt-Mjkx-Nj-My-ZGM3-Zm-Rm-Xk-Ey-Xk-Fqc-Gde-QXVy-MTkx-Nj.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1D2rf2MXXZPRoVwDK-nP1Km8P5eSzrp-F/view?usp=sharing"
+  },
+  
   {
     "name":"Dilwale Dulhania Le Jayenge 1995",
     "type":"movie",
