@@ -1,5 +1,129 @@
 [
   {
+    "name":"Lightyear 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/yyZ39ZP/MV5-BYjhm-Njcz-ZTAt-NGVh-Ny00-ODli-LTll-YTct-OTA5-MDc5-NWNl-OWEw-Xk-Ey-Xk-Fqc-Gde-QXVy-NDI3-Nj-U1-Nz.jpg",
+    "movieUrl":"https://drive.google.com/file/d/13LV1fqigSDYOTLNKjQFpdFY0VozhuxbH/view?usp=sharing"
+  },
+  
+  {
+    "name":"Persuasion 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/p3d0kNL/MV5-BZDg3-Mzdi-Yj-At-ZWQ0-MC00-MDY4-LWE5-ZWEt-Njli-NTE3-ZDZj-NTU3-Xk-Ey-Xk-Fqc-Gde-QXVy-MTAy-Mj-Q3-N.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1q9-kOxprPB9DXSZSLlyAzkki5wg40l2_/view?usp=sharing"
+  },
+  
+  {
+    "name":"The Ambush 2021",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/0MZz1xd/ghfxed.jpg",
+    "movieUrl":"https://drive.google.com/file/d/16HZY2CAoQhZ5sc-69MjdHUjepdblmTyT/view?usp=sharing"
+  },
+  {
+    "name":"Demonic 2021",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/WP8PtHy/MV5-BNTlj-Mm-Ey-ZDUt-YTc4-ZC00-Ym-E5-LWEw-ZWUt-MGI5-Yj-Yx-YWYy-Zj-Nk-Xk-Ey-Xk-Fqc-Gde-QXVy-MTkx-Nj-U.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1HZScXhYXyKE1ITvJ2pqpJNub75HmPOVh/view?usp=sharing"
+  },
+  
+  {
+    "name": "Crimes Scene The Times Square Killer",
+    "type": "american",
+    "overview": "2021 | 18+ | 1 Season | US TV Shows | English",
+    "bio":"In 1970s NYC, the “Torso Killer” preys on women to fulfill his grotesque fantasies while eluding police. A docuseries dive into crime’s darkest places.",
+    "posterUrl": "https://i.ibb.co/6YnS5mg/MV5-BYj-A0-N2-Yz-NGYt-NDk1-Yy00-MDFi-LTlm-MTAt-Y2-Jl-MDNh-Yzg2-OGE4-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Ew-NTM2.jpg",
+    "coverUrl": "https://i.ibb.co/k5xBsDw/AAAAQc-Hi0-Lj-FUs-BEJu-LW1-PTgsx-X0te-KY4-VG85-HHsa0-GD7p-Ts-PV-O1-Ggz-em3m-S2-ITVZk-JWU5o-R-l3rfz-H.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1GOwa7P8bYVU4WgBkxQVxtgBEoYVR96NV/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1m-eaC9Edlww2Wb2UXTN_629xQjYPOAkw/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/18XH_bvh8hA1Apbc5U_nfke9s0-x08B0G/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  
+  {
+    "name": "Alba",
+    "type": "spanish",
+    "overview": "2021 | 18+ | 1 Season | TV Dramas | English",
+    "bio":"Alba awakens on a beach, bearing evidence of a rape but with no memory of the night before. Then she learns her rapists are her boyfriend's buddies.",
+    "posterUrl": "https://i.ibb.co/PF1HF7p/alba-339404020-large.jpg",
+    "coverUrl": "https://i.ibb.co/7pvGSNK/MV5-BNDU2-N2-Nh-Mjgt-MDg0-Ni00-NTk0-LTlm-OTQt-ODlj-NTJj-Nm-E2-ZGEy-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-Qw-Mzgz.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1gUV38YcfVeNfFO-jNLVTINl0-_HcqXxR/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1fYE5qtrh-Xg9Rs8yrsL_a2USZGLHZxUU/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1aaDtjzbbzgIb51tYWorqG9rWIulWDJt6/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1DqTPihiYi0o2Db-je1aGFIhNGDz-jKCM/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1F0ktyexI0Br6ReePbOJvC4d2lKPID7bb/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1fW7vyMqNV_oxIgFjKFSadk0IPQuvibwH/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1Qqm74BMGngTRHEm-6W2QZrP2bDKx4ZHq/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/1HiGUiSS3wgZOs0U3mAhnarYRdgK7LfEq/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/1liQLkaiSq3EHAulJihAE3TjvkA5RyHZZ/view?usp=sharing"
+          },
+          {
+            "name":"Episode 10",
+            "link": "https://drive.google.com/file/d/1lQlcB40xD4_oDs2SUEaQpmNXtduqd6W1/view?usp=sharing"
+          },
+          {
+            "name": "Episode 11",
+            "link": "https://drive.google.com/file/d/1U8rNhEBaZ8U_GXytRTMPWp4HBln_qey_/view?usp=sharing"
+          },
+          {
+            "name": "Episode 12",
+            "link": "https://drive.google.com/file/d/1-P5yXlaxlFkDMeaMKn71o-HB1ADyw7Ic/view?usp=sharing"
+          },
+          {
+            "name": "Episode 13",
+            "link": "https://drive.google.com/file/d/1hnj7Kro6CXrFYVHqq3SnK3Zq5Y7lZVqC/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+
+ 
+  {
     "name":"Jaadugar 2022",
     "type":"movie",
     "posterUrl":"https://i.ibb.co/WvmGmPk/Jaadugar-poster-1655307746.webp",
