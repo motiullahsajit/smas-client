@@ -1,5 +1,121 @@
 [
   {
+    "name":"Zombivli 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/ZWWJ09m/g6c-Ovm-Jv-Og5c-Zr6-Ygk-MTxgw14ve.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1sGTLuoDcxJJo3cA4m3P7f7Ixqzvx1Cjr/view?usp=sharing"
+  },
+
+  {
+    "name": "The Night Of",
+    "type": "american",
+    "overview": "2016 | 18+ | 1 Season | Crime | English",
+    "bio":"After a night of partying with a woman he picked up, a man wakes up to find her stabbed to death and is charged with her murder.",
+    "posterUrl": "https://i.ibb.co/pJGZmLP/MV5-BMj-Qy-OTgx-MDI0-Nl5-BMl5-Ban-Bn-Xk-Ft-ZTgw-OTE4-Mzcz-OTE-V1-FMjpg-UX1000.jpg",
+    "coverUrl": "https://i.ibb.co/JzHkMKQ/44ca64e9060e780778925efaa6d04075cf3754e9d9ff93b5fc4937eccc4ffa13-UY500-UX667-RI-V-TTW.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/15DFjbTmEPnCigiKf8nh8sWEY1g4YH6eQ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1bilnw2aNCcdTkfA_7EG-gnbpGAMa3crX/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1LRVz9ZVpP2hkuHj5AhkRTEv2n8gvIGzV/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1ZX9WfAXcwR6jw9gqQwPo_wQ4ig5R7tFQ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1s6hj4DnsoBke6juQho9fbydT_djg4fMe/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1UUC696J_pxqK5fgR2_ZZDRhtg9dIpOdu/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1Fsqxsyk7HiZQB0v3rAbYlogqLzTsRktM/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/1OFx294NpQL_j6_BOuTT9QMwe59VFButR/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  
+  {
+    "name":"She Will 2021",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/wLsJ0zz/MV5-BZm-I5-Zj-Iy-Yj-Yt-OGM4-Mi00-Y2-Nj-LTgx-YTgt-Mzcy-OGM5-MDc3-OWRk-Xk-Ey-Xk-Fqc-Gde-QXVy-MTE1-Mz-I.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1494cWNgfuqAI7qjkSI8Cjk_qkm4gV9VT/view?usp=sharing"
+  },
+  {
+    "name": "Koffe With Karan",
+    "type": "indian",
+    "overview": "2022 | 15+ | 7 Seasons | TV Shows | Hindi",
+    "bio":"Interviewed With Indian Celebrity With Karan Johar",
+    "posterUrl": "https://i.ibb.co/GJpVrRP/cs-ERo3w-FTm-Xwmt-TMy-Hmfs14v-CO9.jpg",
+    "coverUrl": "https://i.ibb.co/WFTwpWc/koffeewithkaran7-1655277391.jpg",
+    "seasons": [
+      {
+        "name": "Season 7",
+        "episodes": [
+          {
+            "name": "Episode 01 Alia Bhatt & Ranveer Kapoor",
+            "link": "https://drive.google.com/file/d/1R62llhnTFnyQ2dGebKWXAt8Nx24UdQq2/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02 Jhanvi & Sara",
+            "link": "https://drive.google.com/file/d/18aHiCmDoyKukhBFMs0gm4vIbnssqef-w/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03 Coming Soon",
+            "link": ""
+          },
+          {
+            "name": "Episode 04",
+            "link": ""
+          },
+          {
+            "name": "Episode 05",
+            "link": ""
+          },
+          {
+            "name": "Episode 06",
+            "link": ""
+          },
+          {
+            "name":"Episode 07",
+            "link": ""
+          },
+          {
+            "name":"Episode 08",
+            "link": ""
+          },
+          {
+            "name":"Episode 09",
+            "link": ""
+          },
+          {
+            "name":"Episode 10",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name":"Lightyear 2022",
     "type":"movie",
     "posterUrl":"https://i.ibb.co/yyZ39ZP/MV5-BYjhm-Njcz-ZTAt-NGVh-Ny00-ODli-LTll-YTct-OTA5-MDc5-NWNl-OWEw-Xk-Ey-Xk-Fqc-Gde-QXVy-NDI3-Nj-U1-Nz.jpg",

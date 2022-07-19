@@ -1106,6 +1106,61 @@
     ]
   },
   {
+    "name": "Koffe With Karan",
+    "type": "indian",
+    "overview": "2022 | 15+ | 7 Seasons | TV Shows | Hindi",
+    "bio":"Interviewed With Indian Celebrity With Karan Johar",
+    "posterUrl": "https://i.ibb.co/GJpVrRP/cs-ERo3w-FTm-Xwmt-TMy-Hmfs14v-CO9.jpg",
+    "coverUrl": "https://i.ibb.co/WFTwpWc/koffeewithkaran7-1655277391.jpg",
+    "seasons": [
+      {
+        "name": "Season 7",
+        "episodes": [
+          {
+            "name": "Episode 01 Alia Bhatt & Ranveer Kapoor",
+            "link": "https://drive.google.com/file/d/1R62llhnTFnyQ2dGebKWXAt8Nx24UdQq2/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02 Jhanvi & Sara",
+            "link": "https://drive.google.com/file/d/18aHiCmDoyKukhBFMs0gm4vIbnssqef-w/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03 Coming Soon",
+            "link": ""
+          },
+          {
+            "name": "Episode 04",
+            "link": ""
+          },
+          {
+            "name": "Episode 05",
+            "link": ""
+          },
+          {
+            "name": "Episode 06",
+            "link": ""
+          },
+          {
+            "name":"Episode 07",
+            "link": ""
+          },
+          {
+            "name":"Episode 08",
+            "link": ""
+          },
+          {
+            "name":"Episode 09",
+            "link": ""
+          },
+          {
+            "name":"Episode 10",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "KGF Chapter 2",
     "type": "movie",
     "posterUrl": "https://i.ibb.co/0DPBj5Z/MV5-BMj-Mw-MDgy-OGQt-MWZj-NC00-MDUw-LTll-ZDYt-ZWM3-NDBm-N2-Yz-NGZm-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQz-Njkz-M.jpg",
