@@ -9414,7 +9414,73 @@
       }
     ]
   },
-
+  {
+    "name": "Blade Runner Black Lotus",
+    "type": "japanese",
+    "overview": "2021 | 14+ | 1 Season | Action | English",
+    "bio":"Animated series that takes place 17 years before 'Blade Runner 2049'.",
+    "posterUrl": "https://i.ibb.co/nRQ7nXK/MV5-BYj-Vl-OThl-OWIt-NTNj-OC00-OTAy-LWEy-OTct-OGE1-NTgy-YTJi-Mjlj-Xk-Ey-Xk-Fqc-Gde-QXVy-MTkx-Nj-Uy-N.jpg",
+    "coverUrl": "https://i.ibb.co/9h9bjy3/thumb-1920-1195733.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/14MKK9EZqwdu-vqS3BcMpaip95cfQM3MF/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1_y7OwJKijHJeQw6Sz_gNkualSGQmgVyv/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1MFWW0AiLZZwqv1aWSdhgqwLq_agjIuS-/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/14yVRUk23_eBOgP5bonOE9elML2Gcr1oO/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1dBfJQmjk5QE7nfC5H8o27YosMLqMvP-y/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/10g7UwFpleQvqkQNEXTp8VooP7BOqoqCn/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1gH1Ou_r-5mRVXgG8Eokc9slJol-WMe7g/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/16O61uWgEzYzzBjrAFjLQHNS6KZbo6WZo/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/1Ly6fZ4gd6MWFRHw1JIRjkkoGwepc6nUN/view?usp=sharing"
+          },
+          {
+            "name":"Episode 10",
+            "link": "https://drive.google.com/file/d/1MxUt8bCD-BF8XYZyVx64AHR2T1Ft0CpJ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 11",
+            "link": "https://drive.google.com/file/d/1bhiXrYtI8ZU9OOiu1UOC9BwxP0RdoBW0/view?usp=sharing"
+          },
+          {
+            "name": "Episode 12",
+            "link": "https://drive.google.com/file/d/1c30RtYZXzXwwfM2Z4nTYuSApl63H6RuL/view?usp=sharing"
+          },
+          {
+            "name": "Episode 13",
+            "link": "https://drive.google.com/file/d/1TQh_RcudT5B6ELZRQ6uO6wBpWG5Qw1wj/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
   {
     "name": "Lost In Space",
     "type": "american",
@@ -24898,60 +24964,7 @@
       }
     ]
   },
-    {
-    "name": "",
-    "type": "",
-    "overview": "",
-    "posterUrl": "",
-    "coverUrl": "",
-    "seasons": [
-      {
-        "name": "Season 1",
-        "episodes": [
-          {
-            "name": "Episode 01",
-            "link": ""
-          },
-          {
-            "name": "Episode 02",
-            "link": ""
-          },
-          {
-            "name": "Episode 03",
-            "link": ""
-          },
-          {
-            "name": "Episode 04",
-            "link": ""
-          },
-          {
-            "name": "Episode 05",
-            "link": ""
-          },
-          {
-            "name": "Episode 06",
-            "link": ""
-          },
-          {
-            "name":"Episode 07",
-            "link": ""
-          },
-          {
-            "name":"Episode 08",
-            "link": ""
-          },
-          {
-            "name":"Episode 09",
-            "link": ""
-          },
-          {
-            "name":"Episode 10",
-            "link": ""
-          }
-        ]
-      }
-    ]
-  },
+ 
     {
     "name": "",
     "type": "",

@@ -1,5 +1,93 @@
 [
   {
+    "name":"The Black Phone 2021",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/DbYnBPw/MV5-BOWVm-NTBi-YTUt-ZWQ3-Yi00-ZDlh-LTgy-Yj-Ut-Nz-Bh-Zj-M3-Yj-Ri-NGRk-Xk-Ey-Xk-Fqc-Gde-QXVy-Nz-Yy-OTM.jpg",
+    "movieUrl":"https://drive.google.com/file/d/13PZSO-URwbsOfN5UVbsXUL4oxSuWWLCW/view?usp=sharing"
+  },
+  
+{
+  "name":"How I Became A Superhero 2021",
+  "type":"movie",
+  "posterUrl":"https://i.ibb.co/sRBthCq/p18106590-p-v8-aa.jpg",
+  "movieUrl":"https://drive.google.com/file/d/1fOWz-_hLB-XzWiRynN3x4dyaAxm_bZka/view?usp=sharing"
+},
+
+{
+  "name":"Hero 2015",
+  "type":"movie",
+  "posterUrl":"https://i.ibb.co/w0Hw4Z5/MV5-BOWU3-ZGI3-Nm-Mt-MTQ1-ZC00-MGZh-LWI4-Y2-Mt-YTI0-Mj-Ez-ODFh-Ym-Ey-Xk-Ey-Xk-Fqc-Gde-QXVy-Njkw-OTg4.jpg",
+  "movieUrl":"https://drive.google.com/file/d/1NwpmcmLBYkmLBCsIS-Snpz-OYc7uFWos/view?usp=sharing"
+},
+
+  {
+    "name": "Blade Runner Black Lotus",
+    "type": "japanese",
+    "overview": "2021 | 14+ | 1 Season | Action | English",
+    "bio":"Animated series that takes place 17 years before 'Blade Runner 2049'.",
+    "posterUrl": "https://i.ibb.co/nRQ7nXK/MV5-BYj-Vl-OThl-OWIt-NTNj-OC00-OTAy-LWEy-OTct-OGE1-NTgy-YTJi-Mjlj-Xk-Ey-Xk-Fqc-Gde-QXVy-MTkx-Nj-Uy-N.jpg",
+    "coverUrl": "https://i.ibb.co/9h9bjy3/thumb-1920-1195733.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/14MKK9EZqwdu-vqS3BcMpaip95cfQM3MF/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1_y7OwJKijHJeQw6Sz_gNkualSGQmgVyv/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1MFWW0AiLZZwqv1aWSdhgqwLq_agjIuS-/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/14yVRUk23_eBOgP5bonOE9elML2Gcr1oO/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1dBfJQmjk5QE7nfC5H8o27YosMLqMvP-y/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/10g7UwFpleQvqkQNEXTp8VooP7BOqoqCn/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1gH1Ou_r-5mRVXgG8Eokc9slJol-WMe7g/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/16O61uWgEzYzzBjrAFjLQHNS6KZbo6WZo/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/1Ly6fZ4gd6MWFRHw1JIRjkkoGwepc6nUN/view?usp=sharing"
+          },
+          {
+            "name":"Episode 10",
+            "link": "https://drive.google.com/file/d/1MxUt8bCD-BF8XYZyVx64AHR2T1Ft0CpJ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 11",
+            "link": "https://drive.google.com/file/d/1bhiXrYtI8ZU9OOiu1UOC9BwxP0RdoBW0/view?usp=sharing"
+          },
+          {
+            "name": "Episode 12",
+            "link": "https://drive.google.com/file/d/1c30RtYZXzXwwfM2Z4nTYuSApl63H6RuL/view?usp=sharing"
+          },
+          {
+            "name": "Episode 13",
+            "link": "https://drive.google.com/file/d/1TQh_RcudT5B6ELZRQ6uO6wBpWG5Qw1wj/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name":"Zombivli 2022",
     "type":"movie",
     "posterUrl":"https://i.ibb.co/ZWWJ09m/g6c-Ovm-Jv-Og5c-Zr6-Ygk-MTxgw14ve.jpg",
