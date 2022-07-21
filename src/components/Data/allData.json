@@ -1,5 +1,40 @@
 [
   {
+    "name": "Chernobyl",
+    "type": "ukraine",
+    "overview": "2019 | 18+ | 1 Season | Thriller | English",
+    "bio":"In April 1986, an explosion at the Chernobyl nuclear power plant in the Union of Soviet Socialist Republics becomes one of the world's worst man-made catastrophes.",
+    "posterUrl": "https://i.ibb.co/0BFrwrk/MV5-BZGQ2-Ym-Mx-Zm-Et-Yj-I5-OS00-Nzlk-LTlk-NTEt-YWMy-Mzky-Mzc2-MDU5-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-Q2-MDI5.jpg",
+    "coverUrl": "https://i.ibb.co/Xb1x4YB/gas-masks-chernobyl-wallpaper-preview.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1D6XL-BicbPLpExquuPkCL4YhXHlVutYs/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1BcQaje9DAfRi5-RY1nQfG9zS1CrlRKLL/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/11yOOprcxFVQbgI_VXwSrz76KSUn1O-kN/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/18EmkN0e6TEbw07fgzP_lQjZz3HXAb2v_/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1BwP9x6NoWT_shxbcHCS4Hn3Oe_StRFsh/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name":"The Black Phone 2021",
     "type":"movie",
     "posterUrl":"https://i.ibb.co/DbYnBPw/MV5-BOWVm-NTBi-YTUt-ZWQ3-Yi00-ZDlh-LTgy-Yj-Ut-Nz-Bh-Zj-M3-Yj-Ri-NGRk-Xk-Ey-Xk-Fqc-Gde-QXVy-Nz-Yy-OTM.jpg",
