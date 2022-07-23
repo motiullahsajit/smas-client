@@ -81,7 +81,45 @@
       }
     ]
   },
-  
+  {
+    "name": "Ghar Waapsi",
+    "type": "indian",
+    "overview": "2022 | 16+ | 1 Season | Drama | Hindi",
+    "bio":"The life of Shekhar, who is out of work, changes forever as he moves back to his hometown and finds a road to self-discovery.",
+    "posterUrl": "https://i.ibb.co/WxWQQGb/Ghar-Waapsi-Season-1-Hindi-Hotstar-WEB-Series.jpg",
+    "coverUrl": "https://i.ibb.co/gjg5LLR/Screenshot-2.png",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1BW5Am0lkB4j_IDL4gReXpHf4GzvmXq8b/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1pLgOWsNmv07ITxaEhNiBTz5QLGu9fl06/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1FMV6IWTHvuhKnUoJVTCWhXMB2zA4htye/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/17rRhW1DJJOpUT8SoNj0Cx8gCVhf3laUW/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1D5hlEalyqBbFaE8cjbo6GiVKCum2KSes/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1EVAxruePUQEGUvXedOuabViDr1zNT540/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
   {
     "name": "Crimes Scene The Times Square Killer",
     "type": "american",
@@ -1634,7 +1672,33 @@
       }
     ]
   },
-  
+  {
+    "name": "Ishq Express",
+    "type": "indian",
+    "overview": "2022 | 17+ | 1 Season | Romance | Hindi",
+    "bio":"The love story of Aarav and Tanya who meet while boarding a train to their hometown. A cute love story with the duo entangled in mutual, yet unspoken feelings for each other without any pretence, judgement, or any inhibitions.",
+    "posterUrl": "https://i.ibb.co/nst8JJj/MV5-BNz-I4-Nj-Fk-ZTgt-ZTNj-Yi00-OTQ0-LWFk-ZDAt-ZDlj-ZWU1-YTQ3-Nz-A5-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-I1-Njg5.jpg",
+    "coverUrl": "https://i.ibb.co/vqsqQnk/204871.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1cka2c9r3TkzJvdEf5A4M8heT3JOl-ZJP/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/14kYOyaUehUzGCChmzkdzMYVQQcb9NkYO/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1SIlUCwKn5pL-eYvoCG8IHASDbB0dSPZp/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
   {
     "name": "Intimacy",
     "type": "spanish",
@@ -10788,7 +10852,7 @@
     "type": "american",
     "overview": "2016 | 16+ | 4 Seasons | US TV Shows",
     "bio":"When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces and one strange little girl.",
-    "posterUrl": "https://i.ibb.co/t2VSFXt/MV5-BN2-Zm-Yjg1-Ym-It-NWQ4-OC00-YWM0-LWE0-ZDkt-YThj-OTZi-Zjhh-N2-Q2-Xk-Ey-Xk-Fqc-Gde-QXVy-Njgx-NTQ3.jpg",
+    "posterUrl": "https://i.ibb.co/MB7MP5j/81-E9vi-JAsv-L.jpg",
     "coverUrl": "https://i.ibb.co/5xQCL0k/AAAAQa82-SXtu-Pja-Bo68-E43-Ii7t7-YL6u-XHCOsl-Wu-O5sb-gyhlw-Hj66-UKt4gzupam-C4f-Q-ns0-P6o-O9-ISQZ4usg.jpg",
     "seasons": [
       {
@@ -20399,60 +20463,7 @@
       }
     ]
   },
-  {
-    "name": "",
-    "type": "",
-    "overview": "",
-    "posterUrl": "",
-    "coverUrl": "",
-    "seasons": [
-      {
-        "name": "Season 1",
-        "episodes": [
-          {
-            "name": "Episode 01",
-            "link": ""
-          },
-          {
-            "name": "Episode 02",
-            "link": ""
-          },
-          {
-            "name": "Episode 03",
-            "link": ""
-          },
-          {
-            "name": "Episode 04",
-            "link": ""
-          },
-          {
-            "name": "Episode 05",
-            "link": ""
-          },
-          {
-            "name": "Episode 06",
-            "link": ""
-          },
-          {
-            "name":"Episode 07",
-            "link": ""
-          },
-          {
-            "name":"Episode 08",
-            "link": ""
-          },
-          {
-            "name":"Episode 09",
-            "link": ""
-          },
-          {
-            "name":"Episode 10",
-            "link": ""
-          }
-        ]
-      }
-    ]
-  },
+  
   {
     "name": "",
     "type": "",
@@ -20564,115 +20575,9 @@
 
 
 
-  {
-    "name": "",
-    "type": "",
-    "overview": "",
-    "posterUrl": "",
-    "coverUrl": "",
-    "seasons": [
-      {
-        "name": "Season 1",
-        "episodes": [
-          {
-            "name": "Episode 01",
-            "link": ""
-          },
-          {
-            "name": "Episode 02",
-            "link": ""
-          },
-          {
-            "name": "Episode 03",
-            "link": ""
-          },
-          {
-            "name": "Episode 04",
-            "link": ""
-          },
-          {
-            "name": "Episode 05",
-            "link": ""
-          },
-          {
-            "name": "Episode 06",
-            "link": ""
-          },
-          {
-            "name":"Episode 07",
-            "link": ""
-          },
-          {
-            "name":"Episode 08",
-            "link": ""
-          },
-          {
-            "name":"Episode 09",
-            "link": ""
-          },
-          {
-            "name":"Episode 10",
-            "link": ""
-          }
-        ]
-      }
-    ]
-  },
+  
  
-  {
-    "name": "",
-    "type": "",
-    "overview": "",
-    "posterUrl": "",
-    "coverUrl": "",
-    "seasons": [
-      {
-        "name": "Season 1",
-        "episodes": [
-          {
-            "name": "Episode 01",
-            "link": ""
-          },
-          {
-            "name": "Episode 02",
-            "link": ""
-          },
-          {
-            "name": "Episode 03",
-            "link": ""
-          },
-          {
-            "name": "Episode 04",
-            "link": ""
-          },
-          {
-            "name": "Episode 05",
-            "link": ""
-          },
-          {
-            "name": "Episode 06",
-            "link": ""
-          },
-          {
-            "name":"Episode 07",
-            "link": ""
-          },
-          {
-            "name":"Episode 08",
-            "link": ""
-          },
-          {
-            "name":"Episode 09",
-            "link": ""
-          },
-          {
-            "name":"Episode 10",
-            "link": ""
-          }
-        ]
-      }
-    ]
-  },
+  
   {
     "name": "",
     "type": "",

@@ -1,5 +1,103 @@
 [
   {
+    "name": "The Gray Man 2022",
+    "type": "american",
+    "overview": "2022 | 16+ | 2h 9m | Crime | Dual Audio",
+    "bio":"When a shadowy CIA agent uncovers damning agency secrets, he’s hunted across the globe by a sociopathic rogue operative who’s put a bounty on his head.",
+    "posterUrl": "https://i.ibb.co/TPTDynT/MV5-BOWY4-Mm-Fi-Y2-Qt-Mz-E1-YS00-NTg1-LWIw-OTQt-YTI4-ZGUz-NWIx-NTVm-Xk-Ey-Xk-Fqc-Gde-QXVy-ODk4-OTc3.jpg",
+    "coverUrl": "https://i.ibb.co/Fs8tkVp/AAAABdy-fa-Tw-QD7-YK6tir-Pkhmsovv6blu05-Ycj-Ew-FCYGa-To-Ixtus-ZGR-ed-OY-b-Hfy-YNy-Vo5w46t-WCW3-IV5-C.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p 766MB Dual Audio",
+            "link": "https://drive.google.com/file/d/18E7Vy1fhNhH0olxkqMTqdsVBWIjR63WJ/view?usp=sharing"
+          },
+          {
+            "name": "1080p 2.55GB Dual Audio",
+            "link": "https://drive.google.com/file/d/18E7Vy1fhNhH0olxkqMTqdsVBWIjR63WJ/view?usp=sharing"
+          },
+          {
+            "name": "720p English",
+            "link": "https://drive.google.com/file/d/1Qbt8Q-54xdE5gNPFSr4kKTCwFdpumrtw/view?usp=sharing"
+          },
+          {
+            "name": "1080p English",
+            "link": ""
+          }
+         
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ishq Express",
+    "type": "indian",
+    "overview": "2022 | 17+ | 1 Season | Romance | Hindi",
+    "bio":"The love story of Aarav and Tanya who meet while boarding a train to their hometown. A cute love story with the duo entangled in mutual, yet unspoken feelings for each other without any pretence, judgement, or any inhibitions.",
+    "posterUrl": "https://i.ibb.co/nst8JJj/MV5-BNz-I4-Nj-Fk-ZTgt-ZTNj-Yi00-OTQ0-LWFk-ZDAt-ZDlj-ZWU1-YTQ3-Nz-A5-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-I1-Njg5.jpg",
+    "coverUrl": "https://i.ibb.co/vqsqQnk/204871.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1cka2c9r3TkzJvdEf5A4M8heT3JOl-ZJP/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/14kYOyaUehUzGCChmzkdzMYVQQcb9NkYO/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1SIlUCwKn5pL-eYvoCG8IHASDbB0dSPZp/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ghar Waapsi",
+    "type": "indian",
+    "overview": "2022 | 16+ | 1 Season | Drama | Hindi",
+    "bio":"The life of Shekhar, who is out of work, changes forever as he moves back to his hometown and finds a road to self-discovery.",
+    "posterUrl": "https://i.ibb.co/WxWQQGb/Ghar-Waapsi-Season-1-Hindi-Hotstar-WEB-Series.jpg",
+    "coverUrl": "https://i.ibb.co/gjg5LLR/Screenshot-2.png",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1BW5Am0lkB4j_IDL4gReXpHf4GzvmXq8b/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1pLgOWsNmv07ITxaEhNiBTz5QLGu9fl06/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1FMV6IWTHvuhKnUoJVTCWhXMB2zA4htye/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/17rRhW1DJJOpUT8SoNj0Cx8gCVhf3laUW/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1D5hlEalyqBbFaE8cjbo6GiVKCum2KSes/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1EVAxruePUQEGUvXedOuabViDr1zNT540/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Chernobyl",
     "type": "ukraine",
     "overview": "2019 | 18+ | 1 Season | Thriller | English",
@@ -4118,11 +4216,11 @@
         "episodes": [
           {
             "name": "720p Hindi",
-            "link": "https://drive.google.com/file/d/1sQ0lrxpPU_Nm1UwiTGmg5lmnK69pOzon/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1LdyfZhVAlTqoHguTFKiunKzdD2E4dX0F/view?usp=sharing"
           },
           {
             "name": "1080p Hindi",
-            "link": "https://drive.google.com/file/d/1yGG_6PkwLHjegUD1PaxVpPmuoP5dirEX/view?usp=sharing"
+            "link": "https://drive.google.com/file/d/1G-FMFP2suLi21SQlS7u8sFtdykNPNAhl/view?usp=sharing"
           }
         ]
       }
@@ -13764,7 +13862,7 @@
     "type": "american",
     "overview": "2016 | 16+ | 4 Seasons | US TV Shows",
     "bio":"When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces and one strange little girl.",
-    "posterUrl": "https://i.ibb.co/t2VSFXt/MV5-BN2-Zm-Yjg1-Ym-It-NWQ4-OC00-YWM0-LWE0-ZDkt-YThj-OTZi-Zjhh-N2-Q2-Xk-Ey-Xk-Fqc-Gde-QXVy-Njgx-NTQ3.jpg",
+    "posterUrl": "https://i.ibb.co/MB7MP5j/81-E9vi-JAsv-L.jpg",
     "coverUrl": "https://i.ibb.co/5xQCL0k/AAAAQa82-SXtu-Pja-Bo68-E43-Ii7t7-YL6u-XHCOsl-Wu-O5sb-gyhlw-Hj66-UKt4gzupam-C4f-Q-ns0-P6o-O9-ISQZ4usg.jpg",
     "seasons": [
       {
