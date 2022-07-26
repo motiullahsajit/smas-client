@@ -1,5 +1,44 @@
 [
   {
+    "name": "The Lost Pirate Kingdom",
+    "type": "american",
+    "overview": "2021 | 18+ | 1 Season | US TV Shows | English",
+    "bio":"The real-life pirates of the Caribbean violently plunder the world's riches and form a surprisingly egalitarian republic in this documentary series.",
+    "posterUrl": "https://i.ibb.co/y8jc9xC/MV5-BMj-Zm-Nz-U5-Mz-Ut-NWEz-Mi00-OThl-LThk-Y2-Ut-ZTM1-ZDFh-YWIx-Mz-Qy-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQx-MTM.jpg",
+    "coverUrl": "https://i.ibb.co/6yYvcSW/THE-LOST-PIRATE-KINGDOM.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1UtUgRpJibsNzZRc2j3n0CTryX7ax04Rc/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1jVbip43_ZiYU_TWXRVRZl1ZT_7R4i-qZ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1a_4VXNI9qq9Yq3BRzplKQMJwqLp75AMF/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1MCFK2kKbFxT5pStxbv66BS8-78rfuhl9/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1In1mFQEZzZrsr-JeBcf___JdzdM2GPA8/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/18JD3RCk0SXGrfTEl_ebzYNI4q55pwmgI/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Chernobyl",
     "type": "ukraine",
     "overview": "2019 | 18+ | 1 Season | Thriller | English",
@@ -8366,12 +8405,65 @@
     "name": "Business Proposal",
     "type": "korean",
     "overview": "2022 | 13+ | 1 Season | K-Dramas based on Webtoon",
-
+    "bio":"In disguise as her friend, Ha-ri shows up to a blind date to scare him away. But plans go awry when he turns out to be her CEO — and makes a proposal.",
     "posterUrl": "https://i.ibb.co/KLrPPSB/MV5-BNjlh-MDc5-NDMt-ZGY2-Mi00-ZTMx-LTk0-Y2-It-N2-Vj-ZDQ1-Zm-Ri-ZGQ2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTMz-ODk3.jpg",
     "coverUrl": "https://i.ibb.co/tqGtYW5/drama-korea-business-proposal-2022-1-169.jpg",
     "seasons": [
       {
-        "name": "Season 1",
+        "name": "Season 1 Hindi",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1x7J4sEUyahq8y1vqYeuXaGCQmfavEStv/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1CeiOue_IVUSNAQDvp-eb4gWSCDnZgzmG/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1xuY4VGAAnS4Dj9nXV2LO09pODZHBhmug/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1kHBo9fMAf-GTWkzc6Jv5tLcUzJTJ6g8I/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1gafuNI4x1ehWHzkv9Wsn8CPRVvRmz08s/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1XF0L0OajiZu06ILBrGEI823paTxwPs-e/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1Z8-8eFLjxEBi5drdMdi1UrxCRfN2ibMO/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/14U390cBifiqe3lj3Xh4FwfGaBfCSHUUj/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/1-YxjDNcKrgBd5e28ftmx19Vnx2K7U8D8/view?usp=sharing"
+          },
+          {
+            "name":"Episode 10",
+            "link": "https://drive.google.com/file/d/1MbMl4Dnu45jMvKa1E7Mwt7gNCYsdRBj1/view?usp=sharing"
+          },
+          {
+            "name":"Episode 11",
+            "link": "https://drive.google.com/file/d/1CXgKAGKaCdtyyMP2kS4qeUGGgqpyGgaL/view?usp=sharing"
+          },
+          {
+            "name":"Episode 12",
+            "link": "https://drive.google.com/file/d/1fA93hoZ9JHPzUSIQaKELJCjqyuNVN21I/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 1 Korean",
         "episodes": [
           {
             "name": "Episode 01",
@@ -22256,60 +22348,7 @@
       }
     ]
   },
-    {
-    "name": "",
-    "type": "",
-    "overview": "",
-    "posterUrl": "",
-    "coverUrl": "",
-    "seasons": [
-      {
-        "name": "Season 1",
-        "episodes": [
-          {
-            "name": "Episode 01",
-            "link": ""
-          },
-          {
-            "name": "Episode 02",
-            "link": ""
-          },
-          {
-            "name": "Episode 03",
-            "link": ""
-          },
-          {
-            "name": "Episode 04",
-            "link": ""
-          },
-          {
-            "name": "Episode 05",
-            "link": ""
-          },
-          {
-            "name": "Episode 06",
-            "link": ""
-          },
-          {
-            "name":"Episode 07",
-            "link": ""
-          },
-          {
-            "name":"Episode 08",
-            "link": ""
-          },
-          {
-            "name":"Episode 09",
-            "link": ""
-          },
-          {
-            "name":"Episode 10",
-            "link": ""
-          }
-        ]
-      }
-    ]
-  },
+   
     {
     "name": "",
     "type": "",

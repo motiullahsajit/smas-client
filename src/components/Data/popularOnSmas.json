@@ -1390,7 +1390,60 @@
     "coverUrl": "https://i.ibb.co/tqGtYW5/drama-korea-business-proposal-2022-1-169.jpg",
     "seasons": [
       {
-        "name": "Season 1",
+        "name": "Season 1 Hindi",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1x7J4sEUyahq8y1vqYeuXaGCQmfavEStv/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1CeiOue_IVUSNAQDvp-eb4gWSCDnZgzmG/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1xuY4VGAAnS4Dj9nXV2LO09pODZHBhmug/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1kHBo9fMAf-GTWkzc6Jv5tLcUzJTJ6g8I/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1gafuNI4x1ehWHzkv9Wsn8CPRVvRmz08s/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1XF0L0OajiZu06ILBrGEI823paTxwPs-e/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1Z8-8eFLjxEBi5drdMdi1UrxCRfN2ibMO/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/14U390cBifiqe3lj3Xh4FwfGaBfCSHUUj/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/1-YxjDNcKrgBd5e28ftmx19Vnx2K7U8D8/view?usp=sharing"
+          },
+          {
+            "name":"Episode 10",
+            "link": "https://drive.google.com/file/d/1MbMl4Dnu45jMvKa1E7Mwt7gNCYsdRBj1/view?usp=sharing"
+          },
+          {
+            "name":"Episode 11",
+            "link": "https://drive.google.com/file/d/1CXgKAGKaCdtyyMP2kS4qeUGGgqpyGgaL/view?usp=sharing"
+          },
+          {
+            "name":"Episode 12",
+            "link": "https://drive.google.com/file/d/1fA93hoZ9JHPzUSIQaKELJCjqyuNVN21I/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 1 Korean",
         "episodes": [
           {
             "name": "Episode 01",
