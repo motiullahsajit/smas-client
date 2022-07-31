@@ -1,5 +1,71 @@
 [ 
   {
+    "name": "Purple Hearts",
+    "type": "american",
+    "overview": "2022 | 16+ | 2h 2m | Dramas | Dual Audio",
+    "bio":"An aspiring musician agrees to a marriage of convenience with a soon-to-deploy Marine, but a tragedy soon turns their fake relationship all too real.",
+    "posterUrl": "https://i.ibb.co/gDS8yTC/MV5-BNz-I4-ZTAw-Nz-Et-NTk5-YS00-ZWJm-LWI1-ODMt-OTU4-MTM5-Mz-Q4-OWM0-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEz-MTI1.jpg",
+    "coverUrl": "https://i.ibb.co/Jj4d353/PH-SG-0001-A.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name":"480p Dual Audio",
+            "link":"https://drive.google.com/file/d/1lIC019uVfPueUhSSe6dbJ6mxEjPeBiZz/view?usp=sharing"
+          },
+          {
+            "name": "720p Dual Audio",
+            "link": "https://drive.google.com/file/d/1wlA48HpV_b_U6SA9S3vyRXNBxR1LkQmn/view?usp=sharing"
+          },
+          {
+            "name": "1080p Dual Audio",
+            "link": "https://drive.google.com/file/d/1al6frjZS5a7dkpw9LS2Eb4jVIBVthxX9/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Keep Breathing",
+    "type": "american",
+    "overview": "2022 | 16+ | 1 Season | TV Action & Adventure | Dual Audio",
+    "bio":"When a small plane crashes in the middle of the Canadian wilderness, a lone survivor must battle the elements — and her personal demons — to stay alive.",
+    "posterUrl": "https://i.ibb.co/MhHVpWz/p22471493-b-v13-ac.jpg",
+    "coverUrl": "https://i.ibb.co/1KztJDM/AAAABRigh6-TH6m-Jp43-Sjz8g-A6-HUR6u-QZ1-JCI8-J40z-O-G5-CFGrb9-ZMMN336iu-D34-Qg-U3-Z1-Pjo7-L1-LEPWxqj.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1XbQtZtKmgpNKRuuXoAr_hLTHj48vQ4pV/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1ujtXMKiS0r3ib2y2HvAE2xrByRLUDq4c/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1L-auBvePiEjjhG1wSiWZKpKIm2_-fqge/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1-GIkkyM1-SALeV4EkHmif2YrFbxoHfmI/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1dhiNodtYx82LZA76PawVDnsjm5aop7MR/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1dQSkC9v4b_MSvNp7lmxqdCjxD4YybfQk/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name":"Anything's Possible 2022",
     "type":"movie",
     "posterUrl":"https://i.ibb.co/X4PzQ8h/MV5-BNDVk-Mj-Rk-MGIt-Nz-Bm-Ni00-OTlh-LTlk-NGIt-NTRi-MDc2-ZGNh-MTJj-Xk-Ey-Xk-Fqc-Gde-QXVy-MTMz-NDE5-N.jpg",

@@ -18,7 +18,33 @@
     "posterUrl":"https://i.ibb.co/DbYnBPw/MV5-BOWVm-NTBi-YTUt-ZWQ3-Yi00-ZDlh-LTgy-Yj-Ut-Nz-Bh-Zj-M3-Yj-Ri-NGRk-Xk-Ey-Xk-Fqc-Gde-QXVy-Nz-Yy-OTM.jpg",
     "movieUrl":"https://drive.google.com/file/d/13PZSO-URwbsOfN5UVbsXUL4oxSuWWLCW/view?usp=sharing"
   },
-  
+  {
+    "name": "Purple Hearts",
+    "type": "american",
+    "overview": "2022 | 16+ | 2h 2m | Dramas | Dual Audio",
+    "bio":"An aspiring musician agrees to a marriage of convenience with a soon-to-deploy Marine, but a tragedy soon turns their fake relationship all too real.",
+    "posterUrl": "https://i.ibb.co/gDS8yTC/MV5-BNz-I4-ZTAw-Nz-Et-NTk5-YS00-ZWJm-LWI1-ODMt-OTU4-MTM5-Mz-Q4-OWM0-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEz-MTI1.jpg",
+    "coverUrl": "https://i.ibb.co/Jj4d353/PH-SG-0001-A.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name":"480p Dual Audio",
+            "link":"https://drive.google.com/file/d/1lIC019uVfPueUhSSe6dbJ6mxEjPeBiZz/view?usp=sharing"
+          },
+          {
+            "name": "720p Dual Audio",
+            "link": "https://drive.google.com/file/d/1wlA48HpV_b_U6SA9S3vyRXNBxR1LkQmn/view?usp=sharing"
+          },
+          {
+            "name": "1080p Dual Audio",
+            "link": "https://drive.google.com/file/d/1al6frjZS5a7dkpw9LS2Eb4jVIBVthxX9/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
   {
     "name":"She Will 2021",
     "type":"movie",
@@ -4071,28 +4097,7 @@
     }
   ]
 },
-{
-  "name": "",
-  "type": "",
-  "overview": "",
-  "posterUrl": "",
-  "coverUrl": "",
-  "seasons": [
-    {
-      "name": "Watch Now",
-      "episodes": [
-        {
-          "name": "720p Hindi",
-          "link": ""
-        },
-        {
-          "name": "1080p Hindi",
-          "link": ""
-        }
-      ]
-    }
-  ]
-},
+
 {
   "name": "",
   "type": "",

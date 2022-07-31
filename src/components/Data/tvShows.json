@@ -1,5 +1,48 @@
 [
   {
+    "name": "Single’s Inferno",
+    "type": "korean",
+    "overview": "2021 | 13+ | 1 Season | Competition Reality TV | English",
+    "bio":"Stranded and ready to mingle, flirty singles search for love on a deserted island they can only escape as couples for romantic date nights in paradise.",
+    "posterUrl": "https://i.ibb.co/y0BXDWf/p21187245-b-v13-ab.jpg",
+    "coverUrl": "https://i.ibb.co/FHhwG4k/singles-inferno-netflix-show-1240x698.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1boLKdTYhnbh7kmyfCrEExiwxlqgQ0htW/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/15zuIZARF_gjgu4WdV4TrQRdUQWvlO_c3/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1O9ODiwVqwy7HdatRVAhiG1tZKN0WizPS/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1t-Y1MAHAAHqCftOjf03El2IhWVtZSMPb/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1I8cPvTmkDGOWRMIEibYJC_BiZhUlZdgw/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1N-M-y8LLGmeqSwFKS9SNWp_P3qmpTf7y/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/14r9iL47BJ06aXiMSAY69qFVntfRlaLfS/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "The Lost Pirate Kingdom",
     "type": "american",
     "overview": "2021 | 18+ | 1 Season | US TV Shows | English",
@@ -8505,10 +8548,63 @@
     "name": "All Of Us Are Dead",
     "type": "korean",
     "overview": "2022 | 18+ | 1 Season | K-Dramas based on Webtoon",
-
+    "bio":"A high school becomes ground zero for a zombie virus outbreak. Trapped students must fight their way out — or turn into one of the rabid infected.",
     "posterUrl": "https://i.ibb.co/TRwQ2Vs/ze4lhw0o-LBHYml-M2-Ku-Zj-Bg0-Sq6-H.jpg",
     "coverUrl": "https://i.ibb.co/BBw74h7/rhdj-MN-1.jpg",
     "seasons": [
+      {
+        "name": "Season 1 Hindi",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1T6Y0yBcwMRG1ug1acezzNsk4eEfW5siS/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1VfdT-Mh_hfL7LeP08NA10avYlmjAoZbh/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1DuQp-GZiWjky0m-kKEYf2zuEauWrg407/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1jT1p7bHLmm88p5MACBPVybJEFJDqu5N4/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1agl6AMu-ApujT7Rc4hVqqjuRsWQK-eoL/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1HEbaD7WsW_qbZezUsgKlAhk8H0d5cm37/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/16LTKh4TLJbAZ_NNkcR4eHWnL1Az87V9E/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/1d98FkMmU4FpM74VOUSewfcSFlDk5f4xf/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/1r6Fro5gozuPQ9e-Z0hC-KGweo6_Yscw4/view?usp=sharing"
+          },
+          {
+            "name":"Episode 10",
+            "link": "https://drive.google.com/file/d/1OvI9Akvy3pVv15mDCPFtqozGW-jYXxfi/view?usp=sharing"
+          },
+          {
+            "name": "Episode 11",
+            "link": "https://drive.google.com/file/d/1RuE8UICx6rGspxBm_M_sdxaphb41YHIO/view?usp=sharing"
+          },
+          {
+            "name": "Episode 12",
+            "link": "https://drive.google.com/file/d/1Td6j6162oQBa7zh3-vky0lf-Id_11HeB/view?usp=sharing"
+          }
+        ]
+      },
       {
         "name": "Season 1",
         "episodes": [
@@ -10278,6 +10374,45 @@
           {
             "name":"Episode 08",
             "link": "https://drive.google.com/file/d/1o9ySnfeE0dlXsaXEmMuL2vYifZ8ZAwue/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Keep Breathing",
+    "type": "american",
+    "overview": "2022 | 16+ | 1 Season | TV Action & Adventure | Dual Audio",
+    "bio":"When a small plane crashes in the middle of the Canadian wilderness, a lone survivor must battle the elements — and her personal demons — to stay alive.",
+    "posterUrl": "https://i.ibb.co/MhHVpWz/p22471493-b-v13-ac.jpg",
+    "coverUrl": "https://i.ibb.co/1KztJDM/AAAABRigh6-TH6m-Jp43-Sjz8g-A6-HUR6u-QZ1-JCI8-J40z-O-G5-CFGrb9-ZMMN336iu-D34-Qg-U3-Z1-Pjo7-L1-LEPWxqj.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1XbQtZtKmgpNKRuuXoAr_hLTHj48vQ4pV/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1ujtXMKiS0r3ib2y2HvAE2xrByRLUDq4c/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1L-auBvePiEjjhG1wSiWZKpKIm2_-fqge/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1-GIkkyM1-SALeV4EkHmif2YrFbxoHfmI/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1dhiNodtYx82LZA76PawVDnsjm5aop7MR/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1dQSkC9v4b_MSvNp7lmxqdCjxD4YybfQk/view?usp=sharing"
           }
         ]
       }
@@ -21429,60 +21564,7 @@
       }
     ]
   },
-    {
-    "name": "",
-    "type": "",
-    "overview": "",
-    "posterUrl": "",
-    "coverUrl": "",
-    "seasons": [
-      {
-        "name": "Season 1",
-        "episodes": [
-          {
-            "name": "Episode 01",
-            "link": ""
-          },
-          {
-            "name": "Episode 02",
-            "link": ""
-          },
-          {
-            "name": "Episode 03",
-            "link": ""
-          },
-          {
-            "name": "Episode 04",
-            "link": ""
-          },
-          {
-            "name": "Episode 05",
-            "link": ""
-          },
-          {
-            "name": "Episode 06",
-            "link": ""
-          },
-          {
-            "name":"Episode 07",
-            "link": ""
-          },
-          {
-            "name":"Episode 08",
-            "link": ""
-          },
-          {
-            "name":"Episode 09",
-            "link": ""
-          },
-          {
-            "name":"Episode 10",
-            "link": ""
-          }
-        ]
-      }
-    ]
-  },
+ 
     {
     "name": "",
     "type": "",
@@ -26025,60 +26107,7 @@
       }
     ]
   },
-    {
-    "name": "",
-    "type": "",
-    "overview": "",
-    "posterUrl": "",
-    "coverUrl": "",
-    "seasons": [
-      {
-        "name": "Season 1",
-        "episodes": [
-          {
-            "name": "Episode 01",
-            "link": ""
-          },
-          {
-            "name": "Episode 02",
-            "link": ""
-          },
-          {
-            "name": "Episode 03",
-            "link": ""
-          },
-          {
-            "name": "Episode 04",
-            "link": ""
-          },
-          {
-            "name": "Episode 05",
-            "link": ""
-          },
-          {
-            "name": "Episode 06",
-            "link": ""
-          },
-          {
-            "name":"Episode 07",
-            "link": ""
-          },
-          {
-            "name":"Episode 08",
-            "link": ""
-          },
-          {
-            "name":"Episode 09",
-            "link": ""
-          },
-          {
-            "name":"Episode 10",
-            "link": ""
-          }
-        ]
-      }
-    ]
-  },
+
     {
     "name": "",
     "type": "",

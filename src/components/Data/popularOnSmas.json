@@ -327,10 +327,63 @@
     "name": "All Of Us Are Dead",
     "type": "korean",
     "overview": "2022 | 18+ | 1 Season | K-Dramas based on Webtoon",
-
+    "bio":"A high school becomes ground zero for a zombie virus outbreak. Trapped students must fight their way out — or turn into one of the rabid infected.",
     "posterUrl": "https://i.ibb.co/TRwQ2Vs/ze4lhw0o-LBHYml-M2-Ku-Zj-Bg0-Sq6-H.jpg",
     "coverUrl": "https://i.ibb.co/BBw74h7/rhdj-MN-1.jpg",
     "seasons": [
+      {
+        "name": "Season 1 Hindi",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1T6Y0yBcwMRG1ug1acezzNsk4eEfW5siS/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1VfdT-Mh_hfL7LeP08NA10avYlmjAoZbh/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1DuQp-GZiWjky0m-kKEYf2zuEauWrg407/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1jT1p7bHLmm88p5MACBPVybJEFJDqu5N4/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1agl6AMu-ApujT7Rc4hVqqjuRsWQK-eoL/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1HEbaD7WsW_qbZezUsgKlAhk8H0d5cm37/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/16LTKh4TLJbAZ_NNkcR4eHWnL1Az87V9E/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/1d98FkMmU4FpM74VOUSewfcSFlDk5f4xf/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/1r6Fro5gozuPQ9e-Z0hC-KGweo6_Yscw4/view?usp=sharing"
+          },
+          {
+            "name":"Episode 10",
+            "link": "https://drive.google.com/file/d/1OvI9Akvy3pVv15mDCPFtqozGW-jYXxfi/view?usp=sharing"
+          },
+          {
+            "name": "Episode 11",
+            "link": "https://drive.google.com/file/d/1RuE8UICx6rGspxBm_M_sdxaphb41YHIO/view?usp=sharing"
+          },
+          {
+            "name": "Episode 12",
+            "link": "https://drive.google.com/file/d/1Td6j6162oQBa7zh3-vky0lf-Id_11HeB/view?usp=sharing"
+          }
+        ]
+      },
       {
         "name": "Season 1",
         "episodes": [
