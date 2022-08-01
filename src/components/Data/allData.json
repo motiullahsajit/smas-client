@@ -1,5 +1,124 @@
 [
   {
+    "name": "Masaba Masaba",
+    "type": "indian",
+    "overview": "2020 | 18+ | 2 Seasons | TV Comedies | Hindi",
+    "bio":"Real life mom-daughter duo Neena and Masaba Gupta play versions of themselves in this playful, fictional peek into their lives in fashion and film.",
+    "posterUrl": "https://i.ibb.co/D4Y4VF9/MV5-BNj-Aw-NDAy-MGEt-Mzc2-ZS00-ZTQ2-LWE4-ZDAt-OTFi-OTVj-M2-Ri-ZWRl-Xk-Ey-Xk-Fqc-Gde-QXVy-MTE4-Mz-Ix.jpg",
+    "coverUrl": "https://i.ibb.co/dKWQJ7c/masaba-masaba-review-1200.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1VQK_24tSQpfL4LWSFot_iGTngiqNx4Ta/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1RHe2-OXQEpvNkXxZslrK50nQOjMcACe5/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1UP72QPSXNwuHa2W4ufLNB4Ldo2jjN3CY/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1cG6f9aJH6I9MO02Oku3qR-ao980BWviy/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1i4DqX6CYpG6P0p8gBzcZBTUcj-UN7Jqk/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1939X1PKGZYr5XSsrbYaeJaII75i0SNmt/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 2",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1Qg0K_oML4BNEw4RKlnTlr7E17esggdQc/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/14IFsWjJKbM5qelHerT20GCozXYOZTYhB/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1q5BaXwOwbJh2Imt278y9FeeEpTnXNVbF/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1zdj7ewUKfxmTzhTCuecsqiddub-JA-fa/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1ep__V7w5-YZV0XWQ6ZUJrNdG0ZDJAO_4/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1VeoJ9df66fZgDpoumixFoqKJCBgy05iw/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1bg9Gz05EH0g-_NUNBlhY3hmVfIrrGpbZ/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Another Self",
+    "type": "turkish",
+    "overview": "2022 | 18+ | 1 Season | Romantic TV Dramas",
+    "bio":"Three friends arrive in a seaside town, where they connect with their spiritual selves and suddenly face unresolved trauma from their families' pasts.",
+    "posterUrl": "https://i.ibb.co/7KHBrw7/MV5-BNDdk-Mm-Zi-ZTQt-Zj-Rj-OS00-Nj-M4-LWI1-Zj-Qt-YTIy-ODA0-YTVi-OWMy-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI1-NDEy.jpg",
+    "coverUrl": "https://i.ibb.co/ZGz6S2F/Another-Self.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1Qhf9s8wlVvuCthFAk9FyFsPU3SfxIfgY/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/171vzGbx08Po8qBiemJlC-3QwKHmXPmoh/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1c-iGuAvqCoEEOIPN-soU_oAiV7f1yNgB/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1Sbsu9TE06Yiqb5x6SjQ0-3Ei869IR3Rx/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1dur9SqHEGyyC918EPtjo_HMGRS62lwwP/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1DTt9l0NyFcejRWz1PIp2I-iaoWG0C1E7/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1DFgIYVTHhClEUp-aB6TWJmXQOZj5sMAE/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/1RlpZJC9Xc9obTeqPd0ByGz-eYTSZ6HaC/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Purple Hearts",
     "type": "american",
     "overview": "2022 | 16+ | 2h 2m | Dramas | Dual Audio",

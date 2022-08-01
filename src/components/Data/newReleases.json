@@ -1,5 +1,52 @@
 [ 
   {
+    "name": "Another Self",
+    "type": "turkish",
+    "overview": "2022 | 18+ | 1 Season | Romantic TV Dramas",
+    "bio":"Three friends arrive in a seaside town, where they connect with their spiritual selves and suddenly face unresolved trauma from their families' pasts.",
+    "posterUrl": "https://i.ibb.co/7KHBrw7/MV5-BNDdk-Mm-Zi-ZTQt-Zj-Rj-OS00-Nj-M4-LWI1-Zj-Qt-YTIy-ODA0-YTVi-OWMy-Xk-Ey-Xk-Fqc-Gde-QXVy-MTI1-NDEy.jpg",
+    "coverUrl": "https://i.ibb.co/ZGz6S2F/Another-Self.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1Qhf9s8wlVvuCthFAk9FyFsPU3SfxIfgY/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/171vzGbx08Po8qBiemJlC-3QwKHmXPmoh/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1c-iGuAvqCoEEOIPN-soU_oAiV7f1yNgB/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1Sbsu9TE06Yiqb5x6SjQ0-3Ei869IR3Rx/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1dur9SqHEGyyC918EPtjo_HMGRS62lwwP/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1DTt9l0NyFcejRWz1PIp2I-iaoWG0C1E7/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1DFgIYVTHhClEUp-aB6TWJmXQOZj5sMAE/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/1RlpZJC9Xc9obTeqPd0ByGz-eYTSZ6HaC/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Purple Hearts",
     "type": "american",
     "overview": "2022 | 16+ | 2h 2m | Dramas | Dual Audio",
