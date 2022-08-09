@@ -1,5 +1,90 @@
 [
   {
+    "name":"Tonoya 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/1KWz9p8/Tonoya-2022-Bengali-Chorki-Short-Film-WEB-DL-H264-AAC-1080p-720p-Downloa.jpg",
+    "movieUrl":"https://drive.google.com/file/d/18vhateEHZnlzKdEYDNgBe-6dYG3jz1YP/view?usp=sharing"
+  },
+
+  {
+    "name": "Carter",
+    "type": "2022 | 18+ | 2h 14m | Action & Adventure | Hin+Eng+Korean",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "bio":"A man wakes up missing his memories. Directed by a mysterious voice from a device in his ear, he sets off on a hostage rescue mission rife with danger.",
+    "posterUrl": "https://i.ibb.co/vXHzLNX/carter-movie-poster-md.jpg",
+    "coverUrl": "https://i.ibb.co/G2d8RGF/503659-hgu1.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "480p Multi Audio",
+            "link": "https://drive.google.com/file/d/1UTLhg5NsbEEJlOTNOp0fKM5legMN8o4M/view?usp=sharing"
+          },
+          {
+            "name": "720p Multi Audio",
+            "link": "https://drive.google.com/file/d/1HoPnrHlvnWYVOUM7kuuMcFJ-CB_EmG4a/view?usp=sharing"
+          },
+          {
+            "name": "1080p Multi Audio",
+            "link": "https://drive.google.com/file/d/1jjvPrM2I8g0NbRTXjjz3WlhWFmP8dQfv/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The Sandman",
+    "type": "american",
+    "overview": "2022 | 18+ | 1 Season | US TV Shows",
+    "bio":"After years of imprisonment, Morpheus — the King of Dreams — embarks on a journey across worlds to find what was stolen from him and restore his power.",
+    "posterUrl": "https://i.ibb.co/Jp9mPxK/MV5-BNGY0-NDIx-ZDYt-MWMz-ZS00-OGQ3-LTgw-OGEt-MWQ5-Zm-Qx-M2-Ew-Y2-Nj-Xk-Ey-Xk-Fqc-Gde-QXVy-MTkx-Nj-Uy.jpg",
+    "coverUrl": "https://i.ibb.co/4t4FZn7/Netflixs-Sandman-is-already-looking-way-better-than-you-expected.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1AUFd3QQpggMaMZ0A6QIY4pxfsGz41XTt/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1c3KuBTmQczVmgyF2OTRRYzLGFajfQnJA/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1FRlYU9ebAP7gKCX4cArGBhaJESPt0TDY/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1DVL7Y4rJTUXYTuirFTbBrFOiFGw5rSIs/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1zdDfR8No3968qJ7MsYlNljaLm47oTWcG/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1kSYVCwy1rDrnwF2D4PzMPQj8iDu_16Br/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/17FB7rp5gfr2HD9RhB_VpvPfZwWHNCHiv/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/1m2gtqt4heRwMlJVpnQzAayRrMat7wsHP/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/1Atl0sNjNApwBuRI8bh1NY8gU2eYobGTY/view?usp=sharing"
+          }   
+        ]
+      }
+    ]
+  },
+  {
     "name": "Masaba Masaba",
     "type": "indian",
     "overview": "2020 | 18+ | 2 Seasons | TV Comedies | Hindi",

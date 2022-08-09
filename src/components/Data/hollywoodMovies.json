@@ -1,5 +1,6 @@
 [
 
+  
   {
     "name":"Apocalypse 2021",
     "type":"movie",
@@ -11,6 +12,33 @@
     "type":"movie",
     "posterUrl":"https://i.ibb.co/BPqt2nF/MV5-BNj-Yx-MWUw-NGUt-Zm-Rm-My00-MDZl-LTgw-NDMt-ODVl-OGFj-MTBl-NGJk-Xk-Ey-Xk-Fqc-Gde-QXVy-Mjkx-Nz-Q1.jpg",
     "movieUrl":"https://drive.google.com/file/d/1LZsiLg1dDxBtilR0zKwokxuxuKOGU7xw/view?usp=sharing"
+  },
+  {
+    "name": "Carter",
+    "type": "2022 | 18+ | 2h 14m | Action & Adventure | Hin+Eng+Korean",
+    "overview": "2022 | 17+ | Movie | Horror",
+    "bio":"A man wakes up missing his memories. Directed by a mysterious voice from a device in his ear, he sets off on a hostage rescue mission rife with danger.",
+    "posterUrl": "https://i.ibb.co/vXHzLNX/carter-movie-poster-md.jpg",
+    "coverUrl": "https://i.ibb.co/G2d8RGF/503659-hgu1.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "480p Multi Audio",
+            "link": "https://drive.google.com/file/d/1UTLhg5NsbEEJlOTNOp0fKM5legMN8o4M/view?usp=sharing"
+          },
+          {
+            "name": "720p Multi Audio",
+            "link": "https://drive.google.com/file/d/1HoPnrHlvnWYVOUM7kuuMcFJ-CB_EmG4a/view?usp=sharing"
+          },
+          {
+            "name": "1080p Multi Audio",
+            "link": "https://drive.google.com/file/d/1jjvPrM2I8g0NbRTXjjz3WlhWFmP8dQfv/view?usp=sharing"
+          }
+        ]
+      }
+    ]
   },
   {
     "name":"The Black Phone 2021",
@@ -3942,28 +3970,7 @@
     }
   ]
 },
-{
-  "name": "",
-  "type": "",
-  "overview": "2022 | 17+ | Movie | Horror",
-  "posterUrl": "",
-  "coverUrl": "",
-  "seasons": [
-    {
-      "name": "Watch Now",
-      "episodes": [
-        {
-          "name": "720p Hindi",
-          "link": ""
-        },
-        {
-          "name": "1080p Hindi",
-          "link": ""
-        }
-      ]
-    }
-  ]
-},
+
 {
   "name": "",
   "type": "",
