@@ -1,5 +1,47 @@
 [
   {
+    "name":"Shabaash Mithu 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/y5tS2cR/MV5-BMzgw-YTYx-Nzgt-MTVh-My00-YTVi-LTk2-ODYt-ZDVl-OWNk-NDE4-YWVi-Xk-Ey-Xk-Fqc-Gde-QXVy-Njkw-OTg4-MTA.jpg",
+    "movieUrl":"https://drive.google.com/file/d/14nDw990nWogZ8D2HL9IouoD8hFb7nJnJ/view?usp=sharing"
+  },
+
+  {
+    "name":"Gargi 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/Vgr5H3L/MV5-BYTc2-Ym-Qw-Yzct-NDNk-My00-ZWNh-LWJj-ODkt-OWM4-YWRh-MDZh-Mm-I1-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-Yw-Mj-Mw.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1vgTvR86aCeajysluBn3iZJVfCGu5Ji1R/view?usp=sharing"
+  },
+
+
+  {
+    "name":"Rashtra Kavach Om 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/tmwnx7R/1920x770f7e2ba3807a4496f8cd20111a0a1b399.webp",
+    "movieUrl":"https://drive.google.com/file/d/17ZAENwqug34gusvsGnPYXyTPCto3FKw7/view?usp=sharing"
+  },
+{
+  "name":"Cin Cesmesi 2018",
+  "type":"movie",
+  "posterUrl":"https://i.ibb.co/rprnVj7/MV5-BYTE2-Mm-M4-Zjct-Yjgw-YS00-ZWUx-LTg5-OTkt-Yj-Vi-NWRh-Mz-U4-Nj-Ex-Xk-Ey-Xk-Fqc-Gde-QXVy-NDg4-Mjkz.jpg",
+  "movieUrl":"https://drive.google.com/file/d/1hHFOo_m7SSODl23gpgN-esme-huhz1tR/view?usp=sharing"
+},
+
+{
+  "name":"Alamet i Kiyamat 2016",
+  "type":"movie",
+  "posterUrl":"https://i.ibb.co/k2WyTFD/alamet-i-kiyamet-turkish-movie-poster.jpg",
+  "movieUrl":"https://drive.google.com/file/d/1vnZK4-Cix9phQJefuSFkHQoAiV4P4vbx/view?usp=sharing"
+},
+
+{
+  "name":"Uc Harfliler Adak 2019",
+  "type":"movie",
+  "posterUrl":"https://i.ibb.co/TLhCtDG/MV5-BMTZh-Zj-Nk-NGUt-Mm-Qx-Mi00-Y2-M5-LWFm-NGMt-OTFk-NTc1-NDg0-Mzhj-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-Ux-OTQ2.jpg",
+  "movieUrl":"https://drive.google.com/file/d/1NB_mPA6NOYkMiuQHgztlsaUJOukUquIg/view?usp=sharing"
+},
+
+  {
     "name":"Tonoya 2022",
     "type":"movie",
     "posterUrl":"https://i.ibb.co/1KWz9p8/Tonoya-2022-Bengali-Chorki-Short-Film-WEB-DL-H264-AAC-1080p-720p-Downloa.jpg",
@@ -32,6 +74,26 @@
         ]
       }
     ]
+  },
+  {
+    "name":"Cin Çeşmesi 2018",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/rprnVj7/MV5-BYTE2-Mm-M4-Zjct-Yjgw-YS00-ZWUx-LTg5-OTkt-Yj-Vi-NWRh-Mz-U4-Nj-Ex-Xk-Ey-Xk-Fqc-Gde-QXVy-NDg4-Mjkz.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1hHFOo_m7SSODl23gpgN-esme-huhz1tR/view?usp=sharing"
+  },
+  
+  {
+    "name":"Alamet-i Kiyamet 2016",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/k2WyTFD/alamet-i-kiyamet-turkish-movie-poster.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1vnZK4-Cix9phQJefuSFkHQoAiV4P4vbx/view?usp=sharing"
+  },
+  
+  {
+    "name":"Üç Harfliler: Adak 2019",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/TLhCtDG/MV5-BMTZh-Zj-Nk-NGUt-Mm-Qx-Mi00-Y2-M5-LWFm-NGMt-OTFk-NTc1-NDg0-Mzhj-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-Ux-OTQ2.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1NB_mPA6NOYkMiuQHgztlsaUJOukUquIg/view?usp=sharing"
   },
   {
     "name": "The Sandman",
@@ -80,6 +142,51 @@
             "name":"Episode 09",
             "link": "https://drive.google.com/file/d/1Atl0sNjNApwBuRI8bh1NY8gU2eYobGTY/view?usp=sharing"
           }   
+        ]
+      },
+      {
+        "name": "Season 1 English",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1uD07KkINerCpZyMhGRna9DehQbr7uvxh/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/13NfpoKtNQqFPUK3YjAbeCdr9eebRysPJ/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1Xr--VS2G9NJcJdErZxk7vis5swvnYl_y/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1uRTy8GRAlIJcIShxY0QL-MdHe8Pt2RFL/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1q-1GkNvp3vNgvR-Z4ncRovj1YDaDJX4H/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1cylHsULm3Hw4pk8NF86TCcQw8NjV7k5O/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1Ipf2lafSdMzsIEAYi0f6dxhhp2o_NvTo/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/16kYGma_ezWl7UteRzT2Sh5P1A4dIzS0T/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/18NKtQeJ6CoKjSHwolGjIVPdC8UZMjQQm/view?usp=sharing"
+          },
+          {
+            "name":"Episode 10",
+            "link": "https://drive.google.com/file/d/1eBqUJ9fhZgfJHIYXcEGG0SE6s-F1iMqi/view?usp=sharing"
+          }
         ]
       }
     ]

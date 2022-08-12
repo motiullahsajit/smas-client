@@ -1,6 +1,27 @@
 [
 
   
+{
+  "name":"Cin Cesmesi 2018",
+  "type":"movie",
+  "posterUrl":"https://i.ibb.co/rprnVj7/MV5-BYTE2-Mm-M4-Zjct-Yjgw-YS00-ZWUx-LTg5-OTkt-Yj-Vi-NWRh-Mz-U4-Nj-Ex-Xk-Ey-Xk-Fqc-Gde-QXVy-NDg4-Mjkz.jpg",
+  "movieUrl":"https://drive.google.com/file/d/1hHFOo_m7SSODl23gpgN-esme-huhz1tR/view?usp=sharing"
+},
+
+{
+  "name":"Alamet i Kiyamat 2016",
+  "type":"movie",
+  "posterUrl":"https://i.ibb.co/k2WyTFD/alamet-i-kiyamet-turkish-movie-poster.jpg",
+  "movieUrl":"https://drive.google.com/file/d/1vnZK4-Cix9phQJefuSFkHQoAiV4P4vbx/view?usp=sharing"
+},
+
+{
+  "name":"Uc Harfliler Adak 2019",
+  "type":"movie",
+  "posterUrl":"https://i.ibb.co/TLhCtDG/MV5-BMTZh-Zj-Nk-NGUt-Mm-Qx-Mi00-Y2-M5-LWFm-NGMt-OTFk-NTc1-NDg0-Mzhj-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-Ux-OTQ2.jpg",
+  "movieUrl":"https://drive.google.com/file/d/1NB_mPA6NOYkMiuQHgztlsaUJOukUquIg/view?usp=sharing"
+},
+
   {
     "name":"Apocalypse 2021",
     "type":"movie",
@@ -2597,7 +2618,27 @@
     "posterUrl": "https://i.ibb.co/NTmWJnf/MV5-BMm-Jj-NGUx-Yj-At-MTI0-MS00-ZTNl-LWJm-YTAt-Yzcz-OGM4-NWRk-MDBl-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Mw-Mjk0.jpg",
     "movieUrl": "https://drive.google.com/file/d/16WhH9Tl5FeIId_FeN2PVEx2hLxERG-xs/view?usp=sharing"
   },
-
+  {
+    "name":"Cin Çeşmesi 2018",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/rprnVj7/MV5-BYTE2-Mm-M4-Zjct-Yjgw-YS00-ZWUx-LTg5-OTkt-Yj-Vi-NWRh-Mz-U4-Nj-Ex-Xk-Ey-Xk-Fqc-Gde-QXVy-NDg4-Mjkz.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1hHFOo_m7SSODl23gpgN-esme-huhz1tR/view?usp=sharing"
+  },
+  
+  {
+    "name":"Alamet-i Kiyamet 2016",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/k2WyTFD/alamet-i-kiyamet-turkish-movie-poster.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1vnZK4-Cix9phQJefuSFkHQoAiV4P4vbx/view?usp=sharing"
+  },
+  
+  {
+    "name":"Üç Harfliler: Adak 2019",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/TLhCtDG/MV5-BMTZh-Zj-Nk-NGUt-Mm-Qx-Mi00-Y2-M5-LWFm-NGMt-OTFk-NTc1-NDg0-Mzhj-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-Ux-OTQ2.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1NB_mPA6NOYkMiuQHgztlsaUJOukUquIg/view?usp=sharing"
+  },
+  
   {
     "name": "Oxygen",
     "type": "movie",
@@ -4661,26 +4702,7 @@
   "movieUrl":""
 },
 
-{
-  "name":"",
-  "type":"movie",
-  "posterUrl":"",
-  "movieUrl":""
-},
 
-{
-  "name":"",
-  "type":"movie",
-  "posterUrl":"",
-  "movieUrl":""
-},
-
-{
-  "name":"",
-  "type":"movie",
-  "posterUrl":"",
-  "movieUrl":""
-},
 {
   "name":"",
   "type":"movie",
