@@ -21,7 +21,29 @@
   "posterUrl":"https://i.ibb.co/TLhCtDG/MV5-BMTZh-Zj-Nk-NGUt-Mm-Qx-Mi00-Y2-M5-LWFm-NGMt-OTFk-NTc1-NDg0-Mzhj-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-Ux-OTQ2.jpg",
   "movieUrl":"https://drive.google.com/file/d/1NB_mPA6NOYkMiuQHgztlsaUJOukUquIg/view?usp=sharing"
 },
-
+{
+  "name": "Prey",
+  "type": "american",
+  "overview": "2022 | 18+ | 1h 39m | Sci-Fi | Horror",
+  "bio":"The origin story of the Predator in the world of the Comanche Nation 300 years ago. Naru, a skilled warrior, fights to protect her tribe against one of the first highly-evolved Predators to land on Earth.",
+  "posterUrl": "https://i.ibb.co/P5WMT6j/MV5-BMDBl-MDYx-MDkt-OTUx-MS00-Mjcx-LWE2-Yj-Qt-Nj-Nh-Mj-Nm-N2-Y3-ZDA1-Xk-Ey-Xk-Fqc-Gde-QXVy-MTM1-MTE1.jpg",
+  "coverUrl": "https://i.ibb.co/3hx4v4w/p21018264-i-h8-aa.jpg",
+  "seasons": [
+    {
+      "name": "Watch Now",
+      "episodes": [
+        {
+          "name": "720p English",
+          "link": "https://drive.google.com/file/d/1z38nCwu-F-9uUQhI06pfjqBWg2P7ZSgx/view?usp=sharing"
+        },
+        {
+          "name": "1080p English",
+          "link": "https://drive.google.com/file/d/1X-2sIwiNsZNVUIxa36AvkdA1JqhfsQTW/view?usp=sharing"
+        }
+      ]
+    }
+  ]
+},
   {
     "name":"Apocalypse 2021",
     "type":"movie",
@@ -3524,28 +3546,7 @@
     }
   ]
 },
-{
-  "name": "",
-  "type": "",
-  "overview": "2022 | 17+ | Movie | Horror",
-  "posterUrl": "",
-  "coverUrl": "",
-  "seasons": [
-    {
-      "name": "Watch Now",
-      "episodes": [
-        {
-          "name": "720p Hindi",
-          "link": ""
-        },
-        {
-          "name": "1080p Hindi",
-          "link": ""
-        }
-      ]
-    }
-  ]
-},
+
 {
   "name": "",
   "type": "",

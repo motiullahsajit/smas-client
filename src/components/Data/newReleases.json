@@ -1,5 +1,75 @@
 [ 
   {
+    "name": "School Tales The Series",
+    "type": "thai",
+    "overview": "2022 | 18+ | 1 Season | Teen TV Shows",
+    "bio":"Unspeakable horrors roam the halls of high school in this anthology featuring ghost stories directed by seasoned Thai horror directors.",
+    "posterUrl": "https://i.ibb.co/9WYds0g/MV5-BYz-Mx-YWFm-YTIt-Nz-Zk-ZS00-NDlm-LTli-Nz-At-NDVl-MWEx-YTdl-Nzk4-Xk-Ey-Xk-Fqc-Gde-QXVy-OTU0-Mzg2.jpg",
+    "coverUrl": "https://i.ibb.co/PWNMgKy/medium.webp",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1gyMLyvjf-j0jqNBuVQEd6w49Ij12T0d7/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/18OmKkKK3xjA2BUvkHTG3a4_RPPssbK3N/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1EuPliso7zM_-2ziXZDqTdp38jTJ5xeFY/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1uJUL9J3AaJTL6IX2LhWciXzN60sAaOdR/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1Ku2lFhBtJZqga-IvDbUF59xKqtZUyc1S/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1rhA0dxHaxBamJL3sFC0v-hm60dVho_Y1/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/16yxe6ejoVC9HTE39Vc6SHl1ObHfQDCP5/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/10t5VOzKZkLGLl6GiYHyscB0zkewPCFaN/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Prey",
+    "type": "american",
+    "overview": "2022 | 18+ | 1h 39m | Sci-Fi | Horror",
+    "bio":"The origin story of the Predator in the world of the Comanche Nation 300 years ago. Naru, a skilled warrior, fights to protect her tribe against one of the first highly-evolved Predators to land on Earth.",
+    "posterUrl": "https://i.ibb.co/P5WMT6j/MV5-BMDBl-MDYx-MDkt-OTUx-MS00-Mjcx-LWE2-Yj-Qt-Nj-Nh-Mj-Nm-N2-Y3-ZDA1-Xk-Ey-Xk-Fqc-Gde-QXVy-MTM1-MTE1.jpg",
+    "coverUrl": "https://i.ibb.co/3hx4v4w/p21018264-i-h8-aa.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p English",
+            "link": "https://drive.google.com/file/d/1z38nCwu-F-9uUQhI06pfjqBWg2P7ZSgx/view?usp=sharing"
+          },
+          {
+            "name": "1080p English",
+            "link": "https://drive.google.com/file/d/1X-2sIwiNsZNVUIxa36AvkdA1JqhfsQTW/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Carter",
     "type": "2022 | 18+ | 2h 14m | Action & Adventure | Hin+Eng+Korean",
     "overview": "2022 | 17+ | Movie | Horror",
