@@ -7908,7 +7908,143 @@
       }
     ]
   },
-
+  {
+    "name": "Locke & Key",
+    "type": "american",
+    "overview": "2020 | 18+ | 3 Seasons | TV Action & Adventure | English",
+    "bio":"After their dad's murder, three siblings move with their mom to his ancestral estate, where they discover magical keys that unlock powers — and secrets.",
+    "posterUrl": "https://i.ibb.co/17N92Rd/MV5-BNz-Vk-OTIx-ZWUt-MTNj-OC00-NWMw-LWEy-NDQt-NTY2-Nz-Yx-Njhh-YTA1-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEy-Mj-M2.jpg",
+    "coverUrl": "https://i.ibb.co/S0DLpwF/Locke-Key-Season2-Episode10-00-19-50-23-R-e1649203138101-1.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1PMPbC6-2xUSfoxyqwBm2tdYiIQoAq7Kv/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/17bVJeVeqLFzqEXQkRgc2UzgHXUV-vvzu/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1XimW8IpsJ605Ae-iPuaIbSIJZiyQJ7qt/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1k6ptlbXMC0smLCWh2hePBhQ3jwmAEe3K/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/16n8Wq4DRuMMHFYzwaNWGf8h6FiOXfAGU/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1sAKgpLgcr9ewBnJvpwTRWe1MV9xV4fib/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1A5jOqkWil2AAoCMgfbkOi0DVA-EXs9x9/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/17WeGt5uKYYcWrzZTlfs01jSuOG5LHvG7/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/11oZLgpQwdGB_yeuJbyVzyfkavrfNh30V/view?usp=sharing"
+          },
+          {
+            "name":"Episode 10",
+            "link": "https://drive.google.com/file/d/1tBheeHPqo1buguu7nerWrew3GJZMjxlT/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 2",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1MO8kqabc60YeW9YfPFjPnfUCfOmit4cq/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1Ba2Xf9pSYWiU0Quj7g4Bx3htiu94osR6/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1eqfZzW_XboTopuVeSq6GQbjKRDueeNvw/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/15mUyLTgYIHOpQNL3XVIAzz7buSPvRgyu/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1KLaKbtb3acJ4wKseZLM9AT2eH0iIMSxW/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/17mpeMmgqkYbmxJQoEBGfyvgw1pqnG8Er/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1eZoU3OtyFyOmmJPJcwTe0sy9v6B7d3kX/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/1Zc5CJ5mfqyrNeZow5brZaTcyj2SDxPx_/view?usp=sharing"
+          },
+          {
+            "name":"Episode 09",
+            "link": "https://drive.google.com/file/d/1gR7n8Q8A3NUmFD1nqOBKix0XPZ0-2apc/view?usp=sharing"
+          },
+          {
+            "name":"Episode 10",
+            "link": "https://drive.google.com/file/d/1c1VFyOYg2lizkx9_AG6s4r-L7xbWbNz3/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Season 3",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/1BySRA4hLhODmNiOaggJIj4jW9E2hZLyU/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/1mYT0wvao94K35nv7XjcW_Sqit2KPmTGW/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1Vl0hmoXI2gZ0VRV9WYo-KFPJ7GpHlnht/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/1J5hDzECKXuoOtnOWQP0BhN4YLj19880Q/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/17V_X1P5fhJxybTq3-6wThq0Xuywyg6Pr/view?usp=sharing"
+          },
+          {
+            "name": "Episode 06",
+            "link": "https://drive.google.com/file/d/1XY1Ttie3ERGKg40qGNpzkW04onSOqqnT/view?usp=sharing"
+          },
+          {
+            "name":"Episode 07",
+            "link": "https://drive.google.com/file/d/1oFSB6n0hCFP6r3Qc92NqG9wXBpoLOjd1/view?usp=sharing"
+          },
+          {
+            "name":"Episode 08",
+            "link": "https://drive.google.com/file/d/19VkBiDWEG_dp6t7Jmxqz3wDHdKrumjXz/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
   {
     "name": "Fame Game",
     "type": "indian",
@@ -25183,60 +25319,7 @@
       }
     ]
   },
-    {
-    "name": "",
-    "type": "",
-    "overview": "",
-    "posterUrl": "",
-    "coverUrl": "",
-    "seasons": [
-      {
-        "name": "Season 1",
-        "episodes": [
-          {
-            "name": "Episode 01",
-            "link": ""
-          },
-          {
-            "name": "Episode 02",
-            "link": ""
-          },
-          {
-            "name": "Episode 03",
-            "link": ""
-          },
-          {
-            "name": "Episode 04",
-            "link": ""
-          },
-          {
-            "name": "Episode 05",
-            "link": ""
-          },
-          {
-            "name": "Episode 06",
-            "link": ""
-          },
-          {
-            "name":"Episode 07",
-            "link": ""
-          },
-          {
-            "name":"Episode 08",
-            "link": ""
-          },
-          {
-            "name":"Episode 09",
-            "link": ""
-          },
-          {
-            "name":"Episode 10",
-            "link": ""
-          }
-        ]
-      }
-    ]
-  },
+   
     {
     "name": "",
     "type": "",

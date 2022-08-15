@@ -1,4 +1,5 @@
 [
+  
   {
     "name":"Tonoya 2022",
     "type":"movie",
@@ -19,7 +20,12 @@
     "movieUrl":"https://drive.google.com/file/d/1vgTvR86aCeajysluBn3iZJVfCGu5Ji1R/view?usp=sharing"
   },
 
-
+  {
+    "name":"Shuklopokkho 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/56ktNzR/1660133962069-shulkokkhopostersize-outshulkopokkho1070x1585withtitle-3x4-Images.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1u-AG0syu65jJrp3B-O3Cmj3iwUI26PUV/view?usp=sharing"
+  },
   {
     "name":"Rashtra Kavach Om 2022",
     "type":"movie",
@@ -9830,12 +9836,7 @@
     "movieUrl":""
   },
 
-{
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
+
 
   {
     "name":"",

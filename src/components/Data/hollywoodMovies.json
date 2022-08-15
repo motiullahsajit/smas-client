@@ -1,5 +1,31 @@
 [
-
+  {
+    "name": "Maleficent",
+    "type": "moors",
+    "overview": "2014 | 18+ | 1h 37m | Adventure",
+    "bio":"A vengeful fairy is driven to curse an infant princess, only to discover that the child may be the one person who can restore peace to their troubled land.",
+    "posterUrl": "https://i.ibb.co/S0Htw6c/MV5-BMTQ1-NDk3-NTk0-MV5-BMl5-Ban-Bn-Xk-Ft-ZTgw-MTk3-MDcx-Mz-E-V1.jpg",
+    "coverUrl": "https://i.ibb.co/j8Pt8TK/angelina-jolie-maleficent-wallpaper-preview.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p English",
+            "link": "https://drive.google.com/file/d/1CtwD3AhZagUDp8GC9bgkyay5Ex2Bx1v1/view?usp=sharing"
+          },
+          {
+            "name": "720p Hindi",
+            "link": "https://drive.google.com/file/d/1qCSRnVmKeuNLvgoHfFuZfQgWquMyjISC/view?usp=sharing"
+          },
+          {
+            "name": "1080p Hindi",
+            "link": "https://drive.google.com/file/d/1nnvhFO2pWWUqR_cM8zo1ANZ0BmGZsiIH/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
   
 
 {
@@ -1818,7 +1844,13 @@
     "posterUrl": "https://i.ibb.co/yVwh1Rs/MV5-BN2-Yw-OWM4-ODgt-ZTMz-Mi00-Zm-Fm-LTk5-NTEt-Nm-Y4-ZDcw-Nz-Qx-NDhj-Xk-Ey-Xk-Fqc-Gde-QXVy-NTI0-Nz-A.jpg",
     "movieUrl": "https://drive.google.com/file/d/12fFqjdjqVclWFrs_P11mQ6oFv3Dkz4rU/view?usp=sharing"
   },
-
+  {
+    "name":"Doraemon Nobita's Great Adventure In The Antarctic Kachi Kochi",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/pwM1v6W/MV5-BNm-I3-MTQ2-Nj-Et-MWI1-ZC00-NDEx-LWI5-Mm-Et-Mj-Jk-Yj-Jh-MWQx-OTEz-Xk-Ey-Xk-Fqc-Gde-QXVy-Nz-Yz-Nj.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1zZZ6bjIYVvbD_q6ZnPxhYOx063Yk6qm9/view?usp=sharing"
+  },
+  
   {
     "name": "Bumblebee",
     "type": "movie",
@@ -3858,28 +3890,7 @@
     }
   ]
 },
-{
-  "name": "",
-  "type": "",
-  "overview": "2022 | 17+ | Movie | Horror",
-  "posterUrl": "",
-  "coverUrl": "",
-  "seasons": [
-    {
-      "name": "Watch Now",
-      "episodes": [
-        {
-          "name": "720p Hindi",
-          "link": ""
-        },
-        {
-          "name": "1080p Hindi",
-          "link": ""
-        }
-      ]
-    }
-  ]
-},
+
 
 {
   "name": "",
@@ -5455,12 +5466,6 @@
   "movieUrl":""
 },
 
-{
-  "name":"",
-  "type":"movie",
-  "posterUrl":"",
-  "movieUrl":""
-},
 
 {
   "name":"",
