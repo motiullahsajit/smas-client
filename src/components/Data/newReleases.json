@@ -1,4 +1,5 @@
 [ 
+
   {
     "name": "Locke & Key",
     "type": "american",
@@ -148,7 +149,30 @@
     "posterUrl":"https://i.ibb.co/pwM1v6W/MV5-BNm-I3-MTQ2-Nj-Et-MWI1-ZC00-NDEx-LWI5-Mm-Et-Mj-Jk-Yj-Jh-MWQx-OTEz-Xk-Ey-Xk-Fqc-Gde-QXVy-Nz-Yz-Nj.jpg",
     "movieUrl":"https://drive.google.com/file/d/1zZZ6bjIYVvbD_q6ZnPxhYOx063Yk6qm9/view?usp=sharing"
   },
-  
+  {
+  "name": "Code Name Emperor",
+  "type": "spanish",
+  "overview": "2022 | 18+ | 1h 45m | Thriller Movies",
+  "bio":"An intelligence agent tasked with incriminating a squeaky-clean politician must decide if there are still some lines he won't cross.",
+  "posterUrl": "https://i.ibb.co/nwD7CGH/8vjvlmipm598kg6xmkk5m1fz0p7.jpg",
+  "coverUrl": "https://i.ibb.co/232rSgV/Qz4hH.jpg",
+  "seasons": [
+    {
+      "name": "Watch Now",
+      "episodes": [
+        {
+          "name": "720p English",
+          "link": "https://drive.google.com/file/d/1Gxnm5so4f9UV3dZ-yFXlz0ot-uI7cd5J/view?usp=sharing"
+        },
+        {
+          "name": "1080p English",
+          "link": "https://drive.google.com/file/d/1v_8ug6-N2nvu1AHh8E8lMCrTGZi-nhON/view?usp=sharing"
+        }
+      ]
+    }
+  ]
+},
+
   {
     "name": "School Tales The Series",
     "type": "thai",

@@ -10024,6 +10024,41 @@
     ]
   },
   {
+    "name": "I Am Groot",
+    "type": "american",
+    "overview": "2022 | 18+ | 1 Season | Comedy | English",
+    "bio":"A series of shorts featuring the seedling Groot along with several new and unusual characters.",
+    "posterUrl": "https://i.ibb.co/56rMnyb/lp-site.jpg",
+    "coverUrl": "https://i.ibb.co/YWTcRkG/5b5094d300d050a4978bd021d2dd0863.webp",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/16EXtrD_19xMYwAss2JMj3npvlmydPmsE/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/15KLK5dWWj-bwms2hs08LE0NNbjlHqwwz/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1SI7r0S88T8Iq_crv3ZfB1a3Cfy2wH03i/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/18X0_v-RcpC7mM9ZXY6J8RgdRoIYBoNjs/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1De7PMlKUB1i5Bcb4LDueK6QgoF2VIvCE/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Cursed",
     "type": "american",
     "overview": "2020 | 18+ | 1 Season | Fantasy TV Shows",
@@ -13570,7 +13605,8 @@
   {
     "name": "Never Have I Ever",
     "type": "american",
-    "overview": "2020 | 13+ | 2 Seasons | Teen TV Shows",
+    "overview": "2020 | 13+ | 3 Seasons | Teen TV Shows | English",
+    "bio":"After a traumatic year, an Indian-American teen just wants to spruce up her social status — but friends, family and feelings won’t make it easy on her.",
     "posterUrl": "https://i.ibb.co/G2RMWNs/MV5-BYTFl-YWRh-Yj-Et-NDU3-MC00-ZTRi-LTlm-Y2-Mt-NGVi-ODJl-NDcz-NTA4-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Y1-MTg4.jpg",
     "coverUrl": "https://i.ibb.co/1bcXdkX/4012849.jpg",
     "seasons": [
@@ -13663,7 +13699,52 @@
         "link": "https://drive.google.com/file/d/1F79vmZePX92NE5qNP_pAS3bV4RESAgtk/view?usp=sharing"
         }
        ]
-     }
+     },
+     {
+      "name": "Season 3",
+      "episodes": [
+        {
+          "name": "Episode 01",
+          "link": "https://drive.google.com/file/d/1ETDpeBMWdS7hKjyUFC97zkPPjw0zuBZt/view?usp=sharing"
+        },
+        {
+          "name": "Episode 02",
+          "link": "https://drive.google.com/file/d/1_LddPKNsr2nAdeok0cG1WNN6ua4aRySQ/view?usp=sharing"
+        },
+        {
+          "name": "Episode 03",
+          "link": "https://drive.google.com/file/d/16_pvCYzpTQZ1arIHy9gYzoqRId2csp-O/view?usp=sharing"
+        },
+        {
+          "name": "Episode 04",
+          "link": "https://drive.google.com/file/d/1fiYzJxQ1w-xYSSBHXPU3AhBKHNnmxM9o/view?usp=sharing"
+        },
+        {
+          "name": "Episode 05",
+          "link": "https://drive.google.com/file/d/15E--e5vzv3Va3I1NjKxY5Lj5ni30VFVt/view?usp=sharing"
+        },
+        {
+          "name": "Episode 06",
+          "link": "https://drive.google.com/file/d/1g-joaz9o1AoQ2sc5hOnt7_oWrrY_QmZN/view?usp=sharing"
+        },
+        {
+          "name":"Episode 07",
+          "link": "https://drive.google.com/file/d/1glVeg2cX4UmWoyaCz59XEEdo9n6IHM55/view?usp=sharing"
+        },
+        {
+          "name":"Episode 08",
+          "link": "https://drive.google.com/file/d/1EXI9yCB_c24k0PP3o0PcSUM7Q5vec-fg/view?usp=sharing"
+        },
+        {
+          "name":"Episode 09",
+          "link": "https://drive.google.com/file/d/1TtsUdId_QOh0S6omHEg_GEow2ixiObg5/view?usp=sharing"
+        },
+        {
+          "name":"Episode 10",
+          "link": "https://drive.google.com/file/d/1KqpE3zVfhCzRDs0DPhh3jzqLxQIFEIaT/view?usp=sharing"
+        }
+      ]
+    }
     ]
   },
   {
@@ -23428,60 +23509,7 @@
       }
     ]
   },
-  {
-    "name": "",
-    "type": "",
-    "overview": "",
-    "posterUrl": "",
-    "coverUrl": "",
-    "seasons": [
-      {
-        "name": "Season 1",
-        "episodes": [
-          {
-            "name": "Episode 01",
-            "link": ""
-          },
-          {
-            "name": "Episode 02",
-            "link": ""
-          },
-          {
-            "name": "Episode 03",
-            "link": ""
-          },
-          {
-            "name": "Episode 04",
-            "link": ""
-          },
-          {
-            "name": "Episode 05",
-            "link": ""
-          },
-          {
-            "name": "Episode 06",
-            "link": ""
-          },
-          {
-            "name":"Episode 07",
-            "link": ""
-          },
-          {
-            "name":"Episode 08",
-            "link": ""
-          },
-          {
-            "name":"Episode 09",
-            "link": ""
-          },
-          {
-            "name":"Episode 10",
-            "link": ""
-          }
-        ]
-      }
-    ]
-  },
+  
   {
     "name": "",
     "type": "",

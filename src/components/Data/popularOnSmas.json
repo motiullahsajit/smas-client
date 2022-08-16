@@ -1,5 +1,40 @@
 [
   {
+    "name": "I Am Groot",
+    "type": "american",
+    "overview": "2022 | 18+ | 1 Season | Comedy | English",
+    "bio":"A series of shorts featuring the seedling Groot along with several new and unusual characters.",
+    "posterUrl": "https://i.ibb.co/56rMnyb/lp-site.jpg",
+    "coverUrl": "https://i.ibb.co/YWTcRkG/5b5094d300d050a4978bd021d2dd0863.webp",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/16EXtrD_19xMYwAss2JMj3npvlmydPmsE/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/15KLK5dWWj-bwms2hs08LE0NNbjlHqwwz/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1SI7r0S88T8Iq_crv3ZfB1a3Cfy2wH03i/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/18X0_v-RcpC7mM9ZXY6J8RgdRoIYBoNjs/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1De7PMlKUB1i5Bcb4LDueK6QgoF2VIvCE/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Stranger Things",
     "type": "american",
     "overview": "2016 | 16+ | 4 Seasons | US TV Shows",

@@ -19,6 +19,18 @@
     "posterUrl":"https://i.ibb.co/Vgr5H3L/MV5-BYTc2-Ym-Qw-Yzct-NDNk-My00-ZWNh-LWJj-ODkt-OWM4-YWRh-MDZh-Mm-I1-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-Yw-Mj-Mw.jpg",
     "movieUrl":"https://drive.google.com/file/d/1vgTvR86aCeajysluBn3iZJVfCGu5Ji1R/view?usp=sharing"
   },
+  {
+    "name":"Darbar 2020",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/ncvHvwJ/MV5-BNDVm-ZTEw-Njgt-Ym-Zi-ZS00-Nj-Fm-LWI3-N2-Ut-NTIx-NGYw-OTE5-Mm-E2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA4-Nj-E.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1KQ4KdUSTsjjn7GDIl4rs5Pu4PFiSvdyQ/view?usp=sharing"
+  },
+  {
+    "name":"Creature 3D 2014",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/wKqPQqs/B1vd-GEq-Z-ES-SL1500.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1mBqZdqIVfuSyjJdFl7Ta21FEyYnVW8me/view?usp=sharing"
+  },
 
   {
     "name":"Shuklopokkho 2022",
@@ -9002,12 +9014,6 @@
     "movieUrl":""
   },
 
-  {
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
 
 
 
@@ -9075,13 +9081,7 @@
     "movieUrl":""
   },
 
-  {
-    "name":"",
-    "type":"movie",
-    "posterUrl":"",
-    "movieUrl":""
-  },
-
+ 
   {
     "name":"",
     "type":"movie",

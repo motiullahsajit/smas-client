@@ -1,4 +1,112 @@
 [
+  
+{
+  "name":"Decision To Leave 2022",
+  "type":"movie",
+  "posterUrl":"https://i.ibb.co/vscH1SX/MV5-BNz-I3-Nz-Bl-Mz-Et-MTdm-Yi00-N2-M3-LTlk-Yz-Et-Zj-U3-NGI3-Nm-My-Nzhl-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-Y3.jpg",
+  "movieUrl":"https://drive.google.com/file/d/1u270SXgL8uavZc5RahF34j4BcB9zFyG_/view?usp=sharing"
+},
+
+  {
+    "name": "Maleficent Mistress of Evil 2019",
+    "type": "disney",
+    "overview": "2019 | 18+ | 1h 59m | Fantasy",
+    "bio":"Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials, unexpected allies, and dark new forces at play.",
+    "posterUrl": "https://i.ibb.co/fG6Tn8Y/MV5-BZj-Ji-YTEx-OTAt-NWU0-Yi00-Nz-Jj-LTkw-OTgt-OTU2-NWM1-Zj-Jm-YWVh-Xk-Ey-Xk-Fqc-Gde-QXVy-MTkx-Nj-Uy.jpg",
+    "coverUrl": "https://i.ibb.co/KF06qLY/wallpapersden-com-k-poster-of-maleficent-2-3840x2160.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p English",
+            "link": "https://drive.google.com/file/d/1ZWeJ1JZVsfzjieVHM8j1bNRLEHr8dGUq/view?usp=sharing"
+          },
+          {
+            "name": "720p Hindi",
+            "link": "https://drive.google.com/file/d/1HeGiLbYMpXiPqLktYY5aO7IVEWIH9m_q/view?usp=sharing"
+          },
+          {
+            "name": "1080p Hindi",
+            "link": "https://drive.google.com/file/d/1nD5SkHHPXlO8h7E2muaRhqTnoi9iSzS0/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "I Am Groot",
+    "type": "american",
+    "overview": "2022 | 18+ | 1 Season | Comedy | English",
+    "bio":"A series of shorts featuring the seedling Groot along with several new and unusual characters.",
+    "posterUrl": "https://i.ibb.co/56rMnyb/lp-site.jpg",
+    "coverUrl": "https://i.ibb.co/YWTcRkG/5b5094d300d050a4978bd021d2dd0863.webp",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01",
+            "link": "https://drive.google.com/file/d/16EXtrD_19xMYwAss2JMj3npvlmydPmsE/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02",
+            "link": "https://drive.google.com/file/d/15KLK5dWWj-bwms2hs08LE0NNbjlHqwwz/view?usp=sharing"
+          },
+          {
+            "name": "Episode 03",
+            "link": "https://drive.google.com/file/d/1SI7r0S88T8Iq_crv3ZfB1a3Cfy2wH03i/view?usp=sharing"
+          },
+          {
+            "name": "Episode 04",
+            "link": "https://drive.google.com/file/d/18X0_v-RcpC7mM9ZXY6J8RgdRoIYBoNjs/view?usp=sharing"
+          },
+          {
+            "name": "Episode 05",
+            "link": "https://drive.google.com/file/d/1De7PMlKUB1i5Bcb4LDueK6QgoF2VIvCE/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Code Name Emperor",
+    "type": "spanish",
+    "overview": "2022 | 18+ | 1h 45m | Thriller Movies",
+    "bio":"An intelligence agent tasked with incriminating a squeaky-clean politician must decide if there are still some lines he won't cross.",
+    "posterUrl": "https://i.ibb.co/nwD7CGH/8vjvlmipm598kg6xmkk5m1fz0p7.jpg",
+    "coverUrl": "https://i.ibb.co/232rSgV/Qz4hH.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p English",
+            "link": "https://drive.google.com/file/d/1Gxnm5so4f9UV3dZ-yFXlz0ot-uI7cd5J/view?usp=sharing"
+          },
+          {
+            "name": "1080p English",
+            "link": "https://drive.google.com/file/d/1v_8ug6-N2nvu1AHh8E8lMCrTGZi-nhON/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  
+  {
+    "name":"Bullet Train 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/94NQp5Z/MV5-BMDU2-Zm-M2-OTYt-Nz-Ix-Yy00-Nj-M5-LTli-NGQt-N2-Jm-OWQz-YTBm-ZWUz-Xk-Ey-Xk-Fqc-Gde-QXVy-MTkx-Nj-U.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1oKdEC0vo3EpmphGYKtZwixgdlGUKa4UU/view?usp=sharing"
+  },
+  
+  {
+    "name":"Darbar 2020",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/ncvHvwJ/MV5-BNDVm-ZTEw-Njgt-Ym-Zi-ZS00-Nj-Fm-LWI3-N2-Ut-NTIx-NGYw-OTE5-Mm-E2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA4-Nj-E.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1KQ4KdUSTsjjn7GDIl4rs5Pu4PFiSvdyQ/view?usp=sharing"
+  },
+
   {
     "name": "Locke & Key",
     "type": "american",
@@ -7637,7 +7745,13 @@
       "posterUrl":"https://i.ibb.co/Pm6L1Rj/MV5-BOTQw-Zm-Qy-Yz-Et-ODk5-ZC00-OTY3-LWEx-Mj-At-Yz-Rj-NWFh-NGM3-Mz-Bl-Xk-Ey-Xk-Fqc-Gde-QXVy-NTIz-OTk.jpg",
       "movieUrl":"https://drive.google.com/file/d/1Ru_mMiUTlrPu_gLz3C7LHHtVatuu7hNG/view?usp=sharing"
     },
-    
+    {
+      "name":"Creature 3D 2014",
+      "type":"movie",
+      "posterUrl":"https://i.ibb.co/wKqPQqs/B1vd-GEq-Z-ES-SL1500.jpg",
+      "movieUrl":"https://drive.google.com/file/d/1mBqZdqIVfuSyjJdFl7Ta21FEyYnVW8me/view?usp=sharing"
+    },
+  
     {
       "name":"Deadpool 2016",
       "type":"movie",
@@ -18318,7 +18432,7 @@
       {
         "name": "Never Have I Ever",
         "type": "american",
-        "overview": "2020 | 13+ | 2 Seasons | Teen TV Shows",
+        "bio":"After a traumatic year, an Indian-American teen just wants to spruce up her social status — but friends, family and feelings won’t make it easy on her.",
         "posterUrl": "https://i.ibb.co/G2RMWNs/MV5-BYTFl-YWRh-Yj-Et-NDU3-MC00-ZTRi-LTlm-Y2-Mt-NGVi-ODJl-NDcz-NTA4-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Y1-MTg4.jpg",
         "coverUrl": "https://i.ibb.co/1bcXdkX/4012849.jpg",
         "seasons": [
@@ -18411,7 +18525,52 @@
             "link": "https://drive.google.com/file/d/1F79vmZePX92NE5qNP_pAS3bV4RESAgtk/view?usp=sharing"
             }
            ]
-         }
+         },
+         {
+          "name": "Season 3",
+          "episodes": [
+            {
+              "name": "Episode 01",
+              "link": "https://drive.google.com/file/d/1ETDpeBMWdS7hKjyUFC97zkPPjw0zuBZt/view?usp=sharing"
+            },
+            {
+              "name": "Episode 02",
+              "link": "https://drive.google.com/file/d/1_LddPKNsr2nAdeok0cG1WNN6ua4aRySQ/view?usp=sharing"
+            },
+            {
+              "name": "Episode 03",
+              "link": "https://drive.google.com/file/d/16_pvCYzpTQZ1arIHy9gYzoqRId2csp-O/view?usp=sharing"
+            },
+            {
+              "name": "Episode 04",
+              "link": "https://drive.google.com/file/d/1fiYzJxQ1w-xYSSBHXPU3AhBKHNnmxM9o/view?usp=sharing"
+            },
+            {
+              "name": "Episode 05",
+              "link": "https://drive.google.com/file/d/15E--e5vzv3Va3I1NjKxY5Lj5ni30VFVt/view?usp=sharing"
+            },
+            {
+              "name": "Episode 06",
+              "link": "https://drive.google.com/file/d/1g-joaz9o1AoQ2sc5hOnt7_oWrrY_QmZN/view?usp=sharing"
+            },
+            {
+              "name":"Episode 07",
+              "link": "https://drive.google.com/file/d/1glVeg2cX4UmWoyaCz59XEEdo9n6IHM55/view?usp=sharing"
+            },
+            {
+              "name":"Episode 08",
+              "link": "https://drive.google.com/file/d/1EXI9yCB_c24k0PP3o0PcSUM7Q5vec-fg/view?usp=sharing"
+            },
+            {
+              "name":"Episode 09",
+              "link": "https://drive.google.com/file/d/1TtsUdId_QOh0S6omHEg_GEow2ixiObg5/view?usp=sharing"
+            },
+            {
+              "name":"Episode 10",
+              "link": "https://drive.google.com/file/d/1KqpE3zVfhCzRDs0DPhh3jzqLxQIFEIaT/view?usp=sharing"
+            }
+          ]
+        }
         ]
       },
       {

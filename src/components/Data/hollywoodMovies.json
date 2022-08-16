@@ -1,5 +1,63 @@
 [
   {
+    "name": "Maleficent Mistress of Evil 2019",
+    "type": "disney",
+    "overview": "2019 | 18+ | 1h 59m | Fantasy",
+    "bio":"Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials, unexpected allies, and dark new forces at play.",
+    "posterUrl": "https://i.ibb.co/fG6Tn8Y/MV5-BZj-Ji-YTEx-OTAt-NWU0-Yi00-Nz-Jj-LTkw-OTgt-OTU2-NWM1-Zj-Jm-YWVh-Xk-Ey-Xk-Fqc-Gde-QXVy-MTkx-Nj-Uy.jpg",
+    "coverUrl": "https://i.ibb.co/KF06qLY/wallpapersden-com-k-poster-of-maleficent-2-3840x2160.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p English",
+            "link": "https://drive.google.com/file/d/1ZWeJ1JZVsfzjieVHM8j1bNRLEHr8dGUq/view?usp=sharing"
+          },
+          {
+            "name": "720p Hindi",
+            "link": "https://drive.google.com/file/d/1HeGiLbYMpXiPqLktYY5aO7IVEWIH9m_q/view?usp=sharing"
+          },
+          {
+            "name": "1080p Hindi",
+            "link": "https://drive.google.com/file/d/1nD5SkHHPXlO8h7E2muaRhqTnoi9iSzS0/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Code Name Emperor",
+    "type": "spanish",
+    "overview": "2022 | 18+ | 1h 45m | Thriller Movies",
+    "bio":"An intelligence agent tasked with incriminating a squeaky-clean politician must decide if there are still some lines he won't cross.",
+    "posterUrl": "https://i.ibb.co/nwD7CGH/8vjvlmipm598kg6xmkk5m1fz0p7.jpg",
+    "coverUrl": "https://i.ibb.co/232rSgV/Qz4hH.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p English",
+            "link": "https://drive.google.com/file/d/1Gxnm5so4f9UV3dZ-yFXlz0ot-uI7cd5J/view?usp=sharing"
+          },
+          {
+            "name": "1080p English",
+            "link": "https://drive.google.com/file/d/1v_8ug6-N2nvu1AHh8E8lMCrTGZi-nhON/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  
+  {
+    "name":"Bullet Train 2022",
+    "type":"movie",
+    "posterUrl":"https://i.ibb.co/94NQp5Z/MV5-BMDU2-Zm-M2-OTYt-Nz-Ix-Yy00-Nj-M5-LTli-NGQt-N2-Jm-OWQz-YTBm-ZWUz-Xk-Ey-Xk-Fqc-Gde-QXVy-MTkx-Nj-U.jpg",
+    "movieUrl":"https://drive.google.com/file/d/1oKdEC0vo3EpmphGYKtZwixgdlGUKa4UU/view?usp=sharing"
+  },
+  
+  {
     "name": "Maleficent",
     "type": "moors",
     "overview": "2014 | 18+ | 1h 37m | Adventure",
@@ -27,6 +85,13 @@
     ]
   },
   
+{
+  "name":"Decision To Leave 2022",
+  "type":"movie",
+  "posterUrl":"https://i.ibb.co/vscH1SX/MV5-BNz-I3-Nz-Bl-Mz-Et-MTdm-Yi00-N2-M3-LTlk-Yz-Et-Zj-U3-NGI3-Nm-My-Nzhl-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-Y3.jpg",
+  "movieUrl":"https://drive.google.com/file/d/1u270SXgL8uavZc5RahF34j4BcB9zFyG_/view?usp=sharing"
+},
+
 
 {
   "name":"Alamet i Kiyamat 2016",
@@ -4249,28 +4314,8 @@
     }
   ]
 },
-{
-  "name": "",
-  "type": "",
-  "overview": "",
-  "posterUrl": "",
-  "coverUrl": "",
-  "seasons": [
-    {
-      "name": "Watch Now",
-      "episodes": [
-        {
-          "name": "720p Hindi",
-          "link": ""
-        },
-        {
-          "name": "1080p Hindi",
-          "link": ""
-        }
-      ]
-    }
-  ]
-},
+
+
 
 
 {
@@ -4295,51 +4340,7 @@
     }
   ]
 },
-{
-  "name": "",
-  "type": "",
-  "overview": "",
-  "posterUrl": "",
-  "coverUrl": "",
-  "seasons": [
-    {
-      "name": "Watch Now",
-      "episodes": [
-        {
-          "name": "720p Hindi",
-          "link": ""
-        },
-        {
-          "name": "1080p Hindi",
-          "link": ""
-        }
-      ]
-    }
-  ]
-},
 
-{
-  "name": "",
-  "type": "",
-  "overview": "",
-  "posterUrl": "",
-  "coverUrl": "",
-  "seasons": [
-    {
-      "name": "Watch Now",
-      "episodes": [
-        {
-          "name": "720p Hindi",
-          "link": ""
-        },
-        {
-          "name": "1080p Hindi",
-          "link": ""
-        }
-      ]
-    }
-  ]
-},
 {
   "name": "",
   "type": "",
@@ -4533,14 +4534,7 @@
   "movieUrl":""
 },
 
-{
-  "name":"",
-  "type":"movie",
-  "posterUrl":"",
-  "movieUrl":""
-},
 
-
 {
   "name":"",
   "type":"movie",
@@ -5599,12 +5593,6 @@
   "movieUrl":""
 },
 
-{
-  "name":"",
-  "type":"movie",
-  "posterUrl":"",
-  "movieUrl":""
-},
 
 {
   "name":"",
