@@ -1,5 +1,61 @@
 [
   {
+    "name": "Top Gun: Maverick 2",
+    "type": "american",
+    "overview": "2022 | 15+ | 2h 30m | Action | English",
+    "bio":"After more than thirty years of service as one of the Navy's top aviators, Pete Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him.",
+    "posterUrl": "https://i.ibb.co/2SHJkmF/MV5-BOWQw-OTA1-ZDQt-Nzk3-Yi00-Zm-Vm-LWFi-ZGYt-Njdj-NThi-Yj-Jh-Nz-Rj-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E3.jpg",
+    "coverUrl": "https://i.ibb.co/w7FKyXQ/when-is-top-gun-maverick-available-to-stream.webp",
+    "seasons": [
+      {
+        "name": "Watch Now English",
+        "episodes": [
+          {
+            "name": "480p 375MB",
+            "link": "https://drive.google.com/file/d/1QXTwY3mzIEb8ZMH7slqI20wiky-J7m5N/view?usp=sharing"
+          },
+          {
+            "name": "720p 895MB",
+            "link": "https://drive.google.com/file/d/1mqm2fdGFG56xTHXEfOUT3qOiUHOjVS7f/view?usp=sharing"
+          },
+          {
+            "name": "720p HEVC 700MB",
+            "link": "https://drive.google.com/file/d/1gduQrD-DPmVWogYrjuUvORRIaPdDHS9J/view?usp=sharing"
+          },
+          {
+            "name": "1080p 1.54GB",
+            "link": "https://drive.google.com/file/d/1xH0THeYj-zHhAobpMO9nbBCYiWuzWMG7/view?usp=sharing"
+          },
+          {
+            "name": "1080p HQ 5.68GB",
+            "link": "https://drive.google.com/file/d/1YE5xKXNIbgjYKyhrHwF_ioZ5rzuvyZB2/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "name": "Watch Now Hindi",
+        "episodes": [
+          {
+            "name": "480p 444MB",
+            "link": "https://drive.google.com/file/d/1CVDZL4eBYcD9WmOAnYkmLZ_z1Bcfv3fv/view?usp=sharing"
+          },
+          {
+            "name": "720p 1.15GB",
+            "link": "https://drive.google.com/file/d/1R9NDSMb5U43RBk8CZrj408NLVpyLI1mk/view?usp=sharing"
+          },
+          {
+            "name": "720p HEVC 737MB",
+            "link": "https://drive.google.com/file/d/1laX-4Nn5k0Uhd-AJK3lX7nZHtuaao7YO/view?usp=sharing"
+          },
+          {
+            "name": "1080p 2.69GB",
+            "link": "https://drive.google.com/file/d/1q6g5SU-pXsjK7wavyooTSkweogZ87b-B/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "I Am Groot",
     "type": "american",
     "overview": "2022 | 18+ | 1 Season | Comedy | English",
