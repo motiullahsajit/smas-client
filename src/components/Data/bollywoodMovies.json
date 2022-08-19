@@ -20,6 +20,37 @@
     "movieUrl":"https://drive.google.com/file/d/1vgTvR86aCeajysluBn3iZJVfCGu5Ji1R/view?usp=sharing"
   },
   {
+    "name": "Shamshera",
+    "type": "indian",
+    "overview": "2022 | 17+ | 2h 58m | Action | WEB-DL",
+    "bio":"In the fictitious city of Kaza, a warrior tribe is imprisoned, enslaved and tortured by a ruthless authoritarian Shudh Singh. Shamshera is a legend for his tribe who relentlessly fights for his tribe's freedom and dignity.",
+    "posterUrl": "https://i.ibb.co/kxzdXc4/MV5-BYTk2-Nj-Az-Mj-Yt-NTY3-My00-Ym-Y4-LTlh-ZTAt-MGMz-Zm-Vm-OWVj-ZWJm-Xk-Ey-Xk-Fqc-Gde-QXVy-OTI3-Mz-I.jpg",
+    "coverUrl": "https://i.ibb.co/bbYJXbW/Shamshera-poster-image.webp",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "480p Hindi",
+            "link": "https://drive.google.com/file/d/1IB7qZRIe2zrvlaRZitTYton0wEj5XYbB/view?usp=sharing"
+          },
+          {
+            "name": "720p Hindi",
+            "link": "https://drive.google.com/file/d/14pS8DNnNd42i1wjN_RdrCURUPNh6R97D/view?usp=sharing"
+          },
+          {
+            "name": "720p HEVC Hindi",
+            "link": "https://drive.google.com/file/d/1eENZrnkIZbA-47sHHv5l2wpM4GSDJrxr/view?usp=sharing"
+          },
+          {
+            "name": "1080p Hindi",
+            "link": "https://drive.google.com/file/d/13uDa2-MDCD1Lx4Tn4wOrZNKM6gOBriCX/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name":"Darbar 2020",
     "type":"movie",
     "posterUrl":"https://i.ibb.co/ncvHvwJ/MV5-BNDVm-ZTEw-Njgt-Ym-Zi-ZS00-Nj-Fm-LWI3-N2-Ut-NTIx-NGYw-OTE5-Mm-E2-Xk-Ey-Xk-Fqc-Gde-QXVy-MTA4-Nj-E.jpg",
@@ -5463,28 +5494,7 @@
       }
     ]
   },
-      {
-    "name": "",
-    "type": "",
-    "overview": "2022 | 17+ | Movie | Horror",
-    "posterUrl": "",
-    "coverUrl": "",
-    "seasons": [
-      {
-        "name": "Watch Now",
-        "episodes": [
-          {
-            "name": "720p Hindi",
-            "link": ""
-          },
-          {
-            "name": "1080p Hindi",
-            "link": ""
-          }
-        ]
-      }
-    ]
-  },
+
       {
     "name": "",
     "type": "",

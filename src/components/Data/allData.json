@@ -1,5 +1,42 @@
 [
   {
+    "name": "Shamshera",
+    "type": "indian",
+    "overview": "2022 | 17+ | 2h 58m | Action | WEB-DL",
+    "bio":"In the fictitious city of Kaza, a warrior tribe is imprisoned, enslaved and tortured by a ruthless authoritarian Shudh Singh. Shamshera is a legend for his tribe who relentlessly fights for his tribe's freedom and dignity.",
+    "posterUrl": "https://i.ibb.co/kxzdXc4/MV5-BYTk2-Nj-Az-Mj-Yt-NTY3-My00-Ym-Y4-LTlh-ZTAt-MGMz-Zm-Vm-OWVj-ZWJm-Xk-Ey-Xk-Fqc-Gde-QXVy-OTI3-Mz-I.jpg",
+    "coverUrl": "https://i.ibb.co/bbYJXbW/Shamshera-poster-image.webp",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "480p Hindi",
+            "link": "https://drive.google.com/file/d/1IB7qZRIe2zrvlaRZitTYton0wEj5XYbB/view?usp=sharing"
+          },
+          {
+            "name": "720p Hindi",
+            "link": "https://drive.google.com/file/d/14pS8DNnNd42i1wjN_RdrCURUPNh6R97D/view?usp=sharing"
+          },
+          {
+            "name": "720p HEVC Hindi",
+            "link": "https://drive.google.com/file/d/1eENZrnkIZbA-47sHHv5l2wpM4GSDJrxr/view?usp=sharing"
+          },
+          {
+            "name": "1080p Hindi",
+            "link": "https://drive.google.com/file/d/13uDa2-MDCD1Lx4Tn4wOrZNKM6gOBriCX/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+{
+  "name":"The Ledge 2022",
+  "type":"movie",
+  "posterUrl":"https://i.ibb.co/V9v6qkH/MV5-BMDFl-Mm-Fk-OTQt-ZTA2-YS00-ODZk-LWE3-ZDkt-OTdh-Nz-E0-Mj-A1-ZDc4-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Q1-MDcx.jpg",
+  "movieUrl":"https://drive.google.com/file/d/1yBFsKzxTLMo_nD4F-oa1f89gNHq2pe1k/view?usp=sharing"
+},
+  {
     "name":"Mr & Mrs Ramachari",
     "type":"movie",
     "posterUrl":"https://i.ibb.co/X7psfDd/MV5-BMDFl-Mm-Fk-OTQt-ZTA2-YS00-ODZk-LWE3-ZDkt-OTdh-Nz-E0-Mj-A1-ZDc4-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-Q1-MDcx.jpg",
