@@ -1684,6 +1684,29 @@
       "posterUrl":"https://i.ibb.co/n0N2xNW/MV5-BMTEx-Mz-Qy-Nzc4-Nj-Re-QTJe-QWpw-Z15-Bb-WU3-MDUw-Mjk3-Nj-Q-V1.jpg",
       "movieUrl":"https://drive.google.com/file/d/1pa2BhNebs4rDAugY7UvWE0F6z3tlcGGN/view?usp=sharing"
     },
+    {
+      "name": "ORPHAN: FIRST KILL",
+      "type": "american",
+      "overview": "2022 | 17+ | 1h 39m | Horror | Dual Audio",
+      "bio":"After orchestrating a brilliant escape from an Estonian psychiatric facility, Esther travels to America by impersonating the missing daughter of a wealthy family.",
+      "posterUrl": "https://i.ibb.co/wwWmtJS/MV5-BNGQ1-ZGEy-Mj-Et-Zj-Rj-Yy00-NWY5-LWE5-Zm-It-Njk3-ZWFl-Y2-Vm-YTM4-Xk-Ey-Xk-Fqc-Gde-QXVy-MTUz-MTg2.jpg",
+      "coverUrl": "https://i.ibb.co/pyhQYrQ/orphan1-video-Sixteen-By-Nine3000.jpg",
+      "seasons": [
+        {
+          "name": "Watch Now",
+          "episodes": [
+            {
+              "name": "720p 887MB",
+              "link": "https://drive.google.com/file/d/1eRPiy0XCeYj_7399DLB1qVANS49r-H-m/view?usp=sharing"
+            },
+            {
+              "name": "1080p 3.3GB",
+              "link": "https://drive.google.com/file/d/1HJE5-wr6SDwvwkWWuWH15rwUKqFaHYE8/view?usp=sharing"
+            }
+          ]
+        }
+      ]
+    },
      {
       "name":"Intrusion 2021",
       "type":"movie",
@@ -3751,28 +3774,7 @@
     }
   ]
 },
-{
-  "name": "",
-  "type": "",
-  "overview": "2022 | 17+ | Movie | Horror",
-  "posterUrl": "",
-  "coverUrl": "",
-  "seasons": [
-    {
-      "name": "Watch Now",
-      "episodes": [
-        {
-          "name": "720p Hindi",
-          "link": ""
-        },
-        {
-          "name": "1080p Hindi",
-          "link": ""
-        }
-      ]
-    }
-  ]
-},
+
 {
   "name": "",
   "type": "",

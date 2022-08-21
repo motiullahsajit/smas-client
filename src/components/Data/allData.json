@@ -1,5 +1,147 @@
 [
   {
+    "name": "ORPHAN: FIRST KILL",
+    "type": "american",
+    "overview": "2022 | 17+ | 1h 39m | Horror | Dual Audio",
+    "bio":"After orchestrating a brilliant escape from an Estonian psychiatric facility, Esther travels to America by impersonating the missing daughter of a wealthy family.",
+    "posterUrl": "https://i.ibb.co/wwWmtJS/MV5-BNGQ1-ZGEy-Mj-Et-Zj-Rj-Yy00-NWY5-LWE5-Zm-It-Njk3-ZWFl-Y2-Vm-YTM4-Xk-Ey-Xk-Fqc-Gde-QXVy-MTUz-MTg2.jpg",
+    "coverUrl": "https://i.ibb.co/pyhQYrQ/orphan1-video-Sixteen-By-Nine3000.jpg",
+    "seasons": [
+      {
+        "name": "Watch Now",
+        "episodes": [
+          {
+            "name": "720p 887MB",
+            "link": "https://drive.google.com/file/d/1eRPiy0XCeYj_7399DLB1qVANS49r-H-m/view?usp=sharing"
+          },
+          {
+            "name": "1080p 3.3GB",
+            "link": "https://drive.google.com/file/d/1HJE5-wr6SDwvwkWWuWH15rwUKqFaHYE8/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "HOUSE OF THE DRAGON",
+    "type": "american",
+    "overview": "2022 | 18+ | 1 Season | History | Prequel of GOT",
+    "bio":"Based on George R.R. Martin’s “Fire & Blood,” the series, which is set 200 years before the events of Game of Thrones, tells the story of House Targaryen.",
+    "posterUrl": "https://i.ibb.co/cQR04kg/MV5-BZDBk-Zj-Ri-NGMt-ZGU2-My00-ODdk-LWI0-MGYt-NGU4-Mm-Jj-N2-Mz-OTkx-Xk-Ey-Xk-Fqc-Gde-QXVy-MDM2-NDM2.jpg",
+    "coverUrl": "https://i.ibb.co/DpK7w0Q/house-of-the-dragon-ka-1920.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01 720p Engish",
+            "link": "https://drive.google.com/file/d/1tv6OZsLHhIIVNsyrm93pp4OXDjTqmxxP/view?usp=sharing"
+          },
+          {
+            "name": "Episode 01 1080p English",
+            "link": "https://drive.google.com/file/d/1hDn-OA_VmCaYCQSU1Osl5UAoeedYVCxi/view?usp=sharing"
+          },
+          {
+            "name": "Every Sunday New Episode",
+            "link": ""
+          },
+          {
+            "name": "Episode 03",
+            "link": ""
+          },
+          {
+            "name": "Episode 04",
+            "link": ""
+          },
+          {
+            "name": "Episode 05",
+            "link": ""
+          },
+          {
+            "name": "Episode 06",
+            "link": ""
+          },
+          {
+            "name":"Episode 07",
+            "link": ""
+          },
+          {
+            "name":"Episode 08",
+            "link": ""
+          },
+          {
+            "name":"Episode 09",
+            "link": ""
+          },
+          {
+            "name":"Episode 10",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "name": "She-Hulk: Attorney At Law",
+    "type": "american",
+    "overview": "2022 | 15+ | 1 Season | Action | English",
+    "bio":"Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered Hulk.",
+    "posterUrl": "https://i.ibb.co/TbR7sQ0/MV5-BMjkw-OWJj-N2-Qt-ZDUw-My00-OWNh-LWJh-Zj-Et-NDQ1-OGNi-MWYx-ZWNk-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEy-Mj-M2.jpg",
+    "coverUrl": "https://i.ibb.co/k0DyhWR/MV5-BNz-Nh-ZGNi-Zm-Ut-ZWJl-Ni00-OTBl-LWJh-N2-Mt-Yz-A4-Mm-M2-OTAy-Yj-Q5-Xk-Ey-Xk-Fqc-Gde-QXVy-ODkz-NT.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01 720p",
+            "link": "https://drive.google.com/file/d/1eMHNPQ6SFobeYy-RHiXVWK74K3VFo2Mi/view?usp=sharing"
+          },
+          {
+            "name": "Episode 01 1080p",
+            "link": "https://drive.google.com/file/d/1LfyuFZvw4Aj2HaiY6RqdRdxUAhcsk05d/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02 Next Week",
+            "link": ""
+          },
+          {
+            "name": "Episode 03",
+            "link": ""
+          },
+          {
+            "name": "Episode 04",
+            "link": ""
+          },
+          {
+            "name": "Episode 05",
+            "link": ""
+          },
+          {
+            "name": "Episode 06",
+            "link": ""
+          },
+          {
+            "name":"Episode 07",
+            "link": ""
+          },
+          {
+            "name":"Episode 08",
+            "link": ""
+          },
+          {
+            "name":"Episode 09",
+            "link": ""
+          },
+          {
+            "name":"Episode 10",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Shamshera",
     "type": "indian",
     "overview": "2022 | 17+ | 2h 58m | Action | WEB-DL",

@@ -1,63 +1,5 @@
 [
-  {
-    "name": "She-Hulk: Attorney At Law",
-    "type": "american",
-    "overview": "2022 | 15+ | 1 Season | Action | English",
-    "bio":"Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered Hulk.",
-    "posterUrl": "https://i.ibb.co/TbR7sQ0/MV5-BMjkw-OWJj-N2-Qt-ZDUw-My00-OWNh-LWJh-Zj-Et-NDQ1-OGNi-MWYx-ZWNk-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEy-Mj-M2.jpg",
-    "coverUrl": "https://i.ibb.co/k0DyhWR/MV5-BNz-Nh-ZGNi-Zm-Ut-ZWJl-Ni00-OTBl-LWJh-N2-Mt-Yz-A4-Mm-M2-OTAy-Yj-Q5-Xk-Ey-Xk-Fqc-Gde-QXVy-ODkz-NT.jpg",
-    "seasons": [
-      {
-        "name": "Season 1",
-        "episodes": [
-          {
-            "name": "Episode 01 720p",
-            "link": "https://drive.google.com/file/d/1eMHNPQ6SFobeYy-RHiXVWK74K3VFo2Mi/view?usp=sharing"
-          },
-          {
-            "name": "Episode 01 1080p",
-            "link": "https://drive.google.com/file/d/1LfyuFZvw4Aj2HaiY6RqdRdxUAhcsk05d/view?usp=sharing"
-          },
-          {
-            "name": "Episode 02 Next Week",
-            "link": ""
-          },
-          {
-            "name": "Episode 03",
-            "link": ""
-          },
-          {
-            "name": "Episode 04",
-            "link": ""
-          },
-          {
-            "name": "Episode 05",
-            "link": ""
-          },
-          {
-            "name": "Episode 06",
-            "link": ""
-          },
-          {
-            "name":"Episode 07",
-            "link": ""
-          },
-          {
-            "name":"Episode 08",
-            "link": ""
-          },
-          {
-            "name":"Episode 09",
-            "link": ""
-          },
-          {
-            "name":"Episode 10",
-            "link": ""
-          }
-        ]
-      }
-    ]
-  },
+ 
   {
     "name": "A Model Family",
     "type": "korean",
@@ -6609,6 +6551,7 @@
       }
     ]
   },
+
   {
     "name": "Syndicate",
     "type": "bengali",
@@ -8640,6 +8583,7 @@
       }
     ]
   },
+  
   {
     "name": "Mirzapur",
     "type": "indian",
@@ -9007,6 +8951,65 @@
           {
             "name": "Episode 08",
             "link": "https://drive.google.com/file/d/1hDluJSCOTVTSQF3MRbzu_-8D-wt65VQr/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "She-Hulk: Attorney At Law",
+    "type": "american",
+    "overview": "2022 | 15+ | 1 Season | Action | English",
+    "bio":"Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered Hulk.",
+    "posterUrl": "https://i.ibb.co/TbR7sQ0/MV5-BMjkw-OWJj-N2-Qt-ZDUw-My00-OWNh-LWJh-Zj-Et-NDQ1-OGNi-MWYx-ZWNk-Xk-Ey-Xk-Fqc-Gde-QXVy-MTEy-Mj-M2.jpg",
+    "coverUrl": "https://i.ibb.co/k0DyhWR/MV5-BNz-Nh-ZGNi-Zm-Ut-ZWJl-Ni00-OTBl-LWJh-N2-Mt-Yz-A4-Mm-M2-OTAy-Yj-Q5-Xk-Ey-Xk-Fqc-Gde-QXVy-ODkz-NT.jpg",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "name": "Episode 01 720p",
+            "link": "https://drive.google.com/file/d/1eMHNPQ6SFobeYy-RHiXVWK74K3VFo2Mi/view?usp=sharing"
+          },
+          {
+            "name": "Episode 01 1080p",
+            "link": "https://drive.google.com/file/d/1LfyuFZvw4Aj2HaiY6RqdRdxUAhcsk05d/view?usp=sharing"
+          },
+          {
+            "name": "Episode 02 Next Week",
+            "link": ""
+          },
+          {
+            "name": "Episode 03",
+            "link": ""
+          },
+          {
+            "name": "Episode 04",
+            "link": ""
+          },
+          {
+            "name": "Episode 05",
+            "link": ""
+          },
+          {
+            "name": "Episode 06",
+            "link": ""
+          },
+          {
+            "name":"Episode 07",
+            "link": ""
+          },
+          {
+            "name":"Episode 08",
+            "link": ""
+          },
+          {
+            "name":"Episode 09",
+            "link": ""
+          },
+          {
+            "name":"Episode 10",
+            "link": ""
           }
         ]
       }
@@ -21512,61 +21515,7 @@
       }
     ]
   },
-  {
-    "name": "",
-    "type": "",
-    "overview": "",
-    "posterUrl": "",
-    "coverUrl": "",
-    "seasons": [
-      {
-        "name": "Season 1",
-        "episodes": [
-          {
-            "name": "Episode 01",
-            "link": ""
-          },
-          {
-            "name": "Episode 02",
-            "link": ""
-          },
-          {
-            "name": "Episode 03",
-            "link": ""
-          },
-          {
-            "name": "Episode 04",
-            "link": ""
-          },
-          {
-            "name": "Episode 05",
-            "link": ""
-          },
-          {
-            "name": "Episode 06",
-            "link": ""
-          },
-          {
-            "name":"Episode 07",
-            "link": ""
-          },
-          {
-            "name":"Episode 08",
-            "link": ""
-          },
-          {
-            "name":"Episode 09",
-            "link": ""
-          },
-          {
-            "name":"Episode 10",
-            "link": ""
-          }
-        ]
-      }
-    ]
-  },
-
+  
   {
     "name": "",
     "type": "",
